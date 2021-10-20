@@ -3,7 +3,8 @@
   "version": "0.0.2",
   "license": "MIT",
   "scripts": {
-    "lint": "node_modules/.bin/eslint . --ext .js,.ts"
+    "lint": "node_modules/.bin/eslint . --ext .js,.ts",
+    "test": "yarn lint"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.0.0",
