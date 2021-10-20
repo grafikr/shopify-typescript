@@ -1,3 +1,5 @@
+import Product from '../types/Product';
+
 export {};
 
 declare global {
@@ -10,7 +12,7 @@ declare global {
       switchImage: CallableFunction
     }
     OptionSelectors: (selector: string, config: {
-      product: Record<string, unknown>
+      product: Product
       onVariantSelected: CallableFunction
       enableHistoryState: boolean
     }) => void
