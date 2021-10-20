@@ -19,7 +19,7 @@ declare global {
       active: string
       rate: string
     }
-    formatMoney: (price: string | bigint, format: string) => string
+    formatMoney: (price: string | number, format: string) => string
     money_format: string
     shop: string
   };
