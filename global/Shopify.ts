@@ -16,6 +16,8 @@ declare global {
       enableHistoryState: boolean
     }) => void
     OptionSelectorsFromDOM: FunctionConstructor
+    loadFeatures: (features: any[], callback: CallableFunction) => void
+    customerPrivacy?: (consented: boolean, callback: CallableFunction) => void
     currency: {
       active: string
       rate: string
