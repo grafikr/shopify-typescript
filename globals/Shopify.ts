@@ -1,7 +1,5 @@
 import Product from '../types/Product';
 
-export {};
-
 declare global {
   const Shopify: {
     Image: {
