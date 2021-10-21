@@ -1,4 +1,5 @@
-import Product from '../types/Product';
+import ProductJSON from '../type/Product';
+import ProductObject from '../type/object/Product';
 
 declare global {
   const Shopify: {
@@ -10,7 +11,7 @@ declare global {
       switchImage: CallableFunction
     }
     OptionSelectors: (selector: string, config: {
-      product: Product
+      product: ProductJSON | ProductObject
       onVariantSelected: CallableFunction
       enableHistoryState: boolean
     }) => void
