@@ -20,6 +20,9 @@ declare global {
       active: string
       rate: string
     }
+    cdnHost: 'cdn.shopify.com'
+    country: string
+    locale: string
     formatMoney: (price: string | number, format: string) => string
     money_format: string
     shop: string
