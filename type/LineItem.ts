@@ -11,7 +11,10 @@ export default interface Item {
   line_price: number
   original_line_price: number
   total_discount: number
-  discounts: any[]
+  discounts: [{
+    amount: number
+    title: string
+  }]
   sku: string
   grams: number
   vendor: string
