@@ -1,6 +1,6 @@
 import Variant from './Variant';
 import Option from './Option';
-import Image from './Image';
+import ProductImage from './ProductImage';
 
 export default interface Product {
   id: number
@@ -17,6 +17,6 @@ export default interface Product {
   tags: string
   variants: Variant[]
   options: Option[]
-  images: Image[]
-  image: Image
+  images: ProductImage[]
+  image: ProductImage
 }
