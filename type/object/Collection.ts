@@ -1,7 +1,7 @@
 import Image from './Image';
 import Rule from './Rule';
 
-export interface Collection {
+export default interface Collection {
   id: number
   handle: string
   title: string

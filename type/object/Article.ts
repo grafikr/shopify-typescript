@@ -1,6 +1,6 @@
 import Image from './Image';
 
-export interface Article {
+export default interface Article {
   id: number
   title: string
   created_at: string
