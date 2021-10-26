@@ -16,9 +16,9 @@ export default interface Variant {
   name: string
   public_title: string | null
   options: string[]
-  price: number
+  price: number | null
   weight: number
-  compare_at_price: null | string
+  compare_at_price: number | null
   inventory_management: string
   barcode: string | null
 }
