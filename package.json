@@ -20,7 +20,7 @@
     "url": "https://github.com/grafikr/shopify-typescript.git"
   },
   "files": [
-    "globals",
-    "types"
+    "global",
+    "type"
   ]
 }
