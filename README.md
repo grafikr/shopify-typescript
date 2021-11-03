@@ -7,7 +7,7 @@ This packages adds TypeScript for all Shopify responses and objects.
 You can install the package using Yarn:
 
 ```
-$ yarn install eslint --save
+$ yarn install @grafikr/shopify-typescript --save
 ```
 
 ### Usage
