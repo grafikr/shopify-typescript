@@ -27,4 +27,5 @@ export default interface Shopify {
   formatMoney: (price: string | number, format: string) => string
   money_format: string
   shop: string
+  designMode: true | undefined
 }
