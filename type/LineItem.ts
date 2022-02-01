@@ -1,6 +1,6 @@
 export default interface Item {
   id: number
-  properties: { [key: string]: string | boolean } | null
+  properties: { [key: string]: any } | null
   quantity: number
   variant_id: number
   key: string
