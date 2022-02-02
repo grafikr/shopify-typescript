@@ -2,6 +2,9 @@ import ProductJSON from '../type/Product';
 import ProductObject from '../type/object/Product';
 
 export default interface Shopify {
+  CountryProvinceSelector: (country_domid: string, province_domid: string, options?: {
+    hideElement: string
+  }) => void
   Image: {
     switchImage: CallableFunction
     getSizedImageUrl: (src: string, size: string) => string
