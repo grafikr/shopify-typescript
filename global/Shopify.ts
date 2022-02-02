@@ -5,6 +5,12 @@ export default interface Shopify {
   CountryProvinceSelector: (country_domid: string, province_domid: string, options?: {
     hideElement: string
   }) => void
+  postLink: (path: string, options?: {
+    method?: string,
+    parameters?: object
+  }) => void;
+  addListener: (target: HTMLElement, eventName: string, callback: CallableFunction) => void;
+  setSelectorByValue: (selector: HTMLSelectElement, value: any) => number;
   Image: {
     switchImage: CallableFunction
     getSizedImageUrl: (src: string, size: string) => string
