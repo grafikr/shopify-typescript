@@ -6,11 +6,11 @@ export default interface Shopify {
     hideElement: string
   }) => void
   postLink: (path: string, options?: {
-    method?: string,
+    method?: string
     parameters?: object
-  }) => void;
-  addListener: (target: HTMLElement, eventName: string, callback: CallableFunction) => void;
-  setSelectorByValue: (selector: HTMLSelectElement, value: any) => number;
+  }) => void
+  addListener: (target: HTMLElement, eventName: string, callback: CallableFunction) => void
+  setSelectorByValue: (selector: HTMLSelectElement, value: any) => number
   Image: {
     switchImage: CallableFunction
     getSizedImageUrl: (src: string, size: string) => string
