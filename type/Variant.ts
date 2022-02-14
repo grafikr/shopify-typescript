@@ -11,6 +11,7 @@ export default interface Variant {
   option1: string | null
   option2: string | null
   option3: string | null
+  options: string[]
   created_at: string
   updated_at: string
   taxable: boolean
