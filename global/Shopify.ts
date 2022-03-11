@@ -21,7 +21,7 @@ export default interface Shopify {
   OptionSelectors: (selector: string, config: {
     product: ProductJSON | ProductObject
     onVariantSelected: CallableFunction
-    enableHistoryState: boolean
+    enableHistoryState?: boolean
   }) => void
   OptionSelectorsFromDOM: FunctionConstructor
   loadFeatures: (features: any[], callback: CallableFunction) => void
