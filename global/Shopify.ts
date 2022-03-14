@@ -23,6 +23,9 @@ export default interface Shopify {
     onVariantSelected: CallableFunction
     enableHistoryState?: boolean
   }) => void
+  OptionSelectorsFromDOM: FunctionConstructor
+  loadFeatures: (features: any[], callback: CallableFunction) => void
+  customerPrivacy?: (consented: boolean, callback: CallableFunction) => void
   Checkout: {
     Autocomplete: boolean
     DefaultAddressFormat: string
@@ -54,9 +57,6 @@ export default interface Shopify {
     step: 'contact_information' | 'shipping_method' | 'payment_method' | 'processing' | 'thank_you'
     token: string
   }
-  OptionSelectorsFromDOM: FunctionConstructor
-  loadFeatures: (features: any[], callback: CallableFunction) => void
-  customerPrivacy?: (consented: boolean, callback: CallableFunction) => void
   currency: {
     active: string
     rate: string
