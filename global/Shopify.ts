@@ -50,7 +50,7 @@ export default interface Shopify {
     locale: string
     moneyFormat: string
     normalizedLocale: string
-    page: string // TODO: use "show" | "etc"
+    page: 'show' | 'thank_you'
     releaseStage: string
     requiresConfirmationStep: boolean
     requiresShipping: boolean
