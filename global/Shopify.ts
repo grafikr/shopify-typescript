@@ -45,7 +45,29 @@ export default interface Shopify {
       lng: number
     }
     hasSellingPlan: boolean
-    i18n: any // TODO: Correct this
+    i18n: {
+      continue_button: {
+        continue_to_payment_method: string
+        continue_to_shipping_method: string
+      }
+      orders: {
+        complete_order: string
+        order_updates: { title: string }
+        pay_now: string
+      }
+      qr_code: {
+        send_link_to_phone: string
+        subtitle: string
+        title: string
+      }
+      shipping_line: {
+        no_pickup_location: string
+        pickup_in_store_label: string
+        shipping_default_value: string
+        shipping_free_value: string
+        shipping_label: string
+      }
+    }
     isCheckoutOne: boolean
     locale: string
     moneyFormat: string
