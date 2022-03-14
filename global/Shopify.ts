@@ -23,6 +23,37 @@ export default interface Shopify {
     onVariantSelected: CallableFunction
     enableHistoryState?: boolean
   }) => void
+  Checkout: {
+    Autocomplete: boolean
+    DefaultAddressFormat: string
+    allowlistedHostSuffixes: string[]
+    allowlistedUrls: string[]
+    apiHost: string
+    applePayConfig: any // TODO: Correct this
+    assetsPath: string
+    cartToken: string
+    currency: string
+    customer: any // TODO: Correct this
+    deployStage: string
+    dynamicCheckoutPaymentInstrumentsConfig: any // TODO: Correct this
+    estimatedPrice: number
+    geolocatedAddress: {
+      lat: number
+      lng: number
+    }
+    hasSellingPlan: boolean
+    i18n: any // TODO: Correct this
+    isCheckoutOne: boolean
+    locale: string
+    moneyFormat: string
+    normalizedLocale: string
+    page: string // TODO: use "show" | "etc"
+    releaseStage: string
+    requiresConfirmationStep: boolean
+    requiresShipping: boolean
+    step: 'contact_information' | 'etc'
+    token: string
+  }
   OptionSelectorsFromDOM: FunctionConstructor
   loadFeatures: (features: any[], callback: CallableFunction) => void
   customerPrivacy?: (consented: boolean, callback: CallableFunction) => void
