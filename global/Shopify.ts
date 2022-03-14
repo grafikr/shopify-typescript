@@ -51,7 +51,7 @@ export default interface Shopify {
     releaseStage: string
     requiresConfirmationStep: boolean
     requiresShipping: boolean
-    step: 'contact_information' | 'etc'
+    step: 'contact_information' | 'shipping_method' | 'payment_method' | 'processing' | 'thank_you'
     token: string
   }
   OptionSelectorsFromDOM: FunctionConstructor
