@@ -1,7 +1,7 @@
 import Item from './Item';
 import FeaturedImage from './FeaturedImage';
 
-export default interface Article extends Item{
+export default interface Article extends Item {
   author: string
   image: string | null
   published_at: string
