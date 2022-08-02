@@ -1,6 +1,6 @@
 {
   "name": "@grafikr/shopify-typescript",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "license": "MIT",
   "scripts": {
     "lint": "node_modules/.bin/eslint . --ext .js,.ts",
