@@ -1,5 +1,6 @@
 import ProductJSON from '../type/Product';
 import ProductObject from '../type/object/Product';
+import Image from './modules/Image';
 import CustomerPrivacy from './modules/customerPrivacy';
 
 export default interface Shopify {
@@ -12,14 +13,8 @@ export default interface Shopify {
   }) => void
   addListener: (target: HTMLElement, eventName: string, callback: CallableFunction) => void
   setSelectorByValue: (selector: HTMLSelectElement, value: any) => number
-  Image: {
-    switchImage: CallableFunction
-    getSizedImageUrl: (src: string, size: string) => string
-    imageSize: (src: string) => string | null
-    loadImage: (src: string) => void
-    removeProtocol: (url: string) => string
-  }
   OptionSelectors: (selector: string, config: {
+  Image?: Image
     product: ProductJSON | ProductObject
     onVariantSelected: CallableFunction
     enableHistoryState?: boolean
