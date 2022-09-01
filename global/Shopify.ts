@@ -1,5 +1,6 @@
 import ProductJSON from '../type/Product';
 import ProductObject from '../type/object/Product';
+import CustomerPrivacy from './modules/customerPrivacy';
 
 export default interface Shopify {
   CountryProvinceSelector: (country_domid: string, province_domid: string, options?: {
@@ -25,7 +26,7 @@ export default interface Shopify {
   }) => void
   OptionSelectorsFromDOM: FunctionConstructor
   loadFeatures: (features: any[], callback: CallableFunction) => void
-  customerPrivacy?: (consented: boolean, callback: CallableFunction) => void
+  customerPrivacy?: CustomerPrivacy
   currency: {
     active: string
     rate: string
