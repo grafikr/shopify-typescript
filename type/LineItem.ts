@@ -25,13 +25,13 @@ export default interface Item {
   final_price: number
   final_line_price: number
   url: string
-  featured_image: [{
+  featured_image: {
     aspect_ratio: number
     alt: string
     height: number
     url: string
     width: number
-  }]
+  }
   image: string
   handle: string
   requires_shipping: boolean
