@@ -15,4 +15,5 @@ export default interface Cart {
   currency: string
   items_subtotal_price: number
   cart_level_discount_applications: DiscountApplication[]
+  checkoutUrl: string
 }
