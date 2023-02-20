@@ -33,4 +33,7 @@ export default interface Shopify {
   money_format: string
   shop: string
   designMode: true | undefined
+  routes: {
+    root: string
+  }
 }
