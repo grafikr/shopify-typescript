@@ -1,5 +1,5 @@
-import ProductJSON from '../type/Product';
-import ProductObject from '../type/object/Product';
+import ProductJSON from '../type/json/Product';
+import ProductObject from '../type/liquid/Product';
 import Image from './modules/Image';
 import CustomerPrivacy from './modules/customerPrivacy';
 
