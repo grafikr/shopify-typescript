@@ -5,16 +5,9 @@ export default interface Item {
   variant_id: number
   key: string
   title: string
-  price: number
   original_price: number
   discounted_price: number
-  line_price: number
   original_line_price: number
-  total_discount: number
-  discounts: [{
-    amount: number
-    title: string
-  }]
   sku: string
   grams: number
   vendor: string
@@ -46,4 +39,17 @@ export default interface Item {
   }]
   line_level_discount_allocations: any[]
   line_level_total_discount: number
+
+  // Deprecated values
+  /** @deprecated Use line_level_discount_allocations instead */
+  discounts: [{
+    amount: number
+    title: string
+  }]
+  /** @deprecated Use final_line_price instead */
+  line_price: number
+  /** @deprecated Use final_price instead */
+  price: number
+  /** @deprecated Use line_level_total_discount instead */
+  total_discount: number
 }
