@@ -6,6 +6,9 @@
     "lint": "node_modules/.bin/eslint . --ext .js,.ts",
     "test": "yarn lint"
   },
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
