@@ -21,11 +21,11 @@ export default interface CustomerPrivacy {
   setCCPAConsent(consent: boolean, callback: () => void): void;
   setTrackingConsent(
     consent: {
-          analytics?: boolean;
-          marketing?: boolean;
-          preferences?: boolean;
-          sale_of_data?: boolean;
-        },
+      analytics?: boolean;
+      marketing?: boolean;
+      preferences?: boolean;
+      sale_of_data?: boolean;
+    },
     callback: () => void,
   ): void;
   shouldShowBanner(): boolean;
