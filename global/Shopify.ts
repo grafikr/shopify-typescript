@@ -51,4 +51,3 @@ export default interface Shopify {
     root: string;
   };
 }
-
