@@ -5,9 +5,9 @@ import Product from './Product';
 export default interface Result {
   resources: {
     results: {
-      collections?: Collection[]
-      pages?: Page[]
-      products?: Product[]
-    }
-  }
+      collections?: Collection[];
+      pages?: Page[];
+      products?: Product[];
+    };
+  };
 }
