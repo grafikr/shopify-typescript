@@ -1,5 +1,3 @@
-import { Nullable } from '../../helpers';
-
 export default interface Item {
   id: number;
   properties: { [key: string]: any } | null;
@@ -20,13 +18,19 @@ export default interface Item {
   final_price: number;
   final_line_price: number;
   url: string;
-  featured_image: Nullable<{
+  featured_image: {
     aspect_ratio: number;
     alt: string;
     height: number;
     url: string;
     width: number;
-  }>;
+  } | {
+    aspect_ratio: null;
+    alt: null;
+    height: null;
+    url: null;
+    width: null;
+  };
   image: string | null;
   handle: string;
   requires_shipping: boolean;
