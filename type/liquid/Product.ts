@@ -1,7 +1,7 @@
 import Variant from './Variant';
-import Media from './Media';
+import { Media } from './Media';
 
-export default interface Product {
+export type Product = {
   id: number;
   title: string;
   handle: string;
@@ -10,7 +10,7 @@ export default interface Product {
   created_at: string;
   vendor: string;
   type: string;
-  tags: string[];
+  tags: Array<string>;
   price: number;
   price_min: number;
   price_max: number;
@@ -20,10 +20,10 @@ export default interface Product {
   compare_at_price_min: number;
   compare_at_price_max: number;
   compare_at_price_varies: boolean;
-  variants: Variant[];
-  images: string[];
+  variants: Array<Variant>;
+  images: Array<string>;
   featured_image: string | null;
-  options: string[];
-  media: Media[];
+  options: Array<string>;
+  media: Array<Media>;
   content: string;
-}
+};

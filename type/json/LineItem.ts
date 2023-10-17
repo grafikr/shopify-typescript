@@ -1,6 +1,9 @@
-export default interface Item {
+import { DiscountAllocation } from './DiscountAllocation';
+import { FeaturedImage } from './FeaturedImage';
+
+export type LineItem = {
   id: number;
-  properties: { [key: string]: any } | null;
+  properties: Record<string, any>;
   quantity: number;
   variant_id: number;
   key: string;
@@ -18,19 +21,7 @@ export default interface Item {
   final_price: number;
   final_line_price: number;
   url: string;
-  featured_image: {
-    aspect_ratio: number;
-    alt: string;
-    height: number;
-    url: string;
-    width: number;
-  } | {
-    aspect_ratio: null;
-    alt: null;
-    height: null;
-    url: null;
-    width: null;
-  };
+  featured_image: FeaturedImage;
   image: string | null;
   handle: string;
   requires_shipping: boolean;
@@ -38,15 +29,21 @@ export default interface Item {
   product_title: string;
   product_description: string;
   variant_title: string;
-  variant_options: string[];
+  variant_options: Array<string>;
   options_with_values: [
     {
       name: string;
       value: string;
     },
   ];
-  line_level_discount_allocations: any[];
+  line_level_discount_allocations: Array<DiscountAllocation>;
   line_level_total_discount: number;
+  quantity_rule: {
+    min: number;
+    max: number | null;
+    increment: number;
+  };
+  has_components: boolean;
 
   // Deprecated values
   /** @deprecated Use line_level_discount_allocations instead */
@@ -62,4 +59,9 @@ export default interface Item {
   price: number;
   /** @deprecated Use line_level_total_discount instead */
   total_discount: number;
-}
+};
+
+export type UpdatedLineItem = LineItem & {
+  untranslated_product_title: string;
+  untranslated_variant_title: string;
+};

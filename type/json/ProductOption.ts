@@ -1,7 +1,7 @@
-export default interface Option {
+export type ProductOption = {
   id: number;
   product_id: number;
   name: string;
   position: number;
-  values: string[];
-}
+  values: Array<string>;
+};

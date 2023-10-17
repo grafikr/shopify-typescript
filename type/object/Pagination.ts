@@ -4,7 +4,7 @@ type PaginationPart = {
   url?: string;
 };
 
-export default interface Pagination {
+export type Pagination = {
   current_offset: number;
   current_page: number;
   items: number;
@@ -12,5 +12,5 @@ export default interface Pagination {
   next?: PaginationPart;
   page_size: number;
   pages: number;
-  parts: PaginationPart[];
-}
+  parts: Array<PaginationPart>;
+};

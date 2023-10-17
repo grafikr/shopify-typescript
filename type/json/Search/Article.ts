@@ -1,12 +1,11 @@
-import Item from './Item';
-import FeaturedImage from './FeaturedImage';
+import { SearchItem } from './SearchItem';
+import { FeaturedImage } from '../FeaturedImage';
 
-export default interface Article extends Item {
+export type Article = SearchItem & {
   author: string;
   image: string | null;
   published_at: string;
   summary_html: string;
-  tags: string[];
-  title: string;
+  tags: Array<string>;
   featured_image: FeaturedImage;
-}
+};

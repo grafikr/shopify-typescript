@@ -1,4 +1,4 @@
-export default interface Variant {
+export type ProductVariant = {
   id: number;
   product_id: number;
   title: string;
@@ -20,4 +20,4 @@ export default interface Variant {
   weight: number;
   weight_unit: 'g' | 'kg';
   requires_shipping: boolean;
-}
+};

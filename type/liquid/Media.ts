@@ -1,6 +1,6 @@
-import PreviewImage from './PreviewImage';
+import { PreviewImage } from './PreviewImage';
 
-export default interface Media {
+export type Media = {
   alt: string | null;
   id: number;
   position: number;
@@ -10,4 +10,4 @@ export default interface Media {
   media_type: string;
   src: string;
   width: number;
-}
+};

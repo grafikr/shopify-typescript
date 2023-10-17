@@ -1,11 +1,11 @@
-import Variant from './Variant';
-import Option from './Option';
-import ProductImage from './ProductImage';
+import { ProductVariant } from './ProductVariant';
+import { ProductOption } from './ProductOption';
+import { ProductImage } from './ProductImage';
 
-export default interface Product {
+export type Product = {
   id: number;
   title: string;
-  body_html: string;
+  body_html: string | null;
   vendor: string;
   product_type: string;
   created_at: string;
@@ -15,8 +15,8 @@ export default interface Product {
   template_suffix: string;
   published_scope: string;
   tags: string;
-  variants: Variant[];
-  options: Option[];
-  images: ProductImage[];
+  variants: Array<ProductVariant>;
+  options: Array<ProductOption>;
+  images: Array<ProductImage>;
   image: ProductImage;
-}
+};

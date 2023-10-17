@@ -1,8 +1,8 @@
 import PreviewImage from './PreviewImage';
 
-export default interface FeaturedMedia {
+export type FeaturedMedia = {
   alt: string | null;
   id: number;
   position: number;
   preview_image: PreviewImage;
-}
+};

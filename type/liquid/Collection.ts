@@ -1,7 +1,7 @@
 import Image from './Image';
 import Rule from './Rule';
 
-export default interface Collection {
+export type Collection = {
   id: number;
   handle: string;
   title: string;
@@ -11,7 +11,7 @@ export default interface Collection {
   sort_order: string;
   template_suffix: string;
   disjunctive?: boolean;
-  rules?: Rule[];
+  rules?: Array<Rule>;
   published_scope: string;
   image?: Image;
-}
+};

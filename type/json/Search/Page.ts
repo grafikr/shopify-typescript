@@ -1,6 +1,6 @@
-import Item from './Item';
+import { SearchItem } from './SearchItem';
 
-export default interface Page extends Item {
+export type Page = SearchItem & {
   author: null;
   published_at: string;
-}
+};

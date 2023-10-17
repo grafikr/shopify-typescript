@@ -1,5 +1,5 @@
-export default interface Rule {
+export type Rule = {
   column: string;
   relation: string;
   condition: string;
-}
+};

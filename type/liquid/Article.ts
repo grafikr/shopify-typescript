@@ -1,6 +1,6 @@
-import Image from './Image';
+import { Image } from './Image';
 
-export default interface Article {
+export type Article = {
   id: number;
   title: string;
   created_at: string;
@@ -15,4 +15,4 @@ export default interface Article {
   handle: string;
   tags: string;
   image: Image;
-}
+};

@@ -1,6 +1,6 @@
 type YesNo = '' | 'yes' | 'no';
 
-export default interface CustomerPrivacy {
+export type CustomerPrivacy = {
   analyticsProcessingAllowed(): boolean;
   currentVisitorConsent(): {
     marketing: YesNo;
@@ -41,4 +41,4 @@ export default interface CustomerPrivacy {
   userCanBeTracked(): boolean;
   /** @deprecated */
   userDataCanBeSold(): boolean;
-}
+};

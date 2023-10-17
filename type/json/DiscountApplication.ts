@@ -1,4 +1,4 @@
-export default interface DiscountApplication {
+export type DiscountApplication = {
   type: 'automatic' | 'discount_code' | 'manual' | 'script';
   key: string;
   title: string;
@@ -10,4 +10,4 @@ export default interface DiscountApplication {
   target_selection: 'all' | 'entitled' | 'explicit';
   target_type: 'line_item' | 'shipping_line';
   total_allocated_amount: number;
-}
+};

@@ -1,7 +1,7 @@
-import FeaturedImage from '../search/FeaturedImage';
-import FeaturedMedia from './FeaturedMedia';
+import { FeaturedImage } from './FeaturedImage';
+import { FeaturedMedia } from './FeaturedMedia';
 
-export default interface Variant {
+export type Variant = {
   id: number;
   title: string;
   option1: string | null;
@@ -15,10 +15,10 @@ export default interface Variant {
   available: boolean;
   name: string;
   public_title: string | null;
-  options: string[];
+  options: Array<string>;
   price: number;
   weight: number;
   compare_at_price: number | null;
   inventory_management: string;
   barcode: string | null;
-}
+};

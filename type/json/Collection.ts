@@ -1,6 +1,6 @@
-import Image from '../Image';
+import { Image } from './Image';
 
-export default interface Collection {
+export type Collection = {
   id: number;
   title: string;
   handle: string;
@@ -9,4 +9,4 @@ export default interface Collection {
   updated_at: string;
   image: Image | null;
   products_count: number;
-}
+};

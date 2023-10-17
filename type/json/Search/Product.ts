@@ -1,7 +1,8 @@
-import Item from './Item';
-import FeaturedImage from './FeaturedImage';
+import { FeaturedImage } from '../FeaturedImage';
+import { SearchItem } from './SearchItem';
+import { ProductVariant } from './ProductVariant';
 
-export default interface Product extends Item {
+export type Product = SearchItem & {
   available: boolean;
   compare_at_price_max: string;
   compare_at_price_min: string;
@@ -9,9 +10,9 @@ export default interface Product extends Item {
   price: string;
   price_max: string;
   price_min: string;
-  tags: string[];
+  tags: Array<string>;
   type: string;
-  variants: [];
+  variants: Array<ProductVariant>;
   vendor: string;
   featured_image: FeaturedImage;
-}
+};
