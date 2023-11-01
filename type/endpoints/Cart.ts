@@ -1,4 +1,8 @@
-import { Cart as CartType, UpdatedCart } from '../json/Cart';
+import {
+  Cart as CartType,
+  UpdatedCart as UpdatedCartType,
+  CartError as CartErrorType,
+} from '../json/Cart';
 import { UpdatedLineItem } from '../json/LineItem';
 
 export type Cart = CartType;
@@ -9,8 +13,10 @@ export type CartAdd =
       items: Array<UpdatedLineItem>;
     };
 
-export type CartChange = UpdatedCart;
+export type CartChange = UpdatedCartType;
 
 export type CartClear = CartType;
 
-export type CartUpdate = UpdatedCart;
+export type CartUpdate = UpdatedCartType;
+
+export type CartError = CartErrorType;

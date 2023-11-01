@@ -21,3 +21,9 @@ export type UpdatedCart = Cart & {
   items_added: Array<UpdatedLineItem>;
   items_removed: Array<UpdatedLineItem>;
 };
+
+export type CartError = {
+  description: string;
+  message: string;
+  status: number;
+};
