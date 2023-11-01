@@ -17,9 +17,13 @@ export type Cart = {
   cart_level_discount_applications: Array<DiscountApplication>;
 };
 
-export type UpdatedCart = Cart & {
+export type UpdatedCart = Omit<Cart, 'cart_level_discount_applications'> & {
   items_added: Array<UpdatedLineItem>;
   items_removed: Array<UpdatedLineItem>;
+  cart_level_discount_applications: Array<{
+    amount: number;
+    discount_application: DiscountApplication
+  }>;
 };
 
 export type CartError = {

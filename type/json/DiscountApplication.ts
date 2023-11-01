@@ -3,7 +3,7 @@ export type DiscountApplication = {
   key: string;
   title: string;
   description: string | null;
-  value: number;
+  value: string;
   created_at: string;
   value_type: 'fixed_amount' | 'percentage';
   allocation_method: 'across' | 'each' | 'one';
