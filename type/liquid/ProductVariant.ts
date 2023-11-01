@@ -22,8 +22,8 @@ export type ProductVariant = {
   inventory_management: string;
   barcode: string | null;
   quantity_rule: {
-    increment: number
-    max: number | null
-    min: number
-  }
+    increment: number;
+    max: number | null;
+    min: number;
+  };
 };
