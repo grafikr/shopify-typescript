@@ -7,13 +7,13 @@ This packages adds TypeScript for all Shopify responses and objects.
 You can install the package using Yarn:
 
 ```
-$ yarn install @grafikr/shopify-typescript --save
+$ yarn install @grafikr/shopify-typescript
 ```
 
 ### Usage
 
 ```ts
-import Product from '@grafikr/shopify-typescript/type/Product';
+import Product from '@grafikr/shopify-typescript/type/json/Product';
 
 const func = (data: Product) => {
   ...
