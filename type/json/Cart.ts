@@ -22,7 +22,7 @@ export type UpdatedCart = Omit<Cart, 'cart_level_discount_applications'> & {
   items_removed: Array<UpdatedLineItem>;
   cart_level_discount_applications: Array<{
     amount: number;
-    discount_application: DiscountApplication
+    discount_application: DiscountApplication;
   }>;
 };
 
