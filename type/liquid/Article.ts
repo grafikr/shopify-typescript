@@ -14,5 +14,5 @@ export type Article = {
   template_suffix: string;
   handle: string;
   tags: string;
-  image: Image;
+  image?: Image;
 };

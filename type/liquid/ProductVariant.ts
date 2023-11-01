@@ -1,17 +1,17 @@
-import { FeaturedImage } from './FeaturedImage';
-import { FeaturedMedia } from './FeaturedMedia';
+import { FeaturedVariantImage } from './FeaturedVariantImage';
+import { FeaturedVariantMedia } from './FeaturedVariantMedia';
 
-export type Variant = {
+export type ProductVariant = {
   id: number;
   title: string;
-  option1: string | null;
+  option1: string;
   option2: string | null;
   option3: string | null;
   sku: string | null;
   requires_shipping: boolean;
   taxable: boolean;
-  featured_image?: FeaturedImage;
-  featured_media?: FeaturedMedia;
+  featured_image?: FeaturedVariantImage;
+  featured_media?: FeaturedVariantMedia;
   available: boolean;
   name: string;
   public_title: string | null;
@@ -21,4 +21,9 @@ export type Variant = {
   compare_at_price: number | null;
   inventory_management: string;
   barcode: string | null;
+  quantity_rule: {
+    increment: number
+    max: number | null
+    min: number
+  }
 };

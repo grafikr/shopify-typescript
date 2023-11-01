@@ -1,5 +1,5 @@
-import Variant from './Variant';
-import { Media } from './Media';
+import { ProductVariant } from './ProductVariant';
+import { ProductMedia } from './ProductMedia';
 
 export type Product = {
   id: number;
@@ -20,10 +20,10 @@ export type Product = {
   compare_at_price_min: number;
   compare_at_price_max: number;
   compare_at_price_varies: boolean;
-  variants: Array<Variant>;
+  variants: Array<ProductVariant>;
   images: Array<string>;
   featured_image: string | null;
   options: Array<string>;
-  media: Array<Media>;
+  media: Array<ProductMedia>;
   content: string;
 };

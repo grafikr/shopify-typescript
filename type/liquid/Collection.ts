@@ -1,5 +1,4 @@
-import Image from './Image';
-import Rule from './Rule';
+import { Image } from './Image';
 
 export type Collection = {
   id: number;
@@ -11,7 +10,11 @@ export type Collection = {
   sort_order: string;
   template_suffix: string;
   disjunctive?: boolean;
-  rules?: Array<Rule>;
+  rules?: Array<{
+    column: string;
+    relation: string;
+    condition: string;
+  }>;
   published_scope: string;
   image?: Image;
 };
