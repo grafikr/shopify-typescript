@@ -13,7 +13,7 @@ $ yarn install @grafikr/shopify-typescript
 ### Usage
 
 ```ts
-import Product from '@grafikr/shopify-typescript/type/json/Product';
+import type { Product } from '@grafikr/shopify-typescript/type/json/Product';
 
 const func = (data: Product) => {
   ...
