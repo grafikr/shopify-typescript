@@ -10,7 +10,7 @@ export type Pagination = {
   items: number;
   page_size: number;
   parts: Array<Part>;
-  previous?: Part
+  previous?: Part;
   next?: Part;
   pages: number;
 };
