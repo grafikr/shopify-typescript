@@ -1,6 +1,6 @@
-import { FeaturedImage } from '../FeaturedImage';
-import { SearchItem } from './SearchItem';
-import { ProductVariant } from './ProductVariant';
+import type { FeaturedImage } from '../FeaturedImage';
+import type { SearchItem } from './SearchItem';
+import type { ProductVariant } from './ProductVariant';
 
 export type Product = SearchItem & {
   available: boolean;

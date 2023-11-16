@@ -1,5 +1,5 @@
-import { FeaturedVariantImage } from './FeaturedVariantImage';
-import { FeaturedVariantMedia } from './FeaturedVariantMedia';
+import type { FeaturedVariantImage } from './FeaturedVariantImage';
+import type { FeaturedVariantMedia } from './FeaturedVariantMedia';
 
 export type ProductVariant = {
   id: number;

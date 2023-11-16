@@ -1,4 +1,4 @@
-import { SearchItem } from './SearchItem';
+import type { SearchItem } from './SearchItem';
 
 export type Page = SearchItem & {
   author: null;

@@ -1,5 +1,5 @@
-import { Collection as CollectionType } from '../json/Collection';
-import { Product as ProductType } from '../json/Product';
+import type { Collection as CollectionType } from '../json/Collection';
+import type { Product as ProductType } from '../json/Product';
 
 export type Collection = {
   collection: CollectionType;

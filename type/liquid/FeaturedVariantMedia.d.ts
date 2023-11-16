@@ -1,4 +1,4 @@
-import { PreviewImage } from './PreviewImage';
+import type { PreviewImage } from './PreviewImage';
 
 export type FeaturedVariantMedia = {
   alt: string | null;

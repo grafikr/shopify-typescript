@@ -1,3 +1,3 @@
-import { BrowsingContextSuggestions as BrowsingContextSuggestionsType } from '../json/BrowsingContextSuggestions';
+import type { BrowsingContextSuggestions as BrowsingContextSuggestionsType } from '../json/BrowsingContextSuggestions';
 
 export type BrowsingContextSuggestions = BrowsingContextSuggestionsType;

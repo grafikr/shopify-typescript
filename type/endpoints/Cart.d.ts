@@ -1,9 +1,9 @@
-import {
+import type {
   Cart as CartType,
   UpdatedCart as UpdatedCartType,
   CartError as CartErrorType,
 } from '../json/Cart';
-import { UpdatedLineItem } from '../json/LineItem';
+import type { UpdatedLineItem } from '../json/LineItem';
 
 export type Cart = CartType;
 

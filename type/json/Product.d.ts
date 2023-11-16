@@ -1,6 +1,6 @@
-import { ProductVariant } from './ProductVariant';
-import { ProductOption } from './ProductOption';
-import { ProductImage } from './ProductImage';
+import type { ProductVariant } from './ProductVariant';
+import type { ProductOption } from './ProductOption';
+import type { ProductImage } from './ProductImage';
 
 export type Product = {
   id: number;
