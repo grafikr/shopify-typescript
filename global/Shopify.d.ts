@@ -1,4 +1,4 @@
-import { CustomerPrivacy } from './modules/customerPrivacy';
+import type { CustomerPrivacy } from './modules/customerPrivacy';
 
 export type Shopify = {
   loadFeatures: (

@@ -1,5 +1,5 @@
-import { DiscountAllocation } from './DiscountAllocation';
-import { FeaturedImage } from './FeaturedImage';
+import type { DiscountAllocation } from './DiscountAllocation';
+import type { FeaturedImage } from './FeaturedImage';
 
 export type LineItem = {
   id: number;

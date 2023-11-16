@@ -1,4 +1,4 @@
-import { DiscountApplication } from './DiscountApplication';
+import type { DiscountApplication } from './DiscountApplication';
 
 export type DiscountAllocation = {
   amount: number;

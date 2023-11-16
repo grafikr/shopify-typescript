@@ -1,4 +1,4 @@
-import { Page as PageType } from '../json/Page';
+import type { Page as PageType } from '../json/Page';
 
 export type Page = {
   page: PageType;

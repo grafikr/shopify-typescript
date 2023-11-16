@@ -1,5 +1,5 @@
-import { SearchItem } from './SearchItem';
-import { FeaturedImage } from '../FeaturedImage';
+import type { SearchItem } from './SearchItem';
+import type { FeaturedImage } from '../FeaturedImage';
 
 export type Article = SearchItem & {
   author: string;

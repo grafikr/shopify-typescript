@@ -1,4 +1,4 @@
-import { FeaturedImage } from '../FeaturedImage';
+import type { FeaturedImage } from '../FeaturedImage';
 
 export type ProductVariant = {
   available: true;

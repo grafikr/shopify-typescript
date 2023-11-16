@@ -1,7 +1,7 @@
-import { Article as ArticleType } from '../json/Search/Article';
-import { Collection as CollectionType } from '../json/Search/Collection';
-import { Page as PageType } from '../json/Search/Page';
-import { Product as ProductType } from '../json/Search/Product';
+import type { Article as ArticleType } from '../json/Search/Article';
+import type { Collection as CollectionType } from '../json/Search/Collection';
+import type { Page as PageType } from '../json/Search/Page';
+import type { Product as ProductType } from '../json/Search/Product';
 
 export type Suggest = {
   resources: {

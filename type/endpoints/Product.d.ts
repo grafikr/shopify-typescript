@@ -1,4 +1,4 @@
-import { Product as ProductType } from '../json/Product';
+import type { Product as ProductType } from '../json/Product';
 
 export type Product = {
   product: ProductType;

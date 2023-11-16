@@ -1,4 +1,4 @@
-import { Image } from './Image';
+import type { Image } from './Image';
 
 export type ProductImage = Image & {
   product_id: number;
