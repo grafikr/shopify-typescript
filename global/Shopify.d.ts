@@ -3,7 +3,7 @@ import type { CustomerPrivacy } from './modules/customerPrivacy';
 export type Shopify = {
   loadFeatures: (
     features: Array<{ name: string; version: string }>,
-    callback: CallableFunction,
+    callback: (error?: Error | null) => void,
   ) => void;
   customerPrivacy?: CustomerPrivacy;
   currency: {
