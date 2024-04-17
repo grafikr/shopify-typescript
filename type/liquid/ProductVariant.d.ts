@@ -4,9 +4,6 @@ import type { FeaturedVariantMedia } from './FeaturedVariantMedia';
 export type ProductVariant = {
   id: number;
   title: string;
-  option1: string;
-  option2: string | null;
-  option3: string | null;
   sku: string | null;
   requires_shipping: boolean;
   taxable: boolean;
@@ -26,4 +23,12 @@ export type ProductVariant = {
     max: number | null;
     min: number;
   };
+
+  // Deprecated properties
+  /** @deprecated Prefer to use options instead. */
+  option1: string | null;
+  /** @deprecated Prefer to use options instead. */
+  option2: string | null;
+  /** @deprecated Prefer to use options instead. */
+  option3: string | null;
 };

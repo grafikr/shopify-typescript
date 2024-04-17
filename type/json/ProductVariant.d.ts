@@ -8,9 +8,6 @@ export type ProductVariant = {
   compare_at_price: string;
   fulfillment_service: string;
   inventory_management: string;
-  option1: string | null;
-  option2: string | null;
-  option3: string | null;
   created_at: string;
   updated_at: string;
   taxable: boolean;
@@ -20,4 +17,12 @@ export type ProductVariant = {
   weight: number;
   weight_unit: 'g' | 'kg';
   requires_shipping: boolean;
+
+  // Deprecated properties
+  /** @deprecated Prefer to use options instead. */
+  option1: string | null;
+  /** @deprecated Prefer to use options instead. */
+  option2: string | null;
+  /** @deprecated Prefer to use options instead. */
+  option3: string | null;
 };
