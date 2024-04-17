@@ -45,7 +45,7 @@ export type LineItem = {
   };
   has_components: boolean;
 
-  // Deprecated values
+  // Deprecated properties
   /** @deprecated Use line_level_discount_allocations instead */
   discounts: [
     {
