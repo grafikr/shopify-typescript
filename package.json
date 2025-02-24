@@ -19,5 +19,8 @@
   "files": [
     "global",
     "type"
-  ]
+  ],
+  "dependencies": {
+    "type-fest": "^4.35.0"
+  }
 }
