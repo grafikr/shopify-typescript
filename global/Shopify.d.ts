@@ -1,6 +1,8 @@
+import type { Analytics } from './modules/analytics';
 import type { CustomerPrivacy } from './modules/customerPrivacy';
 
 export type Shopify = {
+  analytics: Analytics;
   loadFeatures: (
     features: Array<{ name: string; version: string }>,
     callback: (error?: Error | null) => void,
