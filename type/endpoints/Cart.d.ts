@@ -1,7 +1,7 @@
 import type {
+  CartError as CartErrorType,
   Cart as CartType,
   UpdatedCart as UpdatedCartType,
-  CartError as CartErrorType,
 } from '../json/Cart';
 import type { UpdatedLineItem } from '../json/LineItem';
 

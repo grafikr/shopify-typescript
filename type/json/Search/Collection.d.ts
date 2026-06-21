@@ -1,5 +1,5 @@
-import type { SearchItem } from './SearchItem';
 import type { FeaturedImage } from '../FeaturedImage';
+import type { SearchItem } from './SearchItem';
 
 export type Collection = SearchItem & {
   published_at: string;

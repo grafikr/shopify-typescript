@@ -1,5 +1,5 @@
-import type { LineItem, UpdatedLineItem } from './LineItem';
 import type { DiscountApplication } from './DiscountApplication';
+import type { LineItem, UpdatedLineItem } from './LineItem';
 
 export type Cart = {
   token: string;

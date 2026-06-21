@@ -1,5 +1,5 @@
-import type { ProductVariant } from './ProductVariant';
 import type { ProductMedia } from './ProductMedia';
+import type { ProductVariant } from './ProductVariant';
 
 export type Product = {
   id: number;

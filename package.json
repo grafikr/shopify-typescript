@@ -3,15 +3,15 @@
   "version": "2.5.0",
   "license": "MIT",
   "scripts": {
-    "format": "biome format --write .",
-    "check": "biome check .",
+    "format": "biome format . --write",
+    "check": "biome check . --write",
     "typecheck": "tsc --noEmit"
   },
   "engines": {
     "node": ">=16.0.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.9.4",
+    "@biomejs/biome": "^2.5.0",
     "typescript": "^6.0.0"
   },
   "repository": {
@@ -23,6 +23,6 @@
     "type"
   ],
   "dependencies": {
-    "type-fest": "^4.35.0"
+    "type-fest": "^5.7.0"
   }
 }
