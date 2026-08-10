@@ -1,4 +1,4 @@
-import type { ProductImage } from "../ProductImage";
+import type { ProductImage } from '../ProductImage';
 
 export type ProductVariant = {
   id: number;
