@@ -11,7 +11,7 @@
     "node": ">=16.0.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.0",
+    "@biomejs/biome": "2.5.7",
     "typescript": "^6.0.0"
   },
   "repository": {
