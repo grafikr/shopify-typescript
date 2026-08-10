@@ -3,7 +3,7 @@ import type { FeaturedImage } from './FeaturedImage';
 
 export type LineItem = {
   id: number;
-  properties: Record<string, any>;
+  properties: Record<string, unknown>;
   quantity: number;
   variant_id: number;
   key: string;

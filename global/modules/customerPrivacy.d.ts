@@ -31,11 +31,10 @@ export type CustomerPrivacy = {
     },
     callback: () => void,
   ): void;
-  shouldShowBanner(): boolean;
-  thirdPartyMarketingAllowed(): boolean;
-
   /** @deprecated Use consent as an object instead */
   setTrackingConsent(consent: boolean, callback: () => void): void;
+  shouldShowBanner(): boolean;
+  thirdPartyMarketingAllowed(): boolean;
   /** @deprecated Use saleOfDataRegion instead */
   shouldShowCCPABanner(): boolean;
   /** @deprecated Use shouldShowBanner instead */
