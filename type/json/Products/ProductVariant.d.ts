@@ -15,7 +15,10 @@ export type ProductVariant = {
   available: boolean;
   requires_shipping: boolean;
   featured_image: ProductImage | null;
+  /** @deprecated */
   option1: string | null;
+  /** @deprecated */
   option2: string | null;
+  /** @deprecated */
   option3: string | null;
 };
