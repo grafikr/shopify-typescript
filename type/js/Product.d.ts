@@ -1,0 +1,33 @@
+import type { ProductMedia } from './ProductMedia';
+import type { ProductOption } from './ProductOption';
+import type { ProductVariant } from './ProductVariant';
+import type { SellingPlanGroup } from './SellingPlanGroup';
+
+export type Product = {
+  id: number;
+  title: string;
+  handle: string;
+  description: string;
+  published_at: string;
+  created_at: string;
+  vendor: string;
+  type: string;
+  tags: string[];
+  price: number;
+  price_min: number;
+  price_max: number;
+  available: boolean;
+  price_varies: boolean;
+  compare_at_price: number | null;
+  compare_at_price_min: number;
+  compare_at_price_max: number;
+  compare_at_price_varies: boolean;
+  variants: ProductVariant[];
+  images: string[];
+  featured_image: string;
+  options: ProductOption[];
+  url: string;
+  media: ProductMedia[];
+  requires_selling_plan: boolean;
+  selling_plan_groups: SellingPlanGroup[];
+};
