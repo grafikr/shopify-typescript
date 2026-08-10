@@ -1,7 +1,7 @@
-import type { ProductVariant } from './ProductVariant';
-import type { ProductOption } from './ProductOption';
-import type { SellingPlanGroup } from './SellingPlanGroup';
 import type { ProductMedia } from './ProductMedia';
+import type { ProductOption } from './ProductOption';
+import type { ProductVariant } from './ProductVariant';
+import type { SellingPlanGroup } from './SellingPlanGroup';
 
 export type Product = {
   id: number;
