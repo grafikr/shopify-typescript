@@ -3,14 +3,16 @@
   "version": "2.5.0",
   "license": "MIT",
   "scripts": {
-    "format": "yarn prettier . --write"
+    "format": "biome format . --write",
+    "check": "biome check . --write",
+    "typecheck": "tsc --noEmit"
   },
   "engines": {
     "node": ">=16.0.0"
   },
   "devDependencies": {
-    "prettier": "^3.5.2",
-    "typescript": "^5.7.3"
+    "@biomejs/biome": "2.5.7",
+    "typescript": "^6.0.0"
   },
   "repository": {
     "type": "git",
@@ -21,6 +23,6 @@
     "type"
   ],
   "dependencies": {
-    "type-fest": "^4.35.0"
+    "type-fest": "^5.7.0"
   }
 }

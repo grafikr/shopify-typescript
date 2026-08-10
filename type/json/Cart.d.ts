@@ -1,10 +1,10 @@
-import type { LineItem, UpdatedLineItem } from './LineItem';
 import type { DiscountApplication } from './DiscountApplication';
+import type { LineItem, UpdatedLineItem } from './LineItem';
 
 export type Cart = {
   token: string;
   note: string | null;
-  attributes: Record<string, any>;
+  attributes: Record<string, unknown>;
   original_total_price: number;
   total_price: number;
   total_discount: number;
