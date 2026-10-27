@@ -15,10 +15,6 @@ export type Cart = {
   currency: string;
   items_subtotal_price: number;
   cart_level_discount_applications: Array<DiscountApplication>;
-  discount_codes: Array<{
-    code: string;
-    applicable: boolean;
-  }>;
 };
 
 export type UpdatedCart = Omit<Cart, 'cart_level_discount_applications'> & {
