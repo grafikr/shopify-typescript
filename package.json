@@ -5,6 +5,7 @@
   "scripts": {
     "format": "biome format . --write",
     "check": "biome check . --write",
+    "generate": "node scripts/generate-tests.mjs",
     "typecheck": "tsc --noEmit"
   },
   "engines": {
@@ -19,10 +20,35 @@
     "url": "https://github.com/grafikr/shopify-typescript.git"
   },
   "files": [
-    "global",
-    "type"
+    "src",
+    "global"
   ],
   "dependencies": {
     "type-fest": "^5.7.0"
+  },
+  "types": "./src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts"
+    },
+    "./js": {
+      "types": "./src/js/index.d.ts"
+    },
+    "./json": {
+      "types": "./src/json/index.d.ts"
+    },
+    "./liquid": {
+      "types": "./src/liquid/index.d.ts"
+    },
+    "./endpoints": {
+      "types": "./src/endpoints/index.d.ts"
+    },
+    "./global/Shopify": {
+      "types": "./global/Shopify.d.ts"
+    },
+    "./global/CustomEvents": {
+      "types": "./global/CustomEvents.d.ts"
+    },
+    "./package.json": "./package.json"
   }
 }
