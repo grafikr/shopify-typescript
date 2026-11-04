@@ -1,0 +1,313 @@
+{
+  "products": [
+    {
+      "id": 7936272662602,
+      "title": "Bright boost eye cream",
+      "handle": "brightening-eye-cream",
+      "description": "\u003cp\u003eØjencreme med økologiske planteingredienser der reducerer hævelser og mørke rande. Med hyaluronsyre der hjælper mod fine linjer og tørhed. \u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:01-04:00",
+      "created_at": "2025-05-26T07:20:08-04:00",
+      "vendor": "Milla Mango",
+      "type": "Øjencreme",
+      "tags": [],
+      "price": 23900,
+      "price_min": 23900,
+      "price_max": 23900,
+      "available": true,
+      "price_varies": false,
+      "compare_at_price": 23900,
+      "compare_at_price_min": 23900,
+      "compare_at_price_max": 23900,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 42110304583754,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5817",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Bright boost eye cream",
+          "public_title": null,
+          "options": ["Default Title"],
+          "price": 23900,
+          "weight": 152,
+          "compare_at_price": 23900,
+          "inventory_management": "shopify",
+          "barcode": null,
+          "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        }
+      ],
+      "images": [
+        "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecream-min.jpg?v=1748258408",
+        "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliedbotheyes-min_2ea2644d-dee8-49e2-9215-b3466d37a28e.jpg?v=1748258408",
+        "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamprepare-min_60d9e5f1-27ca-4943-9782-8c360772f076.jpg?v=1748258408",
+        "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliying-min.jpg?v=1748258408",
+        "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamapplied-min.jpg?v=1748258408",
+        "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergelcombinewith-min_61749b7d-c84c-478c-817d-afd733c10f9c.jpg?v=1748258408"
+      ],
+      "featured_image": "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecream-min.jpg?v=1748258408",
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ],
+      "url": "\/products\/brightening-eye-cream?pr_prod_strat=collection_fallback\u0026pr_rec_id=afdfed932\u0026pr_rec_pid=7936272662602\u0026pr_ref_pid=7936273285194\u0026pr_seq=uniform",
+      "media": [
+        {
+          "alt": null,
+          "id": 25352757968970,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "width": 1382,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecream-min.jpg?v=1748258408"
+          },
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "media_type": "image",
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecream-min.jpg?v=1748258408",
+          "width": 1382
+        },
+        {
+          "alt": "Reducerer mørke rander og opstrammer huden omkring øjnene.",
+          "id": 25352757805130,
+          "position": 2,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "width": 1382,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliedbotheyes-min_2ea2644d-dee8-49e2-9215-b3466d37a28e.jpg?v=1748258408"
+          },
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "media_type": "image",
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliedbotheyes-min_2ea2644d-dee8-49e2-9215-b3466d37a28e.jpg?v=1748258408",
+          "width": 1382
+        },
+        {
+          "alt": "Påfør et jævnt lag under hvert øje.",
+          "id": 25352757837898,
+          "position": 3,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "width": 1382,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamprepare-min_60d9e5f1-27ca-4943-9782-8c360772f076.jpg?v=1748258408"
+          },
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "media_type": "image",
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamprepare-min_60d9e5f1-27ca-4943-9782-8c360772f076.jpg?v=1748258408",
+          "width": 1382
+        },
+        {
+          "alt": "Fugtighedsgivende med en let, silkeblød tekstur.",
+          "id": 25352757870666,
+          "position": 4,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "width": 1382,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliying-min.jpg?v=1748258408"
+          },
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "media_type": "image",
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliying-min.jpg?v=1748258408",
+          "width": 1382
+        },
+        {
+          "alt": "Lys pigment giver en øjeblikkelig frisk og udhvilet effekt.",
+          "id": 25352757903434,
+          "position": 5,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "width": 1382,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamapplied-min.jpg?v=1748258408"
+          },
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "media_type": "image",
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamapplied-min.jpg?v=1748258408",
+          "width": 1382
+        },
+        {
+          "alt": "Mix med caffeine booster gel for maksimal effekt.\n",
+          "id": 25352757936202,
+          "position": 6,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "width": 1382,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergelcombinewith-min_61749b7d-c84c-478c-817d-afd733c10f9c.jpg?v=1748258408"
+          },
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "media_type": "image",
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergelcombinewith-min_61749b7d-c84c-478c-817d-afd733c10f9c.jpg?v=1748258408",
+          "width": 1382
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": []
+    },
+    {
+      "id": 7936270794826,
+      "title": "Acne spot trio treatment sæt",
+      "handle": "acne-spot-trio-treatment",
+      "description": "\u003cp class=\"p1\"\u003eFå kontrol over dine urenheder med denne effektive trio. Start med \u003cstrong\u003eSilk Cleansing Foam\u003c\/strong\u003e, der skånsomt renser huden og fjerner urenheder. Brug derefter \u003cstrong\u003eAcne Spot Treatment\u003c\/strong\u003e for målrettet at behandle udbrud og reducere rødme. Med \u003cstrong\u003eInvisible Miracle Patch\u003c\/strong\u003e, kan du diskret behandle dine urenheder og udbrud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:45-04:00",
+      "created_at": "2025-05-26T07:17:49-04:00",
+      "vendor": "Milla Mango",
+      "type": "Hudplejesæt",
+      "tags": ["tag__hot_Bestseller"],
+      "price": 45900,
+      "price_min": 45900,
+      "price_max": 125095,
+      "available": true,
+      "price_varies": true,
+      "compare_at_price": 45700,
+      "compare_at_price_min": 45700,
+      "compare_at_price_max": 45700,
+      "compare_at_price_varies": false,
+      "variants": [
+        {
+          "id": 42222928920650,
+          "title": "250ml",
+          "option1": "250ml",
+          "option2": null,
+          "option3": null,
+          "sku": "MM001",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Acne spot trio treatment sæt - 250ml",
+          "public_title": "250ml",
+          "options": ["250ml"],
+          "price": 45900,
+          "weight": 0,
+          "compare_at_price": 45700,
+          "inventory_management": "shopify",
+          "barcode": null,
+          "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        },
+        {
+          "id": 42222928953418,
+          "title": "500ml",
+          "option1": "500ml",
+          "option2": null,
+          "option3": null,
+          "sku": "MM002",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "name": "Acne spot trio treatment sæt - 500ml",
+          "public_title": "500ml",
+          "options": ["500ml"],
+          "price": 125095,
+          "weight": 0,
+          "compare_at_price": 45700,
+          "inventory_management": "shopify",
+          "barcode": null,
+          "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+          "quantity_price_breaks": [],
+          "requires_selling_plan": false,
+          "selling_plan_allocations": []
+        }
+      ],
+      "images": [
+        "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Acnespottriotreatmentsaetpack-min.jpg?v=1748258269",
+        "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_mod_A5852-Silkcleansingfoamapplying-min_1d2ae25d-d47b-44cd-98b2-9e016339db8c.jpg?v=1783515405",
+        "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_gen_A5852-Silkcleansingfoamprepare-min.jpg?v=1783515685",
+        "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_Acnespottriotreatmentsaetshowcase-min.jpg?v=1783515692"
+      ],
+      "featured_image": "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Acnespottriotreatmentsaetpack-min.jpg?v=1748258269",
+      "options": [
+        { "name": "Size", "position": 1, "values": ["250ml", "500ml"] }
+      ],
+      "url": "\/products\/acne-spot-trio-treatment?pr_prod_strat=collection_fallback\u0026pr_rec_id=afdfed932\u0026pr_rec_pid=7936270794826\u0026pr_ref_pid=7936273285194\u0026pr_seq=uniform",
+      "media": [
+        {
+          "alt": null,
+          "id": 25352750071882,
+          "position": 1,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "width": 1382,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Acnespottriotreatmentsaetpack-min.jpg?v=1748258269"
+          },
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "media_type": "image",
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Acnespottriotreatmentsaetpack-min.jpg?v=1748258269",
+          "width": 1382
+        },
+        {
+          "alt": null,
+          "id": 25352750104650,
+          "position": 2,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "width": 1382,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_mod_A5852-Silkcleansingfoamapplying-min_1d2ae25d-d47b-44cd-98b2-9e016339db8c.jpg?v=1783515405"
+          },
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "media_type": "image",
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_mod_A5852-Silkcleansingfoamapplying-min_1d2ae25d-d47b-44cd-98b2-9e016339db8c.jpg?v=1783515405",
+          "width": 1382
+        },
+        {
+          "alt": null,
+          "id": 25352750137418,
+          "position": 3,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "width": 1382,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_gen_A5852-Silkcleansingfoamprepare-min.jpg?v=1783515685"
+          },
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "media_type": "image",
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_gen_A5852-Silkcleansingfoamprepare-min.jpg?v=1783515685",
+          "width": 1382
+        },
+        {
+          "alt": null,
+          "id": 25352750170186,
+          "position": 4,
+          "preview_image": {
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "width": 1382,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_Acnespottriotreatmentsaetshowcase-min.jpg?v=1783515692"
+          },
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "media_type": "image",
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_Acnespottriotreatmentsaetshowcase-min.jpg?v=1783515692",
+          "width": 1382
+        }
+      ],
+      "requires_selling_plan": false,
+      "selling_plan_groups": []
+    }
+  ],
+  "intent": "related"
+}

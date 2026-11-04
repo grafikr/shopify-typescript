@@ -1,0 +1,140 @@
+{
+  "product": {
+    "id": 7936273285194,
+    "title": "Night repair miracle patch",
+    "body_html": "\u003cp\u003e\u003cstrong\u003eMiraklet, der arbejder mens du sover\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003eVågn op til en renere og roligere hud med \u003cstrong\u003eMILLA MANGO Night Repair Miracle Patch\u003c\/strong\u003e. Dette natplaster er designet til at give intensiv behandling af bumser og urenheder, mens du sover, så du kan vågne op til en hud, der er beroliget og klar til dagen. Med sin langvarige hæftning forbliver plasteret sikkert på huden hele natten, så det kan arbejde effektivt, mens du sover.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eNatbehandling uden besvær\u003c\/strong\u003e\u003cbr\u003ePlasteret indeholder salicylsyre, der trænger dybt ind i porerne for at opløse overskydende olie og snavs, mens tea tree-olie beroliger og reducerer rødme med sine antibakterielle egenskaber. Centella bidrager til hudens naturlige helingsproces ved at mindske rødme og irritation. Vores plaster er udviklet til at give maksimal effekt natten over, så du kan nyde synlige resultater, når du vågner.\u003c\/p\u003e\n\u003cp\u003eMed \u003cstrong\u003eMILLA MANGO Night Repair Miracle Patch\u003c\/strong\u003e får du et kraftfuld natplaster der arbejder natten over for at forbedre din hud, så du kan vågne op uden bekymringer.\u003c\/p\u003e",
+    "vendor": "Milla Mango",
+    "product_type": "",
+    "created_at": "2025-05-26T07:21:01-04:00",
+    "handle": "milla-mango-night-repair-miracle-patch",
+    "updated_at": "2026-11-04T05:49:07-05:00",
+    "published_at": "2025-05-26T07:20:55-04:00",
+    "template_suffix": null,
+    "published_scope": "global",
+    "tags": "tag__new_Nyhed",
+    "variants": [
+      {
+        "id": 42110305206346,
+        "product_id": 7936273285194,
+        "title": "Default Title",
+        "price": "129.00",
+        "sku": "MM014",
+        "position": 1,
+        "compare_at_price": "129.00",
+        "fulfillment_service": "manual",
+        "inventory_management": "shopify",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "created_at": "2025-05-26T07:21:01-04:00",
+        "updated_at": "2026-11-04T05:49:07-05:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 100,
+        "image_id": null,
+        "weight": 100.0,
+        "weight_unit": "g",
+        "requires_shipping": true,
+        "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+        "price_currency": "DKK",
+        "compare_at_price_currency": "DKK",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 10549115158602,
+        "product_id": 7936273285194,
+        "name": "Title",
+        "position": 1,
+        "values": ["Default Title"]
+      }
+    ],
+    "images": [
+      {
+        "id": 33612471894090,
+        "product_id": 7936273285194,
+        "position": 1,
+        "created_at": "2025-05-26T07:21:01-04:00",
+        "updated_at": "2025-05-26T07:21:01-04:00",
+        "alt": null,
+        "width": 1382,
+        "height": 1728,
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchpack-min.jpg?v=1748258461",
+        "variant_ids": []
+      },
+      {
+        "id": 33612471959626,
+        "product_id": 7936273285194,
+        "position": 2,
+        "created_at": "2025-05-26T07:21:01-04:00",
+        "updated_at": "2025-05-26T07:21:01-04:00",
+        "alt": "Natplaster med et forstærket lag der absorberer bumser mens du sover.",
+        "width": 1382,
+        "height": 1728,
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchapplied-min.jpg?v=1748258461",
+        "variant_ids": []
+      },
+      {
+        "id": 33612471992394,
+        "product_id": 7936273285194,
+        "position": 3,
+        "created_at": "2025-05-26T07:21:01-04:00",
+        "updated_at": "2025-05-26T07:21:01-04:00",
+        "alt": "Bumser og urenheder absorberes på kun 6-8 timer eller over natten.",
+        "width": 1382,
+        "height": 1728,
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatch-min.jpg?v=1748258461",
+        "variant_ids": []
+      },
+      {
+        "id": 33612472025162,
+        "product_id": 7936273285194,
+        "position": 4,
+        "created_at": "2025-05-26T07:21:01-04:00",
+        "updated_at": "2025-05-26T07:21:01-04:00",
+        "alt": "Fjern plasteret, når bumsen er absorberet, og det bliver hvidt.",
+        "width": 1382,
+        "height": 1728,
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchabsorbed-min_8632433d-588f-48df-82a8-f1be3732af8e.jpg?v=1748258461",
+        "variant_ids": []
+      },
+      {
+        "id": 33612472057930,
+        "product_id": 7936273285194,
+        "position": 5,
+        "created_at": "2025-05-26T07:21:01-04:00",
+        "updated_at": "2025-05-26T07:21:01-04:00",
+        "alt": "Effektive ingredienser som hydrocolloid, salicylsyre og tea tree olie.",
+        "width": 1382,
+        "height": 1728,
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowclose-min_156a8617-eb12-4703-9a87-a1fb82c500da.jpg?v=1748258461",
+        "variant_ids": []
+      },
+      {
+        "id": 33612472090698,
+        "product_id": 7936273285194,
+        "position": 6,
+        "created_at": "2025-05-26T07:21:01-04:00",
+        "updated_at": "2025-05-26T07:21:01-04:00",
+        "alt": null,
+        "width": 1382,
+        "height": 1728,
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowcase-min.jpg?v=1748258461",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 33612471894090,
+      "product_id": 7936273285194,
+      "position": 1,
+      "created_at": "2025-05-26T07:21:01-04:00",
+      "updated_at": "2025-05-26T07:21:01-04:00",
+      "alt": null,
+      "width": 1382,
+      "height": 1728,
+      "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchpack-min.jpg?v=1748258461",
+      "variant_ids": []
+    }
+  }
+}

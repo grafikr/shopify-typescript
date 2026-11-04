@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "id": 15457292582986,
+      "title": "TYPEGEN discountable",
+      "handle": "typegen-discountable",
+      "body_html": null,
+      "published_at": "2026-11-04T06:36:19-05:00",
+      "created_at": "2026-11-04T06:36:06-05:00",
+      "updated_at": "2026-11-04T06:41:00-05:00",
+      "vendor": "TypegenVendor",
+      "product_type": "",
+      "tags": ["typegen"],
+      "variants": [
+        {
+          "id": 67900879503434,
+          "title": "S",
+          "option1": "S",
+          "option2": null,
+          "option3": null,
+          "sku": "TG-D1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "100.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15457292582986,
+          "created_at": "2026-11-04T06:36:07-05:00",
+          "updated_at": "2026-11-04T06:41:00-05:00"
+        },
+        {
+          "id": 67900879536202,
+          "title": "M",
+          "option1": "M",
+          "option2": null,
+          "option3": null,
+          "sku": "TG-D2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "200.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15457292582986,
+          "created_at": "2026-11-04T06:36:07-05:00",
+          "updated_at": "2026-11-04T06:41:00-05:00"
+        }
+      ],
+      "images": [],
+      "options": [{ "name": "Size", "position": 1, "values": ["S", "M"] }]
+    },
+    {
+      "id": 7936273285194,
+      "title": "Night repair miracle patch",
+      "handle": "milla-mango-night-repair-miracle-patch",
+      "body_html": "\u003cp\u003e\u003cstrong\u003eMiraklet, der arbejder mens du sover\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003eVågn op til en renere og roligere hud med \u003cstrong\u003eMILLA MANGO Night Repair Miracle Patch\u003c\/strong\u003e. Dette natplaster er designet til at give intensiv behandling af bumser og urenheder, mens du sover, så du kan vågne op til en hud, der er beroliget og klar til dagen. Med sin langvarige hæftning forbliver plasteret sikkert på huden hele natten, så det kan arbejde effektivt, mens du sover.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eNatbehandling uden besvær\u003c\/strong\u003e\u003cbr\u003ePlasteret indeholder salicylsyre, der trænger dybt ind i porerne for at opløse overskydende olie og snavs, mens tea tree-olie beroliger og reducerer rødme med sine antibakterielle egenskaber. Centella bidrager til hudens naturlige helingsproces ved at mindske rødme og irritation. Vores plaster er udviklet til at give maksimal effekt natten over, så du kan nyde synlige resultater, når du vågner.\u003c\/p\u003e\n\u003cp\u003eMed \u003cstrong\u003eMILLA MANGO Night Repair Miracle Patch\u003c\/strong\u003e får du et kraftfuld natplaster der arbejder natten over for at forbedre din hud, så du kan vågne op uden bekymringer.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:55-04:00",
+      "created_at": "2025-05-26T07:21:01-04:00",
+      "updated_at": "2026-11-04T06:41:00-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "",
+      "tags": ["tag__new_Nyhed"],
+      "variants": [
+        {
+          "id": 42110305206346,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM014",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 1,
+          "product_id": 7936273285194,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "updated_at": "2026-11-04T06:41:00-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471894090,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchpack-min.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471959626,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchapplied-min.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471992394,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatch-min.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472025162,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchabsorbed-min_8632433d-588f-48df-82a8-f1be3732af8e.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472057930,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowclose-min_156a8617-eb12-4703-9a87-a1fb82c500da.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472090698,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowcase-min.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936273219658,
+      "title": "Invisible miracle patch",
+      "handle": "milla-mango-invisible-miracle-patch",
+      "body_html": "\u003cp\u003e\u003cstrong\u003eMiraklet, mod uren hud.\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003eTag kontrollen over dine bumser og urenheder med \u003cstrong\u003eMILLA MANGO Invisible Miracle Patch\u003c\/strong\u003e – din nye superpower til renere hud. Dette banebrydende plaster bekæmper urenheder lynhurtigt og effektivt, samtidig med at det går i ét sammen med din hud. Med et ultratyndt, hydrocolloid-lag der absorberer det overskydende væske fra bumsen og beskytter huden mod yderligere irritation. Resultatet? Du føler dig selvsikker og klar til dagen – uden at bekymre dig om synlige urenheder.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eEffektiv behandling, som ingen kan se\u003c\/strong\u003e\u003cbr\u003ePlasteret indeholder salicylsyre, der trænger dybt ind i porerne og opløser snavs og overskydende olie, mens tea tree-olie reducerer rødme og betændelse med sine naturlige antibakterielle egenskaber. Centella hjælper med at berolige og reparere huden, så du kan opnå en hurtigere helingsproces.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eMiracle Patch\u003c\/strong\u003e er så diskret, at det nemt kan bæres under makeup eller i løbet af en travl dag.\u003c\/p\u003e\n\u003cp\u003eMed \u003cstrong\u003eMILLA MANGO Invisible Miracle Patch\u003c\/strong\u003e får du en usynlig, men effektiv løsning til hurtig behandling af urenheder, der nemt passer ind i din daglige hudplejerutine.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:47-04:00",
+      "created_at": "2025-05-26T07:20:53-04:00",
+      "updated_at": "2026-11-04T06:41:00-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 43447882317898,
+          "title": "Red",
+          "option1": "Red",
+          "option2": null,
+          "option3": null,
+          "sku": "MM012",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 1,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:41:00-05:00"
+        },
+        {
+          "id": 43447882350666,
+          "title": "Green",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "sku": "MM013",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 2,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:41:00-05:00"
+        },
+        {
+          "id": 43447882383434,
+          "title": "Blue",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "sku": "MM014",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 3,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:41:00-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471631946,
+          "created_at": "2025-05-26T07:20:54-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchpack-min.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471664714,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchappplyv2-min_478efa37-5ade-477d-8da0-0d399b4743f1.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471697482,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchhent-min.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471730250,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchresult-min.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471763018,
+          "created_at": "2025-05-26T07:20:54-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchshowcase-min.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471795786,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:20:54-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchabsorbed-min_038ad533-9297-4daf-bf05-2d5e606bd07d.jpg?v=1748258454",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Color", "position": 1, "values": ["Red", "Green", "Blue"] }
+      ]
+    }
+  ]
+}

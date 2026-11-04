@@ -1,0 +1,291 @@
+{
+  "products": [
+    {
+      "id": 7936270794826,
+      "title": "Acne spot trio treatment sæt",
+      "handle": "acne-spot-trio-treatment",
+      "body_html": "\u003cp class=\"p1\"\u003eFå kontrol over dine urenheder med denne effektive trio. Start med \u003cstrong\u003eSilk Cleansing Foam\u003c\/strong\u003e, der skånsomt renser huden og fjerner urenheder. Brug derefter \u003cstrong\u003eAcne Spot Treatment\u003c\/strong\u003e for målrettet at behandle udbrud og reducere rødme. Med \u003cstrong\u003eInvisible Miracle Patch\u003c\/strong\u003e, kan du diskret behandle dine urenheder og udbrud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:45-04:00",
+      "created_at": "2025-05-26T07:17:49-04:00",
+      "updated_at": "2026-11-04T06:59:03-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42222928920650,
+          "title": "250ml",
+          "option1": "250ml",
+          "option2": null,
+          "option3": null,
+          "sku": "MM001",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "459.00",
+          "grams": 0,
+          "compare_at_price": "457.00",
+          "position": 1,
+          "product_id": 7936270794826,
+          "created_at": "2025-06-25T08:54:16-04:00",
+          "updated_at": "2026-11-04T06:59:03-05:00"
+        },
+        {
+          "id": 42222928953418,
+          "title": "500ml",
+          "option1": "500ml",
+          "option2": null,
+          "option3": null,
+          "sku": "MM002",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1250.95",
+          "grams": 0,
+          "compare_at_price": "457.00",
+          "position": 2,
+          "product_id": 7936270794826,
+          "created_at": "2025-06-25T08:54:16-04:00",
+          "updated_at": "2026-11-04T06:59:03-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612460064842,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:49-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Acnespottriotreatmentsaetpack-min.jpg?v=1748258269",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460097610,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 2,
+          "updated_at": "2026-07-08T08:56:45-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_mod_A5852-Silkcleansingfoamapplying-min_1d2ae25d-d47b-44cd-98b2-9e016339db8c.jpg?v=1783515405",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460130378,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 3,
+          "updated_at": "2026-07-08T09:01:25-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_gen_A5852-Silkcleansingfoamprepare-min.jpg?v=1783515685",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460163146,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 4,
+          "updated_at": "2026-07-08T09:01:32-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_Acnespottriotreatmentsaetshowcase-min.jpg?v=1783515692",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Size", "position": 1, "values": ["250ml", "500ml"] }
+      ]
+    },
+    {
+      "id": 7936273023050,
+      "title": "AHA exfoliant peel concentrate",
+      "handle": "aha-exfoliant-peel-concentrate",
+      "body_html": "\u003cp\u003eOpnå strålende hud med 10% Lactic Acid, der fjerner døde hudceller og booster fornyelse af huden. Hjælper med træt, kedelig hud, mindsker pigmentpletter og fine linjer. Med 1% hyaluronsyre holdes huden fugtet og smidig under eksfolieringen. Påfør på ren hud om aftenen og lad virke natten over. Brug 1-2 gange om ugen. Undgå sollys lige efter brug og husk altid solcreme efter brug.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:34-04:00",
+      "created_at": "2025-05-26T07:20:39-04:00",
+      "updated_at": "2026-11-04T06:59:03-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Exfoliator",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110304944202,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5835",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "319.00",
+          "grams": 175,
+          "compare_at_price": "319.00",
+          "position": 1,
+          "product_id": 7936273023050,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "updated_at": "2026-11-04T06:59:03-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471009354,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 1,
+          "updated_at": "2026-09-25T05:02:45-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_A5835-AHAexfoliantpeelconcentratepack-min.jpg?v=1790326965",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471042122,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateplay-min.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471074890,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateappliance-min_11a6b26c-abd1-47d9-bf44-ad726e3904e0.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471107658,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateapplied-min_d498902f-4463-4f24-aaf7-b42c65b3829f.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471140426,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrate-min.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271286346,
+      "title": "All-in-one facial oil",
+      "handle": "all-in-one-facial-oil",
+      "body_html": "\u003cp class=\"p1\"\u003eDenne all-round ansigtsolie fugter og giver huden et energiboost. Påfør på ren hud. Undgå kontakt med øjnene.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:18:18-04:00",
+      "created_at": "2025-05-26T07:18:23-04:00",
+      "updated_at": "2026-11-04T06:59:03-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Ansigtsolie",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110303207498,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5853",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "289.00",
+          "grams": 197,
+          "compare_at_price": "289.00",
+          "position": 1,
+          "product_id": 7936271286346,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "updated_at": "2026-11-04T06:59:03-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612461473866,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoil-min.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461506634,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilprepare-min.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461539402,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilapply-min_a83b3556-2639-4148-9288-dc258ccec1ad.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461572170,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilapplied-min.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461604938,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilshowcase-min.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    }
+  ]
+}

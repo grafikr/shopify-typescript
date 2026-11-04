@@ -1,0 +1,144 @@
+{
+  "collections": [
+    {
+      "id": 287883198538,
+      "title": "Automated Collection",
+      "handle": "automated-collection",
+      "description": null,
+      "published_at": "2024-10-31T15:22:40-04:00",
+      "updated_at": "2026-09-01T07:15:17-04:00",
+      "image": null,
+      "products_count": 33
+    },
+    {
+      "id": 288031670346,
+      "title": "Dress",
+      "handle": "dress",
+      "description": "\u003cp\u003eDiscover our enchanting collection of dresses, perfect for every occasion and mood. From flowy maxi dresses that sweep the floor to elegant cocktail options that make a statement, our selection is designed to flatter every silhouette. Each dress is crafted from high-quality fabrics that drape beautifully and offer comfort throughout the day. Whether you’re looking for vibrant prints, classic solids, or trendy patterns, our dresses will elevate your wardrobe and inspire your style.\u003c\/p\u003e",
+      "published_at": "2024-11-04T07:58:34-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 287883165770,
+      "title": "Home page",
+      "handle": "frontpage",
+      "description": null,
+      "published_at": "2024-10-31T15:22:01-04:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 1
+    },
+    {
+      "id": 287883231306,
+      "title": "Hydrogen",
+      "handle": "hydrogen",
+      "description": null,
+      "published_at": "2024-10-31T15:22:41-04:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 288032358474,
+      "title": "Jackets",
+      "handle": "jackets",
+      "description": "\u003cp\u003eComplete your look with our stylish collection of jackets, perfect for layering and adding a touch of flair to any outfit. From classic denim and tailored blazers to edgy leather and cozy bombers, our jackets are designed to enhance your style while providing warmth and comfort. Crafted from durable materials and featuring unique design elements, these outerwear pieces are essential for transitioning between seasons. No matter the occasion, our jackets will elevate your ensemble and keep you looking chic.\u003c\/p\u003e",
+      "published_at": "2024-11-04T08:12:08-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 288033177674,
+      "title": "Our products",
+      "handle": "all",
+      "description": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003eWelcome to our curated collection, where fashion meets versatility! Discover a stunning array of clothing designed to cater to every aspect of your lifestyle, from casual outings to formal events.\u003c\/p\u003e",
+      "published_at": "2024-11-04T08:58:30-05:00",
+      "updated_at": "2026-11-04T06:36:47-05:00",
+      "image": {
+        "id": 1608373698634,
+        "created_at": "2025-04-29T03:44:49-04:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/collections\/model-in-neutral-colors-by-window.jpg?v=1745912689",
+        "alt": null
+      },
+      "products_count": 47
+    },
+    {
+      "id": 288032292938,
+      "title": "Pants",
+      "handle": "pants",
+      "description": "\u003cp\u003eElevate your everyday style with our diverse collection of pants, designed to offer both comfort and sophistication. From tailored trousers that bring a polished touch to your work wardrobe to relaxed-fit joggers perfect for lounging, our selection caters to every occasion. Made from high-quality materials that provide stretch and breathability, these pants ensure a flattering fit. Whether you're going for a casual look or dressing up for an evening out, our pants will keep you stylish and comfortable all day long.\u003c\/p\u003e",
+      "published_at": "2024-11-04T08:11:24-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 288032391242,
+      "title": "Sweaters",
+      "handle": "sweaters",
+      "description": "\u003cp\u003eStay cozy and stylish with our curated collection of sweaters, ideal for layering in cooler weather. From chunky knits to lightweight pullovers, our range includes various styles that cater to your fashion needs. Made from soft, breathable fabrics, these sweaters offer warmth without compromising on style. Whether you prefer oversized fits for a relaxed vibe or fitted designs for a sleek look, our sweaters will keep you comfortable while enhancing your winter wardrobe.\u003c\/p\u003e",
+      "published_at": "2024-11-04T08:12:38-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 288032227402,
+      "title": "Tops",
+      "handle": "tops",
+      "description": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003eExplore our versatile range of tops that seamlessly blend style and comfort. From classic button-ups to casual tees and sophisticated blouses, our collection caters to every taste and occasion. Crafted with attention to detail and using soft, breathable fabrics, these tops are designed for effortless layering and pairing with your favorite bottoms. Whether you're dressing up for the office or keeping it casual on the weekend, our tops will keep you looking chic and polished.\u003c\/p\u003e",
+      "published_at": "2024-11-04T08:10:53-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 512521601098,
+      "title": "TYPEGEN bare",
+      "handle": "typegen-bare",
+      "description": null,
+      "published_at": "2026-11-04T06:39:58-05:00",
+      "updated_at": "2026-11-04T06:39:58-05:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 512521535562,
+      "title": "TYPEGEN manual",
+      "handle": "typegen-manual",
+      "description": "\u003cp\u003eManual\u003c\/p\u003e",
+      "published_at": "2026-11-04T06:39:55-05:00",
+      "updated_at": "2026-11-04T06:39:55-05:00",
+      "image": {
+        "id": 1765489737802,
+        "created_at": "2026-11-04T06:39:39-05:00",
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/collections\/GuaSharosenquartzpack-min.jpg?v=1793792380",
+        "alt": "alt text"
+      },
+      "products_count": 1
+    },
+    {
+      "id": 512521568330,
+      "title": "TYPEGEN smart",
+      "handle": "typegen-smart",
+      "description": null,
+      "published_at": "2026-11-04T06:39:57-05:00",
+      "updated_at": "2026-11-04T06:39:57-05:00",
+      "image": null,
+      "products_count": 1
+    },
+    {
+      "id": 303488630858,
+      "title": "Unlisted products",
+      "handle": "unlisted-products",
+      "description": "",
+      "published_at": "2026-01-28T02:40:11-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 1
+    }
+  ]
+}

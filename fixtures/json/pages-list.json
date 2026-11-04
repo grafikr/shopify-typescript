@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "id": 95562104906,
+      "body_html": null,
+      "created_at": "2024-10-31T15:22:01-04:00",
+      "published_at": "2024-10-31T15:22:01-04:00",
+      "updated_at": "2024-10-31T15:22:01-04:00",
+      "handle": "contact",
+      "title": "Contact"
+    },
+    {
+      "id": 95562137674,
+      "body_html": "\u003clink rel=\"stylesheet\" type=\"text\/css\" href=\"https:\/\/\/\/cdn.shopify.com\/shopifycloud\/privacy-banner\/data-sale-opt-out.css\"\u003e\n\u003cmeta charset=\"utf-8\"\u003e \u003cp\u003eAs described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and similar technologies. We may also share this personal information with third parties, including advertising partners. We do this in order to show you ads on other websites that are more relevant to your interests and for other reasons outlined in our privacy policy.\u003c\/p\u003e \u003cp\u003eSharing of personal information for targeted advertising based on your interaction on different websites may be considered \u0026quot;sales\u0026quot;, \u0026quot;sharing\u0026quot;, or \u0026quot;targeted advertising\u0026quot; under certain U.S. state privacy laws. Depending on where you live, you may have the right to opt out of these activities. If you would like to exercise this opt-out right, please follow the instructions below.\u003c\/p\u003e \u003cp\u003eIf you visit our website with the Global Privacy Control opt-out preference signal enabled, depending on where you are, we will treat this as a request to opt-out of activity that may be considered a “sale” or “sharing” of personal information or other uses that may be considered targeted advertising for the device and browser you used to visit our website.\u003c\/p\u003e\n\u003cdiv id=\"pc--optOutFormContainer\" data-not-applicable='To opt out of the \u0026quot;sale\u0026quot; or \u0026quot;sharing\u0026quot; of your personal information collected using cookies and other device-based identifiers as described above, you must be browsing from one of the applicable US states referred to above.' data-description='If you would like to opt out of activity that may be considered a \u0026quot;sale\u0026quot; or \u0026quot;share,\u0026quot; or \u0026quot;targeted advertising\u0026quot;, please submit your email.' data-email-label='Email' data-success='Opted-out successfully' data-error='A problem occurred, try submitting your email again' data-form-description='By clicking “opt out“, the browser on this device will be opted out of sharing personal data. If you select the checkbox and enter an email, the related customer account will also be opted out.' data-form-email-label='Email' data-form-opt-out-account-label=\"Don\u0026#39;t share data from my account (optional)\" data-form-button-text='Opt out' data-form-opted-out='The browser on this device is opted out' data-form-success='You have successfully opted out' data-form-error='A problem occurred, please try again' \u003e\u003c\/div\u003e\n\u003cscript src=\"https:\/\/\/\/cdn.shopify.com\/shopifycloud\/privacy-banner\/data-sale-opt-out.js\" defer\u003e\u003c\/script\u003e \u003cscript src=\"https:\/\/js.hcaptcha.com\/1\/api.js?onload=optOutOnLoad\" defer\u003e\u003c\/script\u003e",
+      "created_at": "2024-10-31T15:22:43-04:00",
+      "published_at": "2024-10-31T15:22:43-04:00",
+      "updated_at": "2026-01-28T10:46:35-05:00",
+      "handle": "data-sharing-opt-out",
+      "title": "Your Privacy Choices"
+    },
+    {
+      "id": 120634081354,
+      "body_html": "",
+      "created_at": "2026-07-27T07:32:34-04:00",
+      "published_at": "2026-07-27T07:34:09-04:00",
+      "updated_at": "2026-07-27T07:34:10-04:00",
+      "handle": "konverter-din-gavekortskode",
+      "title": "Konverter din gavekortskode"
+    },
+    {
+      "id": 108545769546,
+      "body_html": "",
+      "created_at": "2025-09-16T03:09:53-04:00",
+      "published_at": "2025-09-16T03:10:27-04:00",
+      "updated_at": "2025-09-16T03:10:31-04:00",
+      "handle": "om-aros",
+      "title": "Om Aros"
+    },
+    {
+      "id": 101949177930,
+      "body_html": "\u003cp\u003eUt porta purus at enim placerat, a scelerisque justo viverra. Etiam vel congue urna. In rhoncus sem felis, id tristique tortor pulvinar ut. Donec non urna in sem varius pretium. Praesent gravida condimentum bibendum. Nam eget elit elementum dui efficitur elementum. Sed vulputate viverra dui, a pulvinar metus eleifend quis. Vestibulum semper laoreet dolor, et suscipit est aliquam luctus.\u003c\/p\u003e\n\u003cp\u003eEtiam nec ante vitae magna tempus semper. Aenean vulputate aliquam nibh. Cras finibus tortor ut accumsan posuere. Sed dignissim nibh orci, nec vehicula purus vulputate at. Aliquam vel erat ut velit ultricies ultricies. Ut vel leo finibus, finibus mi eget, molestie augue. Nulla eleifend dui lobortis, fringilla est a, commodo lacus. Nulla cursus diam in eros consectetur faucibus. Pellentesque faucibus id ligula non interdum.\u003c\/p\u003e",
+      "created_at": "2025-04-29T08:58:26-04:00",
+      "published_at": "2025-04-29T08:58:40-04:00",
+      "updated_at": "2025-04-29T08:58:42-04:00",
+      "handle": "our-values",
+      "title": "Our values"
+    },
+    {
+      "id": 105868755018,
+      "body_html": "\u003cp\u003eProin auctor, felis a dapibus posuere, augue ex finibus orci, ut eleifend lacus augue vel lectus. Ut non consequat sapien. Duis sagittis ligula nunc, vitae ultricies ligula mollis sit amet.\u003c\/p\u003e\n\u003ctable\u003e\n\u003cthead\u003e\n\u003ctr\u003e\n\u003cth\u003eSize\u003c\/th\u003e\n\u003cth\u003eChest (inches)\u003c\/th\u003e\n\u003cth\u003eWaist (inches)\u003c\/th\u003e\n\u003cth\u003eHip (inches)\u003c\/th\u003e\n\u003c\/tr\u003e\n\u003c\/thead\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003eXS\u003c\/td\u003e\n\u003ctd\u003e32-34\u003c\/td\u003e\n\u003ctd\u003e26-28\u003c\/td\u003e\n\u003ctd\u003e32-34\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eS\u003c\/td\u003e\n\u003ctd\u003e35-37\u003c\/td\u003e\n\u003ctd\u003e29-31\u003c\/td\u003e\n\u003ctd\u003e35-37\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eM\u003c\/td\u003e\n\u003ctd\u003e38-40\u003c\/td\u003e\n\u003ctd\u003e32-34\u003c\/td\u003e\n\u003ctd\u003e38-40\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eL\u003c\/td\u003e\n\u003ctd\u003e41-43\u003c\/td\u003e\n\u003ctd\u003e35-37\u003c\/td\u003e\n\u003ctd\u003e41-43\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eXL\u003c\/td\u003e\n\u003ctd\u003e44-46\u003c\/td\u003e\n\u003ctd\u003e38-40\u003c\/td\u003e\n\u003ctd\u003e44-46\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eXXL\u003c\/td\u003e\n\u003ctd\u003e47-49\u003c\/td\u003e\n\u003ctd\u003e41-43\u003c\/td\u003e\n\u003ctd\u003e47-49\u003c\/td\u003e\n\u003c\/tr\u003e\n\u003c\/tbody\u003e\n\u003c\/table\u003e\n\u003cp\u003eSed bibendum consectetur nulla. Nullam congue odio lacus, ut facilisis nulla facilisis varius. Suspendisse aliquet, urna at tristique commodo, quam risus congue sapien, auctor venenatis magna massa a neque. Ut et lorem nunc. Sed arcu tortor, maximus nec pulvinar ac, porta quis eros.\u003c\/p\u003e\n\u003cp\u003eInteger massa tortor, varius sed tristique nec, ultricies id nunc. Nullam erat ex, laoreet vel leo sed, mattis fringilla lectus.\u003c\/p\u003e",
+      "created_at": "2025-08-05T07:36:50-04:00",
+      "published_at": "2025-08-05T07:37:33-04:00",
+      "updated_at": "2026-02-11T04:28:27-05:00",
+      "handle": "size-guide",
+      "title": "Size guide"
+    },
+    {
+      "id": 167429996618,
+      "body_html": null,
+      "created_at": "2026-11-04T06:39:40-05:00",
+      "published_at": "2026-11-04T06:39:40-05:00",
+      "updated_at": "2026-11-04T06:39:40-05:00",
+      "handle": "typegen-empty-page",
+      "title": "TYPEGEN empty page"
+    },
+    {
+      "id": 167429963850,
+      "body_html": "\u003cp\u003eBody\u003c\/p\u003e",
+      "created_at": "2026-11-04T06:39:40-05:00",
+      "published_at": "2026-11-04T06:39:40-05:00",
+      "updated_at": "2026-11-04T06:39:40-05:00",
+      "handle": "typegen-page",
+      "title": "TYPEGEN page"
+    }
+  ]
+}

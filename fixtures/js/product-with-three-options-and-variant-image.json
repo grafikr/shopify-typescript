@@ -1,0 +1,122 @@
+{
+  "id": 15457377681482,
+  "title": "TYPEGEN rich",
+  "handle": "typegen-rich",
+  "description": "\u003cp\u003eRich\u003c\/p\u003e",
+  "published_at": "2026-11-04T06:43:20-05:00",
+  "created_at": "2026-11-04T06:43:10-05:00",
+  "vendor": "TypegenVendor",
+  "type": "Rich",
+  "tags": ["rich", "typegen"],
+  "price": 5000,
+  "price_min": 5000,
+  "price_max": 6000,
+  "available": true,
+  "price_varies": true,
+  "compare_at_price": 8000,
+  "compare_at_price_min": 8000,
+  "compare_at_price_max": 8000,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 67900967485514,
+      "title": "S \/ Red \/ Cotton",
+      "option1": "S",
+      "option2": "Red",
+      "option3": "Cotton",
+      "sku": "TG-R1",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": {
+        "id": 33612456362058,
+        "product_id": 15457377681482,
+        "position": 1,
+        "created_at": "2025-05-26T07:16:26-04:00",
+        "updated_at": "2025-05-26T07:16:26-04:00",
+        "alt": "rich alt",
+        "width": 1382,
+        "height": 1728,
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+        "variant_ids": [67900967485514]
+      },
+      "available": false,
+      "name": "TYPEGEN rich - S \/ Red \/ Cotton",
+      "public_title": "S \/ Red \/ Cotton",
+      "options": ["S", "Red", "Cotton"],
+      "price": 5000,
+      "weight": 500,
+      "compare_at_price": 8000,
+      "inventory_management": "shopify",
+      "barcode": "111",
+      "featured_media": {
+        "alt": "rich alt",
+        "id": 25352746565706,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.8,
+          "height": 1728,
+          "width": 1382,
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
+        }
+      },
+      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    },
+    {
+      "id": 67900967518282,
+      "title": "M \/ Blue \/ Cotton",
+      "option1": "M",
+      "option2": "Blue",
+      "option3": "Cotton",
+      "sku": "TG-R2",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TYPEGEN rich - M \/ Blue \/ Cotton",
+      "public_title": "M \/ Blue \/ Cotton",
+      "options": ["M", "Blue", "Cotton"],
+      "price": 6000,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": null,
+      "barcode": null,
+      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": []
+    }
+  ],
+  "images": [
+    "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
+  ],
+  "featured_image": "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+  "options": [
+    { "name": "Size", "position": 1, "values": ["S", "M"] },
+    { "name": "Color", "position": 2, "values": ["Red", "Blue"] },
+    { "name": "Material", "position": 3, "values": ["Cotton"] }
+  ],
+  "url": "\/products\/typegen-rich",
+  "media": [
+    {
+      "alt": "rich alt",
+      "id": 25352746565706,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 0.8,
+        "height": 1728,
+        "width": 1382,
+        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
+      },
+      "aspect_ratio": 0.8,
+      "height": 1728,
+      "media_type": "image",
+      "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+      "width": 1382
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": []
+}

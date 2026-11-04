@@ -1,0 +1,131 @@
+{
+  "products": [
+    {
+      "id": 7936269516874,
+      "title": "Gua sha",
+      "handle": "gua-sha",
+      "body_html": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003eEn gua sha er et traditionelt massageværktøj, ofte lavet af sten som jade eller rosakvarts, designet til at fremme blodcirkulationen og reducere spændinger i ansigt og krop. Ved at føre gua shaen over huden i lange, blide bevægelser kan du stimulere lymfesystemet, reducere hævelser og fremme en sund glød. Den kølige overflade hjælper med at mindske rødme og puffet hud, hvilket efterlader ansigtet opfrisket og opstrammet.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:16:22-04:00",
+      "created_at": "2025-05-26T07:16:26-04:00",
+      "updated_at": "2026-11-04T06:59:05-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Accessories",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110300651594,
+          "title": "Rosenkvarts (sten)",
+          "option1": "Rosenkvarts (sten)",
+          "option2": null,
+          "option3": null,
+          "sku": "MM008-1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 33612456362058,
+            "product_id": 7936269516874,
+            "position": 1,
+            "created_at": "2025-05-26T07:16:26-04:00",
+            "updated_at": "2025-05-26T07:16:26-04:00",
+            "alt": "rich alt",
+            "width": 1382,
+            "height": 1728,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+            "variant_ids": [42110300651594]
+          },
+          "available": true,
+          "price": "189.00",
+          "grams": 0,
+          "compare_at_price": "189.00",
+          "position": 1,
+          "product_id": 7936269516874,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "updated_at": "2026-11-04T06:59:05-05:00"
+        },
+        {
+          "id": 42110300684362,
+          "title": "Rrustfrit stål",
+          "option1": "Rrustfrit stål",
+          "option2": null,
+          "option3": null,
+          "sku": "MM008-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 33612456427594,
+            "product_id": 7936269516874,
+            "position": 3,
+            "created_at": "2025-05-26T07:16:26-04:00",
+            "updated_at": "2025-05-26T07:16:26-04:00",
+            "alt": null,
+            "width": 1382,
+            "height": 1728,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharustfritstalpack-min.jpg?v=1748258186",
+            "variant_ids": [42110300684362]
+          },
+          "available": true,
+          "price": "189.00",
+          "grams": 0,
+          "compare_at_price": "189.00",
+          "position": 2,
+          "product_id": 7936269516874,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "updated_at": "2026-11-04T06:59:05-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612456362058,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [42110300651594],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456394826,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzinuse-min.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456427594,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [42110300684362],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharustfritstalpack-min.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456460362,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharustfritstalinuse-min.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": ["Rosenkvarts (sten)", "Rrustfrit stål"]
+        }
+      ]
+    }
+  ]
+}

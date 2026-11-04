@@ -1,0 +1,3943 @@
+{
+  "products": [
+    {
+      "id": 15457292582986,
+      "title": "TYPEGEN discountable",
+      "handle": "typegen-discountable",
+      "body_html": null,
+      "published_at": "2026-11-04T06:36:19-05:00",
+      "created_at": "2026-11-04T06:36:06-05:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "TypegenVendor",
+      "product_type": "",
+      "tags": ["typegen"],
+      "variants": [
+        {
+          "id": 67900879503434,
+          "title": "S",
+          "option1": "S",
+          "option2": null,
+          "option3": null,
+          "sku": "TG-D1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "100.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15457292582986,
+          "created_at": "2026-11-04T06:36:07-05:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        },
+        {
+          "id": 67900879536202,
+          "title": "M",
+          "option1": "M",
+          "option2": null,
+          "option3": null,
+          "sku": "TG-D2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "200.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15457292582986,
+          "created_at": "2026-11-04T06:36:07-05:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [],
+      "options": [{ "name": "Size", "position": 1, "values": ["S", "M"] }]
+    },
+    {
+      "id": 7936273285194,
+      "title": "Night repair miracle patch",
+      "handle": "milla-mango-night-repair-miracle-patch",
+      "body_html": "\u003cp\u003e\u003cstrong\u003eMiraklet, der arbejder mens du sover\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003eVågn op til en renere og roligere hud med \u003cstrong\u003eMILLA MANGO Night Repair Miracle Patch\u003c\/strong\u003e. Dette natplaster er designet til at give intensiv behandling af bumser og urenheder, mens du sover, så du kan vågne op til en hud, der er beroliget og klar til dagen. Med sin langvarige hæftning forbliver plasteret sikkert på huden hele natten, så det kan arbejde effektivt, mens du sover.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eNatbehandling uden besvær\u003c\/strong\u003e\u003cbr\u003ePlasteret indeholder salicylsyre, der trænger dybt ind i porerne for at opløse overskydende olie og snavs, mens tea tree-olie beroliger og reducerer rødme med sine antibakterielle egenskaber. Centella bidrager til hudens naturlige helingsproces ved at mindske rødme og irritation. Vores plaster er udviklet til at give maksimal effekt natten over, så du kan nyde synlige resultater, når du vågner.\u003c\/p\u003e\n\u003cp\u003eMed \u003cstrong\u003eMILLA MANGO Night Repair Miracle Patch\u003c\/strong\u003e får du et kraftfuld natplaster der arbejder natten over for at forbedre din hud, så du kan vågne op uden bekymringer.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:55-04:00",
+      "created_at": "2025-05-26T07:21:01-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "",
+      "tags": ["tag__new_Nyhed"],
+      "variants": [
+        {
+          "id": 42110305206346,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM014",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 1,
+          "product_id": 7936273285194,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471894090,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchpack-min.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471959626,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchapplied-min.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471992394,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatch-min.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472025162,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchabsorbed-min_8632433d-588f-48df-82a8-f1be3732af8e.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472057930,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowclose-min_156a8617-eb12-4703-9a87-a1fb82c500da.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472090698,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowcase-min.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936273219658,
+      "title": "Invisible miracle patch",
+      "handle": "milla-mango-invisible-miracle-patch",
+      "body_html": "\u003cp\u003e\u003cstrong\u003eMiraklet, mod uren hud.\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003eTag kontrollen over dine bumser og urenheder med \u003cstrong\u003eMILLA MANGO Invisible Miracle Patch\u003c\/strong\u003e – din nye superpower til renere hud. Dette banebrydende plaster bekæmper urenheder lynhurtigt og effektivt, samtidig med at det går i ét sammen med din hud. Med et ultratyndt, hydrocolloid-lag der absorberer det overskydende væske fra bumsen og beskytter huden mod yderligere irritation. Resultatet? Du føler dig selvsikker og klar til dagen – uden at bekymre dig om synlige urenheder.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eEffektiv behandling, som ingen kan se\u003c\/strong\u003e\u003cbr\u003ePlasteret indeholder salicylsyre, der trænger dybt ind i porerne og opløser snavs og overskydende olie, mens tea tree-olie reducerer rødme og betændelse med sine naturlige antibakterielle egenskaber. Centella hjælper med at berolige og reparere huden, så du kan opnå en hurtigere helingsproces.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eMiracle Patch\u003c\/strong\u003e er så diskret, at det nemt kan bæres under makeup eller i løbet af en travl dag.\u003c\/p\u003e\n\u003cp\u003eMed \u003cstrong\u003eMILLA MANGO Invisible Miracle Patch\u003c\/strong\u003e får du en usynlig, men effektiv løsning til hurtig behandling af urenheder, der nemt passer ind i din daglige hudplejerutine.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:47-04:00",
+      "created_at": "2025-05-26T07:20:53-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 43447882317898,
+          "title": "Red",
+          "option1": "Red",
+          "option2": null,
+          "option3": null,
+          "sku": "MM012",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 1,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        },
+        {
+          "id": 43447882350666,
+          "title": "Green",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "sku": "MM013",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 2,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        },
+        {
+          "id": 43447882383434,
+          "title": "Blue",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "sku": "MM014",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 3,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471631946,
+          "created_at": "2025-05-26T07:20:54-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchpack-min.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471664714,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchappplyv2-min_478efa37-5ade-477d-8da0-0d399b4743f1.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471697482,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchhent-min.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471730250,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchresult-min.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471763018,
+          "created_at": "2025-05-26T07:20:54-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchshowcase-min.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471795786,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:20:54-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchabsorbed-min_038ad533-9297-4daf-bf05-2d5e606bd07d.jpg?v=1748258454",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Color", "position": 1, "values": ["Red", "Green", "Blue"] }
+      ]
+    },
+    {
+      "id": 7936273121354,
+      "title": "Silk cleansing foam",
+      "handle": "milla-mango-cleansing-foam-150-ml",
+      "body_html": "\u003cp\u003eMild og let renseskum, der fjerner makeup og urenheder, så huden ser frisk og smidig ud. Påfør, massér blidt og skyl af med vand.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:40-04:00",
+      "created_at": "2025-05-26T07:20:45-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Renseskum",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110305042506,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5852",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "199.00",
+          "grams": 305,
+          "compare_at_price": "199.00",
+          "position": 1,
+          "product_id": 7936273121354,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471337034,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:46-04:00",
+          "product_id": 7936273121354,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5852-Silkcleansingfoampack-min.jpg?v=1748258446",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471369802,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:46-04:00",
+          "product_id": 7936273121354,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5852-Silkcleansingfoamapplying-min_f7cf0e07-7880-434d-aaf7-a52593a11330.jpg?v=1748258446",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471402570,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:46-04:00",
+          "product_id": 7936273121354,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5852-Silkcleansingfoamprepare-min_35b5e528-e7e0-49cf-bb1d-dbb8d501eef3.jpg?v=1748258446",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471435338,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:46-04:00",
+          "product_id": 7936273121354,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5852-Silkcleansingfoamshowcase-min.jpg?v=1748258446",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471468106,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:46-04:00",
+          "product_id": 7936273121354,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5852_-_Silk_cleansing_foam_after-min.jpg?v=1748258446",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936273023050,
+      "title": "AHA exfoliant peel concentrate",
+      "handle": "aha-exfoliant-peel-concentrate",
+      "body_html": "\u003cp\u003eOpnå strålende hud med 10% Lactic Acid, der fjerner døde hudceller og booster fornyelse af huden. Hjælper med træt, kedelig hud, mindsker pigmentpletter og fine linjer. Med 1% hyaluronsyre holdes huden fugtet og smidig under eksfolieringen. Påfør på ren hud om aftenen og lad virke natten over. Brug 1-2 gange om ugen. Undgå sollys lige efter brug og husk altid solcreme efter brug.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:34-04:00",
+      "created_at": "2025-05-26T07:20:39-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Exfoliator",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110304944202,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5835",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "319.00",
+          "grams": 175,
+          "compare_at_price": "319.00",
+          "position": 1,
+          "product_id": 7936273023050,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471009354,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 1,
+          "updated_at": "2026-09-25T05:02:45-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_A5835-AHAexfoliantpeelconcentratepack-min.jpg?v=1790326965",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471042122,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateplay-min.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471074890,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateappliance-min_11a6b26c-abd1-47d9-bf44-ad726e3904e0.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471107658,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateapplied-min_d498902f-4463-4f24-aaf7-b42c65b3829f.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471140426,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrate-min.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272859210,
+      "title": "Breakout control sæt",
+      "handle": "breakout-control",
+      "body_html": "\u003cp\u003eFå en målrettet rutine til klar og ren hud med denne trio. Start med Silk Cleansing Foam for en skånsom rens, brug derefter AHA Exfoliant Peel Concentrate for dybdegående eksfoliering og en mere ensartet hudtone, og afslut med Acne Spot Treatment for præcis behandling af udbrud. Perfekt løsning til en frisk og balanceret hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:20-04:00",
+      "created_at": "2025-05-26T07:20:25-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304780362,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM003",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "787.00",
+          "grams": 0,
+          "compare_at_price": "787.00",
+          "position": 1,
+          "product_id": 7936272859210,
+          "created_at": "2025-05-26T07:20:26-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612470386762,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Breakoutcontrol_gave.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470419530,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5851_-_Acne_spot_treatment_applying-min_68c2b975-3053-43a0-a971-e278b24769ff.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470452298,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateappliance-min_2864ee35-0f3c-47ae-a955-686a57236948.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470485066,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateapplied-min_c63a6daa-14e6-4a43-a46b-03a873e0c94d.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470517834,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Breakoutcontrolsaetshowcase-min.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272793674,
+      "title": "Mineral sunscreen SPF30",
+      "handle": "mineral-sunscreen-spf30-for-face-body-no-tint",
+      "body_html": "\u003cp\u003eMineralbaseret solcreme med UVA\/UVB-beskyttelse. Vandafvisende, fugtgivende og uden hvidt skær. Påfør før sol og påfør hver anden time for optimal beskyttelse.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:15-04:00",
+      "created_at": "2025-05-26T07:20:19-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Solcreme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304714826,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A9893",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "299.00",
+          "grams": 220,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7936272793674,
+          "created_at": "2025-05-26T07:20:19-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612470124618,
+          "created_at": "2025-05-26T07:20:19-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:19-04:00",
+          "product_id": 7936272793674,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A9893-MineralsunscreenSPF30pack-min.jpg?v=1748258419",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470157386,
+          "created_at": "2025-05-26T07:20:19-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:19-04:00",
+          "product_id": 7936272793674,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A9893-MineralsunscreenSPF30showcase-min.jpg?v=1748258419",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470190154,
+          "created_at": "2025-05-26T07:20:19-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:19-04:00",
+          "product_id": 7936272793674,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A9893-MineralsunscreenSPF30insub-min.jpg?v=1748258419",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272728138,
+      "title": "Double hydration gel",
+      "handle": "double-hydration-boost-gel",
+      "body_html": "\u003cp\u003eHydrerende gel med hyaluronsyre, der bevarer fugt, øger fylde og elasticitet. Reducerer fine linjer og efterlader huden frisk. Påfør på ren hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:10-04:00",
+      "created_at": "2025-05-26T07:20:14-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Gel",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304649290,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5861",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "249.00",
+          "grams": 175,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 7936272728138,
+          "created_at": "2025-05-26T07:20:14-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612469928010,
+          "created_at": "2025-05-26T07:20:14-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:14-04:00",
+          "product_id": 7936272728138,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5861-Doublehydrationgelpack-min.jpg?v=1748258414",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469960778,
+          "created_at": "2025-05-26T07:20:14-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:14-04:00",
+          "product_id": 7936272728138,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5861-Doublehydrationgelapplying-min_589a4818-afd8-4242-ba69-a4620456318f.jpg?v=1748258414",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469993546,
+          "created_at": "2025-05-26T07:20:14-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:14-04:00",
+          "product_id": 7936272728138,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5861-Doublehydrationgelapplied-min_eef49152-8fdf-43b9-9cc4-6c66d3fcf49a.jpg?v=1748258414",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470026314,
+          "created_at": "2025-05-26T07:20:14-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:14-04:00",
+          "product_id": 7936272728138,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5861-Doublehydrationgelshowcase-min.jpg?v=1748258414",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272662602,
+      "title": "Bright boost eye cream",
+      "handle": "brightening-eye-cream",
+      "body_html": "\u003cp\u003eØjencreme med økologiske planteingredienser der reducerer hævelser og mørke rande. Med hyaluronsyre der hjælper mod fine linjer og tørhed. \u003c\/p\u003e",
+      "published_at": "2025-05-26T07:20:01-04:00",
+      "created_at": "2025-05-26T07:20:08-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Øjencreme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304583754,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5817",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "239.00",
+          "grams": 152,
+          "compare_at_price": "239.00",
+          "position": 1,
+          "product_id": 7936272662602,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612469633098,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecream-min.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469665866,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliedbotheyes-min_2ea2644d-dee8-49e2-9215-b3466d37a28e.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469698634,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamprepare-min_60d9e5f1-27ca-4943-9782-8c360772f076.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469731402,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliying-min.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469764170,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamapplied-min.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469796938,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergelcombinewith-min_61749b7d-c84c-478c-817d-afd733c10f9c.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272597066,
+      "title": "Anti-age lift day cream",
+      "handle": "anti-age-day-cream",
+      "body_html": "\u003cp class=\"p1\"\u003eBlød creme med multi-molekylær hyaluronsyre, der fugter og giver en ungdommelig glød. Reducerer fine linjer og gør huden fastere.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:19:54-04:00",
+      "created_at": "2025-05-26T07:20:00-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Creme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304518218,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5809",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 181,
+          "compare_at_price": "399.00",
+          "position": 1,
+          "product_id": 7936272597066,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612469370954,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5809-Anti-ageliftdaycreampackshot-min.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469403722,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5809-Anti-ageliftdaycreamapplied-min_0458ac12-b8a4-4d63-843d-56d1577f539f.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469436490,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5809-Anti-ageliftdaycreamapplied2-min_f6c38035-b6f8-4547-9153-2d79a3d47009.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469469258,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5809-Anti-ageliftdaycreamshowcase-min.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469502026,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5809-Anti-ageliftdaycreamprepare-min.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469534794,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5809-Anti-ageliftdaycreambeforeappliane-min_b47c26d9-61cc-44a2-9245-675e6a64d4f2.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272498762,
+      "title": "Botox effect peptide serum",
+      "handle": "botox-like-peptide-serum",
+      "body_html": "\u003cp class=\"p1\"\u003eSerum med kraftfulde anti-age ingredienser, der giver fyldigere hud og øger elasticiteten. Blåbærkerneolie og ginkgo beskytter, mens peptider og hyaluronsyre mindsker rynker.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:19:48-04:00",
+      "created_at": "2025-05-26T07:19:52-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Serum",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110304419914,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5848",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 175,
+          "compare_at_price": "399.00",
+          "position": 1,
+          "product_id": 7936272498762,
+          "created_at": "2025-05-26T07:19:52-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612468977738,
+          "created_at": "2025-05-26T07:19:52-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:52-04:00",
+          "product_id": 7936272498762,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5848-Botoxeffectpeptideserum-min.jpg?v=1748258392",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469010506,
+          "created_at": "2025-05-26T07:19:52-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:52-04:00",
+          "product_id": 7936272498762,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5848-Botoxeffectpeptideserumbeforeappliance-min.jpg?v=1748258392",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469043274,
+          "created_at": "2025-05-26T07:19:52-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:52-04:00",
+          "product_id": 7936272498762,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5848-Botoxeffectpeptideserumprepare-min.jpg?v=1748258392",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469076042,
+          "created_at": "2025-05-26T07:19:52-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:52-04:00",
+          "product_id": 7936272498762,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5848-Botoxeffectpeptideserumapplied-min_4662ac27-b1dd-4034-8d4f-15dd9a05b848.jpg?v=1748258392",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272400458,
+      "title": "Collagen active lift serum",
+      "handle": "collagen-boost-serum",
+      "body_html": "\u003cp class=\"p1\"\u003eSerum der giver huden fugt og støtter kollagen for et yngre udseende. Huden bliver glattere og fastere. Let, hurtigtabsorberende tekstur der efterlader din hud frisk. Påfør på ren hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:19:41-04:00",
+      "created_at": "2025-05-26T07:19:47-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Serum",
+      "tags": ["tag__new_Nyhed"],
+      "variants": [
+        {
+          "id": 42110304321610,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5879",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "299.00",
+          "grams": 190,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7936272400458,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612468650058,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5879-Collagenactiveliftserum-min.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468682826,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5879-Collagenactiveliftserumapplying-min_93924c06-e865-4176-a9ca-230098422951.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468715594,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5879-Collagenactiveliftserumprepare-min.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468748362,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5879-Collagenactiveliftserumapplying2-min.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468781130,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5879-Collagenactiveliftserumfullfaceapplying-min.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468813898,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5879-Collagenactiveliftserumshowcase-min.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272302154,
+      "title": "Youth elixir oil serum",
+      "handle": "natural-retinol-alternative-oil-serum",
+      "body_html": "\u003cp\u003eNaturlig retinol-alternativ serum, der bevarer hudens elasticitet og fasthed. Med bakuchiol og hybenkerneolie der reducerer fine linjer og giver en ungdommelig glød.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:19:35-04:00",
+      "created_at": "2025-05-26T07:19:39-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Ansigtsolie",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304223306,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5858",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "389.00",
+          "grams": 197,
+          "compare_at_price": "389.00",
+          "position": 1,
+          "product_id": 7936272302154,
+          "created_at": "2025-05-26T07:19:40-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612468224074,
+          "created_at": "2025-05-26T07:19:39-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:39-04:00",
+          "product_id": 7936272302154,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5858-Youthelixiroilserumpack-min.jpg?v=1748258379",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468256842,
+          "created_at": "2025-05-26T07:19:39-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:39-04:00",
+          "product_id": 7936272302154,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5858-Youthelixiroilserumapply-min_1c83bd09-5b78-46ce-931f-6c8dd192631c.jpg?v=1748258379",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468289610,
+          "created_at": "2025-05-26T07:19:39-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:39-04:00",
+          "product_id": 7936272302154,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5858-Youthelixiroilserumprepare-min_c9eeb226-190d-490d-bbfe-f97976dd9f9a.jpg?v=1748258379",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468322378,
+          "created_at": "2025-05-26T07:19:39-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:39-04:00",
+          "product_id": 7936272302154,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5858-Youthelixiroilserumshowcase-min.jpg?v=1748258379",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272203850,
+      "title": "Niacinamide hydration gel",
+      "handle": "niacinamide-gel-moisturiser",
+      "body_html": "\u003cp\u003eFugtgivende gel med 5% niacinamid, der bevarer fugt, udglatter huden og reducerer ujævn hudtone samt pigmentpletter. Påfør på ren hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:19:29-04:00",
+      "created_at": "2025-05-26T07:19:34-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Creme",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110304125002,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5837",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "259.00",
+          "grams": 193,
+          "compare_at_price": "259.00",
+          "position": 1,
+          "product_id": 7936272203850,
+          "created_at": "2025-05-26T07:19:34-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612467732554,
+          "created_at": "2025-05-26T07:19:34-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:34-04:00",
+          "product_id": 7936272203850,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5837-Niacinamidehydrationgelpack-min.jpg?v=1748258374",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467765322,
+          "created_at": "2025-05-26T07:19:34-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:34-04:00",
+          "product_id": 7936272203850,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5837-Niacinamidehydrationgelappying-min_03e7622c-4ee1-4628-a604-b5181899a3de.jpg?v=1748258374",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467798090,
+          "created_at": "2025-05-26T07:19:34-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:34-04:00",
+          "product_id": 7936272203850,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5837-Niacinamidehydrationgelprepare-min.jpg?v=1748258374",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467830858,
+          "created_at": "2025-05-26T07:19:34-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:34-04:00",
+          "product_id": 7936272203850,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5837-Niacinamidehydrationgelshowcase-min.jpg?v=1748258374",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272105546,
+      "title": "Tinted mineral sunscreen SPF30",
+      "handle": "sunscreen-spf30-with-tint",
+      "body_html": "\u003cp\u003eMineral solcreme med SPF30. Let at påføre, uden hvidt skær, og blender med hudtonen. Med omega-rig havtorn og hyaluronsyre for ekstra fugt.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:19:24-04:00",
+      "created_at": "2025-05-26T07:19:28-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Solcreme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304026698,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A9519",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "249.00",
+          "grams": 165,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 7936272105546,
+          "created_at": "2025-05-26T07:19:28-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612467470410,
+          "created_at": "2025-05-26T07:19:28-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:28-04:00",
+          "product_id": 7936272105546,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A9519-TintedmineralsunscreenSPF30pack-min.jpg?v=1748258368",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467503178,
+          "created_at": "2025-05-26T07:19:28-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:28-04:00",
+          "product_id": 7936272105546,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A9519-TintedmineralsunscreenSPF30apply-min.jpg?v=1748258368",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467535946,
+          "created_at": "2025-05-26T07:19:28-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:28-04:00",
+          "product_id": 7936272105546,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A9519-TintedmineralsunscreenSPF30applied-min.jpg?v=1748258368",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467568714,
+          "created_at": "2025-05-26T07:19:28-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:28-04:00",
+          "product_id": 7936272105546,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A9519-TintedmineralsunscreenSPF30showcase-min.jpg?v=1748258368",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936272072778,
+      "title": "Vitamin C serum",
+      "handle": "vitamin-c-serum-30ml",
+      "body_html": "\u003cp\u003eSerum der lysner og udjævner hudtonen. Ferulinsyre styrker huden, mens hyaluronsyre øger fugtniveauet. Nærende serum der blødgør huden og giver en strålende, ungdommelig glød. Påfør på ren hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:19:16-04:00",
+      "created_at": "2025-05-26T07:19:21-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Serum",
+      "tags": ["tag__new_Nyhed"],
+      "variants": [
+        {
+          "id": 42110303993930,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5857",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "349.00",
+          "grams": 160,
+          "compare_at_price": "349.00",
+          "position": 1,
+          "product_id": 7936272072778,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612467306570,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:22-04:00",
+          "product_id": 7936272072778,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5857-VitaminCserumpack-min.jpg?v=1748258362",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467339338,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:22-04:00",
+          "product_id": 7936272072778,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5857-VitaminCserumapply-min_4759c73e-a3ec-4b43-b8eb-b7563106bb02.jpg?v=1748258362",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467372106,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:22-04:00",
+          "product_id": 7936272072778,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5857-VitaminCserumprepare-min_a2cec62d-01be-4758-8ba3-9fe499ad0d86.jpg?v=1748258362",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467404874,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:22-04:00",
+          "product_id": 7936272072778,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5857-VitaminCserumshowcase-min.jpg?v=1748258362",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467437642,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:19:22-04:00",
+          "product_id": 7936272072778,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5857-VitaminCserum-lemons.jpg?v=1748258362",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271974474,
+      "title": "Oil-free hydra boost",
+      "handle": "oil-free-hydrating-gel-50ml",
+      "body_html": "\u003cp\u003eOliefri ansigtsgel med hyaluronsyre, betain og vandkarseekstrakt. Giver dyb fugt og efterlader huden frisk og fyldig. God til fedtet hud. Påfør på ren hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:19:10-04:00",
+      "created_at": "2025-05-26T07:19:15-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Gel",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303895626,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5811",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "249.00",
+          "grams": 193,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 7936271974474,
+          "created_at": "2025-05-26T07:19:15-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612466913354,
+          "created_at": "2025-05-26T07:19:15-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:15-04:00",
+          "product_id": 7936271974474,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5811-Oil-freehydraboost_pack-min.jpg?v=1748258355",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466946122,
+          "created_at": "2025-05-26T07:19:15-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:15-04:00",
+          "product_id": 7936271974474,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5811-Oil-freehydraboost_applied-min_d4823e76-8395-4a14-a8cf-a2f4b46f91a0.jpg?v=1748258355",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466978890,
+          "created_at": "2025-05-26T07:19:15-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:15-04:00",
+          "product_id": 7936271974474,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5811-Oil-freehydraboost_prepare-min.jpg?v=1748258355",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467011658,
+          "created_at": "2025-05-26T07:19:15-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:15-04:00",
+          "product_id": 7936271974474,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5811-Oil-freehydraboost_showcase-min.jpg?v=1748258355",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271876170,
+      "title": "Glycolic clear exfoliator liquid",
+      "handle": "glycolic-acid-liquid-exfoliator",
+      "body_html": "\u003cp\u003eSkånsom eksfoliator med 3,5% glykolsyre, der udjævner hudtonen og giver glattere, lysere hud. Brug et par gange ugentligt om aftenen på ren, tør hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:19:02-04:00",
+      "created_at": "2025-05-26T07:19:08-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Exfoliator",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303797322,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5865",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "289.00",
+          "grams": 300,
+          "compare_at_price": "289.00",
+          "position": 1,
+          "product_id": 7936271876170,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612466585674,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:08-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5865-Glycolicclearexfoliatorliquidpack-min.jpg?v=1748258348",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466618442,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:08-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5865-Glycolicclearexfoliatorliquidremovemakeup-min_a8b47fef-f0ed-4723-b299-cffd7e581521.jpg?v=1748258348",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466651210,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:09-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5865-Glycolicclearexfoliatorliquidprepare-min_003ebe6c-318f-48b3-9aff-a872e054458b.jpg?v=1748258349",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466683978,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:09-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5865-Glycolicclearexfoliatorliquidapply2-min.jpg?v=1748258349",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466716746,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:19:09-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5865-Glycolicclearexfoliatorliquidresult-min.jpg?v=1748258349",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466749514,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:19:09-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5865-Glycolicclearexfoliatorliquidapply-min.jpg?v=1748258349",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271810634,
+      "title": "Caffeine booster gel",
+      "handle": "caffeine-gel-booster",
+      "body_html": "\u003cp class=\"p1\"\u003eGel med 1% koffein mod hævelser og træt hud. Perfekt til øjenområdet. Bland 1-3 dråber i din ansigts- eller øjencreme.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:18:55-04:00",
+      "created_at": "2025-05-26T07:19:00-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Gel",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303731786,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5820",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "299.00",
+          "grams": 159,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7936271810634,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612466356298,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:00-04:00",
+          "product_id": 7936271810634,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergel-min.jpg?v=1748258340",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466389066,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:00-04:00",
+          "product_id": 7936271810634,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergelprepare-min_a248cef2-28dd-4b3f-bd14-a64bd32433a4.jpg?v=1748258340",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466421834,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:00-04:00",
+          "product_id": 7936271810634,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergelapply-min.jpg?v=1748258340",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466454602,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:00-04:00",
+          "product_id": 7936271810634,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergelapplied-min.jpg?v=1748258340",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466487370,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:19:01-04:00",
+          "product_id": 7936271810634,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergelcombinewith-min.jpg?v=1748258341",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271712330,
+      "title": "Silky hydrating serum",
+      "handle": "hydrating-serum",
+      "body_html": "\u003cp\u003eLet og blød serum, der giver et fugtgivende boost for en frisk glød hele dagen. Med bisabolol der beroliger, og multebær- og pæon-ekstrakter som nærer huden. Påfør på ren hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:18:49-04:00",
+      "created_at": "2025-05-26T07:18:53-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Serum",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303633482,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5813",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 156,
+          "compare_at_price": "399.00",
+          "position": 1,
+          "product_id": 7936271712330,
+          "created_at": "2025-05-26T07:18:54-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612466094154,
+          "created_at": "2025-05-26T07:18:54-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:54-04:00",
+          "product_id": 7936271712330,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5813-Silkyhydratingserum-min.jpg?v=1748258334",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466126922,
+          "created_at": "2025-05-26T07:18:54-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:54-04:00",
+          "product_id": 7936271712330,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5813-Silkyhydratingserumapply-min.jpg?v=1748258334",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466159690,
+          "created_at": "2025-05-26T07:18:54-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:54-04:00",
+          "product_id": 7936271712330,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5813-Silkyhydratingserumprepare-min.jpg?v=1748258334",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466192458,
+          "created_at": "2025-05-26T07:18:54-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:54-04:00",
+          "product_id": 7936271712330,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5813-Silkyhydratingserumshowcase-min.jpg?v=1748258334",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271614026,
+      "title": "Oil-to-milk cleanser",
+      "handle": "oil-to-milk-cleanser",
+      "body_html": "\u003cp\u003eOlierig tekstur, der bliver til silkeblød mælk og fjerner makeup og urenheder. Efterlader huden frisk og næret. Skånsom mod tør og sart hud. Påfør, massér og skyl af. Undgå øjnene.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:18:43-04:00",
+      "created_at": "2025-05-26T07:18:48-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Cleanser",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303535178,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5924",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "249.00",
+          "grams": 201,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 7936271614026,
+          "created_at": "2025-05-26T07:18:48-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612465832010,
+          "created_at": "2025-05-26T07:18:48-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:48-04:00",
+          "product_id": 7936271614026,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5924-Oil-to-milkcleanserpack-min.jpg?v=1748258328",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465864778,
+          "created_at": "2025-05-26T07:18:48-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:48-04:00",
+          "product_id": 7936271614026,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5924-Oil-to-milkcleanserapply-min_7549dda0-8d90-46be-8bb2-6d802d31b406.jpg?v=1748258328",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465897546,
+          "created_at": "2025-05-26T07:18:48-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:48-04:00",
+          "product_id": 7936271614026,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5924-Oil-to-milkcleanserprepare-min.jpg?v=1748258328",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465930314,
+          "created_at": "2025-05-26T07:18:48-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:48-04:00",
+          "product_id": 7936271614026,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5924-Oil-to-milkcleansershowcase-min.jpg?v=1748258328",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271515722,
+      "title": "Antioxidant defense gel booster",
+      "handle": "antioxidant-ginkgo-gel-booster",
+      "body_html": "\u003cp class=\"p1\"\u003eEn gel rig på antioxidanter, der beskytter huden mod skadelige miljøpåvirkninger. Træt og kedelig hud får friskhed og et ungdommeligt udseende tilbage. Bland 1-3 dråber i din ansigts- eller kropscreme.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:18:36-04:00",
+      "created_at": "2025-05-26T07:18:42-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Gel",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303436874,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5819-30",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "249.00",
+          "grams": 197,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 7936271515722,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612465537098,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:42-04:00",
+          "product_id": 7936271515722,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5819-30-Antioxidantdefensegelbooster-min.jpg?v=1748258322",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465569866,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:42-04:00",
+          "product_id": 7936271515722,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5819-30-Antioxidantdefensegelboostershowcase-min.jpg?v=1748258322",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465602634,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:42-04:00",
+          "product_id": 7936271515722,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5819-30-Antioxidantdefensegelboosterprepare-min.jpg?v=1748258322",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465635402,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:42-04:00",
+          "product_id": 7936271515722,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5819-30-Antioxidantdefensegelboosterpreparewithcream-min.jpg?v=1748258322",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465668170,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:18:42-04:00",
+          "product_id": 7936271515722,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Louiseafteruse2-min.jpg?v=1748258322",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271384650,
+      "title": "Pure micellar cleansing water",
+      "handle": "micellar-cleansing-water",
+      "body_html": "\u003cp data-pm-slice=\"1 1 []\"\u003e\u003cspan\u003eFjern make-up skånsomt med Micellar Cleansing Water. Med hyaluronsyre, lindeblomst og kamilleekstrakt for en ren og frisk hud, der føles fugtet og beroliget.\u003c\/span\u003e\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:18:31-04:00",
+      "created_at": "2025-05-26T07:18:35-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Cleanser",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303305802,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5804",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "199.00",
+          "grams": 349,
+          "compare_at_price": "199.00",
+          "position": 1,
+          "product_id": 7936271384650,
+          "created_at": "2025-05-26T07:18:35-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612462161994,
+          "created_at": "2025-05-26T07:18:35-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:35-04:00",
+          "product_id": 7936271384650,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5804-Puremicellarcleansingwaterpack-min.jpg?v=1748258315",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612462194762,
+          "created_at": "2025-05-26T07:18:35-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:35-04:00",
+          "product_id": 7936271384650,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5804-Puremicellarcleansingwaterapply-min.jpg?v=1748258315",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612462227530,
+          "created_at": "2025-05-26T07:18:35-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:35-04:00",
+          "product_id": 7936271384650,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5804-Puremicellarcleansingwaterresult-min.jpg?v=1748258315",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612462293066,
+          "created_at": "2025-05-26T07:18:35-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:35-04:00",
+          "product_id": 7936271384650,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5804-Puremicellarcleansingwatershowcase-min.jpg?v=1748258315",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271351882,
+      "title": "Collagen anti-age night cream",
+      "handle": "collagen-anti-age-night-cream",
+      "body_html": "\u003cp\u003eMarine plankton-ekstrakt støtter din kollagenproduktion natten over. Reducerer rynker, giver fyldigere hud og fugtgivende boost. Påfør om aftenen på ren hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:18:24-04:00",
+      "created_at": "2025-05-26T07:18:29-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Creme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303273034,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5877",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "389.00",
+          "grams": 175,
+          "compare_at_price": "389.00",
+          "position": 1,
+          "product_id": 7936271351882,
+          "created_at": "2025-05-26T07:18:29-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612461703242,
+          "created_at": "2025-05-26T07:18:29-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:29-04:00",
+          "product_id": 7936271351882,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5877-Collagenanti-agenightcreampack.jpg?v=1748258309",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461736010,
+          "created_at": "2025-05-26T07:18:29-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:29-04:00",
+          "product_id": 7936271351882,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5877-Collagenanti-agenightcreamapllied.jpg?v=1748258309",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461768778,
+          "created_at": "2025-05-26T07:18:29-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:29-04:00",
+          "product_id": 7936271351882,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5877-Collagenanti-agenightcreamprepare.jpg?v=1748258309",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461801546,
+          "created_at": "2025-05-26T07:18:29-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:29-04:00",
+          "product_id": 7936271351882,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5877-Collagenanti-agenightcreamshowcase.jpg?v=1748258309",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271286346,
+      "title": "All-in-one facial oil",
+      "handle": "all-in-one-facial-oil",
+      "body_html": "\u003cp class=\"p1\"\u003eDenne all-round ansigtsolie fugter og giver huden et energiboost. Påfør på ren hud. Undgå kontakt med øjnene.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:18:18-04:00",
+      "created_at": "2025-05-26T07:18:23-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Ansigtsolie",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110303207498,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5853",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "289.00",
+          "grams": 197,
+          "compare_at_price": "289.00",
+          "position": 1,
+          "product_id": 7936271286346,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612461473866,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoil-min.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461506634,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilprepare-min.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461539402,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilapply-min_a83b3556-2639-4148-9288-dc258ccec1ad.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461572170,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilapplied-min.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461604938,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilshowcase-min.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271188042,
+      "title": "Hydrating day cream",
+      "handle": "moisturising-day-cream",
+      "body_html": "\u003cp\u003eDagcreme der fugter og nærer hurtigt. Med hyaluronsyre og bisabolol der giver fyldig, frisk hud, med rønnebærekstrakt der beskytter huden. Til normal og tør hud. Påfør på ren hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:18:10-04:00",
+      "created_at": "2025-05-26T07:18:16-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Creme",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110303109194,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5807",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "289.00",
+          "grams": 181,
+          "compare_at_price": "289.00",
+          "position": 1,
+          "product_id": 7936271188042,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612461178954,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:16-04:00",
+          "product_id": 7936271188042,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5807-Hydratingdaycreampack-min.jpg?v=1748258296",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461211722,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:16-04:00",
+          "product_id": 7936271188042,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5807-Hydratingdaycreamapply-min_42e7c51e-5581-480a-9252-a0ba17dc77d2.jpg?v=1748258296",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461244490,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:16-04:00",
+          "product_id": 7936271188042,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5807-Hydratingdaycreamprepare-min.jpg?v=1748258296",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461277258,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:16-04:00",
+          "product_id": 7936271188042,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5807-Hydratingdaycreamapplying-min_40729a18-6c62-4a79-9b33-6cdcb56d4ff6.jpg?v=1748258296",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461310026,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:18:16-04:00",
+          "product_id": 7936271188042,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5807-Hydratingdaycreamshowcase-min.jpg?v=1748258296",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936271089738,
+      "title": "Ceramide smooth eye cream",
+      "handle": "smoothing-eye-cream-1",
+      "body_html": "\u003cp\u003eStrammer og glatter din hud omkring øjnene. Med ceramider der beskytter og bevarer fugten. Giver fasthed og mere elasticitet. Øjenområdet ser friskere og yngre ud. Påfør på ren hud omkring øjnene.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:18:03-04:00",
+      "created_at": "2025-05-26T07:18:09-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Øjencreme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303010890,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5816",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "299.00",
+          "grams": 138,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7936271089738,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612460884042,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:09-04:00",
+          "product_id": 7936271089738,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5816-Ceramidesmootheyecreampack-min.jpg?v=1748258289",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460916810,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:09-04:00",
+          "product_id": 7936271089738,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5816-Ceramidesmootheyecream-min.jpg?v=1748258289",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460949578,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:09-04:00",
+          "product_id": 7936271089738,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5816-Ceramidesmootheyecreamprepare-min.jpg?v=1748258289",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460982346,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:09-04:00",
+          "product_id": 7936271089738,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5816-Ceramidesmootheyecreamapplying-min.jpg?v=1748258289",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461015114,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:18:09-04:00",
+          "product_id": 7936271089738,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5816-Ceramidesmootheyecreamshowcase-min.jpg?v=1748258289",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936270958666,
+      "title": "Ceramide night cream moisturizer",
+      "handle": "ceramide-hydrating-night-cream",
+      "body_html": "\u003cp class=\"p1\"\u003eNat creme der arbejder natten over for at forny huden og give en strålende glød. Med ceramider der styrker hudens naturlige barriere, så du vågner med en sund og frisk hud. Påfør på ren hud om aftenen.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:57-04:00",
+      "created_at": "2025-05-26T07:18:02-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Creme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110302879818,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5923",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "269.00",
+          "grams": 175,
+          "compare_at_price": "269.00",
+          "position": 1,
+          "product_id": 7936270958666,
+          "created_at": "2025-05-26T07:18:02-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612460621898,
+          "created_at": "2025-05-26T07:18:02-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:02-04:00",
+          "product_id": 7936270958666,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5923-Ceramidenightcreammoisturizer-min.jpg?v=1748258282",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460654666,
+          "created_at": "2025-05-26T07:18:02-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:02-04:00",
+          "product_id": 7936270958666,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5923-Ceramidenightcreammoisturizerapplied-min.jpg?v=1748258282",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460687434,
+          "created_at": "2025-05-26T07:18:02-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:02-04:00",
+          "product_id": 7936270958666,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5923-Ceramidenightcreammoisturizerprepare-min.jpg?v=1748258282",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460720202,
+          "created_at": "2025-05-26T07:18:02-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:02-04:00",
+          "product_id": 7936270958666,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5923-Ceramidenightcreammoisturizershowcase-min.jpg?v=1748258282",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936270860362,
+      "title": "Clear skin routine sæt",
+      "handle": "clear-skin-routine",
+      "body_html": "\u003cp\u003eFå en komplet hudplejerutine med dette bundle. Rens huden med Silk Cleansing Foam, eksfoliér med AHA Exfolient Peel Concentrate, behandl udbrud med Acne Spot Treatment, og brug Hydrating Day Cream for langvarig fugt til hele dagen.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:51-04:00",
+      "created_at": "2025-05-26T07:17:56-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110302781514,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM004",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1036.00",
+          "grams": 0,
+          "compare_at_price": "1036.00",
+          "position": 1,
+          "product_id": 7936270860362,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612460261450,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:56-04:00",
+          "product_id": 7936270860362,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Clearskinroutinesaetpack-min.jpg?v=1748258276",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460294218,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:56-04:00",
+          "product_id": 7936270860362,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5851_-_Acne_spot_treatment_applying-min.jpg?v=1748258276",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460326986,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:56-04:00",
+          "product_id": 7936270860362,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5811-Oil-freehydraboost_applied-min.jpg?v=1748258276",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460359754,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:56-04:00",
+          "product_id": 7936270860362,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateappliance-min_de960b13-7d5f-4641-80de-247108352878.jpg?v=1748258276",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460392522,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:56-04:00",
+          "product_id": 7936270860362,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Clearskinroutinesaetshowcase-min.jpg?v=1748258276",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936270794826,
+      "title": "Acne spot trio treatment sæt",
+      "handle": "acne-spot-trio-treatment",
+      "body_html": "\u003cp class=\"p1\"\u003eFå kontrol over dine urenheder med denne effektive trio. Start med \u003cstrong\u003eSilk Cleansing Foam\u003c\/strong\u003e, der skånsomt renser huden og fjerner urenheder. Brug derefter \u003cstrong\u003eAcne Spot Treatment\u003c\/strong\u003e for målrettet at behandle udbrud og reducere rødme. Med \u003cstrong\u003eInvisible Miracle Patch\u003c\/strong\u003e, kan du diskret behandle dine urenheder og udbrud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:45-04:00",
+      "created_at": "2025-05-26T07:17:49-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42222928920650,
+          "title": "250ml",
+          "option1": "250ml",
+          "option2": null,
+          "option3": null,
+          "sku": "MM001",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "459.00",
+          "grams": 0,
+          "compare_at_price": "457.00",
+          "position": 1,
+          "product_id": 7936270794826,
+          "created_at": "2025-06-25T08:54:16-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        },
+        {
+          "id": 42222928953418,
+          "title": "500ml",
+          "option1": "500ml",
+          "option2": null,
+          "option3": null,
+          "sku": "MM002",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1250.95",
+          "grams": 0,
+          "compare_at_price": "457.00",
+          "position": 2,
+          "product_id": 7936270794826,
+          "created_at": "2025-06-25T08:54:16-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612460064842,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:49-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Acnespottriotreatmentsaetpack-min.jpg?v=1748258269",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460097610,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 2,
+          "updated_at": "2026-07-08T08:56:45-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_mod_A5852-Silkcleansingfoamapplying-min_1d2ae25d-d47b-44cd-98b2-9e016339db8c.jpg?v=1783515405",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460130378,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 3,
+          "updated_at": "2026-07-08T09:01:25-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_gen_A5852-Silkcleansingfoamprepare-min.jpg?v=1783515685",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460163146,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 4,
+          "updated_at": "2026-07-08T09:01:32-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_Acnespottriotreatmentsaetshowcase-min.jpg?v=1783515692",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Size", "position": 1, "values": ["250ml", "500ml"] }
+      ]
+    },
+    {
+      "id": 7936270729290,
+      "title": "Miracle patch power duo sæt",
+      "handle": "miracle-patch-power-duo",
+      "body_html": "\u003cp\u003eTag fuld kontrol over dine urenheder, dag og nat, med denne effektive duo. Night Repair Miracle Patch arbejder intensivt, mens du sover, og sikrer dig en renere og roligere hud til morgenen. Dette natplaster bliver siddende hele natten og giver en dybdegående behandling af bumser og urenheder, så du kan vågne op til bekæmpet urenheder.\u003c\/p\u003e\n\u003cp\u003eBrug Invisible Miracle Patch til dagen. Dette ultratynde hydrocolloid-lag behandler urenheder diskret, mens det går i ét med din hud. Perfekt til at bære under makeup eller uden, så du kan føle dig selvsikker og klar til dagen, uden at bekymre dig om synlige urenheder.\u003c\/p\u003e\n\u003cp\u003eBegge plastre er beriget med effektive ingredienser som salicylsyre, tea tree-olie og centella, der tilsammen opløser overskydende olie og snavs, reducerer rødme og fremmer hudens heling. Med Night Repair Miracle Patch om natten og Invisible Miracle Patch om dagen får du en komplet løsning til behandling af urenheder, døgnet rundt.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:41-04:00",
+      "created_at": "2025-05-26T07:17:44-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110302650442,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM013",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "258.00",
+          "grams": 0,
+          "compare_at_price": "258.00",
+          "position": 1,
+          "product_id": 7936270729290,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612459835466,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:44-04:00",
+          "product_id": 7936270729290,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Miraclepatchpowerduosaetpack-min.jpg?v=1748258264",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459868234,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:44-04:00",
+          "product_id": 7936270729290,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowclose-min.jpg?v=1748258264",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459901002,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:44-04:00",
+          "product_id": 7936270729290,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Miraclepatchpowerduosaetshowcase-min.jpg?v=1748258264",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936270663754,
+      "title": "Hydration routine sæt",
+      "handle": "hydration-routine",
+      "body_html": "\u003cp\u003eFå intensiv fugt med denne trio. Start med Oil-to-Milk Cleanser for en skånsom rens, brug derefter Double Hydration Gel for dybdegående hydrering, og afslut med Hydrating Day Cream for langvarig fugt. En enkel rutine for blød og hydreret hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:34-04:00",
+      "created_at": "2025-05-26T07:17:39-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301929546,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM011",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1106.00",
+          "grams": 0,
+          "compare_at_price": "1106.00",
+          "position": 1,
+          "product_id": 7936270663754,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612459573322,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:39-04:00",
+          "product_id": 7936270663754,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Hydrationroutinesaetpack-min.jpg?v=1748258259",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459606090,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:40-04:00",
+          "product_id": 7936270663754,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5924-Oil-to-milkcleanserapply-min_41bdcad1-7d97-46fd-bd1d-5150c6e2c674.jpg?v=1748258260",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459638858,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:40-04:00",
+          "product_id": 7936270663754,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateappliance-min.jpg?v=1748258260",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459671626,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:40-04:00",
+          "product_id": 7936270663754,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5807-Hydratingdaycreamapply-min.jpg?v=1748258260",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459704394,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:40-04:00",
+          "product_id": 7936270663754,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5861-Doublehydrationgelapplying-min_9e2c37ae-43b5-401d-9202-55454ef3cead.jpg?v=1748258260",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936270598218,
+      "title": "Glow up routine sæt",
+      "handle": "glow-up-routine",
+      "body_html": "\u003cp\u003eFå en frisk og fugtig hud med denne trio. Rens blidt med Silk Cleansing Foam, brug derefter All-in-One Facial Oil for at pleje og nærer huden, og afslut med Hydrating Day Cream for langvarig fugt hele dagen. Enkel rutine for en blød og strålende hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:28-04:00",
+      "created_at": "2025-05-26T07:17:33-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301864010,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM007",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "777.00",
+          "grams": 0,
+          "compare_at_price": "777.00",
+          "position": 1,
+          "product_id": 7936270598218,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612459343946,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:33-04:00",
+          "product_id": 7936270598218,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Glowuproutinesaetpack-min.jpg?v=1748258253",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459376714,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:33-04:00",
+          "product_id": 7936270598218,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5852-Silkcleansingfoamapplying-min.jpg?v=1748258253",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459409482,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:33-04:00",
+          "product_id": 7936270598218,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilapply-min.jpg?v=1748258253",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459442250,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:33-04:00",
+          "product_id": 7936270598218,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5807-Hydratingdaycreamapplying-min_0cf6df0c-c6c9-414c-96f9-08b8d4bc9894.jpg?v=1748258253",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459475018,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:33-04:00",
+          "product_id": 7936270598218,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Glowuproutinesaetshowcase-min.jpg?v=1748258253",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936270499914,
+      "title": "Skin renew routine sæt",
+      "handle": "skin-renew-routine",
+      "body_html": "\u003cp\u003eFå effektiv anti-age pleje med denne trio. Start med Botox Effect Peptide Serum for at reducere fine linjer, brug Anti-Age Lift Day Cream for at opstramme og fugte huden, og afslut med Ceramide Smooth Eye Cream for at glatte og beskytte øjenområdet. Perfekt rutine for en fast og ungdommelig hud hele dagen.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:20-04:00",
+      "created_at": "2025-05-26T07:17:26-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301765706,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM018",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1097.00",
+          "grams": 0,
+          "compare_at_price": "1097.00",
+          "position": 1,
+          "product_id": 7936270499914,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612458983498,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Skinrenewroutinesaetpack-min.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459016266,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5848-Botoxeffectpeptideserumapplied-min_aaaed0f0-a8ff-4568-acf7-00155838c89d.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459049034,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5809-Anti-ageliftdaycreamapplied-min_bff3aa06-fc18-405c-a49c-bdb0a6e8c0e4.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459081802,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Skinrenewroutinesaetresult-min.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459114570,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5809-Anti-ageliftdaycreamapplied2-min.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459147338,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Skinrenewroutinesaetshowcase-min.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936270401610,
+      "title": "Renew \u0026 lift boost sæt",
+      "handle": "renew-lift-boost",
+      "body_html": "\u003cp\u003eOpnå en fast og ungdommelig hud med denne kraftfulde trio. Start med Botox Effect Peptide Serum for at reducere fine linjer, brug derefter Collagen Active Lift Serum for at forbedre hudens fasthed, og afslut med Youth Elixir Oil Serum for en strålende glød. Perfekt rutine til en opstrammet hud med ungdommelig glød.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:14-04:00",
+      "created_at": "2025-05-26T07:17:18-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301667402,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM016",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1087.00",
+          "grams": 0,
+          "compare_at_price": "1087.00",
+          "position": 1,
+          "product_id": 7936270401610,
+          "created_at": "2025-05-26T07:17:19-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612458786890,
+          "created_at": "2025-05-26T07:17:18-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:18-04:00",
+          "product_id": 7936270401610,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Renew_liftboostsaet-min.jpg?v=1748258238",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458819658,
+          "created_at": "2025-05-26T07:17:18-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:18-04:00",
+          "product_id": 7936270401610,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5848-Botoxeffectpeptideserumapplied-min.jpg?v=1748258238",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458852426,
+          "created_at": "2025-05-26T07:17:18-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:18-04:00",
+          "product_id": 7936270401610,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5858-Youthelixiroilserumapply-min_e8af2ee9-006a-488b-a11a-2ff211e82223.jpg?v=1748258238",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458885194,
+          "created_at": "2025-05-26T07:17:19-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:18-04:00",
+          "product_id": 7936270401610,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5879-Collagenactiveliftserumapplying-min.jpg?v=1748258238",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936270303306,
+      "title": "Renew essentials sæt",
+      "handle": "renew-essentials",
+      "body_html": "\u003cp\u003eFå komplet anti-age pleje med denne trio. Start dagen med Anti-Age Lift Day Cream for at opstramme og beskytte huden, brug Youth Elixir Oil Serum for en ungdommelig glød, og afslut om aftenen med Ceramide Night Cream Moisturizer for dyb hydrering og styrkelse af hudens barriere. Enkel rutine for en fast og strålende ungdommelig hud døgnet rundt.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:08-04:00",
+      "created_at": "2025-05-26T07:17:13-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301569098,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM017",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1057.00",
+          "grams": 0,
+          "compare_at_price": "1057.00",
+          "position": 1,
+          "product_id": 7936270303306,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612458426442,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:13-04:00",
+          "product_id": 7936270303306,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Renewessentialssaetpack-min.jpg?v=1748258233",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458459210,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:13-04:00",
+          "product_id": 7936270303306,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5809-Anti-ageliftdaycreamapplied-min.jpg?v=1748258233",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458491978,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:13-04:00",
+          "product_id": 7936270303306,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5858-Youthelixiroilserumprepare-min.jpg?v=1748258233",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458524746,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:13-04:00",
+          "product_id": 7936270303306,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5809-Anti-ageliftdaycreambeforeappliane-min.jpg?v=1748258233",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458557514,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:13-04:00",
+          "product_id": 7936270303306,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Renewessentialssaetshowcase-min.jpg?v=1748258233",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936270205002,
+      "title": "Glow \u0026 tone control sæt",
+      "handle": "glow-tone-control",
+      "body_html": "\u003cp\u003eOpnå den tone og glød du ønsker for din hud med dette kraftfulde trio bundle. Start med Glycolic Clear Exfoliator Liquid for at fjerne døde hudceller, påfør Vitamin C Serum for en lysere og mere ensartet hudtone, og afslut med Niacinamide Hydration Gel for et fugtgivende boost og udglatte huden. Den perfekte rutine til at opnå en unik glød.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:17:00-04:00",
+      "created_at": "2025-05-26T07:17:06-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301470794,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM005",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "897.00",
+          "grams": 0,
+          "compare_at_price": "897.00",
+          "position": 1,
+          "product_id": 7936270205002,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612458098762,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Glow_tonecontrolsaetpack-min.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458131530,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Glow_tonecontrolsaetshowcase-min.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458164298,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5865-Glycolicclearexfoliatorliquidremovemakeup-min_aabe3837-d63e-4511-9bfd-edfd640abdd4.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458197066,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5865-Glycolicclearexfoliatorliquidprepare-min.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458229834,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5857-VitaminCserumapply-min_7c0421bd-b378-45d2-a9e0-f7d34f98ee00.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458262602,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5837-Niacinamidehydrationgelappying-min_474f2e6b-1d9a-44ad-9048-a2b70ca373d3.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936270041162,
+      "title": "Pigment control duo sæt",
+      "handle": "pigment-control-duo",
+      "body_html": "\u003cp\u003eFå strålende hud med denne effektive duo. Eksfoliér med Glycolic Clear Exfoliator Liquid til at fjerne døde hudceller og forny hudens overflade. Brug derefter Niacinamide Hydration Gel for at tilføre fugt og forbedre hudtonen. Simpel rutine for en frisk og hydreret hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:16:54-04:00",
+      "created_at": "2025-05-26T07:16:58-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301306954,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM015",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "548.00",
+          "grams": 0,
+          "compare_at_price": "548.00",
+          "position": 1,
+          "product_id": 7936270041162,
+          "created_at": "2025-05-26T07:16:58-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612457836618,
+          "created_at": "2025-05-26T07:16:58-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:58-04:00",
+          "product_id": 7936270041162,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Pigmentcontrolduosaetpack-min.jpg?v=1748258218",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457869386,
+          "created_at": "2025-05-26T07:16:58-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:58-04:00",
+          "product_id": 7936270041162,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5865-Glycolicclearexfoliatorliquidremovemakeup-min.jpg?v=1748258218",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457902154,
+          "created_at": "2025-05-26T07:16:58-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:58-04:00",
+          "product_id": 7936270041162,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5837-Niacinamidehydrationgelappying-min.jpg?v=1748258218",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457934922,
+          "created_at": "2025-05-26T07:16:58-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:58-04:00",
+          "product_id": 7936270041162,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Pigmentcontrolduosaetshpowcase-min.jpg?v=1748258218",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936269975626,
+      "title": "Awake \u0026 bright eyes sæt",
+      "handle": "awake-bright-eyes",
+      "body_html": "\u003cp\u003eGiv dine øjne et energiboost med denne duo! Brug Bright Boost Eye Cream til at lysne og opfriske øjenområdet, og påfør derefter Caffeine Booster Gel for at reducere hævelser og som giver et øjeblikkelig boost. Perfekt til friske, vågne øjne hele dagen.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:16:48-04:00",
+      "created_at": "2025-05-26T07:16:53-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44228680450122,
+          "title": "Angora",
+          "option1": "Angora",
+          "option2": null,
+          "option3": null,
+          "sku": "MM002",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "538.00",
+          "grams": 0,
+          "compare_at_price": "538.00",
+          "position": 1,
+          "product_id": 7936269975626,
+          "created_at": "2026-09-17T12:52:04-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612457607242,
+          "created_at": "2025-05-26T07:16:53-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:53-04:00",
+          "product_id": 7936269975626,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Awake_brighteyessaetpack-min.jpg?v=1748258213",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457640010,
+          "created_at": "2025-05-26T07:16:53-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:53-04:00",
+          "product_id": 7936269975626,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliedbotheyes-min.jpg?v=1748258213",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457672778,
+          "created_at": "2025-05-26T07:16:53-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:53-04:00",
+          "product_id": 7936269975626,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Awake_brighteyessaetshowcase-min.jpg?v=1748258213",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457705546,
+          "created_at": "2025-05-26T07:16:53-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:53-04:00",
+          "product_id": 7936269975626,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamprepare-min.jpg?v=1748258213",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457738314,
+          "created_at": "2025-05-26T07:16:53-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:16:53-04:00",
+          "product_id": 7936269975626,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergelprepare-min.jpg?v=1748258213",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [{ "name": "Material", "position": 1, "values": ["Angora"] }]
+    },
+    {
+      "id": 7936269877322,
+      "title": "Glow revival trio sæt",
+      "handle": "glow-revival-trio",
+      "body_html": "\u003cp\u003eFugtgivende og fornyende hudpleje i ét bundle. Start med Double Hydration Gel for intensiv fugt, påfør Vitamin C Serum for en lysere hudtone, og afslut med Youth Elixir Oil Serum for en ungdommelig glød.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:16:40-04:00",
+      "created_at": "2025-05-26T07:16:46-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301143114,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM006",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "987.00",
+          "grams": 0,
+          "compare_at_price": "987.00",
+          "position": 1,
+          "product_id": 7936269877322,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612457345098,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Glowrevivaltriosaetpack-min.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457377866,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5858-Youthelixiroilserumapply-min.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457410634,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5857-VitaminCserumapply-min.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457443402,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5857-VitaminCserumprepare-min.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457476170,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5861-Doublehydrationgelapplied-min.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457508938,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Glowrevivaltriosaetshowcase-min.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936269746250,
+      "title": "Hydration boost duo sæt",
+      "handle": "hydration-boost-duo",
+      "body_html": "\u003cp\u003eOpnå en frisk og fornyet hud med denne effektive duo. Brug AHA Exfoliant Peel Concentrate et par gange om ugen for at fjerne døde hudceller og skabe en jævn hudoverflade. Følg op med Double Hydration Gel for at give huden dyb fugt og en fyldig, frisk glød. En simpel rutine til en blød, klar og velplejet hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:16:34-04:00",
+      "created_at": "2025-05-26T07:16:39-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301012042,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM010",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "568.00",
+          "grams": 0,
+          "compare_at_price": "568.00",
+          "position": 1,
+          "product_id": 7936269746250,
+          "created_at": "2025-05-26T07:16:39-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612457017418,
+          "created_at": "2025-05-26T07:16:39-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:39-04:00",
+          "product_id": 7936269746250,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Hydrationboostduosaetpack-min.jpg?v=1748258199",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457050186,
+          "created_at": "2025-05-26T07:16:39-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:39-04:00",
+          "product_id": 7936269746250,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5861-Doublehydrationgelapplying-min_7f54c84b-929d-4646-a56d-ea2d1bc3b265.jpg?v=1748258199",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457082954,
+          "created_at": "2025-05-26T07:16:39-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:39-04:00",
+          "product_id": 7936269746250,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Hydrationboostduosaetshowcase-min.jpg?v=1748258199",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457115722,
+          "created_at": "2025-05-26T07:16:39-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:39-04:00",
+          "product_id": 7936269746250,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateapplied-min.jpg?v=1748258199",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936269680714,
+      "title": "Hydrate \u0026 balance sæt",
+      "handle": "hydrate-balance",
+      "body_html": "\u003cp\u003eFå intensiv fugt og pleje med denne trio. Start med Oil-to-Milk Cleanser for en blid og effektiv rens, påfør derefter Double Hydration Gel for dyb hydrering, og afslut med Hydrating Day Cream for at forsegle fugten og holde huden blød hele dagen. En enkel rutine til en frisk og gennemfugtet hud.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:16:28-04:00",
+      "created_at": "2025-05-26T07:16:33-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110300946506,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM009",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "787.00",
+          "grams": 0,
+          "compare_at_price": "787.00",
+          "position": 1,
+          "product_id": 7936269680714,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612456788042,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:33-04:00",
+          "product_id": 7936269680714,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Hydrate_balancesaetpack-min.jpg?v=1748258193",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456820810,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:33-04:00",
+          "product_id": 7936269680714,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5924-Oil-to-milkcleanserapply-min.jpg?v=1748258193",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456853578,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:33-04:00",
+          "product_id": 7936269680714,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5807-Hydratingdaycreamapplying-min.jpg?v=1748258193",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456886346,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:33-04:00",
+          "product_id": 7936269680714,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5861-Doublehydrationgelapplying-min.jpg?v=1748258193",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456919114,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:16:33-04:00",
+          "product_id": 7936269680714,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Hydrate_balancesaetshowcase-min.jpg?v=1748258193",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        { "name": "Title", "position": 1, "values": ["Default Title"] }
+      ]
+    },
+    {
+      "id": 7936269516874,
+      "title": "Gua sha",
+      "handle": "gua-sha",
+      "body_html": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003eEn gua sha er et traditionelt massageværktøj, ofte lavet af sten som jade eller rosakvarts, designet til at fremme blodcirkulationen og reducere spændinger i ansigt og krop. Ved at føre gua shaen over huden i lange, blide bevægelser kan du stimulere lymfesystemet, reducere hævelser og fremme en sund glød. Den kølige overflade hjælper med at mindske rødme og puffet hud, hvilket efterlader ansigtet opfrisket og opstrammet.\u003c\/p\u003e",
+      "published_at": "2025-05-26T07:16:22-04:00",
+      "created_at": "2025-05-26T07:16:26-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Accessories",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110300651594,
+          "title": "Rosenkvarts (sten)",
+          "option1": "Rosenkvarts (sten)",
+          "option2": null,
+          "option3": null,
+          "sku": "MM008-1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 33612456362058,
+            "product_id": 7936269516874,
+            "position": 1,
+            "created_at": "2025-05-26T07:16:26-04:00",
+            "updated_at": "2025-05-26T07:16:26-04:00",
+            "alt": null,
+            "width": 1382,
+            "height": 1728,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+            "variant_ids": [42110300651594]
+          },
+          "available": true,
+          "price": "189.00",
+          "grams": 0,
+          "compare_at_price": "189.00",
+          "position": 1,
+          "product_id": 7936269516874,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        },
+        {
+          "id": 42110300684362,
+          "title": "Rrustfrit stål",
+          "option1": "Rrustfrit stål",
+          "option2": null,
+          "option3": null,
+          "sku": "MM008-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 33612456427594,
+            "product_id": 7936269516874,
+            "position": 3,
+            "created_at": "2025-05-26T07:16:26-04:00",
+            "updated_at": "2025-05-26T07:16:26-04:00",
+            "alt": null,
+            "width": 1382,
+            "height": 1728,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharustfritstalpack-min.jpg?v=1748258186",
+            "variant_ids": [42110300684362]
+          },
+          "available": true,
+          "price": "189.00",
+          "grams": 0,
+          "compare_at_price": "189.00",
+          "position": 2,
+          "product_id": 7936269516874,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612456362058,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [42110300651594],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456394826,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzinuse-min.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456427594,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [42110300684362],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharustfritstalpack-min.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456460362,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [],
+          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharustfritstalinuse-min.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": ["Rosenkvarts (sten)", "Rrustfrit stål"]
+        }
+      ]
+    }
+  ]
+}
