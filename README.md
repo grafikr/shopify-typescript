@@ -27,6 +27,6 @@ You can have a look in the repository under `global` and `type` folder, to find 
 This module isn't on npm, but is available at runtime on Shopify stores. To type it, reference the declaration:
 
 ```ts
-/// <reference types="@grafikr/shopify-typescript/packages/partialRendering" />
+/// <reference types="@grafikr/shopify-typescript/global/modules/partialRendering" />
 import { partials } from '@shopify/partial-rendering';
 ```

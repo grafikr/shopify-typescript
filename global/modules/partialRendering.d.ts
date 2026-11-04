@@ -7,7 +7,7 @@
  *
  * Add to your project with a triple-slash directive or `tsconfig.json` `include`:
  *
- *   /// <reference types="@grafikr/shopify-typescript/packages/partialRendering" />
+ *   /// <reference types="@grafikr/shopify-typescript/global/modules/partialRendering" />
  *
  * @see https://shopify.dev/docs/storefronts/themes/architecture/partials
  */
