@@ -6,21 +6,21 @@ Shopify serves "the same" entity in several formats, and they are **not** the
 same: field names, nullability, and even units differ. So there are no shared
 types between formats. Each format has its own, fully independent set.
 
-| Import                                   | Where the data comes from                                  |
-| ---------------------------------------- | ---------------------------------------------------------- |
-| `@grafikr/shopify-typescript/liquid`     | `{{ product \| json }}`, `{{ cart \| json }}` in Liquid    |
-| `@grafikr/shopify-typescript/json`       | `.json` URLs: `/products/[handle].json`, `/cart.json`, …   |
-| `@grafikr/shopify-typescript/js`         | `.js` URLs and the cart API: `/cart.js`, `/cart/add.js`, … |
-| `@grafikr/shopify-typescript/endpoints`  | One map from URL to response type                          |
+| Import                                  | Where the data comes from                                  |
+| --------------------------------------- | ---------------------------------------------------------- |
+| `@grafikr/shopify-typescript/liquid`    | `{{ product \| json }}`, `{{ cart \| json }}` in Liquid    |
+| `@grafikr/shopify-typescript/json`      | `.json` URLs: `/products/[handle].json`, `/cart.json`, …   |
+| `@grafikr/shopify-typescript/js`        | `.js` URLs and the cart API: `/cart.js`, `/cart/add.js`, … |
+| `@grafikr/shopify-typescript/endpoints` | One map from URL to response type                          |
 
 Examples of how much they differ:
 
-|                       | Liquid              | `.js`                  | `.json`                     |
-| --------------------- | ------------------- | ---------------------- | --------------------------- |
-| `product.options`     | `string[]`          | `{ name, values, … }[]`| `{ id, name, values, … }[]` |
-| `product.tags`        | `string[]`          | `string[]`             | `string` (comma separated)  |
-| `variant.price`       | `number` (cents)    | `number` (cents)       | `string` (`"129.00"`)       |
-| `product.description` | `description`       | `description`          | `body_html`                 |
+|                       | Liquid           | `.js`                   | `.json`                     |
+| --------------------- | ---------------- | ----------------------- | --------------------------- |
+| `product.options`     | `string[]`       | `{ name, values, … }[]` | `{ id, name, values, … }[]` |
+| `product.tags`        | `string[]`       | `string[]`              | `string` (comma separated)  |
+| `variant.price`       | `number` (cents) | `number` (cents)        | `string` (`"129.00"`)       |
+| `product.description` | `description`    | `description`           | `body_html`                 |
 
 ## Usage
 
