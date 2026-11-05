@@ -46,16 +46,11 @@ have `.json` endpoint types. For pagination use
 
 ### Edge cases worth capturing
 
-- Products with no description, SKU, barcode, images or media
-- Products with multiple options, a variant image, every media type and weights in every unit
-- Gift cards
-- Products and carts with selling plans
-- Prices in zero-decimal currencies (CLP, ISK) and in HUF
-- Carts with an automatic discount, percentage, fixed-amount, buy X get Y and free-shipping codes, and an invalid code
-- Every cart endpoint and its error responses
-- Empty, normal and smart collections, and collection pages beyond the last
-- A page with no body
-- Articles with and without image, summary and tags
+Products with no description, SKU, barcode, images or media; multiple options; a
+variant image; a gift card; carts with automatic discounts, percentage and
+fixed-amount codes, an invalid code, and a free-shipping code; every cart endpoint
+and its error responses; an empty collection; a page with no body; an article with
+and without image, summary and tags.
 
 ### Where fixtures came from
 
