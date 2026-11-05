@@ -1,7 +1,6 @@
 import type { PreviewImage } from './Image';
 import type { SellingPlanAllocation, SellingPlanGroup } from './SellingPlan';
 
-/** @http GET /variants/[id].js */
 export type ProductVariant = {
   id: number;
   title: string;
@@ -44,7 +43,6 @@ export type ProductVariant = {
   option3: string | null;
 };
 
-/** @http GET /products/[handle].js */
 export type ProductVariantImage = {
   id: number;
   product_id: number;
@@ -60,8 +58,6 @@ export type ProductVariantImage = {
 
 /**
  * Slimmer than `ProductMedia`.
- *
- * @http GET /products/[handle].js
  */
 export type ProductVariantMedia = {
   id: number;
@@ -70,7 +66,6 @@ export type ProductVariantMedia = {
   preview_image: PreviewImage;
 };
 
-/** @http GET /products/[handle].js */
 export type ProductOption = {
   name: string;
   position: number;
@@ -85,7 +80,6 @@ type ProductMediaBase = {
 };
 
 /**
- * @http GET /products/[handle].js
  */
 export type ProductImageMedia = ProductMediaBase & {
   media_type: 'image';
@@ -97,8 +91,6 @@ export type ProductImageMedia = ProductMediaBase & {
 
 /**
  * Has no `src`: use `sources`, which lists the mp4 and the HLS (m3u8) renditions.
- *
- * @http GET /products/[handle].js
  */
 export type ProductVideoMedia = ProductMediaBase & {
   media_type: 'video';
@@ -116,8 +108,6 @@ export type ProductVideoMedia = ProductMediaBase & {
 
 /**
  * A video hosted elsewhere, for example on YouTube. Has no `src`.
- *
- * @http GET /products/[handle].js
  */
 export type ProductExternalVideoMedia = ProductMediaBase & {
   media_type: 'external_video';
@@ -129,8 +119,6 @@ export type ProductExternalVideoMedia = ProductMediaBase & {
 
 /**
  * A 3D model. Has no `src` and no `aspect_ratio`: use `sources`.
- *
- * @http GET /products/[handle].js
  */
 export type ProductModelMedia = ProductMediaBase & {
   media_type: 'model';
@@ -139,8 +127,6 @@ export type ProductModelMedia = ProductMediaBase & {
 
 /**
  * Tell the kinds apart with `media_type`.
- *
- * @http GET /products/[handle].js
  */
 export type ProductMedia =
   | ProductImageMedia
@@ -149,8 +135,6 @@ export type ProductMedia =
   | ProductModelMedia;
 
 /**
- * @http GET /products/[handle].js
- * @http GET /recommendations/products.json
  */
 export type Product = {
   id: number;

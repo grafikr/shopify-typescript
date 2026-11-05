@@ -1,8 +1,6 @@
 /**
  * All fields are `null` (the object itself is still present) when there is no image.
  * Used by cart line items and by `/search/suggest.json` resources.
- *
- * @http GET /cart.json
  */
 export type FeaturedImage =
   | {

@@ -1,8 +1,6 @@
 /**
  * A suggested country or language. `options` holds the choices the visitor can
  * pick between, as `handle -> name`.
- *
- * @http GET /browsing_context_suggestions.json
  */
 export type BrowsingContextSuggestionPart = {
   handle: string;
@@ -15,8 +13,6 @@ export type BrowsingContextSuggestionPart = {
  * Request with `country[enabled]=true` and/or `language[enabled]=true`, and
  * `country[exclude]` / `language[exclude]` for the current values. Language
  * suggestions follow the browser's `Accept-Language`.
- *
- * @http GET /browsing_context_suggestions.json
  */
 export type BrowsingContextSuggestions = {
   detected_values: {

@@ -2,7 +2,6 @@ import type { DiscountApplication } from './DiscountApplication';
 import type { FeaturedImage } from './Image';
 import type { CartSellingPlanAllocation } from './SellingPlan';
 
-/** @http GET /cart.json */
 export type CartLineItem = {
   id: number;
   properties: Record<string, unknown> | null;
@@ -74,8 +73,6 @@ export type CartLineItem = {
 /**
  * Currently the same payload as `/cart.js`. Kept as its own type so the two can
  * diverge without a breaking change.
- *
- * @http GET /cart.json
  */
 export type Cart = {
   token: string;

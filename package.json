@@ -6,7 +6,6 @@
     "format": "biome format . --write",
     "check": "biome check . --write",
     "generate": "node scripts/generate-tests.mjs",
-    "check:docs": "node scripts/check-doc-tags.mjs",
     "typecheck": "tsc --noEmit"
   },
   "engines": {

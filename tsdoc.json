@@ -1,7 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/tsdoc/v0/tsdoc.schema.json",
   "tagDefinitions": [
-    { "tagName": "@http", "syntaxKind": "block", "allowMultiple": true },
     { "tagName": "@liquid", "syntaxKind": "block", "allowMultiple": true },
     { "tagName": "@unit", "syntaxKind": "block" },
     { "tagName": "@format", "syntaxKind": "block" }

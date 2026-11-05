@@ -3,9 +3,6 @@ import type { ProductImage } from './Product';
 /**
  * A slimmer shape than `/products/[handle].json`: `tags` is an array here, and
  * options, images and variants carry fewer fields.
- *
- * @http GET /products.json
- * @http GET /collections/[handle]/products.json
  */
 export type ProductListItem = {
   id: number;
@@ -23,7 +20,6 @@ export type ProductListItem = {
   options: Array<{ name: string; position: number; values: Array<string> }>;
 };
 
-/** @http GET /products.json */
 export type ProductListVariant = {
   id: number;
   product_id: number;
@@ -56,8 +52,6 @@ export type ProductListVariant = {
 /**
  * `alt` is missing on items of `images`, but present (and `null`) on a variant's
  * `featured_image`.
- *
- * @http GET /products.json
  */
 export type ProductListImage = Omit<ProductImage, 'alt'> & {
   alt?: string | null;

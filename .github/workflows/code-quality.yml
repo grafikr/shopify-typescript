@@ -50,13 +50,6 @@ jobs:
             echo '{"source":{"name":"Generated tests"},"diagnostics":[{"message":"tests/fixtures.test-d.ts is out of date. Run `pnpm generate && pnpm check` and commit the result.","location":{"path":"tests/fixtures.test-d.ts","range":{"start":{"line":1,"column":1},"end":{"line":1,"column":1}}},"severity":"ERROR","code":{"value":"generated-tests/out-of-date"}}]}' > .reports/generated-tests.rdjson
           fi
 
-      - name: Check doc tags match endpoints
-        run: |
-          node scripts/check-doc-tags.mjs --rdjson > .reports/doc-tags.rdjson \
-            || echo '{"source":{"name":"Doc tags"},"diagnostics":[]}' > .reports/doc-tags.rdjson
-          [ -s .reports/doc-tags.rdjson ] || echo '{"source":{"name":"Doc tags"},"diagnostics":[]}' > .reports/doc-tags.rdjson
-          cat .reports/doc-tags.rdjson
-
       - name: Convert tsc output to rdjson
         if: always()
         run: |
@@ -115,11 +108,3 @@ jobs:
           REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cat .reports/generated-tests.rdjson | reviewdog -f=rdjson -name="Generated tests" -reporter=github-check -filter-mode=nofilter -fail-level=error
-
-      - name: Publish doc tags check run via reviewdog
-        if: always()
-        continue-on-error: true
-        env:
-          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          cat .reports/doc-tags.rdjson | reviewdog -f=rdjson -name="Doc tags" -reporter=github-check -filter-mode=nofilter -fail-level=error

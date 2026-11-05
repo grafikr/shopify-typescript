@@ -1,8 +1,6 @@
 /**
  * `value` is a percentage for `percentage`, otherwise in the smallest currency unit
  * (for `price` it is the set price).
- *
- * @http GET /products/[handle].js
  */
 export type SellingPlanPriceAdjustment = {
   /** How many orders the adjustment applies to. `null` for the last one, which applies from then on. */
@@ -16,7 +14,6 @@ export type SellingPlanPriceAdjustment = {
 };
 
 /**
- * @http GET /products/[handle].js
  */
 export type SellingPlan = {
   id: number;
@@ -28,7 +25,6 @@ export type SellingPlan = {
 };
 
 /**
- * @http GET /products/[handle].js
  */
 export type SellingPlanGroup = {
   /** A hash, unlike the numeric plan ids. */
@@ -41,8 +37,6 @@ export type SellingPlanGroup = {
 
 /**
  * What a variant costs under one selling plan.
- *
- * @http GET /products/[handle].js
  */
 export type SellingPlanAllocation = {
   price_adjustments: Array<{ position: number; price: number }>;
@@ -58,8 +52,6 @@ export type SellingPlanAllocation = {
 
 /**
  * The selling plan of a cart line. Missing on lines without one.
- *
- * @http GET /cart.js
  */
 export type CartSellingPlanAllocation = {
   price_adjustments: Array<{ position: number; price: number }>;
@@ -75,10 +67,6 @@ export type CartSellingPlanAllocation = {
 /**
  * The selling plan of a line in the cart echoed by the mutation endpoints. The
  * embedded plan has `checkout_charge` instead of `fixed_selling_plan`.
- *
- * @http POST /cart/add.js
- * @http POST /cart/update.js
- * @http POST /cart/change.js
  */
 export type CartResponseSellingPlanAllocation = Omit<
   CartSellingPlanAllocation,

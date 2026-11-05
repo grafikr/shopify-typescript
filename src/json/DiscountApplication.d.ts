@@ -1,4 +1,3 @@
-/** @http GET /cart.json */
 export type DiscountApplication = {
   /** `""` has been observed for automatic discounts. */
   type: '' | 'automatic' | 'discount_code' | 'manual' | 'script';
@@ -19,7 +18,6 @@ export type DiscountApplication = {
   total_allocated_amount: number;
 };
 
-/** @http GET /cart.json */
 export type DiscountAllocation = {
   /** @unit cents */
   amount: number;

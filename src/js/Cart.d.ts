@@ -8,7 +8,6 @@ import type {
   CartSellingPlanAllocation,
 } from './SellingPlan';
 
-/** @http GET /cart.js */
 export type CartLineItem = {
   id: number;
   properties: Record<string, unknown> | null;
@@ -75,7 +74,6 @@ export type CartLineItem = {
   total_discount: number;
 };
 
-/** @http GET /cart.js */
 export type Cart = {
   token: string;
   note: string | null;
@@ -101,10 +99,6 @@ export type Cart = {
 /**
  * Full line item in the responses that echo the cart. Compared to `/cart.js` it has no
  * `quantity_rule`/`has_components`, but adds untranslated titles.
- *
- * @http POST /cart/add.js
- * @http POST /cart/update.js
- * @http POST /cart/change.js
  */
 export type CartResponseLineItem = Omit<
   CartLineItem,
@@ -118,8 +112,6 @@ export type CartResponseLineItem = Omit<
 
 /**
  * Slim line item in `items_added` / `items_removed`.
- *
- * @http POST /cart/change.js
  */
 export type CartChangedLineItem = {
   /** UUID, not the variant id. */
@@ -151,9 +143,6 @@ export type CartChangedLineItem = {
 
 /**
  * These endpoints wrap each cart level discount with the amount it took off.
- *
- * @http POST /cart/update.js
- * @http POST /cart/change.js
  */
 type CartMutationFields = Omit<
   Cart,
@@ -165,8 +154,6 @@ type CartMutationFields = Omit<
 
 /**
  * With `items: [...]` in the request.
- *
- * @http POST /cart/add.js
  */
 export type CartAddResponse = {
   items: Array<CartResponseLineItem>;
@@ -176,32 +163,23 @@ export type CartAddResponse = {
 
 /**
  * With a single item (`{ id, quantity }`) in the request, the line item is returned directly.
- *
- * @http POST /cart/add.js
  */
 export type CartAddSingleResponse = CartResponseLineItem;
 
-/** @http POST /cart/update.js */
 export type CartUpdateResponse = CartMutationFields & {
   items_changelog: { added: Array<{ variant_id: number; quantity: number }> };
 };
 
-/** @http POST /cart/change.js */
 export type CartChangeResponse = CartMutationFields & {
   items_added: Array<CartChangedLineItem>;
   items_removed: Array<CartChangedLineItem>;
 };
 
-/** @http POST /cart/clear.js */
 export type CartClearResponse = Cart;
 
 /**
  * `status` is a number (`422`) for some errors and a string (`"bad_request"`,
  * `"unprocessable_entity"`) for others.
- *
- * @http POST /cart/add.js
- * @http POST /cart/update.js
- * @http POST /cart/change.js
  */
 export type CartError = {
   status: number | string;
@@ -209,7 +187,6 @@ export type CartError = {
   description: string;
 };
 
-/** @http GET /cart/shipping_rates.json */
 export type ShippingRate = {
   name: string;
   presentment_name: string;
@@ -256,7 +233,5 @@ export type ShippingRate = {
 
 /**
  * Needs a prior `POST /cart/prepare_shipping_rates.json`.
- *
- * @http GET /cart/shipping_rates.json
  */
 export type ShippingRatesResponse = { shipping_rates: Array<ShippingRate> };

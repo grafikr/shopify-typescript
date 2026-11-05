@@ -48,14 +48,13 @@ and the theme editor events (`.../global/CustomEvents`).
 
 ## Doc tags
 
-Every type has a doc comment with tags that say where the data comes from:
+Doc comments use these tags where they help:
 
-| Tag       | Meaning                                                                    | Example                                            |
-| --------- | -------------------------------------------------------------------------- | -------------------------------------------------- |
-| `@http`   | The request that returns it (`.js` and `.json`). Repeated for several URLs | `@http GET /products/[handle].js`                  |
-| `@liquid` | The Liquid that outputs it (Liquid)                                        | `@liquid {{ product.variants \| json }}`           |
-| `@unit`   | The unit of a numeric field                                                | `@unit cents`, `@unit grams`, `@unit milliseconds` |
-| `@format` | The format of a string field                                               | `@format decimal-string`                           |
+| Tag       | Meaning                             | Example                                            |
+| --------- | ----------------------------------- | -------------------------------------------------- |
+| `@liquid` | The Liquid that outputs it (Liquid) | `@liquid {{ product.variants \| json }}`           |
+| `@unit`   | The unit of a numeric field         | `@unit cents`, `@unit grams`, `@unit milliseconds` |
+| `@format` | The format of a string field        | `@format decimal-string`                           |
 
 `@unit cents` is an integer in the smallest unit, always scaled by 100, also for
 currencies without decimals (`14782600` for 147,826 CLP). `@unit currency-units` is a
@@ -64,9 +63,6 @@ decimal amount in whole currency units (`200.0`, or `"200.00"` together with
 CLP price is `"147826"`.
 The tags show up in editor hovers, and are declared in `tsdoc.json` for tools
 that validate TSDoc.
-
-`pnpm check:docs` verifies that every `@http` tag matches a key of `Endpoints`,
-and that every key of `Endpoints` is covered by a tag.
 
 ## How the types are verified
 

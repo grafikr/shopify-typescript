@@ -1,8 +1,6 @@
 /**
  * Nested in `/products/[handle].json`. Returned as `{ product_variant: ProductVariant }` by
  * `/variants/[id].json`.
- *
- * @http GET /variants/[id].json
  */
 export type ProductVariant = {
   id: number;
@@ -58,7 +56,6 @@ export type ProductVariant = {
   option3: string | null;
 };
 
-/** @http GET /products/[handle].json */
 export type ProductOption = {
   id: number;
   product_id: number;
@@ -67,7 +64,6 @@ export type ProductOption = {
   values: Array<string>;
 };
 
-/** @http GET /products/[handle].json */
 export type ProductImage = {
   id: number;
   product_id: number;
@@ -83,8 +79,6 @@ export type ProductImage = {
 
 /**
  * Returned as `{ product: Product }`.
- *
- * @http GET /products/[handle].json
  */
 export type Product = {
   id: number;
