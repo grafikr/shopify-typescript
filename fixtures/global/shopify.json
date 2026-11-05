@@ -4,9 +4,9 @@
   "currency": { "active": "DKK", "rate": "1.0" },
   "country": "GB",
   "theme": {
-    "name": "Flagship - Main build",
-    "id": 138774413386,
-    "schema_name": "Flagship",
+    "name": "Theme",
+    "id": 123456789,
+    "schema_name": "Theme",
     "schema_version": "1.0",
     "theme_store_id": null,
     "role": "main",
