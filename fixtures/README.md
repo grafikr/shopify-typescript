@@ -52,7 +52,7 @@ have `.json` endpoint types. For pagination use
 - Products and carts with selling plans
 - Prices in zero-decimal currencies (CLP, ISK) and in HUF
 - Carts with an automatic discount, percentage, fixed-amount, buy X get Y and free-shipping codes, and an invalid code
-- Every cart endpoint and its error responses
+- Every cart endpoint and its error responses, including invalid shipping addresses
 - Empty, normal and smart collections, and collection pages beyond the last
 - A page with no body
 - Articles with and without image, summary and tags
@@ -68,6 +68,12 @@ only contain country and language names. To reproduce them:
 ```sh
 curl -sg -H 'Accept-Language: da-DK,da;q=0.9' \
   "$STORE/browsing_context_suggestions.json?country[enabled]=true&country[exclude]=SE&language[enabled]=true&language[exclude]=sv"
+```
+
+The `cart-shipping-rates-error-*` and `cart-shipping-rates-empty-cart` fixtures come from the same storefront with an empty cart. The error messages are in the storefront's language (Danish). To reproduce one:
+
+```sh
+curl -sg "$STORE/cart/shipping_rates.json?shipping_address[country]=Denmark&shipping_address[zip]=abc"
 ```
 
 ### Anonymizing

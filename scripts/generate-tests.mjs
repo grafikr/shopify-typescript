@@ -24,6 +24,7 @@ const RULES = [
   [/^js\/cart-add-/, 'Js.CartAddResponse'],
   [/^js\/cart-update-/, 'Js.CartUpdateResponse'],
   [/^js\/cart-change-/, 'Js.CartChangeResponse'],
+  [/^js\/cart-shipping-rates-error/, 'Js.ShippingRatesError'],
   [/^js\/cart-shipping-rates/, 'Js.ShippingRatesResponse'],
   [/^js\/variant/, 'Js.ProductVariant'],
   [/^json\/variant/, "Endpoints['/variants/:id.json']"],

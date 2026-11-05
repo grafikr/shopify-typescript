@@ -34,6 +34,14 @@ import js_cart_empty from '../fixtures/js/cart-empty.json';
 import js_cart_priced_in_clp from '../fixtures/js/cart-priced-in-clp.json';
 import js_cart_priced_in_huf from '../fixtures/js/cart-priced-in-huf.json';
 import js_cart_priced_in_isk from '../fixtures/js/cart-priced-in-isk.json';
+import js_cart_shipping_rates_empty_cart from '../fixtures/js/cart-shipping-rates-empty-cart.json';
+import js_cart_shipping_rates_error_invalid_province from '../fixtures/js/cart-shipping-rates-error-invalid-province.json';
+import js_cart_shipping_rates_error_invalid_zip from '../fixtures/js/cart-shipping-rates-error-invalid-zip.json';
+import js_cart_shipping_rates_error_missing_country from '../fixtures/js/cart-shipping-rates-error-missing-country.json';
+import js_cart_shipping_rates_error_missing_province from '../fixtures/js/cart-shipping-rates-error-missing-province.json';
+import js_cart_shipping_rates_error_missing_zip from '../fixtures/js/cart-shipping-rates-error-missing-zip.json';
+import js_cart_shipping_rates_error_unsupported_country from '../fixtures/js/cart-shipping-rates-error-unsupported-country.json';
+import js_cart_shipping_rates_error_without_address from '../fixtures/js/cart-shipping-rates-error-without-address.json';
 import js_cart_shipping_rates_standard_denmark from '../fixtures/js/cart-shipping-rates-standard-denmark.json';
 import js_cart_update_apply_bxgy_discount_code from '../fixtures/js/cart-update-apply-bxgy-discount-code.json';
 import js_cart_update_apply_fixed_amount_discount_code from '../fixtures/js/cart-update-apply-fixed-amount-discount-code.json';
@@ -448,6 +456,54 @@ export const js_cart_priced_in_isk_check: Widen<Js.Cart> =
 export const js_cart_priced_in_isk_extra: NoExtra<
   typeof js_cart_priced_in_isk,
   Js.Cart
+> = true;
+export const js_cart_shipping_rates_empty_cart_check: Widen<Js.ShippingRatesResponse> =
+  js_cart_shipping_rates_empty_cart;
+export const js_cart_shipping_rates_empty_cart_extra: NoExtra<
+  typeof js_cart_shipping_rates_empty_cart,
+  Js.ShippingRatesResponse
+> = true;
+export const js_cart_shipping_rates_error_invalid_province_check: Widen<Js.ShippingRatesError> =
+  js_cart_shipping_rates_error_invalid_province;
+export const js_cart_shipping_rates_error_invalid_province_extra: NoExtra<
+  typeof js_cart_shipping_rates_error_invalid_province,
+  Js.ShippingRatesError
+> = true;
+export const js_cart_shipping_rates_error_invalid_zip_check: Widen<Js.ShippingRatesError> =
+  js_cart_shipping_rates_error_invalid_zip;
+export const js_cart_shipping_rates_error_invalid_zip_extra: NoExtra<
+  typeof js_cart_shipping_rates_error_invalid_zip,
+  Js.ShippingRatesError
+> = true;
+export const js_cart_shipping_rates_error_missing_country_check: Widen<Js.ShippingRatesError> =
+  js_cart_shipping_rates_error_missing_country;
+export const js_cart_shipping_rates_error_missing_country_extra: NoExtra<
+  typeof js_cart_shipping_rates_error_missing_country,
+  Js.ShippingRatesError
+> = true;
+export const js_cart_shipping_rates_error_missing_province_check: Widen<Js.ShippingRatesError> =
+  js_cart_shipping_rates_error_missing_province;
+export const js_cart_shipping_rates_error_missing_province_extra: NoExtra<
+  typeof js_cart_shipping_rates_error_missing_province,
+  Js.ShippingRatesError
+> = true;
+export const js_cart_shipping_rates_error_missing_zip_check: Widen<Js.ShippingRatesError> =
+  js_cart_shipping_rates_error_missing_zip;
+export const js_cart_shipping_rates_error_missing_zip_extra: NoExtra<
+  typeof js_cart_shipping_rates_error_missing_zip,
+  Js.ShippingRatesError
+> = true;
+export const js_cart_shipping_rates_error_unsupported_country_check: Widen<Js.ShippingRatesError> =
+  js_cart_shipping_rates_error_unsupported_country;
+export const js_cart_shipping_rates_error_unsupported_country_extra: NoExtra<
+  typeof js_cart_shipping_rates_error_unsupported_country,
+  Js.ShippingRatesError
+> = true;
+export const js_cart_shipping_rates_error_without_address_check: Widen<Js.ShippingRatesError> =
+  js_cart_shipping_rates_error_without_address;
+export const js_cart_shipping_rates_error_without_address_extra: NoExtra<
+  typeof js_cart_shipping_rates_error_without_address,
+  Js.ShippingRatesError
 > = true;
 export const js_cart_shipping_rates_standard_denmark_check: Widen<Js.ShippingRatesResponse> =
   js_cart_shipping_rates_standard_denmark;

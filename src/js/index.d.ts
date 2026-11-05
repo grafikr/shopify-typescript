@@ -10,6 +10,7 @@ import type {
   CartResponseLineItem,
   CartUpdateResponse,
   ShippingRate,
+  ShippingRatesError,
   ShippingRatesResponse,
 } from './Cart';
 import type {
@@ -70,6 +71,7 @@ export type {
   SellingPlanGroup,
   SellingPlanPriceAdjustment,
   ShippingRate,
+  ShippingRatesError,
   ShippingRatesResponse,
 };
 
@@ -106,5 +108,6 @@ export interface Types {
   SellingPlanGroup: SellingPlanGroup;
   SellingPlanPriceAdjustment: SellingPlanPriceAdjustment;
   ShippingRate: ShippingRate;
+  ShippingRatesError: ShippingRatesError;
   ShippingRatesResponse: ShippingRatesResponse;
 }
