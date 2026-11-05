@@ -1,3 +1,5 @@
+import type { PreviewImage } from './Image';
+
 /**
  * Prices are integers in the smallest currency unit (cents).
  *
@@ -68,12 +70,7 @@ export type ProductVariantMedia = {
   id: number;
   position: number;
   alt: string | null;
-  preview_image: {
-    aspect_ratio: number;
-    height: number;
-    width: number;
-    src: string;
-  };
+  preview_image: PreviewImage;
 };
 
 /**
@@ -97,12 +94,7 @@ export type ProductMedia = {
   width: number;
   media_type: 'image' | 'video' | 'external_video' | 'model';
   src: string;
-  preview_image: {
-    aspect_ratio: number;
-    height: number;
-    width: number;
-    src: string;
-  };
+  preview_image: PreviewImage;
 };
 
 /**

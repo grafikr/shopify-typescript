@@ -1,17 +1,4 @@
-/**
- * All fields are `null` when the resource has no image.
- *
- * /search/suggest.json
- */
-export type SuggestImage =
-  | {
-      aspect_ratio: number;
-      alt: string | null;
-      height: number;
-      url: string;
-      width: number;
-    }
-  | { aspect_ratio: null; alt: null; height: null; url: null; width: null };
+import type { FeaturedImage } from './Image';
 
 /**
  * /search/suggest.json
@@ -24,7 +11,7 @@ export type SuggestProductVariant = {
   price: string;
   title: string;
   url: string;
-  featured_image: SuggestImage;
+  featured_image: FeaturedImage;
 };
 
 /**
@@ -48,7 +35,7 @@ export type SuggestProduct = {
   /** Empty unless requested with `resources[options][fields]=variants.*`. */
   variants: Array<SuggestProductVariant>;
   vendor: string;
-  featured_image: SuggestImage;
+  featured_image: FeaturedImage;
 };
 
 /**
@@ -61,7 +48,7 @@ export type SuggestCollection = {
   title: string;
   body: string | null;
   published_at: string;
-  featured_image: SuggestImage;
+  featured_image: FeaturedImage;
 };
 
 /**
@@ -91,7 +78,7 @@ export type SuggestArticle = {
   published_at: string;
   summary_html: string | null;
   tags: Array<string>;
-  featured_image: SuggestImage;
+  featured_image: FeaturedImage;
 };
 
 /**

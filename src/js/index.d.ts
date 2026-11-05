@@ -7,7 +7,6 @@ export type {
   CartClearResponse,
   CartError,
   CartLineItem,
-  CartLineItemImage,
   CartResponseLineItem,
   CartUpdateResponse,
   ShippingRate,
@@ -17,6 +16,7 @@ export type {
   DiscountAllocation,
   DiscountApplication,
 } from './DiscountApplication';
+export type { FeaturedImage, PreviewImage } from './Image';
 export type {
   Product,
   ProductMedia,

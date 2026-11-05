@@ -2,21 +2,7 @@ import type {
   DiscountAllocation,
   DiscountApplication,
 } from './DiscountApplication';
-
-/**
- * All fields are `null` (the object itself is still present) when the item has no image.
- *
- * /cart.js
- */
-export type CartLineItemImage =
-  | {
-      aspect_ratio: number;
-      alt: string | null;
-      height: number;
-      url: string;
-      width: number;
-    }
-  | { aspect_ratio: null; alt: null; height: null; url: null; width: null };
+import type { FeaturedImage } from './Image';
 
 /**
  * Prices are integers in the smallest currency unit (cents).
@@ -45,7 +31,7 @@ export type CartLineItem = {
   final_price: number;
   final_line_price: number;
   url: string;
-  featured_image: CartLineItemImage;
+  featured_image: FeaturedImage;
   image: string | null;
   handle: string;
   requires_shipping: boolean;

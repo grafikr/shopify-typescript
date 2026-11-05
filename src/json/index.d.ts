@@ -1,10 +1,11 @@
 export type { BrowsingContextSuggestions } from './BrowsingContextSuggestions';
-export type { Cart, CartLineItem, CartLineItemImage } from './Cart';
+export type { Cart, CartLineItem } from './Cart';
 export type { Collection, CollectionImage } from './Collection';
 export type {
   DiscountAllocation,
   DiscountApplication,
 } from './DiscountApplication';
+export type { FeaturedImage } from './Image';
 export type { Meta } from './Meta';
 export type { Page } from './Page';
 export type { Policy } from './Policy';
@@ -23,7 +24,6 @@ export type {
   SearchSuggestResponse,
   SuggestArticle,
   SuggestCollection,
-  SuggestImage,
   SuggestPage,
   SuggestProduct,
   SuggestProductVariant,
