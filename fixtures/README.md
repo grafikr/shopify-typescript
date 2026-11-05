@@ -52,26 +52,11 @@ fixed-amount codes, an invalid code, and a free-shipping code; every cart endpoi
 and its error responses; an empty collection; a page with no body; an article with
 and without image, summary and tags.
 
-### Known gaps
-
-Things in the types that no fixture has exercised, and why:
-
-- **Currencies with three decimals** (KWD, BHD, JOD, OMR) cannot be set up: the store
-  rejects them as market currencies. Zero-decimal currencies (CLP, ISK) and HUF were
-  captured, and they are scaled by 100 in `.js`, the cart and Liquid, like DKK.
-- **Discount application values that no discount we created produced.** `type`
-  `"manual"` and `"script"`, `allocation_method` `"one"`, `target_selection`
-  `"explicit"` and `target_type` `"shipping_line"` never appeared. Percentage, fixed
-  amount (across and per item), BXGY, automatic, free shipping and invalid codes were
-  captured. These values are kept from Shopify's documentation.
-- **Liquid `collection.rules`** is always an empty array, so it is typed as
-  `Array<never>`. No way to produce a non-empty one was found.
-
 ### Where fixtures came from
 
 Most fixtures were captured from a development store, with test data created for the
 purpose. The `browsing-context-*suggestion*` fixtures were captured from a public
-third-party storefront (bahne.dk), because suggestions need a store with several
+third-party storefront, because suggestions need a store with several
 markets and a visitor whose detected country differs from the excluded one. They
 only contain country and language names. To reproduce them:
 
@@ -93,4 +78,3 @@ shape of the data, so none of this changes what a fixture proves:
 - File URLs keep their folders, host and `?v=` query, but the filename is replaced by
   `image-001.jpg`, `video-001.mp4` or `model-001.glb`. The same original file gets the same
   new name everywhere, so images that were identical stay identical.
-- Contact details, such as the email in a privacy policy, are replaced.
