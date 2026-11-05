@@ -36,7 +36,6 @@ const RULES = [
   [/^json\/policy/, "Endpoints['/policies/:handle.json']"],
   [/^json\/search-suggest/, "Endpoints['/search/suggest.json']"],
   [/^json\/meta/, "Endpoints['/meta.json']"],
-  [/^json\/product-oembed/, "Endpoints['/products/:handle.oembed']"],
   [
     /^json\/browsing-context/,
     "Endpoints['/browsing_context_suggestions.json']",

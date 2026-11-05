@@ -75,7 +75,6 @@ import json_page_without_body from '../fixtures/json/page-without-body.json';
 import json_pages_list from '../fixtures/json/pages-list.json';
 import json_policy_privacy_policy from '../fixtures/json/policy-privacy-policy.json';
 import json_product_gift_card from '../fixtures/json/product-gift-card.json';
-import json_product_oembed from '../fixtures/json/product-oembed.json';
 import json_product_with_image_and_default_variant from '../fixtures/json/product-with-image-and-default-variant.json';
 import json_product_with_three_options_and_variant_image from '../fixtures/json/product-with-three-options-and-variant-image.json';
 import json_product_with_two_options_compare_price_and_no_images from '../fixtures/json/product-with-two-options-compare-price-and-no-images.json';
@@ -617,13 +616,6 @@ export const json_product_gift_card_check: Widen<Json.Product> =
 export const json_product_gift_card_extra: NoExtra<
   typeof json_product_gift_card.product,
   Json.Product
-> = true;
-export const json_product_oembed_check: Widen<
-  Endpoints['/products/:handle.oembed']
-> = json_product_oembed;
-export const json_product_oembed_extra: NoExtra<
-  typeof json_product_oembed,
-  Endpoints['/products/:handle.oembed']
 > = true;
 export const json_product_with_image_and_default_variant_check: Widen<Json.Product> =
   json_product_with_image_and_default_variant.product;

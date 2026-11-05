@@ -6,7 +6,6 @@ export type {
   DiscountApplication,
 } from './DiscountApplication';
 export type { Meta } from './Meta';
-export type { ProductOembed } from './Oembed';
 export type { Page } from './Page';
 export type { Policy } from './Policy';
 export type {

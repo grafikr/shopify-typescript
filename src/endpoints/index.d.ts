@@ -16,7 +16,6 @@ export interface Endpoints {
   '/products.json': { products: Array<Json.ProductListItem> };
   '/products/:handle.js': Js.Product;
   '/products/:handle.json': { product: Json.Product };
-  '/products/:handle.oembed': Json.ProductOembed;
   '/variants/:id.js': Js.ProductVariant;
   '/variants/:id.json': { product_variant: Json.ProductVariant };
   '/recommendations/products.json': {
