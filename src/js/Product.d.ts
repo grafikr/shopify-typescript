@@ -1,4 +1,5 @@
 import type { PreviewImage } from './Image';
+import type { SellingPlanAllocation, SellingPlanGroup } from './SellingPlan';
 
 /** @http GET /variants/[id].js */
 export type ProductVariant = {
@@ -25,7 +26,7 @@ export type ProductVariant = {
   quantity_rule: { min: number; max: number | null; increment: number };
   quantity_price_breaks: Array<{ minimum_quantity: number; price: number }>;
   requires_selling_plan: boolean;
-  selling_plan_allocations: Array<unknown>;
+  selling_plan_allocations: Array<SellingPlanAllocation>;
   unit_price?: number;
   unit_price_measurement?: {
     measured_type: string;
@@ -126,5 +127,5 @@ export type Product = {
   /** Missing entirely (not empty) when the product has no media. */
   media?: Array<ProductMedia>;
   requires_selling_plan: boolean;
-  selling_plan_groups: Array<unknown>;
+  selling_plan_groups: Array<SellingPlanGroup>;
 };

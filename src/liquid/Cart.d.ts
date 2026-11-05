@@ -3,6 +3,7 @@ import type {
   DiscountApplication,
 } from './DiscountApplication';
 import type { FeaturedImage } from './Image';
+import type { CartSellingPlanAllocation } from './SellingPlan';
 
 /**
  * A line item of the cart.
@@ -45,6 +46,8 @@ export type CartLineItem = {
   variant_title: string | null;
   variant_options: Array<string>;
   options_with_values: Array<{ name: string; value: string }>;
+  /** Missing on lines without a selling plan. */
+  selling_plan_allocation?: CartSellingPlanAllocation;
   line_level_discount_allocations: Array<DiscountAllocation>;
   /** @unit cents */
   line_level_total_discount: number;

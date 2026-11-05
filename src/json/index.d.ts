@@ -32,3 +32,8 @@ export type {
   SuggestProductVariant,
   SuggestQuery,
 } from './Search';
+export type {
+  CartSellingPlanAllocation,
+  SellingPlan,
+  SellingPlanPriceAdjustment,
+} from './SellingPlan';

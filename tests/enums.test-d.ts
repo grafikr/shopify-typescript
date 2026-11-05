@@ -18,3 +18,16 @@ export const liquidDiscountType: Covers<
   Liquid.DiscountApplication['type'],
   '' | 'discount_code'
 > = true;
+
+export const jsSellingPlanValueType: Covers<
+  Js.SellingPlanPriceAdjustment['value_type'],
+  'percentage' | 'fixed_amount'
+> = true;
+export const jsonSellingPlanValueType: Covers<
+  Json.SellingPlanPriceAdjustment['value_type'],
+  'percentage' | 'fixed_amount'
+> = true;
+export const liquidSellingPlanValueType: Covers<
+  Liquid.SellingPlanPriceAdjustment['value_type'],
+  'percentage' | 'fixed_amount'
+> = true;

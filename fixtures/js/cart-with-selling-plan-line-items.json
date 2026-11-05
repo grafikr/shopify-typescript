@@ -1,0 +1,150 @@
+{
+  "token": "hWNInI6KUUklRh1Htwo5x3iM?key=eb827c571d41e5d8a55f33c8cdcd44d0",
+  "note": "",
+  "attributes": {},
+  "original_total_price": 23000,
+  "total_price": 23000,
+  "total_discount": 0,
+  "total_weight": 0.0,
+  "item_count": 3,
+  "items": [
+    {
+      "id": 67909549097034,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67909549097034,
+      "key": "67909549097034:a7b1c26e8e448703c42df264581c3a8d",
+      "title": "TYPEGEN subscription only - S",
+      "price": 5000,
+      "original_price": 5000,
+      "presentment_price": 50.0,
+      "discounted_price": 5000,
+      "line_price": 5000,
+      "original_line_price": 5000,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "TG-SUB2",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459452452938,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 5000,
+      "final_line_price": 5000,
+      "url": "\/products\/typegen-subscription-only?selling_plan=8381988938\u0026variant=67909549097034",
+      "featured_image": {
+        "aspect_ratio": null,
+        "alt": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-subscription-only",
+      "requires_shipping": true,
+      "product_type": "",
+      "product_title": "TYPEGEN subscription only",
+      "product_description": null,
+      "variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "has_components": false,
+      "selling_plan_allocation": {
+        "price_adjustments": [],
+        "price": 5000,
+        "compare_at_price": null,
+        "per_delivery_price": 5000,
+        "selling_plan": {
+          "id": 8381988938,
+          "name": "Every month",
+          "description": null,
+          "options": [
+            { "name": "Delivery every", "position": 1, "value": "1 month" }
+          ],
+          "recurring_deliveries": true,
+          "fixed_selling_plan": false,
+          "price_adjustments": []
+        }
+      }
+    },
+    {
+      "id": 67909548998730,
+      "properties": {},
+      "quantity": 2,
+      "variant_id": 67909548998730,
+      "key": "67909548998730:a39217053e6859f6f210aecde7b13ac1",
+      "title": "TYPEGEN subscription - S",
+      "price": 9000,
+      "original_price": 9000,
+      "presentment_price": 90.0,
+      "discounted_price": 9000,
+      "line_price": 18000,
+      "original_line_price": 18000,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "TG-SUB1",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459452387402,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 9000,
+      "final_line_price": 18000,
+      "url": "\/products\/typegen-subscription?selling_plan=8381923402\u0026variant=67909548998730",
+      "featured_image": {
+        "aspect_ratio": null,
+        "alt": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-subscription",
+      "requires_shipping": true,
+      "product_type": "",
+      "product_title": "TYPEGEN subscription",
+      "product_description": null,
+      "variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "has_components": false,
+      "selling_plan_allocation": {
+        "price_adjustments": [{ "position": 1, "price": 9000 }],
+        "price": 9000,
+        "compare_at_price": 10000,
+        "per_delivery_price": 9000,
+        "selling_plan": {
+          "id": 8381923402,
+          "name": "Every month",
+          "description": null,
+          "options": [
+            { "name": "Delivery every", "position": 1, "value": "1 month" }
+          ],
+          "recurring_deliveries": true,
+          "fixed_selling_plan": false,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "requires_shipping": true,
+  "currency": "DKK",
+  "items_subtotal_price": 23000,
+  "cart_level_discount_applications": [],
+  "discount_codes": []
+}

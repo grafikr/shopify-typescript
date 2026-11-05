@@ -14,3 +14,10 @@ export type {
   ProductVariantImage,
   ProductVariantMedia,
 } from './Product';
+export type {
+  CartSellingPlanAllocation,
+  SellingPlan,
+  SellingPlanAllocation,
+  SellingPlanGroup,
+  SellingPlanPriceAdjustment,
+} from './SellingPlan';

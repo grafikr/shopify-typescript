@@ -1,5 +1,6 @@
 import type { DiscountApplication } from './DiscountApplication';
 import type { FeaturedImage } from './Image';
+import type { CartSellingPlanAllocation } from './SellingPlan';
 
 /** @http GET /cart.json */
 export type CartLineItem = {
@@ -40,6 +41,8 @@ export type CartLineItem = {
   variant_title: string | null;
   variant_options: Array<string>;
   options_with_values: Array<{ name: string; value: string }>;
+  /** Missing on lines without a selling plan. */
+  selling_plan_allocation?: CartSellingPlanAllocation;
   line_level_discount_allocations: Array<{
     amount: number;
     discount_application: DiscountApplication;

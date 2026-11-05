@@ -1,0 +1,5 @@
+{
+  "status": 422,
+  "message": "Cart Error",
+  "description": "Variant can only be purchased with a selling plan."
+}

@@ -54,8 +54,9 @@ and without image, summary and tags.
 
 ### Known gaps
 
-- Selling plans (`selling_plan_groups`, `selling_plan_allocations`,
-  `selling_plan_allocation` on cart lines) are typed as `unknown` for lack of a fixture.
+- Selling plan price adjustments were only captured with `percentage` and
+  `fixed_amount`. `price` is in the types from Shopify's documentation but has no fixture.
+  Plans for pre-orders and try-before-you-buy were not captured either.
 
 ### Where fixtures came from
 
