@@ -1,9 +1,11 @@
 /**
- * `value` is a percentage for `percentage`, otherwise in the smallest currency unit.
+ * `value` is a percentage for `percentage`, otherwise in the smallest currency unit
+ * (for `price` it is the set price).
  *
  * @http GET /cart.json
  */
 export type SellingPlanPriceAdjustment = {
+  /** How many orders the adjustment applies to. `null` for the last one, which applies from then on. */
   order_count: number | null;
   position: number;
   value_type: 'fixed_amount' | 'percentage' | 'price';

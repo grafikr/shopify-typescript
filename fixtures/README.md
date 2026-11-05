@@ -54,9 +54,16 @@ and without image, summary and tags.
 
 ### Known gaps
 
-- Selling plan price adjustments were only captured with `percentage` and
-  `fixed_amount`. `price` is in the types from Shopify's documentation but has no fixture.
-  Plans for pre-orders and try-before-you-buy were not captured either.
+Things in the types that no fixture has exercised:
+
+- Money scaling is only confirmed for a two-decimal currency (DKK).
+- `media_type` was only captured as `image`; `video`, `external_video` and `model` are
+  from Shopify's documentation.
+- Discount application `type` was captured as `""`, `"automatic"` and `"discount_code"`.
+  `"manual"` and `"script"` have no fixture.
+- Liquid smart collections always serialize `rules` as `[]`, so the item shape is unobserved.
+- Selling plan categories were captured as subscription, pre-order and try-before-you-buy.
+  Other plan shapes (for example a fixed delivery date) were not.
 
 ### Where fixtures came from
 

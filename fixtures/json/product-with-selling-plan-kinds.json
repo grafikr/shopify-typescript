@@ -1,0 +1,56 @@
+{
+  "product": {
+    "id": 15459523919946,
+    "title": "TYPEGEN plan kinds",
+    "body_html": null,
+    "vendor": "TypegenVendor",
+    "product_type": "",
+    "created_at": "2026-11-05T06:27:42-05:00",
+    "handle": "typegen-plan-kinds",
+    "updated_at": "2026-11-05T06:28:12-05:00",
+    "published_at": "2026-11-05T06:27:54-05:00",
+    "template_suffix": null,
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 67909889458250,
+        "product_id": 15459523919946,
+        "title": "S",
+        "price": "100.00",
+        "sku": "TG-KIND",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": null,
+        "option1": "S",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-11-05T06:27:42-05:00",
+        "updated_at": "2026-11-05T06:28:12-05:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 0,
+        "image_id": null,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+        "price_currency": "DKK",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 17935910535242,
+        "product_id": 15459523919946,
+        "name": "Size",
+        "position": 1,
+        "values": ["S"]
+      }
+    ],
+    "images": [],
+    "image": null
+  }
+}

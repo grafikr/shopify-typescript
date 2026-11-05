@@ -21,13 +21,13 @@ export const liquidDiscountType: Covers<
 
 export const jsSellingPlanValueType: Covers<
   Js.SellingPlanPriceAdjustment['value_type'],
-  'percentage' | 'fixed_amount'
+  'percentage' | 'fixed_amount' | 'price'
 > = true;
 export const jsonSellingPlanValueType: Covers<
   Json.SellingPlanPriceAdjustment['value_type'],
-  'percentage' | 'fixed_amount'
+  'percentage' | 'fixed_amount' | 'price'
 > = true;
 export const liquidSellingPlanValueType: Covers<
   Liquid.SellingPlanPriceAdjustment['value_type'],
-  'percentage' | 'fixed_amount'
+  'percentage' | 'fixed_amount' | 'price'
 > = true;
