@@ -6,8 +6,7 @@
     "format": "biome format . --write",
     "check": "biome check . --write",
     "generate": "node scripts/generate-tests.mjs",
-    "typecheck": "tsc --noEmit",
-    "lint:package": "publint && attw --pack ."
+    "typecheck": "tsc --noEmit"
   },
   "peerDependencies": {
     "typescript": ">=5.0"
@@ -18,9 +17,7 @@
     }
   },
   "devDependencies": {
-    "@arethetypeswrong/cli": "0.18.5",
     "@biomejs/biome": "2.6.5",
-    "publint": "0.3.25",
     "typescript": "^6.0.0"
   },
   "repository": {

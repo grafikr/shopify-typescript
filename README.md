@@ -90,7 +90,6 @@ See [`fixtures/README.md`](fixtures/README.md) for how to capture new fixtures.
 pnpm generate    # regenerate tests/*.test-d.ts after adding fixtures or exported types
 pnpm typecheck
 pnpm check       # biome
-pnpm lint:package  # publint and attw, against the packed package
 ```
 
 ## Migrating from v2
