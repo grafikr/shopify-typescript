@@ -54,16 +54,18 @@ and without image, summary and tags.
 
 ### Known gaps
 
-Things in the types that no fixture has exercised:
+Things in the types that no fixture has exercised, and why:
 
-- Money scaling is only confirmed for a two-decimal currency (DKK).
-- `media_type` was only captured as `image`; `video`, `external_video` and `model` are
-  from Shopify's documentation.
-- Discount application `type` was captured as `""`, `"automatic"` and `"discount_code"`.
-  `"manual"` and `"script"` have no fixture.
-- Liquid smart collections always serialize `rules` as `[]`, so the item shape is unobserved.
-- Selling plan categories were captured as subscription, pre-order and try-before-you-buy.
-  Other plan shapes (for example a fixed delivery date) were not.
+- **Currencies with three decimals** (KWD, BHD, JOD, OMR) cannot be set up: the store
+  rejects them as market currencies. Zero-decimal currencies (CLP, ISK) and HUF were
+  captured, and they are scaled by 100 in `.js`, the cart and Liquid, like DKK.
+- **Discount application values that no discount we created produced.** `type`
+  `"manual"` and `"script"`, `allocation_method` `"one"`, `target_selection`
+  `"explicit"` and `target_type` `"shipping_line"` never appeared. Percentage, fixed
+  amount (across and per item), BXGY, automatic, free shipping and invalid codes were
+  captured. These values are kept from Shopify's documentation.
+- **Liquid `collection.rules`** is always an empty array, so it is typed as
+  `Array<never>`. No way to produce a non-empty one was found.
 
 ### Where fixtures came from
 

@@ -121,7 +121,9 @@ type Fits<F, T> = T extends unknown ? ([F] extends [Widen<T>] ? T : never) : nev
 /**
  * Union of the key paths present in the fixture \`F\` but not declared on the type \`T\`.
  * Only the members of \`T\` that \`F\` fits are considered, so a key missing from one
- * member of a union is not hidden by another member that declares it.
+ * member of a union is not hidden by another member that declares it. Keys that are
+ * only \`undefined\` in the fixture type (TypeScript adds them when the elements of an
+ * array have different shapes) are ignored.
  */
 type Extra<F, T> = F extends unknown
   ? unknown extends T
@@ -132,9 +134,11 @@ type Extra<F, T> = F extends unknown
         ? Extra<FU, ElemOf<Fits<F, T>>>
         : F extends object
           ? {
-              [K in keyof F & string]: K extends KeysOf<Fits<F, T>>
-                ? Extra<F[K], PropOf<Fits<F, T>, K>>
-                : K;
+              [K in keyof F & string]: [F[K]] extends [undefined]
+                ? never
+                : K extends KeysOf<Fits<F, T>>
+                  ? Extra<F[K], PropOf<Fits<F, T>, K>>
+                  : K;
             }[keyof F & string]
           : never
   : never;

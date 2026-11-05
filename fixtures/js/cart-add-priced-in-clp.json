@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": 67909930975306,
+      "properties": {},
+      "quantity": 2,
+      "variant_id": 67909930975306,
+      "key": "67909930975306:ffcb3a89d0280555be56006bbbc8b740",
+      "title": "TYPEGEN currencies - S",
+      "product_title": "TYPEGEN currencies",
+      "variant_title": "S",
+      "price": 14782600,
+      "original_price": 14782600,
+      "discounted_price": 14782600,
+      "line_price": 29565200,
+      "original_line_price": 29565200,
+      "presentment_price": 147826.0,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "TG-CUR",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459535126602,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 14782600,
+      "final_line_price": 29565200,
+      "url": "/products/typegen-currencies?variant=67909930975306",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-currencies",
+      "requires_shipping": false,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN currencies",
+      "product_description": null,
+      "untranslated_variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0
+    }
+  ]
+}

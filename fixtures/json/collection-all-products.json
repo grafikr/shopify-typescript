@@ -1,0 +1,17 @@
+{
+  "collection": {
+    "id": 288033177674,
+    "title": "Our products",
+    "handle": "all",
+    "description": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003eWelcome to our curated collection, where fashion meets versatility! Discover a stunning array of clothing designed to cater to every aspect of your lifestyle, from casual outings to formal events.\u003c\/p\u003e",
+    "published_at": "2024-11-04T08:58:30-05:00",
+    "updated_at": "2026-11-05T06:34:46-05:00",
+    "image": {
+      "id": 1608373698634,
+      "created_at": "2025-04-29T03:44:49-04:00",
+      "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/collections\/model-in-neutral-colors-by-window.jpg?v=1745912689",
+      "alt": null
+    },
+    "products_count": 50
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 288033177674,
+  "handle": "all",
+  "title": "Our products",
+  "updated_at": "2026-11-05T06:34:46-05:00",
+  "body_html": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003eWelcome to our curated collection, where fashion meets versatility! Discover a stunning array of clothing designed to cater to every aspect of your lifestyle, from casual outings to formal events.\u003c\/p\u003e",
+  "published_at": "2024-11-04T08:58:30-05:00",
+  "sort_order": "alpha-asc",
+  "template_suffix": "",
+  "disjunctive": false,
+  "rules": [],
+  "published_scope": "global",
+  "image": {
+    "created_at": "2025-04-29T03:44:49-04:00",
+    "alt": null,
+    "width": 4096,
+    "height": 2731,
+    "src": "\/\/grafikr-themes.myshopify.com\/cdn\/shop\/collections\/model-in-neutral-colors-by-window.jpg?v=1745912689"
+  }
+}

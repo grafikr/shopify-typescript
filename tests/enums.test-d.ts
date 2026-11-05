@@ -31,3 +31,16 @@ export const liquidSellingPlanValueType: Covers<
   Liquid.SellingPlanPriceAdjustment['value_type'],
   'percentage' | 'fixed_amount' | 'price'
 > = true;
+
+export const jsMediaType: Covers<
+  Js.ProductMedia['media_type'],
+  'image' | 'video' | 'external_video' | 'model'
+> = true;
+export const liquidMediaType: Covers<
+  Liquid.ProductMedia['media_type'],
+  'image' | 'video' | 'external_video' | 'model'
+> = true;
+export const jsonWeightUnit: Covers<
+  Json.ProductVariant['weight_unit'],
+  'g' | 'kg' | 'lb' | 'oz'
+> = true;

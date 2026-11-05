@@ -8,8 +8,13 @@ import js_cart_add_error_variant_not_found from '../fixtures/js/cart-add-error-v
 import js_cart_add_item_without_image_or_sku from '../fixtures/js/cart-add-item-without-image-or-sku.json';
 import js_cart_add_items_with_automatic_discount from '../fixtures/js/cart-add-items-with-automatic-discount.json';
 import js_cart_add_items_with_properties from '../fixtures/js/cart-add-items-with-properties.json';
+import js_cart_add_lines_in_all_weight_units from '../fixtures/js/cart-add-lines-in-all-weight-units.json';
+import js_cart_add_priced_in_clp from '../fixtures/js/cart-add-priced-in-clp.json';
+import js_cart_add_priced_in_huf from '../fixtures/js/cart-add-priced-in-huf.json';
+import js_cart_add_priced_in_isk from '../fixtures/js/cart-add-priced-in-isk.json';
 import js_cart_add_single_item_response from '../fixtures/js/cart-add-single-item-response.json';
 import js_cart_add_variant_image_and_gift_card from '../fixtures/js/cart-add-variant-image-and-gift-card.json';
+import js_cart_add_with_described_and_fixed_date_selling_plans from '../fixtures/js/cart-add-with-described-and-fixed-date-selling-plans.json';
 import js_cart_add_with_sections from '../fixtures/js/cart-add-with-sections.json';
 import js_cart_add_with_selling_plan from '../fixtures/js/cart-add-with-selling-plan.json';
 import js_cart_add_with_selling_plan_kinds from '../fixtures/js/cart-add-with-selling-plan-kinds.json';
@@ -26,8 +31,13 @@ import js_cart_change_remove_line_item from '../fixtures/js/cart-change-remove-l
 import js_cart_change_remove_selling_plan from '../fixtures/js/cart-change-remove-selling-plan.json';
 import js_cart_clear_response from '../fixtures/js/cart-clear-response.json';
 import js_cart_empty from '../fixtures/js/cart-empty.json';
+import js_cart_priced_in_clp from '../fixtures/js/cart-priced-in-clp.json';
+import js_cart_priced_in_huf from '../fixtures/js/cart-priced-in-huf.json';
+import js_cart_priced_in_isk from '../fixtures/js/cart-priced-in-isk.json';
 import js_cart_shipping_rates_standard_denmark from '../fixtures/js/cart-shipping-rates-standard-denmark.json';
+import js_cart_update_apply_bxgy_discount_code from '../fixtures/js/cart-update-apply-bxgy-discount-code.json';
 import js_cart_update_apply_fixed_amount_discount_code from '../fixtures/js/cart-update-apply-fixed-amount-discount-code.json';
+import js_cart_update_apply_fixed_amount_per_item_discount_code from '../fixtures/js/cart-update-apply-fixed-amount-per-item-discount-code.json';
 import js_cart_update_apply_free_shipping_code from '../fixtures/js/cart-update-apply-free-shipping-code.json';
 import js_cart_update_apply_invalid_discount_code from '../fixtures/js/cart-update-apply-invalid-discount-code.json';
 import js_cart_update_apply_percent_discount_code from '../fixtures/js/cart-update-apply-percent-discount-code.json';
@@ -37,24 +47,34 @@ import js_cart_update_quantities_by_array from '../fixtures/js/cart-update-quant
 import js_cart_update_quantities_by_variant_id from '../fixtures/js/cart-update-quantities-by-variant-id.json';
 import js_cart_update_set_attributes_and_clear_note from '../fixtures/js/cart-update-set-attributes-and-clear-note.json';
 import js_cart_with_automatic_discount from '../fixtures/js/cart-with-automatic-discount.json';
+import js_cart_with_bxgy_discount_code from '../fixtures/js/cart-with-bxgy-discount-code.json';
+import js_cart_with_described_and_fixed_date_selling_plans from '../fixtures/js/cart-with-described-and-fixed-date-selling-plans.json';
 import js_cart_with_fixed_amount_discount_code from '../fixtures/js/cart-with-fixed-amount-discount-code.json';
+import js_cart_with_fixed_amount_per_item_discount_code from '../fixtures/js/cart-with-fixed-amount-per-item-discount-code.json';
 import js_cart_with_fixed_amount_selling_plan from '../fixtures/js/cart-with-fixed-amount-selling-plan.json';
 import js_cart_with_free_shipping_code from '../fixtures/js/cart-with-free-shipping-code.json';
 import js_cart_with_invalid_discount_code from '../fixtures/js/cart-with-invalid-discount-code.json';
 import js_cart_with_item_without_image_or_sku from '../fixtures/js/cart-with-item-without-image-or-sku.json';
 import js_cart_with_line_item_properties from '../fixtures/js/cart-with-line-item-properties.json';
+import js_cart_with_lines_in_all_weight_units from '../fixtures/js/cart-with-lines-in-all-weight-units.json';
 import js_cart_with_percent_discount_code from '../fixtures/js/cart-with-percent-discount-code.json';
 import js_cart_with_selling_plan_kinds from '../fixtures/js/cart-with-selling-plan-kinds.json';
 import js_cart_with_selling_plan_line_items from '../fixtures/js/cart-with-selling-plan-line-items.json';
 import js_cart_with_variant_image_and_gift_card from '../fixtures/js/cart-with-variant-image-and-gift-card.json';
 import js_product_gift_card from '../fixtures/js/product-gift-card.json';
+import js_product_priced_in_clp from '../fixtures/js/product-priced-in-clp.json';
+import js_product_priced_in_huf from '../fixtures/js/product-priced-in-huf.json';
+import js_product_priced_in_isk from '../fixtures/js/product-priced-in-isk.json';
 import js_product_requiring_selling_plan from '../fixtures/js/product-requiring-selling-plan.json';
+import js_product_with_all_media_types from '../fixtures/js/product-with-all-media-types.json';
+import js_product_with_described_and_fixed_date_selling_plans from '../fixtures/js/product-with-described-and-fixed-date-selling-plans.json';
 import js_product_with_image_and_default_variant from '../fixtures/js/product-with-image-and-default-variant.json';
 import js_product_with_selling_plan_kinds from '../fixtures/js/product-with-selling-plan-kinds.json';
 import js_product_with_selling_plans from '../fixtures/js/product-with-selling-plans.json';
 import js_product_with_three_options_and_variant_image from '../fixtures/js/product-with-three-options-and-variant-image.json';
 import js_product_with_two_options_compare_price_and_no_images from '../fixtures/js/product-with-two-options-compare-price-and-no-images.json';
 import js_product_with_two_size_variants_and_skus from '../fixtures/js/product-with-two-size-variants-and-skus.json';
+import js_product_with_weights_in_all_units from '../fixtures/js/product-with-weights-in-all-units.json';
 import js_product_without_description_sku_or_images from '../fixtures/js/product-without-description-sku-or-images.json';
 import js_variant_without_image from '../fixtures/js/variant-without-image.json';
 import json_browsing_context_country_and_language_suggestion from '../fixtures/json/browsing-context-country-and-language-suggestion.json';
@@ -63,16 +83,24 @@ import json_browsing_context_country_suggestion_without_language_match from '../
 import json_browsing_context_language_suggestion_only from '../fixtures/json/browsing-context-language-suggestion-only.json';
 import json_browsing_context_without_suggestions from '../fixtures/json/browsing-context-without-suggestions.json';
 import json_cart_empty from '../fixtures/json/cart-empty.json';
+import json_cart_priced_in_clp from '../fixtures/json/cart-priced-in-clp.json';
+import json_cart_priced_in_huf from '../fixtures/json/cart-priced-in-huf.json';
+import json_cart_priced_in_isk from '../fixtures/json/cart-priced-in-isk.json';
 import json_cart_with_automatic_discount from '../fixtures/json/cart-with-automatic-discount.json';
+import json_cart_with_bxgy_discount_code from '../fixtures/json/cart-with-bxgy-discount-code.json';
+import json_cart_with_described_and_fixed_date_selling_plans from '../fixtures/json/cart-with-described-and-fixed-date-selling-plans.json';
 import json_cart_with_fixed_amount_discount_code from '../fixtures/json/cart-with-fixed-amount-discount-code.json';
+import json_cart_with_fixed_amount_per_item_discount_code from '../fixtures/json/cart-with-fixed-amount-per-item-discount-code.json';
 import json_cart_with_free_shipping_code from '../fixtures/json/cart-with-free-shipping-code.json';
 import json_cart_with_invalid_discount_code from '../fixtures/json/cart-with-invalid-discount-code.json';
 import json_cart_with_item_without_image_or_sku from '../fixtures/json/cart-with-item-without-image-or-sku.json';
 import json_cart_with_line_item_properties from '../fixtures/json/cart-with-line-item-properties.json';
+import json_cart_with_lines_in_all_weight_units from '../fixtures/json/cart-with-lines-in-all-weight-units.json';
 import json_cart_with_percent_discount_code from '../fixtures/json/cart-with-percent-discount-code.json';
 import json_cart_with_selling_plan_kinds from '../fixtures/json/cart-with-selling-plan-kinds.json';
 import json_cart_with_selling_plan_line_items from '../fixtures/json/cart-with-selling-plan-line-items.json';
 import json_cart_with_variant_image_and_gift_card from '../fixtures/json/cart-with-variant-image-and-gift-card.json';
+import json_collection_all_products from '../fixtures/json/collection-all-products.json';
 import json_collection_normal_with_image_and_description from '../fixtures/json/collection-normal-with-image-and-description.json';
 import json_collection_normal_without_description_or_image from '../fixtures/json/collection-normal-without-description-or-image.json';
 import json_collection_products_empty from '../fixtures/json/collection-products-empty.json';
@@ -84,6 +112,7 @@ import json_collection_products_page_beyond_last from '../fixtures/json/collecti
 import json_collection_products_second_page from '../fixtures/json/collection-products-second-page.json';
 import json_collection_products_with_one_product from '../fixtures/json/collection-products-with-one-product.json';
 import json_collection_products_with_variant_image from '../fixtures/json/collection-products-with-variant-image.json';
+import json_collection_smart_created_before_markets from '../fixtures/json/collection-smart-created-before-markets.json';
 import json_collection_smart_with_image_and_description from '../fixtures/json/collection-smart-with-image-and-description.json';
 import json_collection_smart_without_description_or_image from '../fixtures/json/collection-smart-without-description-or-image.json';
 import json_collections_list from '../fixtures/json/collections-list.json';
@@ -93,12 +122,18 @@ import json_page_without_body from '../fixtures/json/page-without-body.json';
 import json_pages_list from '../fixtures/json/pages-list.json';
 import json_policy_privacy_policy from '../fixtures/json/policy-privacy-policy.json';
 import json_product_gift_card from '../fixtures/json/product-gift-card.json';
+import json_product_priced_in_clp from '../fixtures/json/product-priced-in-clp.json';
+import json_product_priced_in_huf from '../fixtures/json/product-priced-in-huf.json';
+import json_product_priced_in_isk from '../fixtures/json/product-priced-in-isk.json';
+import json_product_with_all_media_types from '../fixtures/json/product-with-all-media-types.json';
+import json_product_with_described_and_fixed_date_selling_plans from '../fixtures/json/product-with-described-and-fixed-date-selling-plans.json';
 import json_product_with_image_and_default_variant from '../fixtures/json/product-with-image-and-default-variant.json';
 import json_product_with_selling_plan_kinds from '../fixtures/json/product-with-selling-plan-kinds.json';
 import json_product_with_selling_plans from '../fixtures/json/product-with-selling-plans.json';
 import json_product_with_three_options_and_variant_image from '../fixtures/json/product-with-three-options-and-variant-image.json';
 import json_product_with_two_options_compare_price_and_no_images from '../fixtures/json/product-with-two-options-compare-price-and-no-images.json';
 import json_product_with_two_size_variants_and_skus from '../fixtures/json/product-with-two-size-variants-and-skus.json';
+import json_product_with_weights_in_all_units from '../fixtures/json/product-with-weights-in-all-units.json';
 import json_product_without_description_sku_or_images from '../fixtures/json/product-without-description-sku-or-images.json';
 import json_products_list_all from '../fixtures/json/products-list-all.json';
 import json_products_list_first_three from '../fixtures/json/products-list-first-three.json';
@@ -112,20 +147,28 @@ import json_search_suggest_queries_only from '../fixtures/json/search-suggest-qu
 import json_variant_without_image from '../fixtures/json/variant-without-image.json';
 import liquid_article_with_image_summary_and_tags from '../fixtures/liquid/article-with-image-summary-and-tags.json';
 import liquid_article_without_image_summary_or_tags from '../fixtures/liquid/article-without-image-summary-or-tags.json';
+import liquid_cart_priced_in_clp from '../fixtures/liquid/cart-priced-in-clp.json';
+import liquid_cart_priced_in_isk from '../fixtures/liquid/cart-priced-in-isk.json';
 import liquid_cart_with_automatic_discount from '../fixtures/liquid/cart-with-automatic-discount.json';
+import liquid_cart_with_bxgy_discount_code from '../fixtures/liquid/cart-with-bxgy-discount-code.json';
+import liquid_cart_with_described_and_fixed_date_selling_plans from '../fixtures/liquid/cart-with-described-and-fixed-date-selling-plans.json';
 import liquid_cart_with_fixed_amount_discount_code from '../fixtures/liquid/cart-with-fixed-amount-discount-code.json';
+import liquid_cart_with_fixed_amount_per_item_discount_code from '../fixtures/liquid/cart-with-fixed-amount-per-item-discount-code.json';
 import liquid_cart_with_free_shipping_code from '../fixtures/liquid/cart-with-free-shipping-code.json';
 import liquid_cart_with_invalid_discount_code from '../fixtures/liquid/cart-with-invalid-discount-code.json';
 import liquid_cart_with_item_without_image_or_sku from '../fixtures/liquid/cart-with-item-without-image-or-sku.json';
 import liquid_cart_with_line_item_properties from '../fixtures/liquid/cart-with-line-item-properties.json';
+import liquid_cart_with_lines_in_all_weight_units from '../fixtures/liquid/cart-with-lines-in-all-weight-units.json';
 import liquid_cart_with_percent_discount_code from '../fixtures/liquid/cart-with-percent-discount-code.json';
 import liquid_cart_with_selling_plan_kinds from '../fixtures/liquid/cart-with-selling-plan-kinds.json';
 import liquid_cart_with_selling_plan_line_items from '../fixtures/liquid/cart-with-selling-plan-line-items.json';
 import liquid_cart_with_variant_image_and_gift_card from '../fixtures/liquid/cart-with-variant-image-and-gift-card.json';
+import liquid_collection_all_products from '../fixtures/liquid/collection-all-products.json';
 import liquid_collection_normal_with_image_and_description from '../fixtures/liquid/collection-normal-with-image-and-description.json';
 import liquid_collection_normal_without_description_or_image from '../fixtures/liquid/collection-normal-without-description-or-image.json';
 import liquid_collection_products_empty_as_array from '../fixtures/liquid/collection-products-empty-as-array.json';
 import liquid_collection_products_first_page_as_array from '../fixtures/liquid/collection-products-first-page-as-array.json';
+import liquid_collection_smart_created_before_markets from '../fixtures/liquid/collection-smart-created-before-markets.json';
 import liquid_collection_smart_with_image_and_description from '../fixtures/liquid/collection-smart-with-image-and-description.json';
 import liquid_collection_smart_without_description_or_image from '../fixtures/liquid/collection-smart-without-description-or-image.json';
 import liquid_pagination_first_page_with_ellipsis_and_next from '../fixtures/liquid/pagination-first-page-with-ellipsis-and-next.json';
@@ -133,13 +176,18 @@ import liquid_pagination_page_beyond_last_with_previous_only from '../fixtures/l
 import liquid_pagination_second_page_with_previous_and_next from '../fixtures/liquid/pagination-second-page-with-previous-and-next.json';
 import liquid_pagination_single_page_without_parts from '../fixtures/liquid/pagination-single-page-without-parts.json';
 import liquid_product_gift_card from '../fixtures/liquid/product-gift-card.json';
+import liquid_product_priced_in_clp from '../fixtures/liquid/product-priced-in-clp.json';
+import liquid_product_priced_in_isk from '../fixtures/liquid/product-priced-in-isk.json';
 import liquid_product_requiring_selling_plan from '../fixtures/liquid/product-requiring-selling-plan.json';
+import liquid_product_with_all_media_types from '../fixtures/liquid/product-with-all-media-types.json';
+import liquid_product_with_described_and_fixed_date_selling_plans from '../fixtures/liquid/product-with-described-and-fixed-date-selling-plans.json';
 import liquid_product_with_image_and_default_variant from '../fixtures/liquid/product-with-image-and-default-variant.json';
 import liquid_product_with_selling_plan_kinds from '../fixtures/liquid/product-with-selling-plan-kinds.json';
 import liquid_product_with_selling_plans from '../fixtures/liquid/product-with-selling-plans.json';
 import liquid_product_with_three_options_and_variant_image from '../fixtures/liquid/product-with-three-options-and-variant-image.json';
 import liquid_product_with_two_options_compare_price_and_no_images from '../fixtures/liquid/product-with-two-options-compare-price-and-no-images.json';
 import liquid_product_with_two_size_variants_and_skus from '../fixtures/liquid/product-with-two-size-variants-and-skus.json';
+import liquid_product_with_weights_in_all_units from '../fixtures/liquid/product-with-weights-in-all-units.json';
 import liquid_product_without_description_sku_or_images from '../fixtures/liquid/product-without-description-sku-or-images.json';
 import type { Shopify } from '../global/Shopify';
 import type { Endpoints, Js, Json, Liquid } from '../src';
@@ -175,7 +223,9 @@ type Fits<F, T> = T extends unknown
 /**
  * Union of the key paths present in the fixture `F` but not declared on the type `T`.
  * Only the members of `T` that `F` fits are considered, so a key missing from one
- * member of a union is not hidden by another member that declares it.
+ * member of a union is not hidden by another member that declares it. Keys that are
+ * only `undefined` in the fixture type (TypeScript adds them when the elements of an
+ * array have different shapes) are ignored.
  */
 type Extra<F, T> = F extends unknown
   ? unknown extends T
@@ -186,9 +236,11 @@ type Extra<F, T> = F extends unknown
         ? Extra<FU, ElemOf<Fits<F, T>>>
         : F extends object
           ? {
-              [K in keyof F & string]: K extends KeysOf<Fits<F, T>>
-                ? Extra<F[K], PropOf<Fits<F, T>, K>>
-                : K;
+              [K in keyof F & string]: [F[K]] extends [undefined]
+                ? never
+                : K extends KeysOf<Fits<F, T>>
+                  ? Extra<F[K], PropOf<Fits<F, T>, K>>
+                  : K;
             }[keyof F & string]
           : never
   : never;
@@ -245,6 +297,30 @@ export const js_cart_add_items_with_properties_extra: NoExtra<
   typeof js_cart_add_items_with_properties,
   Js.CartAddResponse
 > = true;
+export const js_cart_add_lines_in_all_weight_units_check: Widen<Js.CartAddResponse> =
+  js_cart_add_lines_in_all_weight_units;
+export const js_cart_add_lines_in_all_weight_units_extra: NoExtra<
+  typeof js_cart_add_lines_in_all_weight_units,
+  Js.CartAddResponse
+> = true;
+export const js_cart_add_priced_in_clp_check: Widen<Js.CartAddResponse> =
+  js_cart_add_priced_in_clp;
+export const js_cart_add_priced_in_clp_extra: NoExtra<
+  typeof js_cart_add_priced_in_clp,
+  Js.CartAddResponse
+> = true;
+export const js_cart_add_priced_in_huf_check: Widen<Js.CartAddResponse> =
+  js_cart_add_priced_in_huf;
+export const js_cart_add_priced_in_huf_extra: NoExtra<
+  typeof js_cart_add_priced_in_huf,
+  Js.CartAddResponse
+> = true;
+export const js_cart_add_priced_in_isk_check: Widen<Js.CartAddResponse> =
+  js_cart_add_priced_in_isk;
+export const js_cart_add_priced_in_isk_extra: NoExtra<
+  typeof js_cart_add_priced_in_isk,
+  Js.CartAddResponse
+> = true;
 export const js_cart_add_single_item_response_check: Widen<Js.CartAddSingleResponse> =
   js_cart_add_single_item_response;
 export const js_cart_add_single_item_response_extra: NoExtra<
@@ -255,6 +331,12 @@ export const js_cart_add_variant_image_and_gift_card_check: Widen<Js.CartAddResp
   js_cart_add_variant_image_and_gift_card;
 export const js_cart_add_variant_image_and_gift_card_extra: NoExtra<
   typeof js_cart_add_variant_image_and_gift_card,
+  Js.CartAddResponse
+> = true;
+export const js_cart_add_with_described_and_fixed_date_selling_plans_check: Widen<Js.CartAddResponse> =
+  js_cart_add_with_described_and_fixed_date_selling_plans;
+export const js_cart_add_with_described_and_fixed_date_selling_plans_extra: NoExtra<
+  typeof js_cart_add_with_described_and_fixed_date_selling_plans,
   Js.CartAddResponse
 > = true;
 export const js_cart_add_with_sections_check: Widen<Js.CartAddResponse> =
@@ -349,16 +431,46 @@ export const js_cart_clear_response_extra: NoExtra<
 > = true;
 export const js_cart_empty_check: Widen<Js.Cart> = js_cart_empty;
 export const js_cart_empty_extra: NoExtra<typeof js_cart_empty, Js.Cart> = true;
+export const js_cart_priced_in_clp_check: Widen<Js.Cart> =
+  js_cart_priced_in_clp;
+export const js_cart_priced_in_clp_extra: NoExtra<
+  typeof js_cart_priced_in_clp,
+  Js.Cart
+> = true;
+export const js_cart_priced_in_huf_check: Widen<Js.Cart> =
+  js_cart_priced_in_huf;
+export const js_cart_priced_in_huf_extra: NoExtra<
+  typeof js_cart_priced_in_huf,
+  Js.Cart
+> = true;
+export const js_cart_priced_in_isk_check: Widen<Js.Cart> =
+  js_cart_priced_in_isk;
+export const js_cart_priced_in_isk_extra: NoExtra<
+  typeof js_cart_priced_in_isk,
+  Js.Cart
+> = true;
 export const js_cart_shipping_rates_standard_denmark_check: Widen<Js.ShippingRatesResponse> =
   js_cart_shipping_rates_standard_denmark;
 export const js_cart_shipping_rates_standard_denmark_extra: NoExtra<
   typeof js_cart_shipping_rates_standard_denmark,
   Js.ShippingRatesResponse
 > = true;
+export const js_cart_update_apply_bxgy_discount_code_check: Widen<Js.CartUpdateResponse> =
+  js_cart_update_apply_bxgy_discount_code;
+export const js_cart_update_apply_bxgy_discount_code_extra: NoExtra<
+  typeof js_cart_update_apply_bxgy_discount_code,
+  Js.CartUpdateResponse
+> = true;
 export const js_cart_update_apply_fixed_amount_discount_code_check: Widen<Js.CartUpdateResponse> =
   js_cart_update_apply_fixed_amount_discount_code;
 export const js_cart_update_apply_fixed_amount_discount_code_extra: NoExtra<
   typeof js_cart_update_apply_fixed_amount_discount_code,
+  Js.CartUpdateResponse
+> = true;
+export const js_cart_update_apply_fixed_amount_per_item_discount_code_check: Widen<Js.CartUpdateResponse> =
+  js_cart_update_apply_fixed_amount_per_item_discount_code;
+export const js_cart_update_apply_fixed_amount_per_item_discount_code_extra: NoExtra<
+  typeof js_cart_update_apply_fixed_amount_per_item_discount_code,
   Js.CartUpdateResponse
 > = true;
 export const js_cart_update_apply_free_shipping_code_check: Widen<Js.CartUpdateResponse> =
@@ -415,10 +527,28 @@ export const js_cart_with_automatic_discount_extra: NoExtra<
   typeof js_cart_with_automatic_discount,
   Js.Cart
 > = true;
+export const js_cart_with_bxgy_discount_code_check: Widen<Js.Cart> =
+  js_cart_with_bxgy_discount_code;
+export const js_cart_with_bxgy_discount_code_extra: NoExtra<
+  typeof js_cart_with_bxgy_discount_code,
+  Js.Cart
+> = true;
+export const js_cart_with_described_and_fixed_date_selling_plans_check: Widen<Js.Cart> =
+  js_cart_with_described_and_fixed_date_selling_plans;
+export const js_cart_with_described_and_fixed_date_selling_plans_extra: NoExtra<
+  typeof js_cart_with_described_and_fixed_date_selling_plans,
+  Js.Cart
+> = true;
 export const js_cart_with_fixed_amount_discount_code_check: Widen<Js.Cart> =
   js_cart_with_fixed_amount_discount_code;
 export const js_cart_with_fixed_amount_discount_code_extra: NoExtra<
   typeof js_cart_with_fixed_amount_discount_code,
+  Js.Cart
+> = true;
+export const js_cart_with_fixed_amount_per_item_discount_code_check: Widen<Js.Cart> =
+  js_cart_with_fixed_amount_per_item_discount_code;
+export const js_cart_with_fixed_amount_per_item_discount_code_extra: NoExtra<
+  typeof js_cart_with_fixed_amount_per_item_discount_code,
   Js.Cart
 > = true;
 export const js_cart_with_fixed_amount_selling_plan_check: Widen<Js.Cart> =
@@ -451,6 +581,12 @@ export const js_cart_with_line_item_properties_extra: NoExtra<
   typeof js_cart_with_line_item_properties,
   Js.Cart
 > = true;
+export const js_cart_with_lines_in_all_weight_units_check: Widen<Js.Cart> =
+  js_cart_with_lines_in_all_weight_units;
+export const js_cart_with_lines_in_all_weight_units_extra: NoExtra<
+  typeof js_cart_with_lines_in_all_weight_units,
+  Js.Cart
+> = true;
 export const js_cart_with_percent_discount_code_check: Widen<Js.Cart> =
   js_cart_with_percent_discount_code;
 export const js_cart_with_percent_discount_code_extra: NoExtra<
@@ -481,10 +617,40 @@ export const js_product_gift_card_extra: NoExtra<
   typeof js_product_gift_card,
   Js.Product
 > = true;
+export const js_product_priced_in_clp_check: Widen<Js.Product> =
+  js_product_priced_in_clp;
+export const js_product_priced_in_clp_extra: NoExtra<
+  typeof js_product_priced_in_clp,
+  Js.Product
+> = true;
+export const js_product_priced_in_huf_check: Widen<Js.Product> =
+  js_product_priced_in_huf;
+export const js_product_priced_in_huf_extra: NoExtra<
+  typeof js_product_priced_in_huf,
+  Js.Product
+> = true;
+export const js_product_priced_in_isk_check: Widen<Js.Product> =
+  js_product_priced_in_isk;
+export const js_product_priced_in_isk_extra: NoExtra<
+  typeof js_product_priced_in_isk,
+  Js.Product
+> = true;
 export const js_product_requiring_selling_plan_check: Widen<Js.Product> =
   js_product_requiring_selling_plan;
 export const js_product_requiring_selling_plan_extra: NoExtra<
   typeof js_product_requiring_selling_plan,
+  Js.Product
+> = true;
+export const js_product_with_all_media_types_check: Widen<Js.Product> =
+  js_product_with_all_media_types;
+export const js_product_with_all_media_types_extra: NoExtra<
+  typeof js_product_with_all_media_types,
+  Js.Product
+> = true;
+export const js_product_with_described_and_fixed_date_selling_plans_check: Widen<Js.Product> =
+  js_product_with_described_and_fixed_date_selling_plans;
+export const js_product_with_described_and_fixed_date_selling_plans_extra: NoExtra<
+  typeof js_product_with_described_and_fixed_date_selling_plans,
   Js.Product
 > = true;
 export const js_product_with_image_and_default_variant_check: Widen<Js.Product> =
@@ -521,6 +687,12 @@ export const js_product_with_two_size_variants_and_skus_check: Widen<Js.Product>
   js_product_with_two_size_variants_and_skus;
 export const js_product_with_two_size_variants_and_skus_extra: NoExtra<
   typeof js_product_with_two_size_variants_and_skus,
+  Js.Product
+> = true;
+export const js_product_with_weights_in_all_units_check: Widen<Js.Product> =
+  js_product_with_weights_in_all_units;
+export const js_product_with_weights_in_all_units_extra: NoExtra<
+  typeof js_product_with_weights_in_all_units,
   Js.Product
 > = true;
 export const js_product_without_description_sku_or_images_check: Widen<Js.Product> =
@@ -573,16 +745,52 @@ export const json_browsing_context_without_suggestions_extra: NoExtra<
 export const json_cart_empty_check: Widen<Json.Cart> = json_cart_empty;
 export const json_cart_empty_extra: NoExtra<typeof json_cart_empty, Json.Cart> =
   true;
+export const json_cart_priced_in_clp_check: Widen<Json.Cart> =
+  json_cart_priced_in_clp;
+export const json_cart_priced_in_clp_extra: NoExtra<
+  typeof json_cart_priced_in_clp,
+  Json.Cart
+> = true;
+export const json_cart_priced_in_huf_check: Widen<Json.Cart> =
+  json_cart_priced_in_huf;
+export const json_cart_priced_in_huf_extra: NoExtra<
+  typeof json_cart_priced_in_huf,
+  Json.Cart
+> = true;
+export const json_cart_priced_in_isk_check: Widen<Json.Cart> =
+  json_cart_priced_in_isk;
+export const json_cart_priced_in_isk_extra: NoExtra<
+  typeof json_cart_priced_in_isk,
+  Json.Cart
+> = true;
 export const json_cart_with_automatic_discount_check: Widen<Json.Cart> =
   json_cart_with_automatic_discount;
 export const json_cart_with_automatic_discount_extra: NoExtra<
   typeof json_cart_with_automatic_discount,
   Json.Cart
 > = true;
+export const json_cart_with_bxgy_discount_code_check: Widen<Json.Cart> =
+  json_cart_with_bxgy_discount_code;
+export const json_cart_with_bxgy_discount_code_extra: NoExtra<
+  typeof json_cart_with_bxgy_discount_code,
+  Json.Cart
+> = true;
+export const json_cart_with_described_and_fixed_date_selling_plans_check: Widen<Json.Cart> =
+  json_cart_with_described_and_fixed_date_selling_plans;
+export const json_cart_with_described_and_fixed_date_selling_plans_extra: NoExtra<
+  typeof json_cart_with_described_and_fixed_date_selling_plans,
+  Json.Cart
+> = true;
 export const json_cart_with_fixed_amount_discount_code_check: Widen<Json.Cart> =
   json_cart_with_fixed_amount_discount_code;
 export const json_cart_with_fixed_amount_discount_code_extra: NoExtra<
   typeof json_cart_with_fixed_amount_discount_code,
+  Json.Cart
+> = true;
+export const json_cart_with_fixed_amount_per_item_discount_code_check: Widen<Json.Cart> =
+  json_cart_with_fixed_amount_per_item_discount_code;
+export const json_cart_with_fixed_amount_per_item_discount_code_extra: NoExtra<
+  typeof json_cart_with_fixed_amount_per_item_discount_code,
   Json.Cart
 > = true;
 export const json_cart_with_free_shipping_code_check: Widen<Json.Cart> =
@@ -609,6 +817,12 @@ export const json_cart_with_line_item_properties_extra: NoExtra<
   typeof json_cart_with_line_item_properties,
   Json.Cart
 > = true;
+export const json_cart_with_lines_in_all_weight_units_check: Widen<Json.Cart> =
+  json_cart_with_lines_in_all_weight_units;
+export const json_cart_with_lines_in_all_weight_units_extra: NoExtra<
+  typeof json_cart_with_lines_in_all_weight_units,
+  Json.Cart
+> = true;
 export const json_cart_with_percent_discount_code_check: Widen<Json.Cart> =
   json_cart_with_percent_discount_code;
 export const json_cart_with_percent_discount_code_extra: NoExtra<
@@ -632,6 +846,13 @@ export const json_cart_with_variant_image_and_gift_card_check: Widen<Json.Cart> 
 export const json_cart_with_variant_image_and_gift_card_extra: NoExtra<
   typeof json_cart_with_variant_image_and_gift_card,
   Json.Cart
+> = true;
+export const json_collection_all_products_check: Widen<
+  Endpoints['/collections/:handle.json']
+> = json_collection_all_products;
+export const json_collection_all_products_extra: NoExtra<
+  typeof json_collection_all_products,
+  Endpoints['/collections/:handle.json']
 > = true;
 export const json_collection_normal_with_image_and_description_check: Widen<
   Endpoints['/collections/:handle.json']
@@ -710,6 +931,13 @@ export const json_collection_products_with_variant_image_extra: NoExtra<
   typeof json_collection_products_with_variant_image,
   Endpoints['/collections/:handle/products.json']
 > = true;
+export const json_collection_smart_created_before_markets_check: Widen<
+  Endpoints['/collections/:handle.json']
+> = json_collection_smart_created_before_markets;
+export const json_collection_smart_created_before_markets_extra: NoExtra<
+  typeof json_collection_smart_created_before_markets,
+  Endpoints['/collections/:handle.json']
+> = true;
 export const json_collection_smart_with_image_and_description_check: Widen<
   Endpoints['/collections/:handle.json']
 > = json_collection_smart_with_image_and_description;
@@ -769,6 +997,36 @@ export const json_product_gift_card_extra: NoExtra<
   typeof json_product_gift_card.product,
   Json.Product
 > = true;
+export const json_product_priced_in_clp_check: Widen<Json.Product> =
+  json_product_priced_in_clp.product;
+export const json_product_priced_in_clp_extra: NoExtra<
+  typeof json_product_priced_in_clp.product,
+  Json.Product
+> = true;
+export const json_product_priced_in_huf_check: Widen<Json.Product> =
+  json_product_priced_in_huf.product;
+export const json_product_priced_in_huf_extra: NoExtra<
+  typeof json_product_priced_in_huf.product,
+  Json.Product
+> = true;
+export const json_product_priced_in_isk_check: Widen<Json.Product> =
+  json_product_priced_in_isk.product;
+export const json_product_priced_in_isk_extra: NoExtra<
+  typeof json_product_priced_in_isk.product,
+  Json.Product
+> = true;
+export const json_product_with_all_media_types_check: Widen<Json.Product> =
+  json_product_with_all_media_types.product;
+export const json_product_with_all_media_types_extra: NoExtra<
+  typeof json_product_with_all_media_types.product,
+  Json.Product
+> = true;
+export const json_product_with_described_and_fixed_date_selling_plans_check: Widen<Json.Product> =
+  json_product_with_described_and_fixed_date_selling_plans.product;
+export const json_product_with_described_and_fixed_date_selling_plans_extra: NoExtra<
+  typeof json_product_with_described_and_fixed_date_selling_plans.product,
+  Json.Product
+> = true;
 export const json_product_with_image_and_default_variant_check: Widen<Json.Product> =
   json_product_with_image_and_default_variant.product;
 export const json_product_with_image_and_default_variant_extra: NoExtra<
@@ -803,6 +1061,12 @@ export const json_product_with_two_size_variants_and_skus_check: Widen<Json.Prod
   json_product_with_two_size_variants_and_skus.product;
 export const json_product_with_two_size_variants_and_skus_extra: NoExtra<
   typeof json_product_with_two_size_variants_and_skus.product,
+  Json.Product
+> = true;
+export const json_product_with_weights_in_all_units_check: Widen<Json.Product> =
+  json_product_with_weights_in_all_units.product;
+export const json_product_with_weights_in_all_units_extra: NoExtra<
+  typeof json_product_with_weights_in_all_units.product,
   Json.Product
 > = true;
 export const json_product_without_description_sku_or_images_check: Widen<Json.Product> =
@@ -892,16 +1156,46 @@ export const liquid_article_without_image_summary_or_tags_extra: NoExtra<
   typeof liquid_article_without_image_summary_or_tags,
   Liquid.Article
 > = true;
+export const liquid_cart_priced_in_clp_check: Widen<Liquid.Cart> =
+  liquid_cart_priced_in_clp;
+export const liquid_cart_priced_in_clp_extra: NoExtra<
+  typeof liquid_cart_priced_in_clp,
+  Liquid.Cart
+> = true;
+export const liquid_cart_priced_in_isk_check: Widen<Liquid.Cart> =
+  liquid_cart_priced_in_isk;
+export const liquid_cart_priced_in_isk_extra: NoExtra<
+  typeof liquid_cart_priced_in_isk,
+  Liquid.Cart
+> = true;
 export const liquid_cart_with_automatic_discount_check: Widen<Liquid.Cart> =
   liquid_cart_with_automatic_discount;
 export const liquid_cart_with_automatic_discount_extra: NoExtra<
   typeof liquid_cart_with_automatic_discount,
   Liquid.Cart
 > = true;
+export const liquid_cart_with_bxgy_discount_code_check: Widen<Liquid.Cart> =
+  liquid_cart_with_bxgy_discount_code;
+export const liquid_cart_with_bxgy_discount_code_extra: NoExtra<
+  typeof liquid_cart_with_bxgy_discount_code,
+  Liquid.Cart
+> = true;
+export const liquid_cart_with_described_and_fixed_date_selling_plans_check: Widen<Liquid.Cart> =
+  liquid_cart_with_described_and_fixed_date_selling_plans;
+export const liquid_cart_with_described_and_fixed_date_selling_plans_extra: NoExtra<
+  typeof liquid_cart_with_described_and_fixed_date_selling_plans,
+  Liquid.Cart
+> = true;
 export const liquid_cart_with_fixed_amount_discount_code_check: Widen<Liquid.Cart> =
   liquid_cart_with_fixed_amount_discount_code;
 export const liquid_cart_with_fixed_amount_discount_code_extra: NoExtra<
   typeof liquid_cart_with_fixed_amount_discount_code,
+  Liquid.Cart
+> = true;
+export const liquid_cart_with_fixed_amount_per_item_discount_code_check: Widen<Liquid.Cart> =
+  liquid_cart_with_fixed_amount_per_item_discount_code;
+export const liquid_cart_with_fixed_amount_per_item_discount_code_extra: NoExtra<
+  typeof liquid_cart_with_fixed_amount_per_item_discount_code,
   Liquid.Cart
 > = true;
 export const liquid_cart_with_free_shipping_code_check: Widen<Liquid.Cart> =
@@ -928,6 +1222,12 @@ export const liquid_cart_with_line_item_properties_extra: NoExtra<
   typeof liquid_cart_with_line_item_properties,
   Liquid.Cart
 > = true;
+export const liquid_cart_with_lines_in_all_weight_units_check: Widen<Liquid.Cart> =
+  liquid_cart_with_lines_in_all_weight_units;
+export const liquid_cart_with_lines_in_all_weight_units_extra: NoExtra<
+  typeof liquid_cart_with_lines_in_all_weight_units,
+  Liquid.Cart
+> = true;
 export const liquid_cart_with_percent_discount_code_check: Widen<Liquid.Cart> =
   liquid_cart_with_percent_discount_code;
 export const liquid_cart_with_percent_discount_code_extra: NoExtra<
@@ -951,6 +1251,12 @@ export const liquid_cart_with_variant_image_and_gift_card_check: Widen<Liquid.Ca
 export const liquid_cart_with_variant_image_and_gift_card_extra: NoExtra<
   typeof liquid_cart_with_variant_image_and_gift_card,
   Liquid.Cart
+> = true;
+export const liquid_collection_all_products_check: Widen<Liquid.Collection> =
+  liquid_collection_all_products;
+export const liquid_collection_all_products_extra: NoExtra<
+  typeof liquid_collection_all_products,
+  Liquid.Collection
 > = true;
 export const liquid_collection_normal_with_image_and_description_check: Widen<Liquid.Collection> =
   liquid_collection_normal_with_image_and_description;
@@ -977,6 +1283,12 @@ export const liquid_collection_products_first_page_as_array_check: Widen<
 export const liquid_collection_products_first_page_as_array_extra: NoExtra<
   typeof liquid_collection_products_first_page_as_array,
   Array<Liquid.Product>
+> = true;
+export const liquid_collection_smart_created_before_markets_check: Widen<Liquid.Collection> =
+  liquid_collection_smart_created_before_markets;
+export const liquid_collection_smart_created_before_markets_extra: NoExtra<
+  typeof liquid_collection_smart_created_before_markets,
+  Liquid.Collection
 > = true;
 export const liquid_collection_smart_with_image_and_description_check: Widen<Liquid.Collection> =
   liquid_collection_smart_with_image_and_description;
@@ -1020,10 +1332,34 @@ export const liquid_product_gift_card_extra: NoExtra<
   typeof liquid_product_gift_card,
   Liquid.Product
 > = true;
+export const liquid_product_priced_in_clp_check: Widen<Liquid.Product> =
+  liquid_product_priced_in_clp;
+export const liquid_product_priced_in_clp_extra: NoExtra<
+  typeof liquid_product_priced_in_clp,
+  Liquid.Product
+> = true;
+export const liquid_product_priced_in_isk_check: Widen<Liquid.Product> =
+  liquid_product_priced_in_isk;
+export const liquid_product_priced_in_isk_extra: NoExtra<
+  typeof liquid_product_priced_in_isk,
+  Liquid.Product
+> = true;
 export const liquid_product_requiring_selling_plan_check: Widen<Liquid.Product> =
   liquid_product_requiring_selling_plan;
 export const liquid_product_requiring_selling_plan_extra: NoExtra<
   typeof liquid_product_requiring_selling_plan,
+  Liquid.Product
+> = true;
+export const liquid_product_with_all_media_types_check: Widen<Liquid.Product> =
+  liquid_product_with_all_media_types;
+export const liquid_product_with_all_media_types_extra: NoExtra<
+  typeof liquid_product_with_all_media_types,
+  Liquid.Product
+> = true;
+export const liquid_product_with_described_and_fixed_date_selling_plans_check: Widen<Liquid.Product> =
+  liquid_product_with_described_and_fixed_date_selling_plans;
+export const liquid_product_with_described_and_fixed_date_selling_plans_extra: NoExtra<
+  typeof liquid_product_with_described_and_fixed_date_selling_plans,
   Liquid.Product
 > = true;
 export const liquid_product_with_image_and_default_variant_check: Widen<Liquid.Product> =
@@ -1060,6 +1396,12 @@ export const liquid_product_with_two_size_variants_and_skus_check: Widen<Liquid.
   liquid_product_with_two_size_variants_and_skus;
 export const liquid_product_with_two_size_variants_and_skus_extra: NoExtra<
   typeof liquid_product_with_two_size_variants_and_skus,
+  Liquid.Product
+> = true;
+export const liquid_product_with_weights_in_all_units_check: Widen<Liquid.Product> =
+  liquid_product_with_weights_in_all_units;
+export const liquid_product_with_weights_in_all_units_extra: NoExtra<
+  typeof liquid_product_with_weights_in_all_units,
   Liquid.Product
 > = true;
 export const liquid_product_without_description_sku_or_images_check: Widen<Liquid.Product> =
