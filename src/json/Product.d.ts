@@ -1,7 +1,3 @@
-/**
- * Nested in `/products/[handle].json`. Returned as `{ product_variant: ProductVariant }` by
- * `/variants/[id].json`.
- */
 export type ProductVariant = {
   id: number;
   product_id: number;
@@ -77,9 +73,6 @@ export type ProductImage = {
   variant_ids: Array<number>;
 };
 
-/**
- * Returned as `{ product: Product }`.
- */
 export type Product = {
   id: number;
   title: string;

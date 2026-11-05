@@ -18,10 +18,6 @@ export type DiscountApplication = {
   total_allocated_amount: number;
 };
 
-/**
- * Also wraps the discount application in `cart_level_discount_applications` of
- * the `/cart/add.js`, `/cart/update.js` and `/cart/change.js` responses.
- */
 export type DiscountAllocation = {
   /** @unit cents */
   amount: number;

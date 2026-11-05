@@ -14,7 +14,6 @@ export type Image = {
 
 /**
  * All fields are `null` (the object itself is still present) when there is no image.
- * Used by cart line items.
  *
  * @liquid {{ cart | json }}
  */

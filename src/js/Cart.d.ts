@@ -141,9 +141,7 @@ export type CartChangedLineItem = {
   view_key: string;
 };
 
-/**
- * These endpoints wrap each cart level discount with the amount it took off.
- */
+/** Each cart level discount is wrapped with the amount it took off. */
 type CartMutationFields = Omit<
   Cart,
   'items' | 'cart_level_discount_applications'

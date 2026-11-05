@@ -150,8 +150,7 @@ export type ProductMedia =
   | ProductModelMedia;
 
 /**
- * URLs are protocol-relative (`//shop.myshopify.com/cdn/...`). Also the item
- * type of `{{ collection.products | json }}`.
+ * URLs are protocol-relative (`//shop.myshopify.com/cdn/...`).
  *
  * @liquid {{ product | json }}
  */
