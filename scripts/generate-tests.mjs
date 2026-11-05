@@ -115,14 +115,29 @@ type KeysOf<T> = T extends unknown ? keyof T : never;
 type ElemOf<T> = T extends ReadonlyArray<infer U> ? U : never;
 type PropOf<T, K> = T extends unknown ? (K extends keyof T ? T[K] : never) : never;
 
-/** Union of the key paths present in the fixture \`F\` but not declared on the type \`T\`. */
-type Extra<F, T> = unknown extends T
-  ? never
-  : F extends ReadonlyArray<infer FU>
-    ? Extra<FU, ElemOf<T>>
-    : F extends object
-      ? { [K in keyof F & string]: K extends KeysOf<T> ? Extra<F[K], PropOf<T, K>> : K }[keyof F & string]
-      : never;
+/** The members of the union \`T\` that the fixture \`F\` is assignable to. */
+type Fits<F, T> = T extends unknown ? ([F] extends [Widen<T>] ? T : never) : never;
+
+/**
+ * Union of the key paths present in the fixture \`F\` but not declared on the type \`T\`.
+ * Only the members of \`T\` that \`F\` fits are considered, so a key missing from one
+ * member of a union is not hidden by another member that declares it.
+ */
+type Extra<F, T> = F extends unknown
+  ? unknown extends T
+    ? never
+    : [Fits<F, T>] extends [never]
+      ? never
+      : F extends ReadonlyArray<infer FU>
+        ? Extra<FU, ElemOf<Fits<F, T>>>
+        : F extends object
+          ? {
+              [K in keyof F & string]: K extends KeysOf<Fits<F, T>>
+                ? Extra<F[K], PropOf<Fits<F, T>, K>>
+                : K;
+            }[keyof F & string]
+          : never
+  : never;
 
 /** \`true\` when the fixture has no keys the type does not declare, otherwise the offending keys. */
 type NoExtra<F, T> = [Extra<F, T>] extends [never] ? true : Extra<F, T>;
