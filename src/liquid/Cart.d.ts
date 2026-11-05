@@ -37,6 +37,7 @@ export type CartLineItem = {
   final_line_price: number;
   url: string;
   featured_image: FeaturedImage;
+  /** Protocol-relative (`//shop.myshopify.com/cdn/...`). */
   image: string | null;
   handle: string;
   requires_shipping: boolean;

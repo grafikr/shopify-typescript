@@ -62,6 +62,7 @@ export type ProductVariantImage = {
   alt: string | null;
   width: number;
   height: number;
+  /** Protocol-relative (`//shop.myshopify.com/cdn/...`). */
   src: string;
   variant_ids: Array<number>;
 };
@@ -93,6 +94,7 @@ export type ProductImageMedia = ProductMediaBase & {
   aspect_ratio: number;
   height: number;
   width: number;
+  /** Protocol-relative (`//shop.myshopify.com/cdn/...`). */
   src: string;
 };
 
@@ -109,6 +111,7 @@ export type ProductVideoMedia = ProductMediaBase & {
   sources: Array<{
     format: string;
     mime_type: string;
+    /** Protocol-relative (`//shop.myshopify.com/cdn/...`). */
     url: string;
     height: number;
     width: number;
@@ -135,7 +138,12 @@ export type ProductExternalVideoMedia = ProductMediaBase & {
  */
 export type ProductModelMedia = ProductMediaBase & {
   media_type: 'model';
-  sources: Array<{ format: string; mime_type: string; url: string }>;
+  sources: Array<{
+    format: string;
+    mime_type: string;
+    /** Protocol-relative (`//shop.myshopify.com/cdn/...`). */
+    url: string;
+  }>;
 };
 
 /**
@@ -150,8 +158,6 @@ export type ProductMedia =
   | ProductModelMedia;
 
 /**
- * URLs are protocol-relative (`//shop.myshopify.com/cdn/...`).
- *
  * @liquid {{ product | json }}
  */
 export type Product = {
@@ -180,7 +186,9 @@ export type Product = {
   compare_at_price_max: number;
   compare_at_price_varies: boolean;
   variants: Array<ProductVariant>;
+  /** Protocol-relative (`//shop.myshopify.com/cdn/...`). */
   images: Array<string>;
+  /** Protocol-relative (`//shop.myshopify.com/cdn/...`). */
   featured_image: string | null;
   /** Option names only, unlike `.js` where these are objects. */
   options: Array<string>;

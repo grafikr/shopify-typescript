@@ -1,6 +1,6 @@
 /**
  * Only exists nested in its parent. On its own, `{{ collection.image | json }}`
- * is just the URL string. URLs are protocol-relative.
+ * is just the URL string.
  *
  * @liquid {{ collection | json }}
  */
@@ -9,6 +9,7 @@ export type Image = {
   alt: string | null;
   width: number;
   height: number;
+  /** Protocol-relative (`//shop.myshopify.com/cdn/...`). */
   src: string;
 };
 
@@ -22,6 +23,7 @@ export type FeaturedImage =
       aspect_ratio: number;
       alt: string | null;
       height: number;
+      /** Protocol-relative (`//shop.myshopify.com/cdn/...`). */
       url: string;
       width: number;
     }
@@ -36,5 +38,6 @@ export type PreviewImage = {
   aspect_ratio: number;
   height: number;
   width: number;
+  /** Protocol-relative (`//shop.myshopify.com/cdn/...`). */
   src: string;
 };
