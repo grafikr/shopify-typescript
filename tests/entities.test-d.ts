@@ -122,10 +122,6 @@ export const js_ShippingRate: Same<
   Entity<'js', 'ShippingRate'>,
   Js.ShippingRate
 > = true;
-export const js_ShippingRatesError: Same<
-  Entity<'js', 'ShippingRatesError'>,
-  Js.ShippingRatesError
-> = true;
 export const js_ShippingRatesResponse: Same<
   Entity<'js', 'ShippingRatesResponse'>,
   Js.ShippingRatesResponse

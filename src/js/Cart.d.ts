@@ -223,13 +223,7 @@ export type ShippingRate = {
   metafields: unknown;
 };
 
-/** Needs a prior `POST /cart/prepare_shipping_rates.json`. */
+/**
+ * Needs a prior `POST /cart/prepare_shipping_rates.json`.
+ */
 export type ShippingRatesResponse = { shipping_rates: Array<ShippingRate> };
-
-/** Returned with status 422. Each key is an invalid address field with its messages. `error` is used when the rates could not be calculated, for example when no address is given. */
-export type ShippingRatesError = {
-  error?: Array<string>;
-  country?: Array<string>;
-  province?: Array<string>;
-  zip?: Array<string>;
-};
