@@ -22,6 +22,8 @@ Examples of how much they differ:
 | `variant.price`       | `number` (cents) | `number` (cents)        | `string` (`"129.00"`)       |
 | `product.description` | `description`    | `description`           | `body_html`                 |
 
+Requires TypeScript 5.0 or newer. CI checks 5.0, the latest 5.x, 6 and 7.
+
 ## Usage
 
 ```ts
@@ -75,16 +77,20 @@ every fixture:
 2. has no keys the type does not declare.
 
 If Shopify changes a response, or a type is wrong, the typecheck fails.
-`tests/enums.test-d.ts` covers string-literal unions, which JSON imports widen.
+`tests/enums.test-d.ts` covers string-literal unions, which JSON imports widen: each
+union must contain exactly the values seen in real responses, plus any that Shopify
+documents but no fixture has shown yet, listed explicitly.
+`tests/api.test-d.ts` imports the public API by package name, the way consumers do.
 
 See [`fixtures/README.md`](fixtures/README.md) for how to capture new fixtures.
 
 ## Development
 
 ```
-pnpm generate    # regenerate tests/fixtures.test-d.ts after adding fixtures
+pnpm generate    # regenerate tests/*.test-d.ts after adding fixtures or exported types
 pnpm typecheck
 pnpm check       # biome
+pnpm lint:package  # publint and attw, against the packed package
 ```
 
 ## Migrating from v2

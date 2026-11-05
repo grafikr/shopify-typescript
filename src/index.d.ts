@@ -7,9 +7,9 @@ export type { Js, Json, Liquid };
 
 /** Format registry. This is an interface so consumers can extend it with declaration merging. */
 export interface Formats {
-  js: typeof Js;
-  json: typeof Json;
-  liquid: typeof Liquid;
+  js: Js.Types;
+  json: Json.Types;
+  liquid: Liquid.Types;
 }
 
 /** Entity<'js', 'Cart'> */

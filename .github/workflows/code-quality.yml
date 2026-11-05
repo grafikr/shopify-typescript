@@ -24,7 +24,7 @@ jobs:
 
       - uses: actions/setup-node@v7
         with:
-          node-version: 24
+          node-version: 26
           cache: 'pnpm'
 
       - name: Install modules
@@ -42,12 +42,12 @@ jobs:
       - name: Check generated tests are up to date
         run: |
           pnpm generate
-          pnpm exec biome check --write tests/fixtures.test-d.ts
-          if git diff --quiet -- tests/fixtures.test-d.ts; then
+          pnpm exec biome check --write tests/fixtures.test-d.ts tests/entities.test-d.ts
+          if git diff --quiet -- tests/fixtures.test-d.ts tests/entities.test-d.ts; then
             echo '{"source":{"name":"Generated tests"},"diagnostics":[]}' > .reports/generated-tests.rdjson
           else
-            git diff -- tests/fixtures.test-d.ts | head -n 40
-            echo '{"source":{"name":"Generated tests"},"diagnostics":[{"message":"tests/fixtures.test-d.ts is out of date. Run `pnpm generate && pnpm check` and commit the result.","location":{"path":"tests/fixtures.test-d.ts","range":{"start":{"line":1,"column":1},"end":{"line":1,"column":1}}},"severity":"ERROR","code":{"value":"generated-tests/out-of-date"}}]}' > .reports/generated-tests.rdjson
+            git diff -- tests/fixtures.test-d.ts tests/entities.test-d.ts | head -n 40
+            echo '{"source":{"name":"Generated tests"},"diagnostics":[{"message":"Generated tests are out of date. Run `pnpm generate && pnpm check` and commit the result.","location":{"path":"tests/fixtures.test-d.ts","range":{"start":{"line":1,"column":1},"end":{"line":1,"column":1}}},"severity":"ERROR","code":{"value":"generated-tests/out-of-date"}}]}' > .reports/generated-tests.rdjson
           fi
 
       - name: Convert tsc output to rdjson
@@ -108,3 +108,53 @@ jobs:
           REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cat .reports/generated-tests.rdjson | reviewdog -f=rdjson -name="Generated tests" -reporter=github-check -filter-mode=nofilter -fail-level=error
+
+  typescript-versions:
+    name: TypeScript ${{ matrix.typescript }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        # 5.0 is the minimum in peerDependencies. 6 is the devDependency, which the
+        # job above checks. `5` and `7` resolve to the latest release of that major.
+        typescript: ['5.0', '5', '7']
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: pnpm/action-setup@v6
+        with:
+          version: 12
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 26
+          cache: 'pnpm'
+
+      - name: Install modules
+        run: pnpm install --frozen-lockfile
+
+      - name: Run tsc
+        run: pnpm dlx --package=typescript@${{ matrix.typescript }} tsc --noEmit
+
+  package:
+    name: Package
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: pnpm/action-setup@v6
+        with:
+          version: 12
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 26
+          cache: 'pnpm'
+
+      - name: Install modules
+        run: pnpm install --frozen-lockfile
+
+      - name: Run publint and attw
+        run: pnpm lint:package
