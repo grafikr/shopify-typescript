@@ -9,7 +9,7 @@ export type ProductVariant = {
   product_id: number;
   title: string;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   price: string;
@@ -18,7 +18,7 @@ export type ProductVariant = {
   /**
    * Empty string (not null) when unset.
    *
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   compare_at_price: string | null;

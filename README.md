@@ -50,15 +50,17 @@ and the theme editor events (`.../global/CustomEvents`).
 
 Every type has a doc comment with tags that say where the data comes from:
 
-| Tag       | Meaning                                                                    | Example                                        |
-| --------- | -------------------------------------------------------------------------- | ---------------------------------------------- |
-| `@http`   | The request that returns it (`.js` and `.json`). Repeated for several URLs | `@http GET /products/[handle].js`              |
-| `@liquid` | The Liquid that outputs it (Liquid)                                        | `@liquid {{ product.variants \| json }}`       |
-| `@unit`   | The unit of a numeric field                                                | `@unit cents`, `@unit grams`, `@unit currency` |
-| `@format` | The format of a string field                                               | `@format decimal-string`                       |
+| Tag       | Meaning                                                                    | Example                                              |
+| --------- | -------------------------------------------------------------------------- | ---------------------------------------------------- |
+| `@http`   | The request that returns it (`.js` and `.json`). Repeated for several URLs | `@http GET /products/[handle].js`                    |
+| `@liquid` | The Liquid that outputs it (Liquid)                                        | `@liquid {{ product.variants \| json }}`             |
+| `@unit`   | The unit of a numeric field                                                | `@unit cents`, `@unit grams`, `@unit currency-units` |
+| `@format` | The format of a string field                                               | `@format decimal-string`                             |
 
-`@unit cents` is an integer in the smallest currency unit, `@unit currency` is a
-decimal amount (`200.0`, or `"200.00"` together with `@format decimal-string`).
+`@unit cents` is an integer in the smallest currency unit (`20000` for 200.00).
+`@unit currency-units` is a decimal amount in whole currency units (`200.0`, or
+`"200.00"` together with `@format decimal-string`). All fixtures come from a DKK
+store, so the scaling is only confirmed for currencies with two decimals.
 The tags show up in editor hovers, and are declared in `tsdoc.json` for tools
 that validate TSDoc.
 

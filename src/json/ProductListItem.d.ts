@@ -37,14 +37,14 @@ export type ProductListVariant = {
   featured_image: ProductListImage | null;
   available: boolean;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   price: string;
   /** @unit grams */
   grams: number;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   compare_at_price: string | null;

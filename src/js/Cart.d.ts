@@ -14,7 +14,7 @@ export type CartLineItem = {
   title: string;
   /** @unit cents */
   original_price: number;
-  /** @unit currency */
+  /** @unit currency-units */
   presentment_price: number;
   /** @unit cents */
   discounted_price: number;
@@ -132,11 +132,11 @@ export type CartChangedLineItem = {
   /**
    * Decimal string (e.g. "200.00"), unlike the cents used elsewhere.
    *
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   price: string;
-  /** @unit currency */
+  /** @unit currency-units */
   presentment_price: number;
   view_key: string;
 };
@@ -209,12 +209,12 @@ export type ShippingRate = {
   /**
    * Decimal string, e.g. "49.00"
    *
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   price: string;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   markup: string;
@@ -226,7 +226,7 @@ export type ShippingRate = {
   delivery_date: string | null;
   delivery_range: Array<string> | null;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   compare_price: string | null;

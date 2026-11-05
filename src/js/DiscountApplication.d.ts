@@ -6,7 +6,7 @@ export type DiscountApplication = {
   title: string;
   description: string | null;
   /**
-   * @unit percent when `value_type` is "percentage", otherwise currency
+   * @unit percent when `value_type` is "percentage", otherwise currency-units
    * @format decimal-string
    */
   value: string;

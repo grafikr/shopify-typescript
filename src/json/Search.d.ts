@@ -4,14 +4,14 @@ import type { FeaturedImage } from './Image';
 export type SuggestProductVariant = {
   available: boolean;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   compare_at_price: string | null;
   id: number;
   image: string | null;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   price: string;
@@ -29,28 +29,28 @@ export type SuggestProduct = {
   body: string | null;
   available: boolean;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   compare_at_price_max: string;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   compare_at_price_min: string;
   image: string | null;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   price: string;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   price_max: string;
   /**
-   * @unit currency
+   * @unit currency-units
    * @format decimal-string
    */
   price_min: string;

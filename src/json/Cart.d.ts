@@ -11,7 +11,7 @@ export type CartLineItem = {
   title: string;
   /** @unit cents */
   original_price: number;
-  /** @unit currency */
+  /** @unit currency-units */
   presentment_price: number;
   /** @unit cents */
   discounted_price: number;
