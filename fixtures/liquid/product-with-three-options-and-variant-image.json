@@ -36,7 +36,7 @@
         "alt": "rich alt",
         "width": 1382,
         "height": 1728,
-        "src": "\/\/grafikr-themes.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+        "src": "\/\/shop.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
         "variant_ids": [67900967485514]
       },
       "available": false,
@@ -56,7 +56,7 @@
           "aspect_ratio": 0.8,
           "height": 1728,
           "width": 1382,
-          "src": "\/\/grafikr-themes.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
+          "src": "\/\/shop.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
         }
       },
       "requires_selling_plan": false,
@@ -88,9 +88,9 @@
     }
   ],
   "images": [
-    "\/\/grafikr-themes.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
+    "\/\/shop.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
   ],
-  "featured_image": "\/\/grafikr-themes.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+  "featured_image": "\/\/shop.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
   "options": ["Size", "Color", "Material"],
   "media": [
     {
@@ -101,12 +101,12 @@
         "aspect_ratio": 0.8,
         "height": 1728,
         "width": 1382,
-        "src": "\/\/grafikr-themes.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
+        "src": "\/\/shop.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
       },
       "aspect_ratio": 0.8,
       "height": 1728,
       "media_type": "image",
-      "src": "\/\/grafikr-themes.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+      "src": "\/\/shop.myshopify.com\/cdn\/shop\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
       "width": 1382
     }
   ],

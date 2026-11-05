@@ -1,5 +1,5 @@
 {
-  "shop": "grafikr-themes.myshopify.com",
+  "shop": "shop.myshopify.com",
   "locale": "en",
   "currency": { "active": "DKK", "rate": "1.0" },
   "country": "GB",
@@ -13,7 +13,7 @@
     "handle": "null",
     "style": { "id": null, "handle": null }
   },
-  "cdnHost": "grafikr-themes.myshopify.com/cdn",
+  "cdnHost": "shop.myshopify.com/cdn",
   "routes": { "root": "/" },
   "previewMode": true,
   "shopJsCdnBaseUrl": "https://cdn.shopify.com/shopifycloud/shop-js",
