@@ -1,4 +1,7 @@
-export type { BrowsingContextSuggestions } from './BrowsingContextSuggestions';
+export type {
+  BrowsingContextSuggestionPart,
+  BrowsingContextSuggestions,
+} from './BrowsingContextSuggestions';
 export type { Cart, CartLineItem } from './Cart';
 export type { Collection, CollectionImage } from './Collection';
 export type {

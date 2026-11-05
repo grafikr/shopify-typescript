@@ -56,5 +56,16 @@ and without image, summary and tags.
 
 - Selling plans (`selling_plan_groups`, `selling_plan_allocations`,
   `selling_plan_allocation` on cart lines) are typed as `unknown` for lack of a fixture.
-- `suggestions` of `/browsing_context_suggestions.json` depends on the visitor's
-  detected country and could not be provoked locally.
+
+### Where fixtures came from
+
+Most fixtures were captured from a development store, with test data created for the
+purpose. The `browsing-context-*suggestion*` fixtures were captured from a public
+third-party storefront (bahne.dk), because suggestions need a store with several
+markets and a visitor whose detected country differs from the excluded one. They
+only contain country and language names. To reproduce them:
+
+```sh
+curl -sg -H 'Accept-Language: da-DK,da;q=0.9' \
+  "$STORE/browsing_context_suggestions.json?country[enabled]=true&country[exclude]=SE&language[enabled]=true&language[exclude]=sv"
+```

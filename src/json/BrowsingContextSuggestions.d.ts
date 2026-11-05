@@ -1,7 +1,20 @@
 /**
- * `suggestions` could not be provoked on a local dev store (it depends on the
- * visitor's detected country), so its items are modelled from Shopify's
- * documentation and are not covered by a fixture.
+ * A suggested country or language. `options` holds the choices the visitor can
+ * pick between, as `handle -> name`.
+ *
+ * @http GET /browsing_context_suggestions.json
+ */
+export type BrowsingContextSuggestionPart = {
+  handle: string;
+  name: string;
+  confidence: number;
+  options: Record<string, string>;
+};
+
+/**
+ * Request with `country[enabled]=true` and/or `language[enabled]=true`, and
+ * `country[exclude]` / `language[exclude]` for the current values. Language
+ * suggestions follow the browser's `Accept-Language`.
  *
  * @http GET /browsing_context_suggestions.json
  */
@@ -10,22 +23,15 @@ export type BrowsingContextSuggestions = {
     country_name: string;
     country: { handle: string; name: string };
   };
-  features: Record<string, unknown>;
+  /** `duties_collected` is only present when country suggestions are requested. */
+  features: { duties_collected?: boolean };
+  /** Empty when nothing differs from the excluded values, or the shop has a single market. */
   suggestions: Array<{
+    /** Only the requested parts are present. */
     parts: {
-      country: {
-        handle: string;
-        name: string;
-        confidence: number;
-        options: Record<string, string>;
-      };
-      language: {
-        handle: string;
-        name: string;
-        confidence: number;
-        options: Record<string, string>;
-      };
+      country?: BrowsingContextSuggestionPart;
+      language?: BrowsingContextSuggestionPart;
     };
-    confidence: string;
+    confidence: number;
   }>;
 };

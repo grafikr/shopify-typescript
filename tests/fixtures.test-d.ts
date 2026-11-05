@@ -45,6 +45,10 @@ import js_product_with_two_options_compare_price_and_no_images from '../fixtures
 import js_product_with_two_size_variants_and_skus from '../fixtures/js/product-with-two-size-variants-and-skus.json';
 import js_product_without_description_sku_or_images from '../fixtures/js/product-without-description-sku-or-images.json';
 import js_variant_without_image from '../fixtures/js/variant-without-image.json';
+import json_browsing_context_country_and_language_suggestion from '../fixtures/json/browsing-context-country-and-language-suggestion.json';
+import json_browsing_context_country_suggestion_only from '../fixtures/json/browsing-context-country-suggestion-only.json';
+import json_browsing_context_country_suggestion_without_language_match from '../fixtures/json/browsing-context-country-suggestion-without-language-match.json';
+import json_browsing_context_language_suggestion_only from '../fixtures/json/browsing-context-language-suggestion-only.json';
 import json_browsing_context_without_suggestions from '../fixtures/json/browsing-context-without-suggestions.json';
 import json_cart_empty from '../fixtures/json/cart-empty.json';
 import json_cart_with_automatic_discount from '../fixtures/json/cart-with-automatic-discount.json';
@@ -437,6 +441,34 @@ export const js_variant_without_image_check: Widen<Js.ProductVariant> =
 export const js_variant_without_image_extra: NoExtra<
   typeof js_variant_without_image,
   Js.ProductVariant
+> = true;
+export const json_browsing_context_country_and_language_suggestion_check: Widen<
+  Endpoints['/browsing_context_suggestions.json']
+> = json_browsing_context_country_and_language_suggestion;
+export const json_browsing_context_country_and_language_suggestion_extra: NoExtra<
+  typeof json_browsing_context_country_and_language_suggestion,
+  Endpoints['/browsing_context_suggestions.json']
+> = true;
+export const json_browsing_context_country_suggestion_only_check: Widen<
+  Endpoints['/browsing_context_suggestions.json']
+> = json_browsing_context_country_suggestion_only;
+export const json_browsing_context_country_suggestion_only_extra: NoExtra<
+  typeof json_browsing_context_country_suggestion_only,
+  Endpoints['/browsing_context_suggestions.json']
+> = true;
+export const json_browsing_context_country_suggestion_without_language_match_check: Widen<
+  Endpoints['/browsing_context_suggestions.json']
+> = json_browsing_context_country_suggestion_without_language_match;
+export const json_browsing_context_country_suggestion_without_language_match_extra: NoExtra<
+  typeof json_browsing_context_country_suggestion_without_language_match,
+  Endpoints['/browsing_context_suggestions.json']
+> = true;
+export const json_browsing_context_language_suggestion_only_check: Widen<
+  Endpoints['/browsing_context_suggestions.json']
+> = json_browsing_context_language_suggestion_only;
+export const json_browsing_context_language_suggestion_only_extra: NoExtra<
+  typeof json_browsing_context_language_suggestion_only,
+  Endpoints['/browsing_context_suggestions.json']
 > = true;
 export const json_browsing_context_without_suggestions_check: Widen<
   Endpoints['/browsing_context_suggestions.json']
