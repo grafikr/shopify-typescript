@@ -46,6 +46,25 @@ merging.
 Globals live in `global/`: `window.Shopify` (`@grafikr/shopify-typescript/global/Shopify`)
 and the theme editor events (`.../global/CustomEvents`).
 
+## Doc tags
+
+Every type has a doc comment with tags that say where the data comes from:
+
+| Tag       | Meaning                                                                    | Example                                        |
+| --------- | -------------------------------------------------------------------------- | ---------------------------------------------- |
+| `@http`   | The request that returns it (`.js` and `.json`). Repeated for several URLs | `@http GET /products/[handle].js`              |
+| `@liquid` | The Liquid that outputs it (Liquid)                                        | `@liquid {{ product.variants \| json }}`       |
+| `@unit`   | The unit of a numeric field                                                | `@unit cents`, `@unit grams`, `@unit currency` |
+| `@format` | The format of a string field                                               | `@format decimal-string`                       |
+
+`@unit cents` is an integer in the smallest currency unit, `@unit currency` is a
+decimal amount (`200.0`, or `"200.00"` together with `@format decimal-string`).
+The tags show up in editor hovers, and are declared in `tsdoc.json` for tools
+that validate TSDoc.
+
+`pnpm check:docs` verifies that every `@http` tag matches a key of `Endpoints`,
+and that every key of `Endpoints` is covered by a tag.
+
 ## How the types are verified
 
 Everything in `fixtures/` is a real response captured from a Shopify store,
