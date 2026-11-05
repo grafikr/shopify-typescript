@@ -16,18 +16,17 @@ export type Collection = {
   sort_order: string;
   template_suffix: string | null;
   published_scope: string;
-  /** Only on smart collections. `true` = match any rule, `false` = match all rules. */
+  /**
+   * Present on smart collections and on the special `all` collection, missing on
+   * normal ones. `true` = match any rule, `false` = match all rules.
+   */
   disjunctive?: boolean;
   /**
-   * Only on smart collections, but always an empty array in `| json`, even when
-   * the collection has rules (verified with rules on vendor, price and title).
-   * The item shape is the legacy REST one and has not been observed.
+   * Present together with `disjunctive`, but always an empty array in `| json`,
+   * even when the collection has rules. Checked on smart collections made through
+   * the Admin API (vendor, price, title and tag rules) and on an older one.
    */
-  rules?: Array<{
-    column: string;
-    relation: string;
-    condition: string;
-  }>;
+  rules?: Array<never>;
   /** Missing entirely when the collection has no image. */
   image?: Image;
 };

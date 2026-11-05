@@ -19,11 +19,15 @@ export type {
 export type { FeaturedImage, PreviewImage } from './Image';
 export type {
   Product,
+  ProductExternalVideoMedia,
+  ProductImageMedia,
   ProductMedia,
+  ProductModelMedia,
   ProductOption,
   ProductVariant,
   ProductVariantImage,
   ProductVariantMedia,
+  ProductVideoMedia,
 } from './Product';
 export type {
   CartResponseSellingPlanAllocation,

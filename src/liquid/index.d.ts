@@ -9,10 +9,14 @@ export type { FeaturedImage, Image, PreviewImage } from './Image';
 export type { Pagination, PaginationPart } from './Pagination';
 export type {
   Product,
+  ProductExternalVideoMedia,
+  ProductImageMedia,
   ProductMedia,
+  ProductModelMedia,
   ProductVariant,
   ProductVariantImage,
   ProductVariantMedia,
+  ProductVideoMedia,
 } from './Product';
 export type {
   CartSellingPlanAllocation,

@@ -78,18 +78,76 @@ export type ProductVariantMedia = {
   preview_image: PreviewImage;
 };
 
-/** @liquid {{ product.media | json }} */
-export type ProductMedia = {
+type ProductMediaBase = {
   id: number;
   position: number;
   alt: string | null;
+  preview_image: PreviewImage;
+};
+
+/**
+ * @liquid {{ product.media | json }}
+ */
+export type ProductImageMedia = ProductMediaBase & {
+  media_type: 'image';
   aspect_ratio: number;
   height: number;
   width: number;
-  media_type: 'image' | 'video' | 'external_video' | 'model';
   src: string;
-  preview_image: PreviewImage;
 };
+
+/**
+ * Has no `src`: use `sources`, which lists the mp4 and the HLS (m3u8) renditions.
+ *
+ * @liquid {{ product.media | json }}
+ */
+export type ProductVideoMedia = ProductMediaBase & {
+  media_type: 'video';
+  aspect_ratio: number;
+  /** @unit milliseconds */
+  duration: number;
+  sources: Array<{
+    format: string;
+    mime_type: string;
+    url: string;
+    height: number;
+    width: number;
+  }>;
+};
+
+/**
+ * A video hosted elsewhere, for example on YouTube. Has no `src`.
+ *
+ * @liquid {{ product.media | json }}
+ */
+export type ProductExternalVideoMedia = ProductMediaBase & {
+  media_type: 'external_video';
+  aspect_ratio: number;
+  /** The id on the host, e.g. a YouTube video id. */
+  external_id: string;
+  host: string;
+};
+
+/**
+ * A 3D model. Has no `src` and no `aspect_ratio`: use `sources`.
+ *
+ * @liquid {{ product.media | json }}
+ */
+export type ProductModelMedia = ProductMediaBase & {
+  media_type: 'model';
+  sources: Array<{ format: string; mime_type: string; url: string }>;
+};
+
+/**
+ * Tell the kinds apart with `media_type`.
+ *
+ * @liquid {{ product.media | json }}
+ */
+export type ProductMedia =
+  | ProductImageMedia
+  | ProductVideoMedia
+  | ProductExternalVideoMedia
+  | ProductModelMedia;
 
 /**
  * URLs are protocol-relative (`//shop.myshopify.com/cdn/...`). Also the item

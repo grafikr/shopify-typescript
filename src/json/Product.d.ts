@@ -9,6 +9,8 @@ export type ProductVariant = {
   product_id: number;
   title: string;
   /**
+   * Decimal places follow the currency: `"129.00"` for DKK, `"147826"` for CLP.
+   *
    * @unit currency-units
    * @format decimal-string
    */
