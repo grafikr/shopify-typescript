@@ -1,7 +1,7 @@
 import type { FeaturedImage } from './Image';
 
 /**
- * /search/suggest.json
+ * GET /search/suggest.json
  */
 export type SuggestProductVariant = {
   available: boolean;
@@ -15,7 +15,7 @@ export type SuggestProductVariant = {
 };
 
 /**
- * /search/suggest.json
+ * GET /search/suggest.json
  */
 export type SuggestProduct = {
   id: number;
@@ -39,7 +39,7 @@ export type SuggestProduct = {
 };
 
 /**
- * /search/suggest.json
+ * GET /search/suggest.json
  */
 export type SuggestCollection = {
   id: number;
@@ -52,7 +52,7 @@ export type SuggestCollection = {
 };
 
 /**
- * /search/suggest.json
+ * GET /search/suggest.json
  */
 export type SuggestPage = {
   id: number;
@@ -65,7 +65,7 @@ export type SuggestPage = {
 };
 
 /**
- * /search/suggest.json
+ * GET /search/suggest.json
  */
 export type SuggestArticle = {
   id: number;
@@ -82,14 +82,14 @@ export type SuggestArticle = {
 };
 
 /**
- * /search/suggest.json
+ * GET /search/suggest.json
  */
 export type SuggestQuery = { url: string; text: string; styled_text: string };
 
 /**
  * Only the requested `resources[type]`s are present.
  *
- * /search/suggest.json
+ * GET /search/suggest.json
  */
 export type SearchSuggestResponse = {
   resources: {

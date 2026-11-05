@@ -5,7 +5,7 @@ import type { ProductImage } from './Product';
  * options, images and variants carry fewer fields. Also the item type of
  * `/collections/[handle]/products.json`.
  *
- * /products.json
+ * GET /products.json
  */
 export type ProductListItem = {
   id: number;
@@ -24,7 +24,7 @@ export type ProductListItem = {
 };
 
 /**
- * /products.json
+ * GET /products.json
  */
 export type ProductListVariant = {
   id: number;
@@ -50,7 +50,7 @@ export type ProductListVariant = {
  * `alt` is missing on items of `images`, but present (and `null`) on a variant's
  * `featured_image`.
  *
- * /products.json
+ * GET /products.json
  */
 export type ProductListImage = Omit<ProductImage, 'alt'> & {
   alt?: string | null;

@@ -7,7 +7,7 @@ import type { FeaturedImage } from './Image';
 /**
  * Prices are integers in the smallest currency unit (cents).
  *
- * /cart.js
+ * GET /cart.js
  */
 export type CartLineItem = {
   id: number;
@@ -60,7 +60,7 @@ export type CartLineItem = {
 /**
  * Prices are integers in the smallest currency unit (cents).
  *
- * /cart.js
+ * GET /cart.js
  */
 export type Cart = {
   token: string;
@@ -184,7 +184,7 @@ export type CartError = {
 };
 
 /**
- * /cart/shipping_rates.json
+ * GET /cart/shipping_rates.json
  */
 export type ShippingRate = {
   name: string;
@@ -220,6 +220,6 @@ export type ShippingRate = {
 /**
  * Needs a prior `POST /cart/prepare_shipping_rates.json`.
  *
- * /cart/shipping_rates.json
+ * GET /cart/shipping_rates.json
  */
 export type ShippingRatesResponse = { shipping_rates: Array<ShippingRate> };

@@ -4,7 +4,7 @@ import type { FeaturedImage } from './Image';
 /**
  * Prices are integers in the smallest currency unit (cents).
  *
- * /cart.json
+ * GET /cart.json
  */
 export type CartLineItem = {
   id: number;
@@ -59,7 +59,7 @@ export type CartLineItem = {
  * Currently the same payload as `/cart.js`. Kept as its own type so the two can
  * diverge without a breaking change.
  *
- * /cart.json
+ * GET /cart.json
  */
 export type Cart = {
   token: string;

@@ -1,5 +1,5 @@
 /**
- * /meta.json
+ * GET /meta.json
  */
 export type Meta = {
   id: number;

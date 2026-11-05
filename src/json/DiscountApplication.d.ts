@@ -1,5 +1,5 @@
 /**
- * /cart.json
+ * GET /cart.json
  */
 export type DiscountApplication = {
   /** `""` has been observed for automatic discounts. */
@@ -17,7 +17,7 @@ export type DiscountApplication = {
 };
 
 /**
- * /cart.json
+ * GET /cart.json
  */
 export type DiscountAllocation = {
   amount: number;

@@ -1,5 +1,5 @@
 /**
- * /collections/[handle].json
+ * GET /collections/[handle].json
  */
 export type CollectionImage = {
   id: number;
@@ -12,7 +12,7 @@ export type CollectionImage = {
  * For both normal and smart collections. Not the same shape as the Liquid `collection`.
  * Also the item type of `/collections.json`.
  *
- * /collections/[handle].json
+ * GET /collections/[handle].json
  */
 export type Collection = {
   id: number;

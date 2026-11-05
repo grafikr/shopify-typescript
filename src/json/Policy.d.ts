@@ -1,5 +1,5 @@
 /**
- * /policies/[handle].json
+ * GET /policies/[handle].json
  */
 export type Policy = {
   body: string;

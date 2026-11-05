@@ -2,7 +2,7 @@
  * All fields are `null` (the object itself is still present) when there is no image.
  * Used by cart line items.
  *
- * /cart.js
+ * GET /cart.js
  */
 export type FeaturedImage =
   | {
@@ -17,7 +17,7 @@ export type FeaturedImage =
 /**
  * Preview of a media item.
  *
- * /products/[handle].js
+ * GET /products/[handle].js
  */
 export type PreviewImage = {
   aspect_ratio: number;

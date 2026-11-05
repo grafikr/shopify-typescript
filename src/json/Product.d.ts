@@ -3,7 +3,7 @@
  * Nested in `/products/[handle].json`. Returned as `{ product_variant: ProductVariant }` by
  * `/variants/[id].json`.
  *
- * /variants/[id].json
+ * GET /variants/[id].json
  */
 export type ProductVariant = {
   id: number;
@@ -48,7 +48,7 @@ export type ProductVariant = {
 };
 
 /**
- * /products/[handle].json
+ * GET /products/[handle].json
  */
 export type ProductOption = {
   id: number;
@@ -59,7 +59,7 @@ export type ProductOption = {
 };
 
 /**
- * /products/[handle].json
+ * GET /products/[handle].json
  */
 export type ProductImage = {
   id: number;
@@ -77,7 +77,7 @@ export type ProductImage = {
 /**
  * Returned as `{ product: Product }`.
  *
- * /products/[handle].json
+ * GET /products/[handle].json
  */
 export type Product = {
   id: number;

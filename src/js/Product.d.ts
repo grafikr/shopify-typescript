@@ -3,7 +3,7 @@ import type { PreviewImage } from './Image';
 /**
  * Prices are integers in the smallest currency unit (cents).
  *
- * /variants/[id].js
+ * GET /variants/[id].js
  */
 export type ProductVariant = {
   id: number;
@@ -46,7 +46,7 @@ export type ProductVariant = {
 };
 
 /**
- * /products/[handle].js
+ * GET /products/[handle].js
  */
 export type ProductVariantImage = {
   id: number;
@@ -64,7 +64,7 @@ export type ProductVariantImage = {
 /**
  * Slimmer than `ProductMedia`.
  *
- * /products/[handle].js
+ * GET /products/[handle].js
  */
 export type ProductVariantMedia = {
   id: number;
@@ -74,7 +74,7 @@ export type ProductVariantMedia = {
 };
 
 /**
- * /products/[handle].js
+ * GET /products/[handle].js
  */
 export type ProductOption = {
   name: string;
@@ -83,7 +83,7 @@ export type ProductOption = {
 };
 
 /**
- * /products/[handle].js
+ * GET /products/[handle].js
  */
 export type ProductMedia = {
   id: number;
@@ -101,7 +101,7 @@ export type ProductMedia = {
  * Prices are integers in the smallest currency unit (cents).
  * Also the item type of `/recommendations/products.json`.
  *
- * /products/[handle].js
+ * GET /products/[handle].js
  */
 export type Product = {
   id: number;

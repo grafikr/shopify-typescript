@@ -1,7 +1,7 @@
 /**
  * Also the item type of `/pages.json`.
  *
- * /pages/[handle].json
+ * GET /pages/[handle].json
  */
 export type Page = {
   id: number;

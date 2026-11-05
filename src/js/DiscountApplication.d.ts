@@ -1,5 +1,5 @@
 /**
- * /cart.js
+ * GET /cart.js
  */
 export type DiscountApplication = {
   /** `""` has been observed for automatic discounts. */
@@ -20,7 +20,7 @@ export type DiscountApplication = {
  * Also wraps the discount application in `cart_level_discount_applications` of
  * the `/cart/add.js`, `/cart/update.js` and `/cart/change.js` responses.
  *
- * /cart.js
+ * GET /cart.js
  */
 export type DiscountAllocation = {
   amount: number;
