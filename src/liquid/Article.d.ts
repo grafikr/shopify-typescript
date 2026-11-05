@@ -1,8 +1,6 @@
 import type { Image } from './Image';
 
-/**
- * {{ article | json }}
- */
+/** @liquid {{ article | json }} */
 export type Article = {
   id: number;
   title: string;

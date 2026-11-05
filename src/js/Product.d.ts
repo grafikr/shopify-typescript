@@ -1,10 +1,6 @@
 import type { PreviewImage } from './Image';
 
-/**
- * Prices are integers in the smallest currency unit (cents).
- *
- * GET /variants/[id].js
- */
+/** @http GET /variants/[id].js */
 export type ProductVariant = {
   id: number;
   title: string;
@@ -18,8 +14,11 @@ export type ProductVariant = {
   name: string;
   public_title: string | null;
   options: Array<string>;
+  /** @unit cents */
   price: number;
+  /** @unit grams */
   weight: number;
+  /** @unit cents */
   compare_at_price: number | null;
   inventory_management: string | null;
   barcode: string | null;
@@ -36,7 +35,6 @@ export type ProductVariant = {
     reference_unit: string;
   };
 
-  // Deprecated properties
   /** @deprecated Prefer to use options instead. */
   option1: string | null;
   /** @deprecated Prefer to use options instead. */
@@ -45,9 +43,7 @@ export type ProductVariant = {
   option3: string | null;
 };
 
-/**
- * GET /products/[handle].js
- */
+/** @http GET /products/[handle].js */
 export type ProductVariantImage = {
   id: number;
   product_id: number;
@@ -64,7 +60,7 @@ export type ProductVariantImage = {
 /**
  * Slimmer than `ProductMedia`.
  *
- * GET /products/[handle].js
+ * @http GET /products/[handle].js
  */
 export type ProductVariantMedia = {
   id: number;
@@ -73,18 +69,14 @@ export type ProductVariantMedia = {
   preview_image: PreviewImage;
 };
 
-/**
- * GET /products/[handle].js
- */
+/** @http GET /products/[handle].js */
 export type ProductOption = {
   name: string;
   position: number;
   values: Array<string>;
 };
 
-/**
- * GET /products/[handle].js
- */
+/** @http GET /products/[handle].js */
 export type ProductMedia = {
   id: number;
   position: number;
@@ -98,10 +90,8 @@ export type ProductMedia = {
 };
 
 /**
- * Prices are integers in the smallest currency unit (cents).
- * Also the item type of `/recommendations/products.json`.
- *
- * GET /products/[handle].js
+ * @http GET /products/[handle].js
+ * @http GET /recommendations/products.json
  */
 export type Product = {
   id: number;
@@ -113,13 +103,19 @@ export type Product = {
   vendor: string;
   type: string;
   tags: Array<string>;
+  /** @unit cents */
   price: number;
+  /** @unit cents */
   price_min: number;
+  /** @unit cents */
   price_max: number;
   available: boolean;
   price_varies: boolean;
+  /** @unit cents */
   compare_at_price: number | null;
+  /** @unit cents */
   compare_at_price_min: number;
+  /** @unit cents */
   compare_at_price_max: number;
   compare_at_price_varies: boolean;
   variants: Array<ProductVariant>;

@@ -1,22 +1,26 @@
 import type { FeaturedImage } from './Image';
 
-/**
- * GET /search/suggest.json
- */
+/** @http GET /search/suggest.json */
 export type SuggestProductVariant = {
   available: boolean;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   compare_at_price: string | null;
   id: number;
   image: string | null;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   price: string;
   title: string;
   url: string;
   featured_image: FeaturedImage;
 };
 
-/**
- * GET /search/suggest.json
- */
+/** @http GET /search/suggest.json */
 export type SuggestProduct = {
   id: number;
   handle: string;
@@ -24,11 +28,31 @@ export type SuggestProduct = {
   title: string;
   body: string | null;
   available: boolean;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   compare_at_price_max: string;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   compare_at_price_min: string;
   image: string | null;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   price: string;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   price_max: string;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   price_min: string;
   tags: Array<string>;
   type: string;
@@ -38,9 +62,7 @@ export type SuggestProduct = {
   featured_image: FeaturedImage;
 };
 
-/**
- * GET /search/suggest.json
- */
+/** @http GET /search/suggest.json */
 export type SuggestCollection = {
   id: number;
   handle: string;
@@ -51,9 +73,7 @@ export type SuggestCollection = {
   featured_image: FeaturedImage;
 };
 
-/**
- * GET /search/suggest.json
- */
+/** @http GET /search/suggest.json */
 export type SuggestPage = {
   id: number;
   handle: string;
@@ -64,9 +84,7 @@ export type SuggestPage = {
   published_at: string;
 };
 
-/**
- * GET /search/suggest.json
- */
+/** @http GET /search/suggest.json */
 export type SuggestArticle = {
   id: number;
   handle: string;
@@ -81,15 +99,13 @@ export type SuggestArticle = {
   featured_image: FeaturedImage;
 };
 
-/**
- * GET /search/suggest.json
- */
+/** @http GET /search/suggest.json */
 export type SuggestQuery = { url: string; text: string; styled_text: string };
 
 /**
  * Only the requested `resources[type]`s are present.
  *
- * GET /search/suggest.json
+ * @http GET /search/suggest.json
  */
 export type SearchSuggestResponse = {
   resources: {

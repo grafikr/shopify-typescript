@@ -1,6 +1,4 @@
-/**
- * GET /collections/[handle].json
- */
+/** @http GET /collections/[handle].json */
 export type CollectionImage = {
   id: number;
   created_at: string;
@@ -10,9 +8,9 @@ export type CollectionImage = {
 
 /**
  * For both normal and smart collections. Not the same shape as the Liquid `collection`.
- * Also the item type of `/collections.json`.
  *
- * GET /collections/[handle].json
+ * @http GET /collections/[handle].json
+ * @http GET /collections.json
  */
 export type Collection = {
   id: number;

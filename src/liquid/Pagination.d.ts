@@ -1,6 +1,4 @@
-/**
- * {{ paginate.parts | json }}
- */
+/** @liquid {{ paginate.parts | json }} */
 export type PaginationPart = {
   /** A page number for page links, otherwise text like "&hellip;" or "Next &raquo;". */
   title: string | number;
@@ -12,7 +10,7 @@ export type PaginationPart = {
 /**
  * Only available inside a `{% paginate %}` block.
  *
- * {{ paginate | json }}
+ * @liquid {{ paginate | json }}
  */
 export type Pagination = {
   current_offset: number;

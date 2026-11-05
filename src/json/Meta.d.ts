@@ -1,6 +1,4 @@
-/**
- * GET /meta.json
- */
+/** @http GET /meta.json */
 export type Meta = {
   id: number;
   name: string;

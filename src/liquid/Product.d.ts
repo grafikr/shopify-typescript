@@ -1,9 +1,9 @@
 import type { PreviewImage } from './Image';
 
 /**
- * A variant of the product. Prices are integers in the smallest currency unit (cents).
+ * A variant of the product.
  *
- * {{ product.variants | json }}
+ * @liquid {{ product.variants | json }}
  */
 export type ProductVariant = {
   id: number;
@@ -19,8 +19,11 @@ export type ProductVariant = {
   name: string;
   public_title: string | null;
   options: Array<string>;
+  /** @unit cents */
   price: number;
+  /** @unit grams */
   weight: number;
+  /** @unit cents */
   compare_at_price: number | null;
   inventory_management: string | null;
   barcode: string | null;
@@ -36,7 +39,6 @@ export type ProductVariant = {
     reference_unit: string;
   };
 
-  // Deprecated properties
   /** @deprecated Prefer to use options instead. */
   option1: string | null;
   /** @deprecated Prefer to use options instead. */
@@ -48,7 +50,7 @@ export type ProductVariant = {
 /**
  * Only exists nested in a variant.
  *
- * {{ product | json }}
+ * @liquid {{ product | json }}
  */
 export type ProductVariantImage = {
   id: number;
@@ -66,7 +68,7 @@ export type ProductVariantImage = {
 /**
  * Only exists nested in a variant.
  *
- * {{ product | json }}
+ * @liquid {{ product | json }}
  */
 export type ProductVariantMedia = {
   id: number;
@@ -75,9 +77,7 @@ export type ProductVariantMedia = {
   preview_image: PreviewImage;
 };
 
-/**
- * {{ product.media | json }}
- */
+/** @liquid {{ product.media | json }} */
 export type ProductMedia = {
   id: number;
   position: number;
@@ -94,7 +94,7 @@ export type ProductMedia = {
  * URLs are protocol-relative (`//shop.myshopify.com/cdn/...`). Also the item
  * type of `{{ collection.products | json }}`.
  *
- * {{ product | json }}
+ * @liquid {{ product | json }}
  */
 export type Product = {
   id: number;
@@ -106,13 +106,19 @@ export type Product = {
   vendor: string;
   type: string;
   tags: Array<string>;
+  /** @unit cents */
   price: number;
+  /** @unit cents */
   price_min: number;
+  /** @unit cents */
   price_max: number;
   available: boolean;
   price_varies: boolean;
+  /** @unit cents */
   compare_at_price: number | null;
+  /** @unit cents */
   compare_at_price_min: number;
+  /** @unit cents */
   compare_at_price_max: number;
   compare_at_price_varies: boolean;
   variants: Array<ProductVariant>;

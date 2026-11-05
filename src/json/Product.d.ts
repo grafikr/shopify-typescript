@@ -1,18 +1,26 @@
 /**
- * Prices are decimal strings (e.g. "129.00").
  * Nested in `/products/[handle].json`. Returned as `{ product_variant: ProductVariant }` by
  * `/variants/[id].json`.
  *
- * GET /variants/[id].json
+ * @http GET /variants/[id].json
  */
 export type ProductVariant = {
   id: number;
   product_id: number;
   title: string;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   price: string;
   sku: string | null;
   position: number;
-  /** Empty string (not null) when unset. */
+  /**
+   * Empty string (not null) when unset.
+   *
+   * @unit currency
+   * @format decimal-string
+   */
   compare_at_price: string | null;
   fulfillment_service: string;
   inventory_management: string | null;
@@ -20,8 +28,10 @@ export type ProductVariant = {
   updated_at: string;
   taxable: boolean;
   barcode: string | null;
+  /** @unit grams */
   grams: number;
   image_id: number | null;
+  /** @unit `weight_unit` */
   weight: number;
   weight_unit: 'g' | 'kg' | 'lb' | 'oz';
   requires_shipping: boolean;
@@ -38,7 +48,6 @@ export type ProductVariant = {
     reference_unit: string;
   };
 
-  // Deprecated properties
   /** @deprecated Prefer to use options instead. */
   option1: string | null;
   /** @deprecated Prefer to use options instead. */
@@ -47,9 +56,7 @@ export type ProductVariant = {
   option3: string | null;
 };
 
-/**
- * GET /products/[handle].json
- */
+/** @http GET /products/[handle].json */
 export type ProductOption = {
   id: number;
   product_id: number;
@@ -58,9 +65,7 @@ export type ProductOption = {
   values: Array<string>;
 };
 
-/**
- * GET /products/[handle].json
- */
+/** @http GET /products/[handle].json */
 export type ProductImage = {
   id: number;
   product_id: number;
@@ -77,7 +82,7 @@ export type ProductImage = {
 /**
  * Returned as `{ product: Product }`.
  *
- * GET /products/[handle].json
+ * @http GET /products/[handle].json
  */
 export type Product = {
   id: number;

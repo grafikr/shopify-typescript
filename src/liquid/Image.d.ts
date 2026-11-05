@@ -2,7 +2,7 @@
  * Only exists nested in its parent. On its own, `{{ collection.image | json }}`
  * is just the URL string. URLs are protocol-relative.
  *
- * {{ collection | json }}
+ * @liquid {{ collection | json }}
  */
 export type Image = {
   created_at: string;
@@ -16,7 +16,7 @@ export type Image = {
  * All fields are `null` (the object itself is still present) when there is no image.
  * Used by cart line items.
  *
- * {{ cart | json }}
+ * @liquid {{ cart | json }}
  */
 export type FeaturedImage =
   | {
@@ -31,7 +31,7 @@ export type FeaturedImage =
 /**
  * Preview of a media item.
  *
- * {{ product | json }}
+ * @liquid {{ product | json }}
  */
 export type PreviewImage = {
   aspect_ratio: number;

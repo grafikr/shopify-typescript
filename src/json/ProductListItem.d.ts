@@ -2,10 +2,10 @@ import type { ProductImage } from './Product';
 
 /**
  * A slimmer shape than `/products/[handle].json`: `tags` is an array here, and
- * options, images and variants carry fewer fields. Also the item type of
- * `/collections/[handle]/products.json`.
+ * options, images and variants carry fewer fields.
  *
- * GET /products.json
+ * @http GET /products.json
+ * @http GET /collections/[handle]/products.json
  */
 export type ProductListItem = {
   id: number;
@@ -23,9 +23,7 @@ export type ProductListItem = {
   options: Array<{ name: string; position: number; values: Array<string> }>;
 };
 
-/**
- * GET /products.json
- */
+/** @http GET /products.json */
 export type ProductListVariant = {
   id: number;
   product_id: number;
@@ -38,8 +36,17 @@ export type ProductListVariant = {
   taxable: boolean;
   featured_image: ProductListImage | null;
   available: boolean;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   price: string;
+  /** @unit grams */
   grams: number;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   compare_at_price: string | null;
   position: number;
   created_at: string;
@@ -50,7 +57,7 @@ export type ProductListVariant = {
  * `alt` is missing on items of `images`, but present (and `null`) on a variant's
  * `featured_image`.
  *
- * GET /products.json
+ * @http GET /products.json
  */
 export type ProductListImage = Omit<ProductImage, 'alt'> & {
   alt?: string | null;

@@ -1,6 +1,4 @@
-/**
- * GET /policies/[handle].json
- */
+/** @http GET /policies/[handle].json */
 export type Policy = {
   body: string;
   created_at: string;

@@ -4,11 +4,7 @@ import type {
 } from './DiscountApplication';
 import type { FeaturedImage } from './Image';
 
-/**
- * Prices are integers in the smallest currency unit (cents).
- *
- * GET /cart.js
- */
+/** @http GET /cart.js */
 export type CartLineItem = {
   id: number;
   properties: Record<string, unknown> | null;
@@ -16,19 +12,26 @@ export type CartLineItem = {
   variant_id: number;
   key: string;
   title: string;
+  /** @unit cents */
   original_price: number;
+  /** @unit currency */
   presentment_price: number;
+  /** @unit cents */
   discounted_price: number;
+  /** @unit cents */
   original_line_price: number;
   /** `""` from `/cart/add.js`, `null` elsewhere. */
   sku: string | null;
+  /** @unit grams */
   grams: number;
   vendor: string;
   taxable: boolean;
   product_id: number;
   product_has_only_default_variant: boolean;
   gift_card: boolean;
+  /** @unit cents */
   final_price: number;
+  /** @unit cents */
   final_line_price: number;
   url: string;
   featured_image: FeaturedImage;
@@ -42,38 +45,48 @@ export type CartLineItem = {
   variant_options: Array<string>;
   options_with_values: Array<{ name: string; value: string }>;
   line_level_discount_allocations: Array<DiscountAllocation>;
+  /** @unit cents */
   line_level_total_discount: number;
   quantity_rule: { min: number; max: number | null; increment: number };
   has_components: boolean;
 
-  // Deprecated properties
   /** @deprecated Use line_level_discount_allocations instead */
   discounts: Array<{ amount: number; title: string }>;
-  /** @deprecated Use final_line_price instead */
+  /**
+   * @deprecated Use final_line_price instead
+   * @unit cents
+   */
   line_price: number;
-  /** @deprecated Use final_price instead */
+  /**
+   * @deprecated Use final_price instead
+   * @unit cents
+   */
   price: number;
-  /** @deprecated Use line_level_total_discount instead */
+  /**
+   * @deprecated Use line_level_total_discount instead
+   * @unit cents
+   */
   total_discount: number;
 };
 
-/**
- * Prices are integers in the smallest currency unit (cents).
- *
- * GET /cart.js
- */
+/** @http GET /cart.js */
 export type Cart = {
   token: string;
   note: string | null;
   attributes: Record<string, unknown>;
+  /** @unit cents */
   original_total_price: number;
+  /** @unit cents */
   total_price: number;
+  /** @unit cents */
   total_discount: number;
+  /** @unit grams */
   total_weight: number;
   item_count: number;
   items: Array<CartLineItem>;
   requires_shipping: boolean;
   currency: string;
+  /** @unit cents */
   items_subtotal_price: number;
   cart_level_discount_applications: Array<DiscountApplication>;
   discount_codes: Array<{ code: string; applicable: boolean }>;
@@ -83,7 +96,9 @@ export type Cart = {
  * Full line item in the responses that echo the cart. Compared to `/cart.js` it has no
  * `quantity_rule`/`has_components`, but adds untranslated titles.
  *
- * POST /cart/add.js, /cart/update.js, /cart/change.js
+ * @http POST /cart/add.js
+ * @http POST /cart/update.js
+ * @http POST /cart/change.js
  */
 export type CartResponseLineItem = Omit<
   CartLineItem,
@@ -96,7 +111,7 @@ export type CartResponseLineItem = Omit<
 /**
  * Slim line item in `items_added` / `items_removed`.
  *
- * POST /cart/change.js
+ * @http POST /cart/change.js
  */
 export type CartChangedLineItem = {
   /** UUID, not the variant id. */
@@ -114,8 +129,14 @@ export type CartChangedLineItem = {
   product_type: string;
   url: string;
   image: string | null;
-  /** Decimal string (e.g. "200.00"), unlike the cents used elsewhere. */
+  /**
+   * Decimal string (e.g. "200.00"), unlike the cents used elsewhere.
+   *
+   * @unit currency
+   * @format decimal-string
+   */
   price: string;
+  /** @unit currency */
   presentment_price: number;
   view_key: string;
 };
@@ -123,7 +144,8 @@ export type CartChangedLineItem = {
 /**
  * These endpoints wrap each cart level discount with the amount it took off.
  *
- * POST /cart/update.js, /cart/change.js
+ * @http POST /cart/update.js
+ * @http POST /cart/change.js
  */
 type CartMutationFields = Omit<
   Cart,
@@ -136,7 +158,7 @@ type CartMutationFields = Omit<
 /**
  * With `items: [...]` in the request.
  *
- * POST /cart/add.js
+ * @http POST /cart/add.js
  */
 export type CartAddResponse = {
   items: Array<CartResponseLineItem>;
@@ -147,35 +169,31 @@ export type CartAddResponse = {
 /**
  * With a single item (`{ id, quantity }`) in the request, the line item is returned directly.
  *
- * POST /cart/add.js
+ * @http POST /cart/add.js
  */
 export type CartAddSingleResponse = CartResponseLineItem;
 
-/**
- * POST /cart/update.js
- */
+/** @http POST /cart/update.js */
 export type CartUpdateResponse = CartMutationFields & {
   items_changelog: { added: Array<{ variant_id: number; quantity: number }> };
 };
 
-/**
- * POST /cart/change.js
- */
+/** @http POST /cart/change.js */
 export type CartChangeResponse = CartMutationFields & {
   items_added: Array<CartChangedLineItem>;
   items_removed: Array<CartChangedLineItem>;
 };
 
-/**
- * POST /cart/clear.js
- */
+/** @http POST /cart/clear.js */
 export type CartClearResponse = Cart;
 
 /**
  * `status` is a number (`422`) for some errors and a string (`"bad_request"`,
  * `"unprocessable_entity"`) for others.
  *
- * POST /cart/add.js, /cart/update.js, /cart/change.js
+ * @http POST /cart/add.js
+ * @http POST /cart/update.js
+ * @http POST /cart/change.js
  */
 export type CartError = {
   status: number | string;
@@ -183,15 +201,22 @@ export type CartError = {
   description: string;
 };
 
-/**
- * GET /cart/shipping_rates.json
- */
+/** @http GET /cart/shipping_rates.json */
 export type ShippingRate = {
   name: string;
   presentment_name: string;
   code: string;
-  /** Decimal string, e.g. "49.00" */
+  /**
+   * Decimal string, e.g. "49.00"
+   *
+   * @unit currency
+   * @format decimal-string
+   */
   price: string;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   markup: string;
   source: string;
   currency: string;
@@ -200,6 +225,10 @@ export type ShippingRate = {
   accepts_instructions: boolean;
   delivery_date: string | null;
   delivery_range: Array<string> | null;
+  /**
+   * @unit currency
+   * @format decimal-string
+   */
   compare_price: string | null;
   carrier_identifier: string | null;
   delivery_category: string | null;
@@ -220,6 +249,6 @@ export type ShippingRate = {
 /**
  * Needs a prior `POST /cart/prepare_shipping_rates.json`.
  *
- * GET /cart/shipping_rates.json
+ * @http GET /cart/shipping_rates.json
  */
 export type ShippingRatesResponse = { shipping_rates: Array<ShippingRate> };

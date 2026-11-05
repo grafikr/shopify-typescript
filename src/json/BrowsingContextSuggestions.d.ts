@@ -3,7 +3,7 @@
  * visitor's detected country), so its items are modelled from Shopify's
  * documentation and are not covered by a fixture.
  *
- * GET /browsing_context_suggestions.json
+ * @http GET /browsing_context_suggestions.json
  */
 export type BrowsingContextSuggestions = {
   detected_values: {

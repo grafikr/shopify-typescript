@@ -4,7 +4,7 @@ import type { Image } from './Image';
  * For both normal and smart collections. Not the same shape as
  * `/collections/[handle].json`.
  *
- * {{ collection | json }}
+ * @liquid {{ collection | json }}
  */
 export type Collection = {
   id: number;

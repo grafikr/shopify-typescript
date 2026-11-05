@@ -1,7 +1,6 @@
 /**
- * Also the item type of `/pages.json`.
- *
- * GET /pages/[handle].json
+ * @http GET /pages/[handle].json
+ * @http GET /pages.json
  */
 export type Page = {
   id: number;
