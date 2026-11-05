@@ -1,7 +1,4 @@
-/**
- * A suggested country or language. `options` holds the choices the visitor can
- * pick between, as `handle -> name`.
- */
+/** A suggested country or language. `options` holds the choices the visitor can pick between, as `handle -> name`. */
 export type BrowsingContextSuggestionPart = {
   handle: string;
   name: string;
@@ -9,11 +6,7 @@ export type BrowsingContextSuggestionPart = {
   options: Record<string, string>;
 };
 
-/**
- * Request with `country[enabled]=true` and/or `language[enabled]=true`, and
- * `country[exclude]` / `language[exclude]` for the current values. Language
- * suggestions follow the browser's `Accept-Language`.
- */
+/** Request with `country[enabled]=true` and/or `language[enabled]=true`, and `country[exclude]` / `language[exclude]` for the current values. Language suggestions follow the browser's `Accept-Language`. */
 export type BrowsingContextSuggestions = {
   detected_values: {
     country_name: string;

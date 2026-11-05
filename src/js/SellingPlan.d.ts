@@ -1,7 +1,4 @@
-/**
- * `value` is a percentage for `percentage`, otherwise in the smallest currency unit
- * (for `price` it is the set price).
- */
+/** `value` is a percentage for `percentage`, otherwise in the smallest currency unit (for `price` it is the set price). */
 export type SellingPlanPriceAdjustment = {
   /** How many orders the adjustment applies to. `null` for the last one, which applies from then on. */
   order_count: number | null;
@@ -64,10 +61,7 @@ export type CartSellingPlanAllocation = {
   selling_plan: SellingPlan & { fixed_selling_plan: boolean };
 };
 
-/**
- * The selling plan of a line in the cart echoed by the mutation endpoints. The
- * embedded plan has `checkout_charge` instead of `fixed_selling_plan`.
- */
+/** The selling plan of a line in the cart echoed by the mutation endpoints. The embedded plan has `checkout_charge` instead of `fixed_selling_plan`. */
 export type CartResponseSellingPlanAllocation = Omit<
   CartSellingPlanAllocation,
   'selling_plan'

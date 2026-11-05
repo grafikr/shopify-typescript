@@ -1,6 +1,5 @@
 /**
- * `value` is a percentage for `percentage`, otherwise in the smallest currency unit
- * (for `price` it is the set price).
+ * `value` is a percentage for `percentage`, otherwise in the smallest currency unit (for `price` it is the set price).
  *
  * @liquid {{ product | json }}
  */

@@ -70,10 +70,7 @@ export type CartLineItem = {
   total_discount: number;
 };
 
-/**
- * Currently the same payload as `/cart.js`. Kept as its own type so the two can
- * diverge without a breaking change.
- */
+/** Currently the same payload as `/cart.js`. Kept as its own type so the two can diverge without a breaking change. */
 export type Cart = {
   token: string;
   note: string | null;

@@ -1,10 +1,7 @@
 import type { Analytics } from './modules/analytics';
 import type { CustomerPrivacy } from './modules/customerPrivacy';
 
-/**
- * `window.Shopify`. Members marked optional were not present on a plain
- * storefront page when this was verified, and only exist in some contexts.
- */
+/** `window.Shopify`. Members marked optional were not present on a plain storefront page when this was verified, and only exist in some contexts. */
 export type Shopify = {
   /** The myshopify.com domain, e.g. `my-store.myshopify.com` */
   shop: string;

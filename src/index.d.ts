@@ -5,10 +5,7 @@ import type * as Liquid from './liquid';
 export type { Endpoints, ResponseOf } from './endpoints';
 export type { Js, Json, Liquid };
 
-/**
- * Format registry. This is an interface so consumers can extend it with
- * declaration merging.
- */
+/** Format registry. This is an interface so consumers can extend it with declaration merging. */
 export interface Formats {
   js: typeof Js;
   json: typeof Json;

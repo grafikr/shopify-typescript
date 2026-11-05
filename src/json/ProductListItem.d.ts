@@ -1,9 +1,6 @@
 import type { ProductImage } from './Product';
 
-/**
- * A slimmer shape than `/products/[handle].json`: `tags` is an array here, and
- * options, images and variants carry fewer fields.
- */
+/** A slimmer shape than `/products/[handle].json`: `tags` is an array here, and options, images and variants carry fewer fields. */
 export type ProductListItem = {
   id: number;
   title: string;
@@ -49,10 +46,7 @@ export type ProductListVariant = {
   updated_at: string;
 };
 
-/**
- * `alt` is missing on items of `images`, but present (and `null`) on a variant's
- * `featured_image`.
- */
+/** `alt` is missing on items of `images`, but present (and `null`) on a variant's `featured_image`. */
 export type ProductListImage = Omit<ProductImage, 'alt'> & {
   alt?: string | null;
 };

@@ -1,6 +1,5 @@
 /**
- * Only exists nested in its parent. On its own, `{{ collection.image | json }}`
- * is just the URL string.
+ * Only exists nested in its parent. On its own, `{{ collection.image | json }}` is just the URL string.
  *
  * @liquid {{ collection | json }}
  */

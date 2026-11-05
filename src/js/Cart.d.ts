@@ -96,10 +96,7 @@ export type Cart = {
   discount_codes: Array<{ code: string; applicable: boolean }>;
 };
 
-/**
- * Full line item in the responses that echo the cart. Compared to `/cart.js` it has no
- * `quantity_rule`/`has_components`, but adds untranslated titles.
- */
+/** Full line item in the responses that echo the cart. Compared to `/cart.js` it has no `quantity_rule`/`has_components`, but adds untranslated titles. */
 export type CartResponseLineItem = Omit<
   CartLineItem,
   'quantity_rule' | 'has_components' | 'selling_plan_allocation'
@@ -175,10 +172,7 @@ export type CartChangeResponse = CartMutationFields & {
 
 export type CartClearResponse = Cart;
 
-/**
- * `status` is a number (`422`) for some errors and a string (`"bad_request"`,
- * `"unprocessable_entity"`) for others.
- */
+/** `status` is a number (`422`) for some errors and a string (`"bad_request"`, `"unprocessable_entity"`) for others. */
 export type CartError = {
   status: number | string;
   message: string;
