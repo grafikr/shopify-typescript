@@ -52,7 +52,13 @@
         }
       ],
       "images": [],
-      "options": [{ "name": "Size", "position": 1, "values": ["S", "M"] }]
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": ["S", "M"]
+        }
+      ]
     }
   ]
 }

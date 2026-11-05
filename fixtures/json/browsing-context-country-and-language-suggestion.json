@@ -1,9 +1,14 @@
 {
   "detected_values": {
     "country_name": "Danmark",
-    "country": { "handle": "DK", "name": "Danmark" }
+    "country": {
+      "handle": "DK",
+      "name": "Danmark"
+    }
   },
-  "features": { "duties_collected": false },
+  "features": {
+    "duties_collected": false
+  },
   "suggestions": [
     {
       "parts": {
@@ -11,13 +16,17 @@
           "handle": "DK",
           "name": "Danmark",
           "confidence": 1.0,
-          "options": { "DK": "Danmark" }
+          "options": {
+            "DK": "Danmark"
+          }
         },
         "language": {
           "handle": "da",
           "name": "Dansk",
           "confidence": 1.0,
-          "options": { "da": "Dansk" }
+          "options": {
+            "da": "Dansk"
+          }
         }
       },
       "confidence": 1.0

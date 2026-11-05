@@ -2,7 +2,7 @@
   "id": 7936273285194,
   "title": "Night repair miracle patch",
   "handle": "milla-mango-night-repair-miracle-patch",
-  "description": "\u003cp\u003e\u003cstrong\u003eMiraklet, der arbejder mens du sover\u003c\/strong\u003e\u003c\/p\u003e\n\u003cp\u003eVågn op til en renere og roligere hud med \u003cstrong\u003eMILLA MANGO Night Repair Miracle Patch\u003c\/strong\u003e. Dette natplaster er designet til at give intensiv behandling af bumser og urenheder, mens du sover, så du kan vågne op til en hud, der er beroliget og klar til dagen. Med sin langvarige hæftning forbliver plasteret sikkert på huden hele natten, så det kan arbejde effektivt, mens du sover.\u003c\/p\u003e\n\u003cp\u003e\u003cstrong\u003eNatbehandling uden besvær\u003c\/strong\u003e\u003cbr\u003ePlasteret indeholder salicylsyre, der trænger dybt ind i porerne for at opløse overskydende olie og snavs, mens tea tree-olie beroliger og reducerer rødme med sine antibakterielle egenskaber. Centella bidrager til hudens naturlige helingsproces ved at mindske rødme og irritation. Vores plaster er udviklet til at give maksimal effekt natten over, så du kan nyde synlige resultater, når du vågner.\u003c\/p\u003e\n\u003cp\u003eMed \u003cstrong\u003eMILLA MANGO Night Repair Miracle Patch\u003c\/strong\u003e får du et kraftfuld natplaster der arbejder natten over for at forbedre din hud, så du kan vågne op uden bekymringer.\u003c\/p\u003e",
+  "description": "Content",
   "published_at": "2025-05-26T07:20:55-04:00",
   "created_at": "2025-05-26T07:21:01-04:00",
   "vendor": "Milla Mango",
@@ -37,23 +37,33 @@
       "compare_at_price": 12900,
       "inventory_management": "shopify",
       "barcode": null,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "quantity_price_breaks": [],
       "requires_selling_plan": false,
       "selling_plan_allocations": []
     }
   ],
   "images": [
-    "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchpack-min.jpg?v=1748258461",
-    "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchapplied-min.jpg?v=1748258461",
-    "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatch-min.jpg?v=1748258461",
-    "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchabsorbed-min_8632433d-588f-48df-82a8-f1be3732af8e.jpg?v=1748258461",
-    "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowclose-min_156a8617-eb12-4703-9a87-a1fb82c500da.jpg?v=1748258461",
-    "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowcase-min.jpg?v=1748258461"
+    "//cdn.shopify.com/s/files/1/1234/5678/9012/files/image-185.jpg?v=1748258461",
+    "//cdn.shopify.com/s/files/1/1234/5678/9012/files/image-184.jpg?v=1748258461",
+    "//cdn.shopify.com/s/files/1/1234/5678/9012/files/image-183.jpg?v=1748258461",
+    "//cdn.shopify.com/s/files/1/1234/5678/9012/files/image-174.jpg?v=1748258461",
+    "//cdn.shopify.com/s/files/1/1234/5678/9012/files/image-188.jpg?v=1748258461",
+    "//cdn.shopify.com/s/files/1/1234/5678/9012/files/image-186.jpg?v=1748258461"
   ],
-  "featured_image": "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchpack-min.jpg?v=1748258461",
-  "options": [{ "name": "Title", "position": 1, "values": ["Default Title"] }],
-  "url": "\/products\/milla-mango-night-repair-miracle-patch",
+  "featured_image": "//cdn.shopify.com/s/files/1/1234/5678/9012/files/image-185.jpg?v=1748258461",
+  "options": [
+    {
+      "name": "Title",
+      "position": 1,
+      "values": ["Default Title"]
+    }
+  ],
+  "url": "/products/milla-mango-night-repair-miracle-patch",
   "media": [
     {
       "alt": null,
@@ -63,12 +73,12 @@
         "aspect_ratio": 0.8,
         "height": 1728,
         "width": 1382,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchpack-min.jpg?v=1748258461"
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-185.jpg?v=1748258461"
       },
       "aspect_ratio": 0.8,
       "height": 1728,
       "media_type": "image",
-      "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchpack-min.jpg?v=1748258461",
+      "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-185.jpg?v=1748258461",
       "width": 1382
     },
     {
@@ -79,12 +89,12 @@
         "aspect_ratio": 0.8,
         "height": 1728,
         "width": 1382,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchapplied-min.jpg?v=1748258461"
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-184.jpg?v=1748258461"
       },
       "aspect_ratio": 0.8,
       "height": 1728,
       "media_type": "image",
-      "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchapplied-min.jpg?v=1748258461",
+      "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-184.jpg?v=1748258461",
       "width": 1382
     },
     {
@@ -95,12 +105,12 @@
         "aspect_ratio": 0.8,
         "height": 1728,
         "width": 1382,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatch-min.jpg?v=1748258461"
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-183.jpg?v=1748258461"
       },
       "aspect_ratio": 0.8,
       "height": 1728,
       "media_type": "image",
-      "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatch-min.jpg?v=1748258461",
+      "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-183.jpg?v=1748258461",
       "width": 1382
     },
     {
@@ -111,12 +121,12 @@
         "aspect_ratio": 0.8,
         "height": 1728,
         "width": 1382,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchabsorbed-min_8632433d-588f-48df-82a8-f1be3732af8e.jpg?v=1748258461"
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-174.jpg?v=1748258461"
       },
       "aspect_ratio": 0.8,
       "height": 1728,
       "media_type": "image",
-      "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Invisiblemiraclepatchabsorbed-min_8632433d-588f-48df-82a8-f1be3732af8e.jpg?v=1748258461",
+      "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-174.jpg?v=1748258461",
       "width": 1382
     },
     {
@@ -127,12 +137,12 @@
         "aspect_ratio": 0.8,
         "height": 1728,
         "width": 1382,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowclose-min_156a8617-eb12-4703-9a87-a1fb82c500da.jpg?v=1748258461"
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-188.jpg?v=1748258461"
       },
       "aspect_ratio": 0.8,
       "height": 1728,
       "media_type": "image",
-      "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowclose-min_156a8617-eb12-4703-9a87-a1fb82c500da.jpg?v=1748258461",
+      "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-188.jpg?v=1748258461",
       "width": 1382
     },
     {
@@ -143,12 +153,12 @@
         "aspect_ratio": 0.8,
         "height": 1728,
         "width": 1382,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowcase-min.jpg?v=1748258461"
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-186.jpg?v=1748258461"
       },
       "aspect_ratio": 0.8,
       "height": 1728,
       "media_type": "image",
-      "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchshowcase-min.jpg?v=1748258461",
+      "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-186.jpg?v=1748258461",
       "width": 1382
     }
   ],

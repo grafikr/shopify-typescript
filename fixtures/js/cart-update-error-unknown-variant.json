@@ -1,1 +1,5 @@
-{ "status": 422, "message": "Cart Error", "description": "Cannot find variant" }
+{
+  "status": 422,
+  "message": "Cart Error",
+  "description": "Cannot find variant"
+}

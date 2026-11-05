@@ -42,7 +42,12 @@
       "product_description": null,
       "untranslated_variant_title": "grams",
       "variant_options": ["grams"],
-      "options_with_values": [{ "name": "Unit", "value": "grams" }],
+      "options_with_values": [
+        {
+          "name": "Unit",
+          "value": "grams"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0
     },
@@ -88,7 +93,12 @@
       "product_description": null,
       "untranslated_variant_title": "kilograms",
       "variant_options": ["kilograms"],
-      "options_with_values": [{ "name": "Unit", "value": "kilograms" }],
+      "options_with_values": [
+        {
+          "name": "Unit",
+          "value": "kilograms"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0
     },
@@ -134,7 +144,12 @@
       "product_description": null,
       "untranslated_variant_title": "pounds",
       "variant_options": ["pounds"],
-      "options_with_values": [{ "name": "Unit", "value": "pounds" }],
+      "options_with_values": [
+        {
+          "name": "Unit",
+          "value": "pounds"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0
     },
@@ -180,7 +195,12 @@
       "product_description": null,
       "untranslated_variant_title": "ounces",
       "variant_options": ["ounces"],
-      "options_with_values": [{ "name": "Unit", "value": "ounces" }],
+      "options_with_values": [
+        {
+          "name": "Unit",
+          "value": "ounces"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0
     }

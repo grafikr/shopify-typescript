@@ -4,33 +4,33 @@
       "products": [
         {
           "available": true,
-          "body": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003eEn gua sha er et traditionelt massageværktøj, ofte lavet af sten som jade eller rosakvarts, designet til at fremme blodcirkulationen og reducere spændinger i ansigt og krop. Ved at føre gua shaen over huden i lange, blide bevægelser kan du stimulere lymfesystemet, reducere hævelser og fremme en sund glød. Den kølige overflade hjælper med at mindske rødme og puffet hud, hvilket efterlader ansigtet opfrisket og opstrammet.\u003c\/p\u003e",
+          "body": "Content",
           "compare_at_price_max": "189.00",
           "compare_at_price_min": "189.00",
           "handle": "gua-sha",
           "id": 7936269516874,
-          "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+          "image": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
           "price": "189.00",
           "price_max": "189.00",
           "price_min": "189.00",
           "tags": [],
           "title": "Gua sha",
           "type": "Accessories",
-          "url": "\/products\/gua-sha?_pos=1\u0026_psq=Rosenkvarts\u0026_psid=164456043\u0026_ss=e\u0026variant=42110300651594",
+          "url": "/products/gua-sha?_pos=1&_psq=Rosenkvarts&_psid=164456043&_ss=e&variant=42110300651594",
           "variants": [
             {
               "available": true,
               "compare_at_price": "189.00",
               "id": 42110300651594,
-              "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+              "image": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
               "price": "189.00",
               "title": "Rosenkvarts (sten)",
-              "url": "\/products\/gua-sha?variant=42110300651594\u0026_pos=1\u0026_psq=Rosenkvarts\u0026_psid=164456043\u0026_ss=e",
+              "url": "/products/gua-sha?variant=42110300651594&_pos=1&_psq=Rosenkvarts&_psid=164456043&_ss=e",
               "featured_image": {
                 "alt": "Gua sha",
                 "aspect_ratio": 0.8,
                 "height": 1728,
-                "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+                "url": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
                 "width": 1382
               }
             }
@@ -40,7 +40,7 @@
             "alt": null,
             "aspect_ratio": 0.8,
             "height": 1728,
-            "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+            "url": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
             "width": 1382
           }
         }

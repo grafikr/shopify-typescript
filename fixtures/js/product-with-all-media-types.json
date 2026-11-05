@@ -37,18 +37,28 @@
       "compare_at_price": null,
       "inventory_management": null,
       "barcode": null,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "quantity_price_breaks": [],
       "requires_selling_plan": false,
       "selling_plan_allocations": []
     }
   ],
   "images": [
-    "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
+    "//cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186"
   ],
-  "featured_image": "\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
-  "options": [{ "name": "Size", "position": 1, "values": ["S"] }],
-  "url": "\/products\/typegen-media",
+  "featured_image": "//cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": ["S"]
+    }
+  ],
+  "url": "/products/typegen-media",
   "media": [
     {
       "alt": "external video",
@@ -58,7 +68,7 @@
         "aspect_ratio": 1.333,
         "height": 360,
         "width": 480,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/preview_images\/hqdefault.jpg?v=1793878431"
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/preview_images/image-202.jpg?v=1793878431"
       },
       "aspect_ratio": 1.77,
       "external_id": "aqz-KE-bpKQ",
@@ -73,19 +83,19 @@
         "aspect_ratio": 1.0,
         "height": 1024,
         "width": 1024,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/preview_images\/astronaut.jpg?v=1793878512"
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/preview_images/image-201.jpg?v=1793878512"
       },
       "media_type": "model",
       "sources": [
         {
           "format": "glb",
-          "mime_type": "model\/gltf-binary",
-          "url": "https:\/\/cdn.shopify.com\/3d\/models\/o\/2e92131f81520247\/astronaut.glb"
+          "mime_type": "model/gltf-binary",
+          "url": "https://cdn.shopify.com/3d/models/o/2e92131f81520247/model-001.glb"
         },
         {
           "format": "usdz",
-          "mime_type": "model\/vnd.usdz+zip",
-          "url": "https:\/\/cdn.shopify.com\/3d\/models\/o\/9417d653d5505e6d\/astronaut.usdz"
+          "mime_type": "model/vnd.usdz+zip",
+          "url": "https://cdn.shopify.com/3d/models/o/9417d653d5505e6d/model-002.usdz"
         }
       ]
     },
@@ -97,7 +107,7 @@
         "aspect_ratio": 1.778,
         "height": 540,
         "width": 960,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/preview_images\/5a69c929a64d4dcda902c65068636748.thumbnail.0000000000.jpg?v=1793878440"
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/preview_images/image-001.jpg?v=1793878440"
       },
       "aspect_ratio": 1.775,
       "duration": 5050,
@@ -106,15 +116,15 @@
         {
           "format": "mp4",
           "height": 480,
-          "mime_type": "video\/mp4",
-          "url": "https:\/\/cdn.shopify.com\/videos\/c\/vp\/5a69c929a64d4dcda902c65068636748\/5a69c929a64d4dcda902c65068636748.SD-480p-1.2Mbps-100130960.mp4",
+          "mime_type": "video/mp4",
+          "url": "https://cdn.shopify.com/videos/c/vp/5a69c929a64d4dcda902c65068636748/video-001.mp4",
           "width": 852
         },
         {
           "format": "m3u8",
           "height": 480,
-          "mime_type": "application\/x-mpegURL",
-          "url": "https:\/\/cdn.shopify.com\/videos\/c\/vp\/5a69c929a64d4dcda902c65068636748\/5a69c929a64d4dcda902c65068636748.m3u8",
+          "mime_type": "application/x-mpegURL",
+          "url": "https://cdn.shopify.com/videos/c/vp/5a69c929a64d4dcda902c65068636748/video-002.m3u8",
           "width": 852
         }
       ]
@@ -127,12 +137,12 @@
         "aspect_ratio": 0.8,
         "height": 1728,
         "width": 1382,
-        "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186"
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186"
       },
       "aspect_ratio": 0.8,
       "height": 1728,
       "media_type": "image",
-      "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+      "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
       "width": 1382
     }
   ],

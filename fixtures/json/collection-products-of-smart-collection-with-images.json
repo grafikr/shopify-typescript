@@ -4,7 +4,7 @@
       "id": 7936272662602,
       "title": "Bright boost eye cream",
       "handle": "brightening-eye-cream",
-      "body_html": "\u003cp\u003eØjencreme med økologiske planteingredienser der reducerer hævelser og mørke rande. Med hyaluronsyre der hjælper mod fine linjer og tørhed. \u003c\/p\u003e",
+      "body_html": "Content",
       "published_at": "2025-05-26T07:20:01-04:00",
       "created_at": "2025-05-26T07:20:08-04:00",
       "updated_at": "2026-11-04T06:59:04-05:00",
@@ -40,7 +40,7 @@
           "updated_at": "2025-05-26T07:20:08-04:00",
           "product_id": 7936272662602,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecream-min.jpg?v=1748258408",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-038.jpg?v=1748258408",
           "width": 1382,
           "height": 1728
         },
@@ -51,7 +51,7 @@
           "updated_at": "2025-05-26T07:20:08-04:00",
           "product_id": 7936272662602,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliedbotheyes-min_2ea2644d-dee8-49e2-9215-b3466d37a28e.jpg?v=1748258408",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-041.jpg?v=1748258408",
           "width": 1382,
           "height": 1728
         },
@@ -62,7 +62,7 @@
           "updated_at": "2025-05-26T07:20:08-04:00",
           "product_id": 7936272662602,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamprepare-min_60d9e5f1-27ca-4943-9782-8c360772f076.jpg?v=1748258408",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-044.jpg?v=1748258408",
           "width": 1382,
           "height": 1728
         },
@@ -73,7 +73,7 @@
           "updated_at": "2025-05-26T07:20:08-04:00",
           "product_id": 7936272662602,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamappliying-min.jpg?v=1748258408",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-042.jpg?v=1748258408",
           "width": 1382,
           "height": 1728
         },
@@ -84,7 +84,7 @@
           "updated_at": "2025-05-26T07:20:08-04:00",
           "product_id": 7936272662602,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5817-Brightboosteyecreamapplied-min.jpg?v=1748258408",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-039.jpg?v=1748258408",
           "width": 1382,
           "height": 1728
         },
@@ -95,20 +95,24 @@
           "updated_at": "2025-05-26T07:20:08-04:00",
           "product_id": 7936272662602,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5820-Caffeineboostergelcombinewith-min_61749b7d-c84c-478c-817d-afd733c10f9c.jpg?v=1748258408",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-053.jpg?v=1748258408",
           "width": 1382,
           "height": 1728
         }
       ],
       "options": [
-        { "name": "Title", "position": 1, "values": ["Default Title"] }
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
       ]
     },
     {
       "id": 7936270794826,
       "title": "Acne spot trio treatment sæt",
       "handle": "acne-spot-trio-treatment",
-      "body_html": "\u003cp class=\"p1\"\u003eFå kontrol over dine urenheder med denne effektive trio. Start med \u003cstrong\u003eSilk Cleansing Foam\u003c\/strong\u003e, der skånsomt renser huden og fjerner urenheder. Brug derefter \u003cstrong\u003eAcne Spot Treatment\u003c\/strong\u003e for målrettet at behandle udbrud og reducere rødme. Med \u003cstrong\u003eInvisible Miracle Patch\u003c\/strong\u003e, kan du diskret behandle dine urenheder og udbrud.\u003c\/p\u003e",
+      "body_html": "Content",
       "published_at": "2025-05-26T07:17:45-04:00",
       "created_at": "2025-05-26T07:17:49-04:00",
       "updated_at": "2026-11-04T06:59:04-05:00",
@@ -163,7 +167,7 @@
           "updated_at": "2025-05-26T07:17:49-04:00",
           "product_id": 7936270794826,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Acnespottriotreatmentsaetpack-min.jpg?v=1748258269",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-151.jpg?v=1748258269",
           "width": 1382,
           "height": 1728
         },
@@ -174,7 +178,7 @@
           "updated_at": "2026-07-08T08:56:45-04:00",
           "product_id": 7936270794826,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_mod_A5852-Silkcleansingfoamapplying-min_1d2ae25d-d47b-44cd-98b2-9e016339db8c.jpg?v=1783515405",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-200.jpg?v=1783515405",
           "width": 1382,
           "height": 1728
         },
@@ -185,7 +189,7 @@
           "updated_at": "2026-07-08T09:01:25-04:00",
           "product_id": 7936270794826,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_gen_A5852-Silkcleansingfoamprepare-min.jpg?v=1783515685",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-199.jpg?v=1783515685",
           "width": 1382,
           "height": 1728
         },
@@ -196,20 +200,24 @@
           "updated_at": "2026-07-08T09:01:32-04:00",
           "product_id": 7936270794826,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_Acnespottriotreatmentsaetshowcase-min.jpg?v=1783515692",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-198.jpg?v=1783515692",
           "width": 1382,
           "height": 1728
         }
       ],
       "options": [
-        { "name": "Size", "position": 1, "values": ["250ml", "500ml"] }
+        {
+          "name": "Size",
+          "position": 1,
+          "values": ["250ml", "500ml"]
+        }
       ]
     },
     {
       "id": 7936272859210,
       "title": "Breakout control sæt",
       "handle": "breakout-control",
-      "body_html": "\u003cp\u003eFå en målrettet rutine til klar og ren hud med denne trio. Start med Silk Cleansing Foam for en skånsom rens, brug derefter AHA Exfoliant Peel Concentrate for dybdegående eksfoliering og en mere ensartet hudtone, og afslut med Acne Spot Treatment for præcis behandling af udbrud. Perfekt løsning til en frisk og balanceret hud.\u003c\/p\u003e",
+      "body_html": "Content",
       "published_at": "2025-05-26T07:20:20-04:00",
       "created_at": "2025-05-26T07:20:25-04:00",
       "updated_at": "2026-11-04T06:59:04-05:00",
@@ -245,7 +253,7 @@
           "updated_at": "2025-05-26T07:20:25-04:00",
           "product_id": 7936272859210,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Breakoutcontrol_gave.jpg?v=1748258425",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-154.jpg?v=1748258425",
           "width": 1382,
           "height": 1728
         },
@@ -256,7 +264,7 @@
           "updated_at": "2025-05-26T07:20:25-04:00",
           "product_id": 7936272859210,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5851_-_Acne_spot_treatment_applying-min_68c2b975-3053-43a0-a971-e278b24769ff.jpg?v=1748258425",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-078.jpg?v=1748258425",
           "width": 1382,
           "height": 1728
         },
@@ -267,7 +275,7 @@
           "updated_at": "2025-05-26T07:20:25-04:00",
           "product_id": 7936272859210,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateappliance-min_2864ee35-0f3c-47ae-a955-686a57236948.jpg?v=1748258425",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-059.jpg?v=1748258425",
           "width": 1382,
           "height": 1728
         },
@@ -278,7 +286,7 @@
           "updated_at": "2025-05-26T07:20:25-04:00",
           "product_id": 7936272859210,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateapplied-min_c63a6daa-14e6-4a43-a46b-03a873e0c94d.jpg?v=1748258425",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-062.jpg?v=1748258425",
           "width": 1382,
           "height": 1728
         },
@@ -289,13 +297,17 @@
           "updated_at": "2025-05-26T07:20:25-04:00",
           "product_id": 7936272859210,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Breakoutcontrolsaetshowcase-min.jpg?v=1748258425",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-155.jpg?v=1748258425",
           "width": 1382,
           "height": 1728
         }
       ],
       "options": [
-        { "name": "Title", "position": 1, "values": ["Default Title"] }
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
       ]
     }
   ]

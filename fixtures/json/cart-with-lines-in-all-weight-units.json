@@ -32,7 +32,7 @@
       "gift_card": false,
       "final_price": 1000,
       "final_line_price": 1000,
-      "url": "\/products\/typegen-weights?variant=67909931106378",
+      "url": "/products/typegen-weights?variant=67909931106378",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -48,10 +48,19 @@
       "product_description": null,
       "variant_title": "ounces",
       "variant_options": ["ounces"],
-      "options_with_values": [{ "name": "Unit", "value": "ounces" }],
+      "options_with_values": [
+        {
+          "name": "Unit",
+          "value": "ounces"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false
     },
     {
@@ -78,7 +87,7 @@
       "gift_card": false,
       "final_price": 1000,
       "final_line_price": 1000,
-      "url": "\/products\/typegen-weights?variant=67909931073610",
+      "url": "/products/typegen-weights?variant=67909931073610",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -94,10 +103,19 @@
       "product_description": null,
       "variant_title": "pounds",
       "variant_options": ["pounds"],
-      "options_with_values": [{ "name": "Unit", "value": "pounds" }],
+      "options_with_values": [
+        {
+          "name": "Unit",
+          "value": "pounds"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false
     },
     {
@@ -124,7 +142,7 @@
       "gift_card": false,
       "final_price": 1000,
       "final_line_price": 1000,
-      "url": "\/products\/typegen-weights?variant=67909931040842",
+      "url": "/products/typegen-weights?variant=67909931040842",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -140,10 +158,19 @@
       "product_description": null,
       "variant_title": "kilograms",
       "variant_options": ["kilograms"],
-      "options_with_values": [{ "name": "Unit", "value": "kilograms" }],
+      "options_with_values": [
+        {
+          "name": "Unit",
+          "value": "kilograms"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false
     },
     {
@@ -170,7 +197,7 @@
       "gift_card": false,
       "final_price": 1000,
       "final_line_price": 1000,
-      "url": "\/products\/typegen-weights?variant=67909931008074",
+      "url": "/products/typegen-weights?variant=67909931008074",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -186,10 +213,19 @@
       "product_description": null,
       "variant_title": "grams",
       "variant_options": ["grams"],
-      "options_with_values": [{ "name": "Unit", "value": "grams" }],
+      "options_with_values": [
+        {
+          "name": "Unit",
+          "value": "grams"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false
     }
   ],

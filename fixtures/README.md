@@ -79,3 +79,18 @@ only contain country and language names. To reproduce them:
 curl -sg -H 'Accept-Language: da-DK,da;q=0.9' \
   "$STORE/browsing_context_suggestions.json?country[enabled]=true&country[exclude]=SE&language[enabled]=true&language[exclude]=sv"
 ```
+
+### Anonymizing
+
+Captured responses are anonymized before they are committed. Types only depend on the
+shape of the data, so none of this changes what a fixture proves:
+
+- The shop domain is `shop.myshopify.com`, the shop name is `Shop`, and the shop and theme
+  ids are made up. The shop id is also encoded in CDN paths (`/files/1/1234/5678/9012/`).
+- Long content fields (`description`, `body_html`, `content`, `body`, `summary_html`,
+  `product_description`) are `"Content"`. The `description` of cart errors and selling
+  plans is not content and is kept.
+- File URLs keep their folders, host and `?v=` query, but the filename is replaced by
+  `image-001.jpg`, `video-001.mp4` or `model-001.glb`. The same original file gets the same
+  new name everywhere, so images that were identical stay identical.
+- Contact details, such as the email in a privacy policy, are replaced.

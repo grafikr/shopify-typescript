@@ -1,6 +1,8 @@
 {
   "id": 67900879503434,
-  "properties": { "engraving": "X" },
+  "properties": {
+    "engraving": "X"
+  },
   "quantity": 1,
   "variant_id": 67900879503434,
   "key": "67900879503434:d7c3cf508546f01fd1d7e3b1df8969b2",
@@ -14,7 +16,12 @@
   "original_line_price": 10000,
   "presentment_price": 100.0,
   "total_discount": 500,
-  "discounts": [{ "amount": 500, "title": "TYPEGEN auto" }],
+  "discounts": [
+    {
+      "amount": 500,
+      "title": "TYPEGEN auto"
+    }
+  ],
   "sku": "TG-D1",
   "grams": 0,
   "vendor": "TypegenVendor",
@@ -40,7 +47,12 @@
   "product_description": null,
   "untranslated_variant_title": "S",
   "variant_options": ["S"],
-  "options_with_values": [{ "name": "Size", "value": "S" }],
+  "options_with_values": [
+    {
+      "name": "Size",
+      "value": "S"
+    }
+  ],
   "line_level_discount_allocations": [
     {
       "amount": 500,

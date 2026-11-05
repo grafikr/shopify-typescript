@@ -4,7 +4,7 @@
       "id": 7936269516874,
       "title": "Gua sha",
       "handle": "gua-sha",
-      "body_html": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003eEn gua sha er et traditionelt massageværktøj, ofte lavet af sten som jade eller rosakvarts, designet til at fremme blodcirkulationen og reducere spændinger i ansigt og krop. Ved at føre gua shaen over huden i lange, blide bevægelser kan du stimulere lymfesystemet, reducere hævelser og fremme en sund glød. Den kølige overflade hjælper med at mindske rødme og puffet hud, hvilket efterlader ansigtet opfrisket og opstrammet.\u003c\/p\u003e",
+      "body_html": "Content",
       "published_at": "2025-05-26T07:16:22-04:00",
       "created_at": "2025-05-26T07:16:26-04:00",
       "updated_at": "2026-11-04T06:59:05-05:00",
@@ -30,7 +30,7 @@
             "alt": "rich alt",
             "width": 1382,
             "height": 1728,
-            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+            "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
             "variant_ids": [42110300651594]
           },
           "available": true,
@@ -60,7 +60,7 @@
             "alt": null,
             "width": 1382,
             "height": 1728,
-            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharustfritstalpack-min.jpg?v=1748258186",
+            "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-167.jpg?v=1748258186",
             "variant_ids": [42110300684362]
           },
           "available": true,
@@ -81,7 +81,7 @@
           "updated_at": "2025-05-26T07:16:26-04:00",
           "product_id": 7936269516874,
           "variant_ids": [42110300651594],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzpack-min.jpg?v=1748258186",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
           "width": 1382,
           "height": 1728
         },
@@ -92,7 +92,7 @@
           "updated_at": "2025-05-26T07:16:26-04:00",
           "product_id": 7936269516874,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharosenquartzinuse-min.jpg?v=1748258186",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-164.jpg?v=1748258186",
           "width": 1382,
           "height": 1728
         },
@@ -103,7 +103,7 @@
           "updated_at": "2025-05-26T07:16:26-04:00",
           "product_id": 7936269516874,
           "variant_ids": [42110300684362],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharustfritstalpack-min.jpg?v=1748258186",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-167.jpg?v=1748258186",
           "width": 1382,
           "height": 1728
         },
@@ -114,7 +114,7 @@
           "updated_at": "2025-05-26T07:16:26-04:00",
           "product_id": 7936269516874,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/GuaSharustfritstalinuse-min.jpg?v=1748258186",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-166.jpg?v=1748258186",
           "width": 1382,
           "height": 1728
         }

@@ -48,7 +48,11 @@
           "selling_plan_group_id": "981a8dd269db847a07b4816ce57e76b94f2d26d8"
         }
       ],
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 }
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
     }
   ],
   "images": [],
@@ -60,7 +64,11 @@
       "id": "981a8dd269db847a07b4816ce57e76b94f2d26d8",
       "name": "TYPEGEN subscription only group",
       "options": [
-        { "name": "Delivery every", "position": 1, "values": ["1 month"] }
+        {
+          "name": "Delivery every",
+          "position": 1,
+          "values": ["1 month"]
+        }
       ],
       "selling_plans": [
         {
@@ -68,11 +76,18 @@
           "name": "Every month",
           "description": null,
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": [],
-          "checkout_charge": { "value_type": "percentage", "value": 100 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100
+          }
         }
       ],
       "app_id": null

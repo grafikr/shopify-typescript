@@ -42,7 +42,12 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0
     }

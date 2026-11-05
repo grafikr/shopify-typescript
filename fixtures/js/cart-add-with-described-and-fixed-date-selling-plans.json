@@ -42,11 +42,21 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
       "selling_plan_allocation": {
-        "price_adjustments": [{ "position": 1, "price": 8500 }],
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 8500
+          }
+        ],
         "price": 8500,
         "compare_at_price": 10000,
         "per_delivery_price": 8500,
@@ -55,8 +65,16 @@
           "name": "Monthly large pack",
           "description": "Billed every month",
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" },
-            { "name": "Pack size", "position": 2, "value": "Large" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            },
+            {
+              "name": "Pack size",
+              "position": 2,
+              "value": "Large"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": [
@@ -67,7 +85,10 @@
               "value": 15
             }
           ],
-          "checkout_charge": { "value_type": "percentage", "value": 100.0 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100.0
+          }
         }
       }
     },
@@ -113,7 +134,12 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
       "selling_plan_allocation": {
@@ -126,11 +152,18 @@
           "name": "Pre-order for June",
           "description": null,
           "options": [
-            { "name": "Purchase option", "position": 1, "value": "Pre-order" }
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Pre-order"
+            }
           ],
           "recurring_deliveries": false,
           "price_adjustments": [],
-          "checkout_charge": { "value_type": "percentage", "value": 100 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100
+          }
         }
       }
     }

@@ -1,7 +1,10 @@
 {
   "shop": "shop.myshopify.com",
   "locale": "en",
-  "currency": { "active": "DKK", "rate": "1.0" },
+  "currency": {
+    "active": "DKK",
+    "rate": "1.0"
+  },
   "country": "GB",
   "theme": {
     "name": "Theme",
@@ -11,10 +14,15 @@
     "theme_store_id": null,
     "role": "main",
     "handle": "null",
-    "style": { "id": null, "handle": null }
+    "style": {
+      "id": null,
+      "handle": null
+    }
   },
   "cdnHost": "shop.myshopify.com/cdn",
-  "routes": { "root": "/" },
+  "routes": {
+    "root": "/"
+  },
   "previewMode": true,
   "shopJsCdnBaseUrl": "https://cdn.shopify.com/shopifycloud/shop-js",
   "featureAssets": {

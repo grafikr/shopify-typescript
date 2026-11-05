@@ -16,7 +16,7 @@
           "tags": ["typegen"],
           "title": "TYPEGEN discountable",
           "type": "",
-          "url": "\/products\/typegen-discountable?_pos=1\u0026_psq=TG-D1\u0026_psid=93b6991da\u0026_ss=e\u0026variant=67900879503434",
+          "url": "/products/typegen-discountable?_pos=1&_psq=TG-D1&_psid=93b6991da&_ss=e&variant=67900879503434",
           "variants": [
             {
               "available": true,
@@ -25,7 +25,7 @@
               "image": null,
               "price": "100.00",
               "title": "S",
-              "url": "\/products\/typegen-discountable?variant=67900879503434\u0026_pos=1\u0026_psq=TG-D1\u0026_psid=93b6991da\u0026_ss=e",
+              "url": "/products/typegen-discountable?variant=67900879503434&_pos=1&_psq=TG-D1&_psid=93b6991da&_ss=e",
               "featured_image": {
                 "alt": null,
                 "aspect_ratio": null,

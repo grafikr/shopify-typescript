@@ -20,7 +20,7 @@
   "variants": [
     {
       "id": 67900878291018,
-      "title": "S \/ Red",
+      "title": "S / Red",
       "option1": "S",
       "option2": "Red",
       "option3": null,
@@ -29,22 +29,26 @@
       "taxable": true,
       "featured_image": null,
       "available": true,
-      "name": "TYPEGEN variants - S \/ Red",
-      "public_title": "S \/ Red",
+      "name": "TYPEGEN variants - S / Red",
+      "public_title": "S / Red",
       "options": ["S", "Red"],
       "price": 1050,
       "weight": 0,
       "compare_at_price": 2000,
       "inventory_management": null,
       "barcode": "123",
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "quantity_price_breaks": [],
       "requires_selling_plan": false,
       "selling_plan_allocations": []
     },
     {
       "id": 67900878323786,
-      "title": "M \/ Red",
+      "title": "M / Red",
       "option1": "M",
       "option2": "Red",
       "option3": null,
@@ -53,15 +57,19 @@
       "taxable": true,
       "featured_image": null,
       "available": true,
-      "name": "TYPEGEN variants - M \/ Red",
-      "public_title": "M \/ Red",
+      "name": "TYPEGEN variants - M / Red",
+      "public_title": "M / Red",
       "options": ["M", "Red"],
       "price": 1100,
       "weight": 0,
       "compare_at_price": null,
       "inventory_management": null,
       "barcode": null,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "quantity_price_breaks": [],
       "requires_selling_plan": false,
       "selling_plan_allocations": []
@@ -70,10 +78,18 @@
   "images": [],
   "featured_image": null,
   "options": [
-    { "name": "Size", "position": 1, "values": ["S", "M"] },
-    { "name": "Color", "position": 2, "values": ["Red"] }
+    {
+      "name": "Size",
+      "position": 1,
+      "values": ["S", "M"]
+    },
+    {
+      "name": "Color",
+      "position": 2,
+      "values": ["Red"]
+    }
   ],
-  "url": "\/products\/typegen-variants",
+  "url": "/products/typegen-variants",
   "requires_selling_plan": false,
   "selling_plan_groups": []
 }

@@ -40,7 +40,12 @@
       "requires_selling_plan": false,
       "selling_plan_allocations": [
         {
-          "price_adjustments": [{ "position": 1, "price": 8500 }],
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 8500
+            }
+          ],
           "price": 8500,
           "compare_at_price": 10000,
           "per_delivery_price": 8500,
@@ -56,7 +61,11 @@
           "selling_plan_group_id": "7e07bca678535daac0c9685c86d0ffbe13b25578"
         }
       ],
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 }
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
     }
   ],
   "images": [],
@@ -68,8 +77,16 @@
       "id": "1bb37f89d700fede393ae0a446ff9953c4c8b25a",
       "name": "TYPEGEN described plan",
       "options": [
-        { "name": "Delivery every", "position": 1, "values": ["1 month"] },
-        { "name": "Pack size", "position": 2, "values": ["Large"] }
+        {
+          "name": "Delivery every",
+          "position": 1,
+          "values": ["1 month"]
+        },
+        {
+          "name": "Pack size",
+          "position": 2,
+          "values": ["Large"]
+        }
       ],
       "selling_plans": [
         {
@@ -77,8 +94,16 @@
           "name": "Monthly large pack",
           "description": "Billed every month",
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" },
-            { "name": "Pack size", "position": 2, "value": "Large" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            },
+            {
+              "name": "Pack size",
+              "position": 2,
+              "value": "Large"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": [
@@ -89,7 +114,10 @@
               "value": 15
             }
           ],
-          "checkout_charge": { "value_type": "percentage", "value": 100 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100
+          }
         }
       ],
       "app_id": null
@@ -98,7 +126,11 @@
       "id": "7e07bca678535daac0c9685c86d0ffbe13b25578",
       "name": "TYPEGEN fixed date pre-order",
       "options": [
-        { "name": "Purchase option", "position": 1, "values": ["Pre-order"] }
+        {
+          "name": "Purchase option",
+          "position": 1,
+          "values": ["Pre-order"]
+        }
       ],
       "selling_plans": [
         {
@@ -106,11 +138,18 @@
           "name": "Pre-order for June",
           "description": null,
           "options": [
-            { "name": "Purchase option", "position": 1, "value": "Pre-order" }
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Pre-order"
+            }
           ],
           "recurring_deliveries": false,
           "price_adjustments": [],
-          "checkout_charge": { "value_type": "percentage", "value": 100 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100
+          }
         }
       ],
       "app_id": null

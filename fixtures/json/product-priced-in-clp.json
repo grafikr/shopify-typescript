@@ -35,7 +35,11 @@
         "weight": 0.0,
         "weight_unit": "kg",
         "requires_shipping": false,
-        "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
         "price_currency": "CLP",
         "compare_at_price_currency": "CLP",
         "quantity_price_breaks": []

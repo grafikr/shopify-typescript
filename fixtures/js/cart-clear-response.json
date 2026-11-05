@@ -1,7 +1,9 @@
 {
   "token": "hWNIkxl20U7UHmpLF4ylTf9e?key=94776a181d1a8997d4a7930bb0077231",
   "note": "",
-  "attributes": { "x": 1 },
+  "attributes": {
+    "x": 1
+  },
   "original_total_price": 0,
   "total_price": 0,
   "total_discount": 0,

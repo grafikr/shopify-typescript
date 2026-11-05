@@ -32,7 +32,7 @@
       "gift_card": false,
       "final_price": 10000,
       "final_line_price": 10000,
-      "url": "\/products\/typegen-plan-shapes?selling_plan=8382185546\u0026variant=67909933563978",
+      "url": "/products/typegen-plan-shapes?selling_plan=8382185546&variant=67909933563978",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -48,10 +48,19 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false,
       "selling_plan_allocation": {
         "price_adjustments": [],
@@ -63,7 +72,11 @@
           "name": "Pre-order for June",
           "description": null,
           "options": [
-            { "name": "Purchase option", "position": 1, "value": "Pre-order" }
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Pre-order"
+            }
           ],
           "recurring_deliveries": false,
           "fixed_selling_plan": true,
@@ -95,7 +108,7 @@
       "gift_card": false,
       "final_price": 8500,
       "final_line_price": 8500,
-      "url": "\/products\/typegen-plan-shapes?selling_plan=8382152778\u0026variant=67909933563978",
+      "url": "/products/typegen-plan-shapes?selling_plan=8382152778&variant=67909933563978",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -111,13 +124,27 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false,
       "selling_plan_allocation": {
-        "price_adjustments": [{ "position": 1, "price": 8500 }],
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 8500
+          }
+        ],
         "price": 8500,
         "compare_at_price": 10000,
         "per_delivery_price": 8500,
@@ -126,8 +153,16 @@
           "name": "Monthly large pack",
           "description": "Billed every month",
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" },
-            { "name": "Pack size", "position": 2, "value": "Large" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            },
+            {
+              "name": "Pack size",
+              "position": 2,
+              "value": "Large"
+            }
           ],
           "recurring_deliveries": true,
           "fixed_selling_plan": false,

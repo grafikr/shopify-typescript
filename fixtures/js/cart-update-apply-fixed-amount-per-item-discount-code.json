@@ -24,7 +24,12 @@
       "original_line_price": 200000,
       "presentment_price": 1000.0,
       "total_discount": 20000,
-      "discounts": [{ "amount": 20000, "title": "TYPEGENEACH" }],
+      "discounts": [
+        {
+          "amount": 20000,
+          "title": "TYPEGENEACH"
+        }
+      ],
       "sku": "TG-CUR",
       "grams": 0,
       "vendor": "TypegenVendor",
@@ -50,7 +55,12 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [
         {
           "amount": 20000,
@@ -76,6 +86,13 @@
   "currency": "DKK",
   "items_subtotal_price": 180000,
   "cart_level_discount_applications": [],
-  "discount_codes": [{ "code": "TYPEGENEACH", "applicable": true }],
-  "items_changelog": { "added": [] }
+  "discount_codes": [
+    {
+      "code": "TYPEGENEACH",
+      "applicable": true
+    }
+  ],
+  "items_changelog": {
+    "added": []
+  }
 }

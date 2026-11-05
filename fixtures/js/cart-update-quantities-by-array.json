@@ -24,7 +24,12 @@
       "original_line_price": 40000,
       "presentment_price": 200.0,
       "total_discount": 2000,
-      "discounts": [{ "amount": 2000, "title": "TYPEGEN auto" }],
+      "discounts": [
+        {
+          "amount": 2000,
+          "title": "TYPEGEN auto"
+        }
+      ],
       "sku": "TG-D2",
       "grams": 0,
       "vendor": "TypegenVendor",
@@ -50,7 +55,12 @@
       "product_description": null,
       "untranslated_variant_title": "M",
       "variant_options": ["M"],
-      "options_with_values": [{ "name": "Size", "value": "M" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "M"
+        }
+      ],
       "line_level_discount_allocations": [
         {
           "amount": 2000,
@@ -87,7 +97,12 @@
       "original_line_price": 30000,
       "presentment_price": 100.0,
       "total_discount": 1500,
-      "discounts": [{ "amount": 1500, "title": "TYPEGEN auto" }],
+      "discounts": [
+        {
+          "amount": 1500,
+          "title": "TYPEGEN auto"
+        }
+      ],
       "sku": "TG-D1",
       "grams": 0,
       "vendor": "TypegenVendor",
@@ -113,7 +128,12 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [
         {
           "amount": 1500,
@@ -142,8 +162,14 @@
   "discount_codes": [],
   "items_changelog": {
     "added": [
-      { "variant_id": 67900879536202, "quantity": 1 },
-      { "variant_id": 67900879503434, "quantity": 2 }
+      {
+        "variant_id": 67900879536202,
+        "quantity": 1
+      },
+      {
+        "variant_id": 67900879503434,
+        "quantity": 2
+      }
     ]
   }
 }

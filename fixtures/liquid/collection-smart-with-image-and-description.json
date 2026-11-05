@@ -3,7 +3,7 @@
   "handle": "typegen-smart-rich",
   "title": "TYPEGEN smart rich",
   "updated_at": "2026-11-04T06:57:47-05:00",
-  "body_html": "\u003cp\u003eSmart\u003c\/p\u003e",
+  "body_html": "Content",
   "published_at": "2026-11-04T06:57:47-05:00",
   "sort_order": "price-desc",
   "template_suffix": null,
@@ -15,6 +15,6 @@
     "alt": "smart alt",
     "width": 1382,
     "height": 1728,
-    "src": "\/\/shop.myshopify.com\/cdn\/shop\/collections\/GuaSharosenquartzpack-min.jpg?v=1793793456"
+    "src": "//shop.myshopify.com/cdn/shop/collections/image-165.jpg?v=1793793456"
   }
 }

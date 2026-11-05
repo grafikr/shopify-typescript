@@ -42,11 +42,21 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
       "selling_plan_allocation": {
-        "price_adjustments": [{ "position": 1, "price": 9000 }],
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 9000
+          }
+        ],
         "price": 9000,
         "compare_at_price": 10000,
         "per_delivery_price": 9000,
@@ -55,7 +65,11 @@
           "name": "Every month",
           "description": null,
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": [
@@ -66,7 +80,10 @@
               "value": 10
             }
           ],
-          "checkout_charge": { "value_type": "percentage", "value": 100.0 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100.0
+          }
         }
       }
     }

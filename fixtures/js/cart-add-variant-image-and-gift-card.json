@@ -2,7 +2,10 @@
   "items": [
     {
       "id": 67900967485514,
-      "properties": { "Engraving": "Hi", "_hidden": "1" },
+      "properties": {
+        "Engraving": "Hi",
+        "_hidden": "1"
+      },
       "quantity": 1,
       "variant_id": 67900967485514,
       "key": "67900967485514:edce8054659384316e6a8dd732934cfd",
@@ -31,28 +34,39 @@
         "alt": "rich alt",
         "aspect_ratio": 0.8,
         "height": 1728,
-        "url": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/GuaSharosenquartzpack-min.jpg?v=1748258186",
+        "url": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
         "width": 1382
       },
-      "image": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/GuaSharosenquartzpack-min.jpg?v=1748258186",
+      "image": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
       "handle": "typegen-rich",
       "requires_shipping": true,
       "product_type": "Rich",
       "untranslated_product_title": "TYPEGEN rich",
-      "product_description": "Rich",
+      "product_description": "Content",
       "untranslated_variant_title": "S / Red / Cotton",
       "variant_options": ["S", "Red", "Cotton"],
       "options_with_values": [
-        { "name": "Size", "value": "S" },
-        { "name": "Color", "value": "Red" },
-        { "name": "Material", "value": "Cotton" }
+        {
+          "name": "Size",
+          "value": "S"
+        },
+        {
+          "name": "Color",
+          "value": "Red"
+        },
+        {
+          "name": "Material",
+          "value": "Cotton"
+        }
       ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0
     },
     {
       "id": 67900967878730,
-      "properties": { "Recipient email": "a@b.dk" },
+      "properties": {
+        "Recipient email": "a@b.dk"
+      },
       "quantity": 1,
       "variant_id": 67900967878730,
       "key": "67900967878730:1bc945775f08932ffacd59419cb09517",
@@ -92,7 +106,12 @@
       "product_description": null,
       "untranslated_variant_title": null,
       "variant_options": ["Default Title"],
-      "options_with_values": [{ "name": "Title", "value": "Default Title" }],
+      "options_with_values": [
+        {
+          "name": "Title",
+          "value": "Default Title"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0
     }

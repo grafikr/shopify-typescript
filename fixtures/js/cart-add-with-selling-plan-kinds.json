@@ -42,11 +42,21 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
       "selling_plan_allocation": {
-        "price_adjustments": [{ "position": 1, "price": 8000 }],
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 8000
+          }
+        ],
         "price": 8000,
         "compare_at_price": 10000,
         "per_delivery_price": 8000,
@@ -55,7 +65,11 @@
           "name": "Monthly at a set price",
           "description": null,
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": [
@@ -66,7 +80,10 @@
               "value": 8000
             }
           ],
-          "checkout_charge": { "value_type": "percentage", "value": 100.0 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100.0
+          }
         }
       }
     },
@@ -112,13 +129,24 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
       "selling_plan_allocation": {
         "price_adjustments": [
-          { "position": 1, "price": 9000 },
-          { "position": 2, "price": 8000 }
+          {
+            "position": 1,
+            "price": 9000
+          },
+          {
+            "position": 2,
+            "price": 8000
+          }
         ],
         "price": 9000,
         "compare_at_price": 10000,
@@ -149,7 +177,10 @@
               "value": 20
             }
           ],
-          "checkout_charge": { "value_type": "percentage", "value": 100.0 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100.0
+          }
         }
       }
     },
@@ -195,7 +226,12 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
       "selling_plan_allocation": {
@@ -208,11 +244,18 @@
           "name": "Pre-order",
           "description": null,
           "options": [
-            { "name": "Purchase option", "position": 1, "value": "Pre-order" }
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Pre-order"
+            }
           ],
           "recurring_deliveries": false,
           "price_adjustments": [],
-          "checkout_charge": { "value_type": "percentage", "value": 25 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 25
+          }
         }
       }
     },
@@ -258,7 +301,12 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
       "selling_plan_allocation": {
@@ -271,11 +319,18 @@
           "name": "Try before you buy",
           "description": null,
           "options": [
-            { "name": "Purchase option", "position": 1, "value": "Try first" }
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Try first"
+            }
           ],
           "recurring_deliveries": false,
           "price_adjustments": [],
-          "checkout_charge": { "value_type": "percentage", "value": 0 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 0
+          }
         }
       }
     }

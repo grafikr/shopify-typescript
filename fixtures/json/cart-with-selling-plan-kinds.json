@@ -32,7 +32,7 @@
       "gift_card": false,
       "final_price": 10000,
       "final_line_price": 10000,
-      "url": "\/products\/typegen-plan-kinds?selling_plan=8382120010\u0026variant=67909889458250",
+      "url": "/products/typegen-plan-kinds?selling_plan=8382120010&variant=67909889458250",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -48,10 +48,19 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false,
       "selling_plan_allocation": {
         "price_adjustments": [],
@@ -63,7 +72,11 @@
           "name": "Try before you buy",
           "description": null,
           "options": [
-            { "name": "Purchase option", "position": 1, "value": "Try first" }
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Try first"
+            }
           ],
           "recurring_deliveries": false,
           "fixed_selling_plan": true,
@@ -95,7 +108,7 @@
       "gift_card": false,
       "final_price": 10000,
       "final_line_price": 10000,
-      "url": "\/products\/typegen-plan-kinds?selling_plan=8382087242\u0026variant=67909889458250",
+      "url": "/products/typegen-plan-kinds?selling_plan=8382087242&variant=67909889458250",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -111,10 +124,19 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false,
       "selling_plan_allocation": {
         "price_adjustments": [],
@@ -126,7 +148,11 @@
           "name": "Pre-order",
           "description": null,
           "options": [
-            { "name": "Purchase option", "position": 1, "value": "Pre-order" }
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Pre-order"
+            }
           ],
           "recurring_deliveries": false,
           "fixed_selling_plan": true,
@@ -158,7 +184,7 @@
       "gift_card": false,
       "final_price": 9000,
       "final_line_price": 9000,
-      "url": "\/products\/typegen-plan-kinds?selling_plan=8382054474\u0026variant=67909889458250",
+      "url": "/products/typegen-plan-kinds?selling_plan=8382054474&variant=67909889458250",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -174,15 +200,30 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false,
       "selling_plan_allocation": {
         "price_adjustments": [
-          { "position": 1, "price": 9000 },
-          { "position": 2, "price": 8000 }
+          {
+            "position": 1,
+            "price": 9000
+          },
+          {
+            "position": 2,
+            "price": 8000
+          }
         ],
         "price": 9000,
         "compare_at_price": 10000,
@@ -241,7 +282,7 @@
       "gift_card": false,
       "final_price": 8000,
       "final_line_price": 8000,
-      "url": "\/products\/typegen-plan-kinds?selling_plan=8382021706\u0026variant=67909889458250",
+      "url": "/products/typegen-plan-kinds?selling_plan=8382021706&variant=67909889458250",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -257,13 +298,27 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false,
       "selling_plan_allocation": {
-        "price_adjustments": [{ "position": 1, "price": 8000 }],
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 8000
+          }
+        ],
         "price": 8000,
         "compare_at_price": 10000,
         "per_delivery_price": 8000,
@@ -272,7 +327,11 @@
           "name": "Monthly at a set price",
           "description": null,
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
           ],
           "recurring_deliveries": true,
           "fixed_selling_plan": false,

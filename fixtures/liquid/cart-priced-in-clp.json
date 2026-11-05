@@ -30,7 +30,7 @@
       "gift_card": false,
       "final_price": 14782600,
       "final_line_price": 29565200,
-      "url": "\/products\/typegen-currencies?variant=67909930975306",
+      "url": "/products/typegen-currencies?variant=67909930975306",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -46,7 +46,12 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0
     }

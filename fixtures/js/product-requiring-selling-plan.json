@@ -37,7 +37,11 @@
       "compare_at_price": null,
       "inventory_management": null,
       "barcode": null,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "quantity_price_breaks": [],
       "requires_selling_plan": true,
       "selling_plan_allocations": [
@@ -54,15 +58,25 @@
   ],
   "images": [],
   "featured_image": null,
-  "options": [{ "name": "Size", "position": 1, "values": ["S"] }],
-  "url": "\/products\/typegen-subscription-only",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": ["S"]
+    }
+  ],
+  "url": "/products/typegen-subscription-only",
   "requires_selling_plan": true,
   "selling_plan_groups": [
     {
       "id": "981a8dd269db847a07b4816ce57e76b94f2d26d8",
       "name": "TYPEGEN subscription only group",
       "options": [
-        { "name": "Delivery every", "position": 1, "values": ["1 month"] }
+        {
+          "name": "Delivery every",
+          "position": 1,
+          "values": ["1 month"]
+        }
       ],
       "selling_plans": [
         {
@@ -70,7 +84,11 @@
           "name": "Every month",
           "description": null,
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": []

@@ -30,7 +30,7 @@
       "gift_card": false,
       "final_price": 5000,
       "final_line_price": 5000,
-      "url": "\/products\/typegen-subscription-only?variant=67909549097034",
+      "url": "/products/typegen-subscription-only?variant=67909549097034",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -46,7 +46,12 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
       "selling_plan_allocation": {
@@ -59,7 +64,11 @@
           "name": "Every month",
           "description": null,
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": []
@@ -91,7 +100,7 @@
       "gift_card": false,
       "final_price": 9000,
       "final_line_price": 18000,
-      "url": "\/products\/typegen-subscription?variant=67909548998730",
+      "url": "/products/typegen-subscription?variant=67909548998730",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -107,11 +116,21 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
       "selling_plan_allocation": {
-        "price_adjustments": [{ "position": 1, "price": 9000 }],
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 9000
+          }
+        ],
         "price": 9000,
         "compare_at_price": 10000,
         "per_delivery_price": 9000,
@@ -120,7 +139,11 @@
           "name": "Every month",
           "description": null,
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": [

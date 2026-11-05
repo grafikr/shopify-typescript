@@ -1,1 +1,4 @@
-{ "products": [], "intent": "complementary" }
+{
+  "products": [],
+  "intent": "complementary"
+}

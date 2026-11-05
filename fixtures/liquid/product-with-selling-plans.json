@@ -40,7 +40,12 @@
       "requires_selling_plan": false,
       "selling_plan_allocations": [
         {
-          "price_adjustments": [{ "position": 1, "price": 9000 }],
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 9000
+            }
+          ],
           "price": 9000,
           "compare_at_price": 10000,
           "per_delivery_price": 9000,
@@ -48,7 +53,12 @@
           "selling_plan_group_id": "b2465ff052b2a03f85efbc09e5ac270d2ae62836"
         },
         {
-          "price_adjustments": [{ "position": 1, "price": 9500 }],
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 9500
+            }
+          ],
           "price": 9500,
           "compare_at_price": 10000,
           "per_delivery_price": 9500,
@@ -56,7 +66,11 @@
           "selling_plan_group_id": "b2465ff052b2a03f85efbc09e5ac270d2ae62836"
         }
       ],
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 }
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
     }
   ],
   "images": [],
@@ -80,7 +94,11 @@
           "name": "Every month",
           "description": null,
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": [
@@ -91,14 +109,21 @@
               "value": 10
             }
           ],
-          "checkout_charge": { "value_type": "percentage", "value": 100 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100
+          }
         },
         {
           "id": 8381956170,
           "name": "Every 2 weeks",
           "description": null,
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "2 weeks" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "2 weeks"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": [
@@ -109,7 +134,10 @@
               "value": 500
             }
           ],
-          "checkout_charge": { "value_type": "percentage", "value": 100 }
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100
+          }
         }
       ],
       "app_id": null

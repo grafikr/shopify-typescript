@@ -3,7 +3,7 @@
   "handle": "all",
   "title": "Our products",
   "updated_at": "2026-11-05T06:34:46-05:00",
-  "body_html": "\u003cp\u003e\u003cmeta charset=\"utf-8\"\u003eWelcome to our curated collection, where fashion meets versatility! Discover a stunning array of clothing designed to cater to every aspect of your lifestyle, from casual outings to formal events.\u003c\/p\u003e",
+  "body_html": "Content",
   "published_at": "2024-11-04T08:58:30-05:00",
   "sort_order": "alpha-asc",
   "template_suffix": "",
@@ -15,6 +15,6 @@
     "alt": null,
     "width": 4096,
     "height": 2731,
-    "src": "\/\/shop.myshopify.com\/cdn\/shop\/collections\/model-in-neutral-colors-by-window.jpg?v=1745912689"
+    "src": "//shop.myshopify.com/cdn/shop/collections/image-203.jpg?v=1745912689"
   }
 }

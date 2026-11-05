@@ -10,7 +10,9 @@
   "items": [
     {
       "id": 42110305206346,
-      "properties": { "Gift": "yes" },
+      "properties": {
+        "Gift": "yes"
+      },
       "quantity": 2,
       "variant_id": 42110305206346,
       "key": "42110305206346:3d2c5ad8e73779c1f11de930561fcb11",
@@ -32,26 +34,35 @@
       "gift_card": false,
       "final_price": 12900,
       "final_line_price": 25800,
-      "url": "\/products\/milla-mango-night-repair-miracle-patch?variant=42110305206346",
+      "url": "/products/milla-mango-night-repair-miracle-patch?variant=42110305206346",
       "featured_image": {
         "aspect_ratio": 0.8,
         "alt": "Night repair miracle patch",
         "height": 1728,
-        "url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchpack-min.jpg?v=1748258461",
+        "url": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-185.jpg?v=1748258461",
         "width": 1382
       },
-      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Nightrepairmiraclepatchpack-min.jpg?v=1748258461",
+      "image": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-185.jpg?v=1748258461",
       "handle": "milla-mango-night-repair-miracle-patch",
       "requires_shipping": true,
       "product_type": "",
       "product_title": "Night repair miracle patch",
-      "product_description": "Miraklet, der arbejder mens du sover\nVågn op til en renere og roligere hud med MILLA MANGO Night Repair Miracle Patch. Dette natplaster er designet til at give intensiv behandling af bumser og urenheder, mens du sover, så du kan vågne op til en hud, der er beroliget og klar til dagen. Med sin langvarige hæftning forbliver plasteret sikkert på huden hele natten, så det kan arbejde effektivt, mens du sover.\nNatbehandling uden besværPlasteret indeholder salicylsyre, der trænger dybt ind i porerne for at opløse overskydende olie og snavs, mens tea tree-olie beroliger og reducerer rødme med sine antibakterielle egenskaber. Centella bidrager til hudens naturlige helingsproces ved at mindske rødme og irritation. Vores plaster er udviklet til at give maksimal effekt natten over, så du kan nyde synlige resultater, når du vågner.\nMed MILLA MANGO Night Repair Miracle Patch får du et kraftfuld natplaster der arbejder natten over for at forbedre din hud, så du kan vågne op uden bekymringer.",
+      "product_description": "Content",
       "variant_title": null,
       "variant_options": ["Default Title"],
-      "options_with_values": [{ "name": "Title", "value": "Default Title" }],
+      "options_with_values": [
+        {
+          "name": "Title",
+          "value": "Default Title"
+        }
+      ],
       "line_level_discount_allocations": [],
       "line_level_total_discount": 0,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "has_components": false
     }
   ],

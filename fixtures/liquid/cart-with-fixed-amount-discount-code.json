@@ -21,8 +21,14 @@
       "original_line_price": 20000,
       "total_discount": 2000,
       "discounts": [
-        { "amount": 1000, "title": "TYPEGEN auto" },
-        { "amount": 1000, "title": "TYPEGENFIX" }
+        {
+          "amount": 1000,
+          "title": "TYPEGEN auto"
+        },
+        {
+          "amount": 1000,
+          "title": "TYPEGENFIX"
+        }
       ],
       "sku": "TG-D2",
       "grams": 0,
@@ -33,7 +39,7 @@
       "gift_card": false,
       "final_price": 19000,
       "final_line_price": 19000,
-      "url": "\/products\/typegen-discountable?variant=67900879536202",
+      "url": "/products/typegen-discountable?variant=67900879536202",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -49,7 +55,12 @@
       "product_description": null,
       "variant_title": "M",
       "variant_options": ["M"],
-      "options_with_values": [{ "name": "Size", "value": "M" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "M"
+        }
+      ],
       "line_level_discount_allocations": [
         {
           "amount": 1000,
@@ -84,8 +95,14 @@
       "original_line_price": 20000,
       "total_discount": 2000,
       "discounts": [
-        { "amount": 1000, "title": "TYPEGEN auto" },
-        { "amount": 1000, "title": "TYPEGENFIX" }
+        {
+          "amount": 1000,
+          "title": "TYPEGEN auto"
+        },
+        {
+          "amount": 1000,
+          "title": "TYPEGENFIX"
+        }
       ],
       "sku": "TG-D1",
       "grams": 0,
@@ -96,7 +113,7 @@
       "gift_card": false,
       "final_price": 9500,
       "final_line_price": 19000,
-      "url": "\/products\/typegen-discountable?variant=67900879503434",
+      "url": "/products/typegen-discountable?variant=67900879503434",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -112,7 +129,12 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [
         {
           "amount": 1000,

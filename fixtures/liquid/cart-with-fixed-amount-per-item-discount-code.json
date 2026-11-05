@@ -20,7 +20,12 @@
       "line_price": 180000,
       "original_line_price": 200000,
       "total_discount": 20000,
-      "discounts": [{ "amount": 20000, "title": "TYPEGENEACH" }],
+      "discounts": [
+        {
+          "amount": 20000,
+          "title": "TYPEGENEACH"
+        }
+      ],
       "sku": "TG-CUR",
       "grams": 0,
       "vendor": "TypegenVendor",
@@ -30,7 +35,7 @@
       "gift_card": false,
       "final_price": 90000,
       "final_line_price": 180000,
-      "url": "\/products\/typegen-currencies?variant=67909930975306",
+      "url": "/products/typegen-currencies?variant=67909930975306",
       "featured_image": {
         "aspect_ratio": null,
         "alt": null,
@@ -46,7 +51,12 @@
       "product_description": null,
       "variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [
         {
           "amount": 20000,

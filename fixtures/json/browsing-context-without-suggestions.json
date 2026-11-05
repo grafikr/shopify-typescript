@@ -1,7 +1,10 @@
 {
   "detected_values": {
     "country_name": "Denmark",
-    "country": { "handle": "DK", "name": "Denmark" }
+    "country": {
+      "handle": "DK",
+      "name": "Denmark"
+    }
   },
   "features": {},
   "suggestions": []

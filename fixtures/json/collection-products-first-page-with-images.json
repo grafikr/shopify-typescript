@@ -4,7 +4,7 @@
       "id": 7936270794826,
       "title": "Acne spot trio treatment sæt",
       "handle": "acne-spot-trio-treatment",
-      "body_html": "\u003cp class=\"p1\"\u003eFå kontrol over dine urenheder med denne effektive trio. Start med \u003cstrong\u003eSilk Cleansing Foam\u003c\/strong\u003e, der skånsomt renser huden og fjerner urenheder. Brug derefter \u003cstrong\u003eAcne Spot Treatment\u003c\/strong\u003e for målrettet at behandle udbrud og reducere rødme. Med \u003cstrong\u003eInvisible Miracle Patch\u003c\/strong\u003e, kan du diskret behandle dine urenheder og udbrud.\u003c\/p\u003e",
+      "body_html": "Content",
       "published_at": "2025-05-26T07:17:45-04:00",
       "created_at": "2025-05-26T07:17:49-04:00",
       "updated_at": "2026-11-04T06:59:03-05:00",
@@ -59,7 +59,7 @@
           "updated_at": "2025-05-26T07:17:49-04:00",
           "product_id": 7936270794826,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/Acnespottriotreatmentsaetpack-min.jpg?v=1748258269",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-151.jpg?v=1748258269",
           "width": 1382,
           "height": 1728
         },
@@ -70,7 +70,7 @@
           "updated_at": "2026-07-08T08:56:45-04:00",
           "product_id": 7936270794826,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_mod_A5852-Silkcleansingfoamapplying-min_1d2ae25d-d47b-44cd-98b2-9e016339db8c.jpg?v=1783515405",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-200.jpg?v=1783515405",
           "width": 1382,
           "height": 1728
         },
@@ -81,7 +81,7 @@
           "updated_at": "2026-07-08T09:01:25-04:00",
           "product_id": 7936270794826,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_gen_A5852-Silkcleansingfoamprepare-min.jpg?v=1783515685",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-199.jpg?v=1783515685",
           "width": 1382,
           "height": 1728
         },
@@ -92,20 +92,24 @@
           "updated_at": "2026-07-08T09:01:32-04:00",
           "product_id": 7936270794826,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_Acnespottriotreatmentsaetshowcase-min.jpg?v=1783515692",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-198.jpg?v=1783515692",
           "width": 1382,
           "height": 1728
         }
       ],
       "options": [
-        { "name": "Size", "position": 1, "values": ["250ml", "500ml"] }
+        {
+          "name": "Size",
+          "position": 1,
+          "values": ["250ml", "500ml"]
+        }
       ]
     },
     {
       "id": 7936273023050,
       "title": "AHA exfoliant peel concentrate",
       "handle": "aha-exfoliant-peel-concentrate",
-      "body_html": "\u003cp\u003eOpnå strålende hud med 10% Lactic Acid, der fjerner døde hudceller og booster fornyelse af huden. Hjælper med træt, kedelig hud, mindsker pigmentpletter og fine linjer. Med 1% hyaluronsyre holdes huden fugtet og smidig under eksfolieringen. Påfør på ren hud om aftenen og lad virke natten over. Brug 1-2 gange om ugen. Undgå sollys lige efter brug og husk altid solcreme efter brug.\u003c\/p\u003e",
+      "body_html": "Content",
       "published_at": "2025-05-26T07:20:34-04:00",
       "created_at": "2025-05-26T07:20:39-04:00",
       "updated_at": "2026-11-04T06:59:03-05:00",
@@ -141,7 +145,7 @@
           "updated_at": "2026-09-25T05:02:45-04:00",
           "product_id": 7936273023050,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/ai_A5835-AHAexfoliantpeelconcentratepack-min.jpg?v=1790326965",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-197.jpg?v=1790326965",
           "width": 1382,
           "height": 1728
         },
@@ -152,7 +156,7 @@
           "updated_at": "2025-05-26T07:20:39-04:00",
           "product_id": 7936273023050,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateplay-min.jpg?v=1748258439",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-064.jpg?v=1748258439",
           "width": 1382,
           "height": 1728
         },
@@ -163,7 +167,7 @@
           "updated_at": "2025-05-26T07:20:39-04:00",
           "product_id": 7936273023050,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateappliance-min_11a6b26c-abd1-47d9-bf44-ad726e3904e0.jpg?v=1748258439",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-058.jpg?v=1748258439",
           "width": 1382,
           "height": 1728
         },
@@ -174,7 +178,7 @@
           "updated_at": "2025-05-26T07:20:39-04:00",
           "product_id": 7936273023050,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrateapplied-min_d498902f-4463-4f24-aaf7-b42c65b3829f.jpg?v=1748258439",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-063.jpg?v=1748258439",
           "width": 1382,
           "height": 1728
         },
@@ -185,20 +189,24 @@
           "updated_at": "2025-05-26T07:20:39-04:00",
           "product_id": 7936273023050,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5835-AHAexfoliantpeelconcentrate-min.jpg?v=1748258439",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-056.jpg?v=1748258439",
           "width": 1382,
           "height": 1728
         }
       ],
       "options": [
-        { "name": "Title", "position": 1, "values": ["Default Title"] }
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
       ]
     },
     {
       "id": 7936271286346,
       "title": "All-in-one facial oil",
       "handle": "all-in-one-facial-oil",
-      "body_html": "\u003cp class=\"p1\"\u003eDenne all-round ansigtsolie fugter og giver huden et energiboost. Påfør på ren hud. Undgå kontakt med øjnene.\u003c\/p\u003e",
+      "body_html": "Content",
       "published_at": "2025-05-26T07:18:18-04:00",
       "created_at": "2025-05-26T07:18:23-04:00",
       "updated_at": "2026-11-04T06:59:03-05:00",
@@ -234,7 +242,7 @@
           "updated_at": "2025-05-26T07:18:23-04:00",
           "product_id": 7936271286346,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoil-min.jpg?v=1748258303",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-085.jpg?v=1748258303",
           "width": 1382,
           "height": 1728
         },
@@ -245,7 +253,7 @@
           "updated_at": "2025-05-26T07:18:23-04:00",
           "product_id": 7936271286346,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilprepare-min.jpg?v=1748258303",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-089.jpg?v=1748258303",
           "width": 1382,
           "height": 1728
         },
@@ -256,7 +264,7 @@
           "updated_at": "2025-05-26T07:18:23-04:00",
           "product_id": 7936271286346,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilapply-min_a83b3556-2639-4148-9288-dc258ccec1ad.jpg?v=1748258303",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-088.jpg?v=1748258303",
           "width": 1382,
           "height": 1728
         },
@@ -267,7 +275,7 @@
           "updated_at": "2025-05-26T07:18:23-04:00",
           "product_id": 7936271286346,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilapplied-min.jpg?v=1748258303",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-086.jpg?v=1748258303",
           "width": 1382,
           "height": 1728
         },
@@ -278,13 +286,17 @@
           "updated_at": "2025-05-26T07:18:23-04:00",
           "product_id": 7936271286346,
           "variant_ids": [],
-          "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0620\/1380\/0522\/files\/A5853-All-in-onefacialoilshowcase-min.jpg?v=1748258303",
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-090.jpg?v=1748258303",
           "width": 1382,
           "height": 1728
         }
       ],
       "options": [
-        { "name": "Title", "position": 1, "values": ["Default Title"] }
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
       ]
     }
   ]

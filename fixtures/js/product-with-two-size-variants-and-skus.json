@@ -37,7 +37,11 @@
       "compare_at_price": null,
       "inventory_management": null,
       "barcode": null,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "quantity_price_breaks": [],
       "requires_selling_plan": false,
       "selling_plan_allocations": []
@@ -61,7 +65,11 @@
       "compare_at_price": null,
       "inventory_management": null,
       "barcode": null,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "quantity_price_breaks": [],
       "requires_selling_plan": false,
       "selling_plan_allocations": []
@@ -69,8 +77,14 @@
   ],
   "images": [],
   "featured_image": null,
-  "options": [{ "name": "Size", "position": 1, "values": ["S", "M"] }],
-  "url": "\/products\/typegen-discountable",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": ["S", "M"]
+    }
+  ],
+  "url": "/products/typegen-discountable",
   "requires_selling_plan": false,
   "selling_plan_groups": []
 }

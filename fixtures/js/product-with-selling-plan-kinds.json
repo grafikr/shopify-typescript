@@ -37,12 +37,21 @@
       "compare_at_price": null,
       "inventory_management": null,
       "barcode": null,
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 },
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
       "quantity_price_breaks": [],
       "requires_selling_plan": false,
       "selling_plan_allocations": [
         {
-          "price_adjustments": [{ "position": 1, "price": 8000 }],
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 8000
+            }
+          ],
           "price": 8000,
           "compare_at_price": 10000,
           "per_delivery_price": 8000,
@@ -51,8 +60,14 @@
         },
         {
           "price_adjustments": [
-            { "position": 1, "price": 9000 },
-            { "position": 2, "price": 8000 }
+            {
+              "position": 1,
+              "price": 9000
+            },
+            {
+              "position": 2,
+              "price": 8000
+            }
           ],
           "price": 9000,
           "compare_at_price": 10000,
@@ -81,15 +96,25 @@
   ],
   "images": [],
   "featured_image": null,
-  "options": [{ "name": "Size", "position": 1, "values": ["S"] }],
-  "url": "\/products\/typegen-plan-kinds",
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": ["S"]
+    }
+  ],
+  "url": "/products/typegen-plan-kinds",
   "requires_selling_plan": false,
   "selling_plan_groups": [
     {
       "id": "e4b89e371867a31135f8e04ce0218901046a8b9f",
       "name": "TYPEGEN cycle plan",
       "options": [
-        { "name": "Delivery every", "position": 1, "values": ["1 month cycle"] }
+        {
+          "name": "Delivery every",
+          "position": 1,
+          "values": ["1 month cycle"]
+        }
       ],
       "selling_plans": [
         {
@@ -126,7 +151,11 @@
       "id": "69d305d2b092eb6943be55c55c37d5f2e9797433",
       "name": "TYPEGEN pre-order",
       "options": [
-        { "name": "Purchase option", "position": 1, "values": ["Pre-order"] }
+        {
+          "name": "Purchase option",
+          "position": 1,
+          "values": ["Pre-order"]
+        }
       ],
       "selling_plans": [
         {
@@ -134,7 +163,11 @@
           "name": "Pre-order",
           "description": null,
           "options": [
-            { "name": "Purchase option", "position": 1, "value": "Pre-order" }
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Pre-order"
+            }
           ],
           "recurring_deliveries": false,
           "price_adjustments": []
@@ -146,7 +179,11 @@
       "id": "92fe28e77f6eda7124333eee1b304bec2f82cf43",
       "name": "TYPEGEN price plan",
       "options": [
-        { "name": "Delivery every", "position": 1, "values": ["1 month"] }
+        {
+          "name": "Delivery every",
+          "position": 1,
+          "values": ["1 month"]
+        }
       ],
       "selling_plans": [
         {
@@ -154,7 +191,11 @@
           "name": "Monthly at a set price",
           "description": null,
           "options": [
-            { "name": "Delivery every", "position": 1, "value": "1 month" }
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
           ],
           "recurring_deliveries": true,
           "price_adjustments": [
@@ -173,7 +214,11 @@
       "id": "adec9cf90a1d328f28ce9092f125a75464bdd0cb",
       "name": "TYPEGEN try before you buy",
       "options": [
-        { "name": "Purchase option", "position": 1, "values": ["Try first"] }
+        {
+          "name": "Purchase option",
+          "position": 1,
+          "values": ["Try first"]
+        }
       ],
       "selling_plans": [
         {
@@ -181,7 +226,11 @@
           "name": "Try before you buy",
           "description": null,
           "options": [
-            { "name": "Purchase option", "position": 1, "value": "Try first" }
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Try first"
+            }
           ],
           "recurring_deliveries": false,
           "price_adjustments": []

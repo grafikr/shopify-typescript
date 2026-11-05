@@ -1,7 +1,9 @@
 {
   "token": "hWNIkxjN5HLjrQWDahSnjDes?key=cb15abc64898b1e1715ddc4e34cad7f8",
   "note": "hi",
-  "attributes": { "a": "b" },
+  "attributes": {
+    "a": "b"
+  },
   "original_total_price": 30000,
   "total_price": 28500,
   "total_discount": 1500,
@@ -24,7 +26,12 @@
       "original_line_price": 30000,
       "presentment_price": 100.0,
       "total_discount": 1500,
-      "discounts": [{ "amount": 1500, "title": "TYPEGEN auto" }],
+      "discounts": [
+        {
+          "amount": 1500,
+          "title": "TYPEGEN auto"
+        }
+      ],
       "sku": "TG-D1",
       "grams": 0,
       "vendor": "TypegenVendor",
@@ -50,7 +57,12 @@
       "product_description": null,
       "untranslated_variant_title": "S",
       "variant_options": ["S"],
-      "options_with_values": [{ "name": "Size", "value": "S" }],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
       "line_level_discount_allocations": [
         {
           "amount": 1500,
@@ -78,6 +90,11 @@
   "cart_level_discount_applications": [],
   "discount_codes": [],
   "items_changelog": {
-    "added": [{ "variant_id": 67900879503434, "quantity": 2 }]
+    "added": [
+      {
+        "variant_id": 67900879503434,
+        "quantity": 2
+      }
+    ]
   }
 }

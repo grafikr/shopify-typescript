@@ -20,7 +20,7 @@
   "variants": [
     {
       "id": 67900878291018,
-      "title": "S \/ Red",
+      "title": "S / Red",
       "option1": "S",
       "option2": "Red",
       "option3": null,
@@ -29,8 +29,8 @@
       "taxable": true,
       "featured_image": null,
       "available": true,
-      "name": "TYPEGEN variants - S \/ Red",
-      "public_title": "S \/ Red",
+      "name": "TYPEGEN variants - S / Red",
+      "public_title": "S / Red",
       "options": ["S", "Red"],
       "price": 1050,
       "weight": 0,
@@ -39,11 +39,15 @@
       "barcode": "123",
       "requires_selling_plan": false,
       "selling_plan_allocations": [],
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 }
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
     },
     {
       "id": 67900878323786,
-      "title": "M \/ Red",
+      "title": "M / Red",
       "option1": "M",
       "option2": "Red",
       "option3": null,
@@ -52,8 +56,8 @@
       "taxable": true,
       "featured_image": null,
       "available": true,
-      "name": "TYPEGEN variants - M \/ Red",
-      "public_title": "M \/ Red",
+      "name": "TYPEGEN variants - M / Red",
+      "public_title": "M / Red",
       "options": ["M", "Red"],
       "price": 1100,
       "weight": 0,
@@ -62,7 +66,11 @@
       "barcode": null,
       "requires_selling_plan": false,
       "selling_plan_allocations": [],
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 }
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
     }
   ],
   "images": [],

@@ -6,19 +6,22 @@
   "parts": [
     {
       "title": 1,
-      "url": "\/collections\/all?page=1\u0026view=typegen-paginate",
+      "url": "/collections/all?page=1&view=typegen-paginate",
       "is_link": true
     },
-    { "title": "\u0026hellip;", "is_link": false },
+    {
+      "title": "&hellip;",
+      "is_link": false
+    },
     {
       "title": 43,
-      "url": "\/collections\/all?page=43\u0026view=typegen-paginate",
+      "url": "/collections/all?page=43&view=typegen-paginate",
       "is_link": true
     }
   ],
   "previous": {
-    "title": "\u0026laquo; Previous",
-    "url": "\/collections\/all?page=43\u0026view=typegen-paginate",
+    "title": "&laquo; Previous",
+    "url": "/collections/all?page=43&view=typegen-paginate",
     "is_link": true
   },
   "pages": 43

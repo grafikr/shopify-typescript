@@ -39,7 +39,11 @@
       "barcode": null,
       "requires_selling_plan": false,
       "selling_plan_allocations": [],
-      "quantity_rule": { "min": 1, "max": null, "increment": 1 }
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
     }
   ],
   "images": [],
