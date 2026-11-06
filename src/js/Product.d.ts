@@ -79,8 +79,6 @@ type ProductMediaBase = {
   preview_image: PreviewImage;
 };
 
-/**
- */
 export type ProductImageMedia = ProductMediaBase & {
   media_type: 'image';
   aspect_ratio: number;
@@ -134,8 +132,6 @@ export type ProductMedia =
   | ProductExternalVideoMedia
   | ProductModelMedia;
 
-/**
- */
 export type Product = {
   id: number;
   title: string;

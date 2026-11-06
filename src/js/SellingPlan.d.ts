@@ -10,8 +10,6 @@ export type SellingPlanPriceAdjustment = {
   value: number;
 };
 
-/**
- */
 export type SellingPlan = {
   id: number;
   name: string;
@@ -21,8 +19,6 @@ export type SellingPlan = {
   price_adjustments: Array<SellingPlanPriceAdjustment>;
 };
 
-/**
- */
 export type SellingPlanGroup = {
   /** A hash, unlike the numeric plan ids. */
   id: string;

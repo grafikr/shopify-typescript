@@ -1,5 +1,3 @@
-/**
- */
 export type Page = {
   id: number;
   /** Null when the page has no content. */

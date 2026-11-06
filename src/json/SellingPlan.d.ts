@@ -10,8 +10,6 @@ export type SellingPlanPriceAdjustment = {
   value: number;
 };
 
-/**
- */
 export type SellingPlan = {
   id: number;
   name: string;
