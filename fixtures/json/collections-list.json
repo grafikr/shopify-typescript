@@ -1,0 +1,144 @@
+{
+  "collections": [
+    {
+      "id": 287883198538,
+      "title": "Automated Collection",
+      "handle": "automated-collection",
+      "description": null,
+      "published_at": "2024-10-31T15:22:40-04:00",
+      "updated_at": "2026-09-01T07:15:17-04:00",
+      "image": null,
+      "products_count": 33
+    },
+    {
+      "id": 288031670346,
+      "title": "Dress",
+      "handle": "dress",
+      "description": "Content",
+      "published_at": "2024-11-04T07:58:34-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 287883165770,
+      "title": "Home page",
+      "handle": "frontpage",
+      "description": null,
+      "published_at": "2024-10-31T15:22:01-04:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 1
+    },
+    {
+      "id": 287883231306,
+      "title": "Hydrogen",
+      "handle": "hydrogen",
+      "description": null,
+      "published_at": "2024-10-31T15:22:41-04:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 288032358474,
+      "title": "Jackets",
+      "handle": "jackets",
+      "description": "Content",
+      "published_at": "2024-11-04T08:12:08-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 288033177674,
+      "title": "Our products",
+      "handle": "all",
+      "description": "Content",
+      "published_at": "2024-11-04T08:58:30-05:00",
+      "updated_at": "2026-11-04T06:36:47-05:00",
+      "image": {
+        "id": 1608373698634,
+        "created_at": "2025-04-29T03:44:49-04:00",
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/collections/image-203.jpg?v=1745912689",
+        "alt": null
+      },
+      "products_count": 47
+    },
+    {
+      "id": 288032292938,
+      "title": "Pants",
+      "handle": "pants",
+      "description": "Content",
+      "published_at": "2024-11-04T08:11:24-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 288032391242,
+      "title": "Sweaters",
+      "handle": "sweaters",
+      "description": "Content",
+      "published_at": "2024-11-04T08:12:38-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 288032227402,
+      "title": "Tops",
+      "handle": "tops",
+      "description": "Content",
+      "published_at": "2024-11-04T08:10:53-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 512521601098,
+      "title": "TYPEGEN bare",
+      "handle": "typegen-bare",
+      "description": null,
+      "published_at": "2026-11-04T06:39:58-05:00",
+      "updated_at": "2026-11-04T06:39:58-05:00",
+      "image": null,
+      "products_count": 0
+    },
+    {
+      "id": 512521535562,
+      "title": "TYPEGEN manual",
+      "handle": "typegen-manual",
+      "description": "Content",
+      "published_at": "2026-11-04T06:39:55-05:00",
+      "updated_at": "2026-11-04T06:39:55-05:00",
+      "image": {
+        "id": 1765489737802,
+        "created_at": "2026-11-04T06:39:39-05:00",
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/collections/image-165.jpg?v=1793792380",
+        "alt": "alt text"
+      },
+      "products_count": 1
+    },
+    {
+      "id": 512521568330,
+      "title": "TYPEGEN smart",
+      "handle": "typegen-smart",
+      "description": null,
+      "published_at": "2026-11-04T06:39:57-05:00",
+      "updated_at": "2026-11-04T06:39:57-05:00",
+      "image": null,
+      "products_count": 1
+    },
+    {
+      "id": 303488630858,
+      "title": "Unlisted products",
+      "handle": "unlisted-products",
+      "description": "",
+      "published_at": "2026-01-28T02:40:11-05:00",
+      "updated_at": "2026-06-25T23:40:53-04:00",
+      "image": null,
+      "products_count": 1
+    }
+  ]
+}

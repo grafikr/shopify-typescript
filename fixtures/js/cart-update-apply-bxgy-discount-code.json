@@ -1,0 +1,171 @@
+{
+  "token": "hWNInJw93UtkUqJjFFX6WEU6?key=2b50ed7dca30b64c79f9c29b6d1285be",
+  "note": "",
+  "attributes": {},
+  "original_total_price": 200000,
+  "total_price": 100000,
+  "total_discount": 100000,
+  "total_weight": 0.0,
+  "item_count": 2,
+  "items": [
+    {
+      "id": 67909930975306,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67909930975306,
+      "key": "67909930975306:8a4f49f9da2adc84a837e51f4409dd73",
+      "title": "TYPEGEN currencies - S",
+      "product_title": "TYPEGEN currencies",
+      "variant_title": "S",
+      "price": 100000,
+      "original_price": 100000,
+      "discounted_price": 100000,
+      "line_price": 100000,
+      "original_line_price": 100000,
+      "presentment_price": 1000.0,
+      "total_discount": 0,
+      "discounts": [
+        {
+          "amount": 0,
+          "title": "TYPEGENBXGY"
+        }
+      ],
+      "sku": "TG-CUR",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459535126602,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 100000,
+      "final_line_price": 100000,
+      "url": "/products/typegen-currencies?variant=67909930975306",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-currencies",
+      "requires_shipping": false,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN currencies",
+      "product_description": null,
+      "untranslated_variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [
+        {
+          "amount": 0,
+          "discount_application": {
+            "allocation_method": "each",
+            "created_at": "2026-11-05T11:40:06.702Z",
+            "description": null,
+            "key": "79db174e-24e6-4d05-983b-dd9a2f3b0032",
+            "target_selection": "entitled",
+            "target_type": "line_item",
+            "title": "TYPEGENBXGY",
+            "total_allocated_amount": 0,
+            "type": "discount_code",
+            "value": "100.0",
+            "value_type": "percentage"
+          }
+        }
+      ],
+      "line_level_total_discount": 0
+    },
+    {
+      "id": 67909930975306,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67909930975306,
+      "key": "67909930975306:3c1ce0df75943da8234831c3502592fc",
+      "title": "TYPEGEN currencies - S",
+      "product_title": "TYPEGEN currencies",
+      "variant_title": "S",
+      "price": 100000,
+      "original_price": 100000,
+      "discounted_price": 0,
+      "line_price": 0,
+      "original_line_price": 100000,
+      "presentment_price": 1000.0,
+      "total_discount": 100000,
+      "discounts": [
+        {
+          "amount": 100000,
+          "title": "TYPEGENBXGY"
+        }
+      ],
+      "sku": "TG-CUR",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459535126602,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 0,
+      "final_line_price": 0,
+      "url": "/products/typegen-currencies?variant=67909930975306",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-currencies",
+      "requires_shipping": false,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN currencies",
+      "product_description": null,
+      "untranslated_variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [
+        {
+          "amount": 100000,
+          "discount_application": {
+            "allocation_method": "each",
+            "created_at": "2026-11-05T11:40:06.702Z",
+            "description": null,
+            "key": "79db174e-24e6-4d05-983b-dd9a2f3b0032",
+            "target_selection": "entitled",
+            "target_type": "line_item",
+            "title": "TYPEGENBXGY",
+            "total_allocated_amount": 100000,
+            "type": "discount_code",
+            "value": "100.0",
+            "value_type": "percentage"
+          }
+        }
+      ],
+      "line_level_total_discount": 100000
+    }
+  ],
+  "requires_shipping": false,
+  "currency": "DKK",
+  "items_subtotal_price": 100000,
+  "cart_level_discount_applications": [],
+  "discount_codes": [
+    {
+      "code": "TYPEGENBXGY",
+      "applicable": true
+    }
+  ],
+  "items_changelog": {
+    "added": []
+  }
+}

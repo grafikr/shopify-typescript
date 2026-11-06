@@ -1,0 +1,147 @@
+{
+  "id": 15459452387402,
+  "title": "TYPEGEN subscription",
+  "handle": "typegen-subscription",
+  "description": null,
+  "published_at": "2026-11-05T05:47:33-05:00",
+  "created_at": "2026-11-05T05:47:23-05:00",
+  "vendor": "TypegenVendor",
+  "type": "",
+  "tags": [],
+  "price": 10000,
+  "price_min": 10000,
+  "price_max": 10000,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 67909548998730,
+      "title": "S",
+      "option1": "S",
+      "option2": null,
+      "option3": null,
+      "sku": "TG-SUB1",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TYPEGEN subscription - S",
+      "public_title": "S",
+      "options": ["S"],
+      "price": 10000,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": null,
+      "barcode": null,
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 9000
+            }
+          ],
+          "price": 9000,
+          "compare_at_price": 10000,
+          "per_delivery_price": 9000,
+          "selling_plan_id": 8381923402,
+          "selling_plan_group_id": "b2465ff052b2a03f85efbc09e5ac270d2ae62836"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 9500
+            }
+          ],
+          "price": 9500,
+          "compare_at_price": 10000,
+          "per_delivery_price": 9500,
+          "selling_plan_id": 8381956170,
+          "selling_plan_group_id": "b2465ff052b2a03f85efbc09e5ac270d2ae62836"
+        }
+      ],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    }
+  ],
+  "images": [],
+  "featured_image": null,
+  "options": ["Size"],
+  "requires_selling_plan": false,
+  "selling_plan_groups": [
+    {
+      "id": "b2465ff052b2a03f85efbc09e5ac270d2ae62836",
+      "name": "TYPEGEN subscribe and save",
+      "options": [
+        {
+          "name": "Delivery every",
+          "position": 1,
+          "values": ["1 month", "2 weeks"]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 8381923402,
+          "name": "Every month",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100
+          }
+        },
+        {
+          "id": 8381956170,
+          "name": "Every 2 weeks",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "2 weeks"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "fixed_amount",
+              "value": 500
+            }
+          ],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100
+          }
+        }
+      ],
+      "app_id": null
+    }
+  ],
+  "content": null
+}

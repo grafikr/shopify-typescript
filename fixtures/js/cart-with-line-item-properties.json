@@ -1,0 +1,74 @@
+{
+  "token": "hWNIksrO93eLfnH7WRgD8Rpi?key=cb90a01650720e92cdcf6574c1c065c3",
+  "note": "",
+  "attributes": {},
+  "original_total_price": 25800,
+  "total_price": 25800,
+  "total_discount": 0,
+  "total_weight": 200.0,
+  "item_count": 2,
+  "items": [
+    {
+      "id": 42110305206346,
+      "properties": {
+        "Gift": "yes"
+      },
+      "quantity": 2,
+      "variant_id": 42110305206346,
+      "key": "42110305206346:3d2c5ad8e73779c1f11de930561fcb11",
+      "title": "Night repair miracle patch",
+      "price": 12900,
+      "original_price": 12900,
+      "presentment_price": 129.0,
+      "discounted_price": 12900,
+      "line_price": 25800,
+      "original_line_price": 25800,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "MM014",
+      "grams": 100,
+      "vendor": "Milla Mango",
+      "taxable": true,
+      "product_id": 7936273285194,
+      "product_has_only_default_variant": true,
+      "gift_card": false,
+      "final_price": 12900,
+      "final_line_price": 25800,
+      "url": "/products/milla-mango-night-repair-miracle-patch?variant=42110305206346",
+      "featured_image": {
+        "aspect_ratio": 0.8,
+        "alt": "Night repair miracle patch",
+        "height": 1728,
+        "url": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-185.jpg?v=1748258461",
+        "width": 1382
+      },
+      "image": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-185.jpg?v=1748258461",
+      "handle": "milla-mango-night-repair-miracle-patch",
+      "requires_shipping": true,
+      "product_type": "",
+      "product_title": "Night repair miracle patch",
+      "product_description": "Content",
+      "variant_title": null,
+      "variant_options": ["Default Title"],
+      "options_with_values": [
+        {
+          "name": "Title",
+          "value": "Default Title"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "has_components": false
+    }
+  ],
+  "requires_shipping": true,
+  "currency": "DKK",
+  "items_subtotal_price": 25800,
+  "cart_level_discount_applications": [],
+  "discount_codes": []
+}

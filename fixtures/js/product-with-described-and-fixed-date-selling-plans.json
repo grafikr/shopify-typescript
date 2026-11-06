@@ -1,0 +1,158 @@
+{
+  "id": 15459536666698,
+  "title": "TYPEGEN plan shapes",
+  "handle": "typegen-plan-shapes",
+  "description": null,
+  "published_at": "2026-11-05T06:34:14-05:00",
+  "created_at": "2026-11-05T06:34:05-05:00",
+  "vendor": "TypegenVendor",
+  "type": "",
+  "tags": [],
+  "price": 10000,
+  "price_min": 10000,
+  "price_max": 10000,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 67909933563978,
+      "title": "S",
+      "option1": "S",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TYPEGEN plan shapes - S",
+      "public_title": "S",
+      "options": ["S"],
+      "price": 10000,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": null,
+      "barcode": null,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "quantity_price_breaks": [],
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 8500
+            }
+          ],
+          "price": 8500,
+          "compare_at_price": 10000,
+          "per_delivery_price": 8500,
+          "selling_plan_id": 8382152778,
+          "selling_plan_group_id": "1bb37f89d700fede393ae0a446ff9953c4c8b25a"
+        },
+        {
+          "price_adjustments": [],
+          "price": 10000,
+          "compare_at_price": null,
+          "per_delivery_price": 10000,
+          "selling_plan_id": 8382185546,
+          "selling_plan_group_id": "7e07bca678535daac0c9685c86d0ffbe13b25578"
+        }
+      ]
+    }
+  ],
+  "images": [],
+  "featured_image": null,
+  "options": [
+    {
+      "name": "Size",
+      "position": 1,
+      "values": ["S"]
+    }
+  ],
+  "url": "/products/typegen-plan-shapes",
+  "requires_selling_plan": false,
+  "selling_plan_groups": [
+    {
+      "id": "1bb37f89d700fede393ae0a446ff9953c4c8b25a",
+      "name": "TYPEGEN described plan",
+      "options": [
+        {
+          "name": "Delivery every",
+          "position": 1,
+          "values": ["1 month"]
+        },
+        {
+          "name": "Pack size",
+          "position": 2,
+          "values": ["Large"]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 8382152778,
+          "name": "Monthly large pack",
+          "description": "Billed every month",
+          "options": [
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            },
+            {
+              "name": "Pack size",
+              "position": 2,
+              "value": "Large"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 15
+            }
+          ]
+        }
+      ],
+      "app_id": null
+    },
+    {
+      "id": "7e07bca678535daac0c9685c86d0ffbe13b25578",
+      "name": "TYPEGEN fixed date pre-order",
+      "options": [
+        {
+          "name": "Purchase option",
+          "position": 1,
+          "values": ["Pre-order"]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 8382185546,
+          "name": "Pre-order for June",
+          "description": null,
+          "options": [
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Pre-order"
+            }
+          ],
+          "recurring_deliveries": false,
+          "price_adjustments": []
+        }
+      ],
+      "app_id": null
+    }
+  ]
+}
