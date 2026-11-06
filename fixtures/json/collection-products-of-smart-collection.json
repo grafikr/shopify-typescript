@@ -1,0 +1,333 @@
+{
+  "products": [
+    {
+      "id": 7936270729290,
+      "title": "Miracle patch power duo sæt",
+      "handle": "miracle-patch-power-duo",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:41-04:00",
+      "created_at": "2025-05-26T07:17:44-04:00",
+      "updated_at": "2026-11-04T06:58:10-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110302650442,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM013",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "258.00",
+          "grams": 0,
+          "compare_at_price": "258.00",
+          "position": 1,
+          "product_id": 7936270729290,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "updated_at": "2026-11-04T06:58:10-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612459835466,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:44-04:00",
+          "product_id": 7936270729290,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-181.jpg?v=1748258264",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459868234,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:44-04:00",
+          "product_id": 7936270729290,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-187.jpg?v=1748258264",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459901002,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:44-04:00",
+          "product_id": 7936270729290,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-182.jpg?v=1748258264",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936273285194,
+      "title": "Night repair miracle patch",
+      "handle": "milla-mango-night-repair-miracle-patch",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:55-04:00",
+      "created_at": "2025-05-26T07:21:01-04:00",
+      "updated_at": "2026-11-04T06:58:10-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "",
+      "tags": ["tag__new_Nyhed"],
+      "variants": [
+        {
+          "id": 42110305206346,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM014",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 1,
+          "product_id": 7936273285194,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "updated_at": "2026-11-04T06:58:10-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471894090,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-185.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471959626,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-184.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471992394,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-183.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472025162,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-174.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472057930,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-188.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472090698,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-186.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936273219658,
+      "title": "Invisible miracle patch",
+      "handle": "milla-mango-invisible-miracle-patch",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:47-04:00",
+      "created_at": "2025-05-26T07:20:53-04:00",
+      "updated_at": "2026-11-04T06:58:10-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 43447882317898,
+          "title": "Red",
+          "option1": "Red",
+          "option2": null,
+          "option3": null,
+          "sku": "MM012",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 1,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:58:10-05:00"
+        },
+        {
+          "id": 43447882350666,
+          "title": "Green",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "sku": "MM013",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 2,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:58:10-05:00"
+        },
+        {
+          "id": 43447882383434,
+          "title": "Blue",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "sku": "MM014",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 3,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:58:10-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471631946,
+          "created_at": "2025-05-26T07:20:54-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-177.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471664714,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-175.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471697482,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-176.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471730250,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-178.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471763018,
+          "created_at": "2025-05-26T07:20:54-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-179.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471795786,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:20:54-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-173.jpg?v=1748258454",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": ["Red", "Green", "Blue"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": 15459536240714,
+  "title": "TYPEGEN media",
+  "handle": "typegen-media",
+  "description": null,
+  "published_at": "2026-11-05T06:34:24-05:00",
+  "created_at": "2026-11-05T06:33:50-05:00",
+  "vendor": "TypegenVendor",
+  "type": "",
+  "tags": [],
+  "price": 1000,
+  "price_min": 1000,
+  "price_max": 1000,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 67909932646474,
+      "title": "S",
+      "option1": "S",
+      "option2": null,
+      "option3": null,
+      "sku": null,
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TYPEGEN media - S",
+      "public_title": "S",
+      "options": ["S"],
+      "price": 1000,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": null,
+      "barcode": null,
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    }
+  ],
+  "images": ["//shop.myshopify.com/cdn/shop/files/image-165.jpg?v=1748258186"],
+  "featured_image": "//shop.myshopify.com/cdn/shop/files/image-165.jpg?v=1748258186",
+  "options": ["Size"],
+  "media": [
+    {
+      "alt": "external video",
+      "id": 46912664109130,
+      "position": 1,
+      "preview_image": {
+        "aspect_ratio": 1.333,
+        "height": 360,
+        "width": 480,
+        "src": "//shop.myshopify.com/cdn/shop/files/preview_images/image-202.jpg?v=1793878431"
+      },
+      "aspect_ratio": 1.77,
+      "external_id": "aqz-KE-bpKQ",
+      "host": "youtube",
+      "media_type": "external_video"
+    },
+    {
+      "alt": "3d model",
+      "id": 46912664141898,
+      "position": 2,
+      "preview_image": {
+        "aspect_ratio": 1.0,
+        "height": 1024,
+        "width": 1024,
+        "src": "//shop.myshopify.com/cdn/shop/files/preview_images/image-201.jpg?v=1793878512"
+      },
+      "media_type": "model",
+      "sources": [
+        {
+          "format": "glb",
+          "mime_type": "model/gltf-binary",
+          "url": "//shop.myshopify.com/cdn/shop/3d/models/o/2e92131f81520247/model-001.glb?v=0"
+        },
+        {
+          "format": "usdz",
+          "mime_type": "model/vnd.usdz+zip",
+          "url": "//shop.myshopify.com/cdn/shop/3d/models/o/9417d653d5505e6d/model-002.usdz?v=0"
+        }
+      ]
+    },
+    {
+      "alt": "hosted video",
+      "id": 46912664174666,
+      "position": 3,
+      "preview_image": {
+        "aspect_ratio": 1.778,
+        "height": 540,
+        "width": 960,
+        "src": "//shop.myshopify.com/cdn/shop/files/preview_images/image-001.jpg?v=1793878440"
+      },
+      "aspect_ratio": 1.775,
+      "duration": 5050,
+      "media_type": "video",
+      "sources": [
+        {
+          "format": "mp4",
+          "height": 480,
+          "mime_type": "video/mp4",
+          "url": "//shop.myshopify.com/cdn/shop/videos/c/vp/5a69c929a64d4dcda902c65068636748/video-001.mp4?v=0",
+          "width": 852
+        },
+        {
+          "format": "m3u8",
+          "height": 480,
+          "mime_type": "application/x-mpegURL",
+          "url": "//shop.myshopify.com/cdn/shop/videos/c/vp/5a69c929a64d4dcda902c65068636748/video-002.m3u8?v=0",
+          "width": 852
+        }
+      ]
+    },
+    {
+      "alt": "image",
+      "id": 25352746565706,
+      "position": 4,
+      "preview_image": {
+        "aspect_ratio": 0.8,
+        "height": 1728,
+        "width": 1382,
+        "src": "//shop.myshopify.com/cdn/shop/files/image-165.jpg?v=1748258186"
+      },
+      "aspect_ratio": 0.8,
+      "height": 1728,
+      "media_type": "image",
+      "src": "//shop.myshopify.com/cdn/shop/files/image-165.jpg?v=1748258186",
+      "width": 1382
+    }
+  ],
+  "requires_selling_plan": false,
+  "selling_plan_groups": [],
+  "content": null
+}

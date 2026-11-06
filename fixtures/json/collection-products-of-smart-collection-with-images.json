@@ -1,0 +1,314 @@
+{
+  "products": [
+    {
+      "id": 7936272662602,
+      "title": "Bright boost eye cream",
+      "handle": "brightening-eye-cream",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:01-04:00",
+      "created_at": "2025-05-26T07:20:08-04:00",
+      "updated_at": "2026-11-04T06:59:04-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Øjencreme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304583754,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5817",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "239.00",
+          "grams": 152,
+          "compare_at_price": "239.00",
+          "position": 1,
+          "product_id": 7936272662602,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "updated_at": "2026-11-04T06:59:04-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612469633098,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-038.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469665866,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-041.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469698634,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-044.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469731402,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-042.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469764170,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-039.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469796938,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-053.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270794826,
+      "title": "Acne spot trio treatment sæt",
+      "handle": "acne-spot-trio-treatment",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:45-04:00",
+      "created_at": "2025-05-26T07:17:49-04:00",
+      "updated_at": "2026-11-04T06:59:04-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42222928920650,
+          "title": "250ml",
+          "option1": "250ml",
+          "option2": null,
+          "option3": null,
+          "sku": "MM001",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "459.00",
+          "grams": 0,
+          "compare_at_price": "457.00",
+          "position": 1,
+          "product_id": 7936270794826,
+          "created_at": "2025-06-25T08:54:16-04:00",
+          "updated_at": "2026-11-04T06:59:04-05:00"
+        },
+        {
+          "id": 42222928953418,
+          "title": "500ml",
+          "option1": "500ml",
+          "option2": null,
+          "option3": null,
+          "sku": "MM002",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1250.95",
+          "grams": 0,
+          "compare_at_price": "457.00",
+          "position": 2,
+          "product_id": 7936270794826,
+          "created_at": "2025-06-25T08:54:16-04:00",
+          "updated_at": "2026-11-04T06:59:04-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612460064842,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:49-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-151.jpg?v=1748258269",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460097610,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 2,
+          "updated_at": "2026-07-08T08:56:45-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-200.jpg?v=1783515405",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460130378,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 3,
+          "updated_at": "2026-07-08T09:01:25-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-199.jpg?v=1783515685",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460163146,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 4,
+          "updated_at": "2026-07-08T09:01:32-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-198.jpg?v=1783515692",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": ["250ml", "500ml"]
+        }
+      ]
+    },
+    {
+      "id": 7936272859210,
+      "title": "Breakout control sæt",
+      "handle": "breakout-control",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:20-04:00",
+      "created_at": "2025-05-26T07:20:25-04:00",
+      "updated_at": "2026-11-04T06:59:04-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304780362,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM003",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "787.00",
+          "grams": 0,
+          "compare_at_price": "787.00",
+          "position": 1,
+          "product_id": 7936272859210,
+          "created_at": "2025-05-26T07:20:26-04:00",
+          "updated_at": "2026-11-04T06:59:04-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612470386762,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-154.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470419530,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-078.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470452298,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-059.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470485066,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-062.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470517834,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-155.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    }
+  ]
+}

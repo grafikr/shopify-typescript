@@ -1,0 +1,177 @@
+{
+  "token": "hWNInI8UB7hgLTgeEBGyNVNi?key=9613ddd1f39e4f3c177216cfd03c756d",
+  "note": "",
+  "attributes": {},
+  "original_total_price": 39000,
+  "total_price": 39000,
+  "total_discount": 0,
+  "total_weight": 0.0,
+  "item_count": 4,
+  "items": [
+    {
+      "id": 67909548998730,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67909548998730,
+      "key": "67909548998730:a39217053e6859f6f210aecde7b13ac1",
+      "title": "TYPEGEN subscription - S",
+      "product_title": "TYPEGEN subscription",
+      "variant_title": "S",
+      "price": 9000,
+      "original_price": 9000,
+      "discounted_price": 9000,
+      "line_price": 9000,
+      "original_line_price": 9000,
+      "presentment_price": 90.0,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "TG-SUB1",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459452387402,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 9000,
+      "final_line_price": 9000,
+      "url": "/products/typegen-subscription?selling_plan=8381923402&variant=67909548998730",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-subscription",
+      "requires_shipping": true,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN subscription",
+      "product_description": null,
+      "untranslated_variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "selling_plan_allocation": {
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 9000
+          }
+        ],
+        "price": 9000,
+        "compare_at_price": 10000,
+        "per_delivery_price": 9000,
+        "selling_plan": {
+          "id": 8381923402,
+          "name": "Every month",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            }
+          ],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100.0
+          }
+        }
+      }
+    },
+    {
+      "id": 67909548998730,
+      "properties": {},
+      "quantity": 3,
+      "variant_id": 67909548998730,
+      "key": "67909548998730:1f57fbc8f8a482afd0ec93198138b920",
+      "title": "TYPEGEN subscription - S",
+      "product_title": "TYPEGEN subscription",
+      "variant_title": "S",
+      "price": 10000,
+      "original_price": 10000,
+      "discounted_price": 10000,
+      "line_price": 30000,
+      "original_line_price": 30000,
+      "presentment_price": 100.0,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "TG-SUB1",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459452387402,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 10000,
+      "final_line_price": 30000,
+      "url": "/products/typegen-subscription?variant=67909548998730",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-subscription",
+      "requires_shipping": true,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN subscription",
+      "product_description": null,
+      "untranslated_variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0
+    }
+  ],
+  "requires_shipping": true,
+  "currency": "DKK",
+  "items_subtotal_price": 39000,
+  "cart_level_discount_applications": [],
+  "discount_codes": [],
+  "items_added": [
+    {
+      "product_id": 15459452387402,
+      "variant_id": 67909548998730,
+      "id": "3af66d10-fb9b-4946-9748-30c1d2b510b6",
+      "image": null,
+      "price": "100.00",
+      "presentment_price": 100.0,
+      "quantity": 2,
+      "title": "TYPEGEN subscription - S",
+      "product_title": "TYPEGEN subscription - S",
+      "variant_title": "S",
+      "vendor": "TypegenVendor",
+      "product_type": "",
+      "sku": "TG-SUB1",
+      "url": "/products/typegen-subscription?variant=67909548998730",
+      "untranslated_product_title": "TYPEGEN subscription - S",
+      "untranslated_variant_title": "S",
+      "view_key": "67909548998730:1f57fbc8f8a482afd0ec93198138b920"
+    }
+  ],
+  "items_removed": []
+}

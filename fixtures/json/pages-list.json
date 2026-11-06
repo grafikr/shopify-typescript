@@ -1,0 +1,76 @@
+{
+  "pages": [
+    {
+      "id": 95562104906,
+      "body_html": null,
+      "created_at": "2024-10-31T15:22:01-04:00",
+      "published_at": "2024-10-31T15:22:01-04:00",
+      "updated_at": "2024-10-31T15:22:01-04:00",
+      "handle": "contact",
+      "title": "Contact"
+    },
+    {
+      "id": 95562137674,
+      "body_html": "Content",
+      "created_at": "2024-10-31T15:22:43-04:00",
+      "published_at": "2024-10-31T15:22:43-04:00",
+      "updated_at": "2026-01-28T10:46:35-05:00",
+      "handle": "data-sharing-opt-out",
+      "title": "Your Privacy Choices"
+    },
+    {
+      "id": 120634081354,
+      "body_html": "",
+      "created_at": "2026-07-27T07:32:34-04:00",
+      "published_at": "2026-07-27T07:34:09-04:00",
+      "updated_at": "2026-07-27T07:34:10-04:00",
+      "handle": "konverter-din-gavekortskode",
+      "title": "Konverter din gavekortskode"
+    },
+    {
+      "id": 108545769546,
+      "body_html": "",
+      "created_at": "2025-09-16T03:09:53-04:00",
+      "published_at": "2025-09-16T03:10:27-04:00",
+      "updated_at": "2025-09-16T03:10:31-04:00",
+      "handle": "om-aros",
+      "title": "Om Aros"
+    },
+    {
+      "id": 101949177930,
+      "body_html": "Content",
+      "created_at": "2025-04-29T08:58:26-04:00",
+      "published_at": "2025-04-29T08:58:40-04:00",
+      "updated_at": "2025-04-29T08:58:42-04:00",
+      "handle": "our-values",
+      "title": "Our values"
+    },
+    {
+      "id": 105868755018,
+      "body_html": "Content",
+      "created_at": "2025-08-05T07:36:50-04:00",
+      "published_at": "2025-08-05T07:37:33-04:00",
+      "updated_at": "2026-02-11T04:28:27-05:00",
+      "handle": "size-guide",
+      "title": "Size guide"
+    },
+    {
+      "id": 167429996618,
+      "body_html": null,
+      "created_at": "2026-11-04T06:39:40-05:00",
+      "published_at": "2026-11-04T06:39:40-05:00",
+      "updated_at": "2026-11-04T06:39:40-05:00",
+      "handle": "typegen-empty-page",
+      "title": "TYPEGEN empty page"
+    },
+    {
+      "id": 167429963850,
+      "body_html": "Content",
+      "created_at": "2026-11-04T06:39:40-05:00",
+      "published_at": "2026-11-04T06:39:40-05:00",
+      "updated_at": "2026-11-04T06:39:40-05:00",
+      "handle": "typegen-page",
+      "title": "TYPEGEN page"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "shipping_rates": [
+    {
+      "name": "Standard",
+      "presentment_name": "Standard",
+      "code": "Standard",
+      "price": "49.00",
+      "markup": "0.00",
+      "source": "shopify",
+      "delivery_date": null,
+      "delivery_range": null,
+      "delivery_days": [],
+      "compare_price": null,
+      "phone_required": false,
+      "currency": "DKK",
+      "carrier_identifier": null,
+      "delivery_category": null,
+      "using_merchant_account": null,
+      "carrier_service_id": null,
+      "description": null,
+      "additional_data": null,
+      "incoterm": null,
+      "api_client_id": null,
+      "requested_fulfillment_service_id": null,
+      "shipment_options": null,
+      "charge_items": null,
+      "has_restrictions": null,
+      "rating_classification": null,
+      "accepts_instructions": false,
+      "metafields": null
+    }
+  ]
+}

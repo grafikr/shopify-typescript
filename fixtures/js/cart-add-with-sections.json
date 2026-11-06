@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "id": 67900879536202,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67900879536202,
+      "key": "67900879536202:4a591d568c8caaceec97cedd7b5a0612",
+      "title": "TYPEGEN discountable - M",
+      "product_title": "TYPEGEN discountable",
+      "variant_title": "M",
+      "price": 20000,
+      "original_price": 20000,
+      "discounted_price": 19000,
+      "line_price": 19000,
+      "original_line_price": 20000,
+      "presentment_price": 200.0,
+      "total_discount": 1000,
+      "discounts": [
+        {
+          "amount": 1000,
+          "title": "TYPEGEN auto"
+        }
+      ],
+      "sku": "TG-D2",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15457292582986,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 19000,
+      "final_line_price": 19000,
+      "url": "/products/typegen-discountable?variant=67900879536202",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-discountable",
+      "requires_shipping": true,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN discountable",
+      "product_description": null,
+      "untranslated_variant_title": "M",
+      "variant_options": ["M"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "M"
+        }
+      ],
+      "line_level_discount_allocations": [
+        {
+          "amount": 1000,
+          "discount_application": {
+            "allocation_method": "each",
+            "created_at": "2026-11-04T11:37:30.709Z",
+            "description": null,
+            "key": "bf14a66a-1037-401d-bf3f-2f709d35015f",
+            "target_selection": "entitled",
+            "target_type": "line_item",
+            "title": "TYPEGEN auto",
+            "total_allocated_amount": 1000,
+            "type": "automatic",
+            "value": "5.0",
+            "value_type": "percentage"
+          }
+        }
+      ],
+      "line_level_total_discount": 1000
+    }
+  ],
+  "sections": {
+    "cart-drawer": "<div id=\"shopify-section-cart-drawer\" class=\"shopify-section\"><div\n  data-component=\"cart-drawer\"\n  data-load-target=\"cart-drawer\"\n  data-load-event=\"cart:fetched\"\n  data-load-url-param=\"cart\"\n>\n  <script type=\"application/json\" data-settings>\n    {\n      \"discounts\": {\n        \"enable\": true\n      },\n      \"recommendations\": {\n        \"enable\": true,\n        \"intent\": \"related\",\n        \"limit\": 10\n      }\n    }\n  </script>\n</div>\n\n\n</div>"
+  }
+}

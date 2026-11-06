@@ -1,0 +1,84 @@
+{
+  "product": {
+    "id": 15459536240714,
+    "title": "TYPEGEN media",
+    "body_html": null,
+    "vendor": "TypegenVendor",
+    "product_type": "",
+    "created_at": "2026-11-05T06:33:50-05:00",
+    "handle": "typegen-media",
+    "updated_at": "2026-11-05T06:39:39-05:00",
+    "published_at": "2026-11-05T06:34:24-05:00",
+    "template_suffix": null,
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 67909932646474,
+        "product_id": 15459536240714,
+        "title": "S",
+        "price": "10.00",
+        "sku": null,
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": null,
+        "option1": "S",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-11-05T06:33:50-05:00",
+        "updated_at": "2026-11-05T06:39:39-05:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 0,
+        "image_id": null,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "DKK",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 17935923806282,
+        "product_id": 15459536240714,
+        "name": "Size",
+        "position": 1,
+        "values": ["S"]
+      }
+    ],
+    "images": [
+      {
+        "id": 33612456362058,
+        "product_id": 15459536240714,
+        "position": 1,
+        "created_at": "2025-05-26T07:16:26-04:00",
+        "updated_at": "2025-05-26T07:16:26-04:00",
+        "alt": "image",
+        "width": 1382,
+        "height": 1728,
+        "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
+        "variant_ids": []
+      }
+    ],
+    "image": {
+      "id": 33612456362058,
+      "product_id": 15459536240714,
+      "position": 1,
+      "created_at": "2025-05-26T07:16:26-04:00",
+      "updated_at": "2025-05-26T07:16:26-04:00",
+      "alt": "image",
+      "width": 1382,
+      "height": 1728,
+      "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
+      "variant_ids": []
+    }
+  }
+}

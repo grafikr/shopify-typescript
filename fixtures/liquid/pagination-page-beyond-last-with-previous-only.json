@@ -1,0 +1,28 @@
+{
+  "current_offset": 98,
+  "current_page": 99,
+  "items": 43,
+  "page_size": 1,
+  "parts": [
+    {
+      "title": 1,
+      "url": "/collections/all?page=1&view=typegen-paginate",
+      "is_link": true
+    },
+    {
+      "title": "&hellip;",
+      "is_link": false
+    },
+    {
+      "title": 43,
+      "url": "/collections/all?page=43&view=typegen-paginate",
+      "is_link": true
+    }
+  ],
+  "previous": {
+    "title": "&laquo; Previous",
+    "url": "/collections/all?page=43&view=typegen-paginate",
+    "is_link": true
+  },
+  "pages": 43
+}

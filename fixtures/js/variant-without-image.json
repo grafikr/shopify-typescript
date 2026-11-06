@@ -1,0 +1,28 @@
+{
+  "id": 67900879503434,
+  "title": "S",
+  "option1": "S",
+  "option2": null,
+  "option3": null,
+  "sku": "TG-D1",
+  "requires_shipping": true,
+  "taxable": true,
+  "featured_image": null,
+  "available": true,
+  "name": "TYPEGEN discountable - S",
+  "public_title": "S",
+  "options": ["S"],
+  "price": 10000,
+  "weight": 0,
+  "compare_at_price": null,
+  "inventory_management": null,
+  "barcode": null,
+  "quantity_rule": {
+    "min": 1,
+    "max": null,
+    "increment": 1
+  },
+  "quantity_price_breaks": [],
+  "requires_selling_plan": false,
+  "selling_plan_allocations": []
+}

@@ -1,0 +1,37 @@
+{
+  "current_offset": 0,
+  "current_page": 1,
+  "items": 43,
+  "page_size": 1,
+  "parts": [
+    {
+      "title": 1,
+      "is_link": false
+    },
+    {
+      "title": 2,
+      "url": "/collections/all?page=2&view=typegen-paginate",
+      "is_link": true
+    },
+    {
+      "title": 3,
+      "url": "/collections/all?page=3&view=typegen-paginate",
+      "is_link": true
+    },
+    {
+      "title": "&hellip;",
+      "is_link": false
+    },
+    {
+      "title": 43,
+      "url": "/collections/all?page=43&view=typegen-paginate",
+      "is_link": true
+    }
+  ],
+  "next": {
+    "title": "Next &raquo;",
+    "url": "/collections/all?page=2&view=typegen-paginate",
+    "is_link": true
+  },
+  "pages": 43
+}

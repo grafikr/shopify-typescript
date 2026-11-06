@@ -1,0 +1,175 @@
+{
+  "token": "hWNIkxmuOtGf9utdlceY3jkY?key=e35586ea0a92c570ee82848d57f372b9",
+  "note": "",
+  "attributes": {},
+  "original_total_price": 70000,
+  "total_price": 66500,
+  "total_discount": 3500,
+  "total_weight": 0.0,
+  "item_count": 5,
+  "items": [
+    {
+      "id": 67900879536202,
+      "properties": {},
+      "quantity": 2,
+      "variant_id": 67900879536202,
+      "key": "67900879536202:706587299e7e3d9bf3a54ca7c0016404",
+      "title": "TYPEGEN discountable - M",
+      "product_title": "TYPEGEN discountable",
+      "variant_title": "M",
+      "price": 20000,
+      "original_price": 20000,
+      "discounted_price": 19000,
+      "line_price": 38000,
+      "original_line_price": 40000,
+      "presentment_price": 200.0,
+      "total_discount": 2000,
+      "discounts": [
+        {
+          "amount": 2000,
+          "title": "TYPEGEN auto"
+        }
+      ],
+      "sku": "TG-D2",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15457292582986,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 19000,
+      "final_line_price": 38000,
+      "url": "/products/typegen-discountable?variant=67900879536202",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-discountable",
+      "requires_shipping": true,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN discountable",
+      "product_description": null,
+      "untranslated_variant_title": "M",
+      "variant_options": ["M"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "M"
+        }
+      ],
+      "line_level_discount_allocations": [
+        {
+          "amount": 2000,
+          "discount_application": {
+            "allocation_method": "each",
+            "created_at": "2026-11-04T11:37:48.765Z",
+            "description": null,
+            "key": "f1c3fd73-8b6e-47b4-9200-c2c21f53f2db",
+            "target_selection": "entitled",
+            "target_type": "line_item",
+            "title": "TYPEGEN auto",
+            "total_allocated_amount": 2000,
+            "type": "automatic",
+            "value": "5.0",
+            "value_type": "percentage"
+          }
+        }
+      ],
+      "line_level_total_discount": 2000
+    },
+    {
+      "id": 67900879503434,
+      "properties": {},
+      "quantity": 3,
+      "variant_id": 67900879503434,
+      "key": "67900879503434:8be6afbe174eb8c47c72639c565549d2",
+      "title": "TYPEGEN discountable - S",
+      "product_title": "TYPEGEN discountable",
+      "variant_title": "S",
+      "price": 10000,
+      "original_price": 10000,
+      "discounted_price": 9500,
+      "line_price": 28500,
+      "original_line_price": 30000,
+      "presentment_price": 100.0,
+      "total_discount": 1500,
+      "discounts": [
+        {
+          "amount": 1500,
+          "title": "TYPEGEN auto"
+        }
+      ],
+      "sku": "TG-D1",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15457292582986,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 9500,
+      "final_line_price": 28500,
+      "url": "/products/typegen-discountable?variant=67900879503434",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-discountable",
+      "requires_shipping": true,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN discountable",
+      "product_description": null,
+      "untranslated_variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [
+        {
+          "amount": 1500,
+          "discount_application": {
+            "allocation_method": "each",
+            "created_at": "2026-11-04T11:37:48.765Z",
+            "description": null,
+            "key": "f1c3fd73-8b6e-47b4-9200-c2c21f53f2db",
+            "target_selection": "entitled",
+            "target_type": "line_item",
+            "title": "TYPEGEN auto",
+            "total_allocated_amount": 1500,
+            "type": "automatic",
+            "value": "5.0",
+            "value_type": "percentage"
+          }
+        }
+      ],
+      "line_level_total_discount": 1500
+    }
+  ],
+  "requires_shipping": true,
+  "currency": "DKK",
+  "items_subtotal_price": 66500,
+  "cart_level_discount_applications": [],
+  "discount_codes": [],
+  "items_changelog": {
+    "added": [
+      {
+        "variant_id": 67900879536202,
+        "quantity": 1
+      },
+      {
+        "variant_id": 67900879503434,
+        "quantity": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "token": "hWNInJvEps4cMYpaVCZbI2TK?key=a1d20932cf58b77a7126d95a1ad6d50e",
+  "note": "",
+  "attributes": {},
+  "original_total_price": 18500,
+  "total_price": 18500,
+  "total_discount": 0,
+  "total_weight": 0.0,
+  "item_count": 2,
+  "items": [
+    {
+      "id": 67909933563978,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67909933563978,
+      "key": "67909933563978:113adcd41e4974ddc0e6ddd6ce6e380d",
+      "title": "TYPEGEN plan shapes - S",
+      "price": 10000,
+      "original_price": 10000,
+      "presentment_price": 100.0,
+      "discounted_price": 10000,
+      "line_price": 10000,
+      "original_line_price": 10000,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": null,
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459536666698,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 10000,
+      "final_line_price": 10000,
+      "url": "/products/typegen-plan-shapes?selling_plan=8382185546&variant=67909933563978",
+      "featured_image": {
+        "aspect_ratio": null,
+        "alt": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-plan-shapes",
+      "requires_shipping": true,
+      "product_type": "",
+      "product_title": "TYPEGEN plan shapes",
+      "product_description": null,
+      "variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "has_components": false,
+      "selling_plan_allocation": {
+        "price_adjustments": [],
+        "price": 10000,
+        "compare_at_price": null,
+        "per_delivery_price": 10000,
+        "selling_plan": {
+          "id": 8382185546,
+          "name": "Pre-order for June",
+          "description": null,
+          "options": [
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Pre-order"
+            }
+          ],
+          "recurring_deliveries": false,
+          "fixed_selling_plan": true,
+          "price_adjustments": []
+        }
+      }
+    },
+    {
+      "id": 67909933563978,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67909933563978,
+      "key": "67909933563978:b2aa836a5a77f2463742baae8ca229be",
+      "title": "TYPEGEN plan shapes - S",
+      "price": 8500,
+      "original_price": 8500,
+      "presentment_price": 85.0,
+      "discounted_price": 8500,
+      "line_price": 8500,
+      "original_line_price": 8500,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": null,
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459536666698,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 8500,
+      "final_line_price": 8500,
+      "url": "/products/typegen-plan-shapes?selling_plan=8382152778&variant=67909933563978",
+      "featured_image": {
+        "aspect_ratio": null,
+        "alt": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-plan-shapes",
+      "requires_shipping": true,
+      "product_type": "",
+      "product_title": "TYPEGEN plan shapes",
+      "product_description": null,
+      "variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      },
+      "has_components": false,
+      "selling_plan_allocation": {
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 8500
+          }
+        ],
+        "price": 8500,
+        "compare_at_price": 10000,
+        "per_delivery_price": 8500,
+        "selling_plan": {
+          "id": 8382152778,
+          "name": "Monthly large pack",
+          "description": "Billed every month",
+          "options": [
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            },
+            {
+              "name": "Pack size",
+              "position": 2,
+              "value": "Large"
+            }
+          ],
+          "recurring_deliveries": true,
+          "fixed_selling_plan": false,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 15
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "requires_shipping": true,
+  "currency": "DKK",
+  "items_subtotal_price": 18500,
+  "cart_level_discount_applications": [],
+  "discount_codes": []
+}

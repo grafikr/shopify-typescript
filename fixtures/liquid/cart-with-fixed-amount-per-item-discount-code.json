@@ -1,0 +1,86 @@
+{
+  "note": "",
+  "attributes": {},
+  "original_total_price": 200000,
+  "total_price": 180000,
+  "total_discount": 20000,
+  "total_weight": 0.0,
+  "item_count": 2,
+  "items": [
+    {
+      "id": 67909930975306,
+      "properties": {},
+      "quantity": 2,
+      "variant_id": 67909930975306,
+      "key": "67909930975306:30b92a2857a40cc75a0bd70aaed68d5b",
+      "title": "TYPEGEN currencies - S",
+      "price": 100000,
+      "original_price": 100000,
+      "discounted_price": 90000,
+      "line_price": 180000,
+      "original_line_price": 200000,
+      "total_discount": 20000,
+      "discounts": [
+        {
+          "amount": 20000,
+          "title": "TYPEGENEACH"
+        }
+      ],
+      "sku": "TG-CUR",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459535126602,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 90000,
+      "final_line_price": 180000,
+      "url": "/products/typegen-currencies?variant=67909930975306",
+      "featured_image": {
+        "aspect_ratio": null,
+        "alt": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-currencies",
+      "requires_shipping": false,
+      "product_type": "",
+      "product_title": "TYPEGEN currencies",
+      "product_description": null,
+      "variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [
+        {
+          "amount": 20000,
+          "discount_application": {
+            "type": "discount_code",
+            "key": "a809604d-496a-4215-a8d5-ba5bc074705c",
+            "title": "TYPEGENEACH",
+            "description": null,
+            "value": "100.0",
+            "created_at": "2026-11-05T11:40:09.039Z",
+            "value_type": "fixed_amount",
+            "allocation_method": "each",
+            "target_selection": "entitled",
+            "target_type": "line_item",
+            "total_allocated_amount": 20000
+          }
+        }
+      ],
+      "line_level_total_discount": 20000
+    }
+  ],
+  "requires_shipping": false,
+  "currency": "DKK",
+  "items_subtotal_price": 180000,
+  "cart_level_discount_applications": [],
+  "checkout_charge_amount": 180000
+}

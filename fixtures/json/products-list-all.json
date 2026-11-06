@@ -1,0 +1,4115 @@
+{
+  "products": [
+    {
+      "id": 15457292582986,
+      "title": "TYPEGEN discountable",
+      "handle": "typegen-discountable",
+      "body_html": null,
+      "published_at": "2026-11-04T06:36:19-05:00",
+      "created_at": "2026-11-04T06:36:06-05:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "TypegenVendor",
+      "product_type": "",
+      "tags": ["typegen"],
+      "variants": [
+        {
+          "id": 67900879503434,
+          "title": "S",
+          "option1": "S",
+          "option2": null,
+          "option3": null,
+          "sku": "TG-D1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "100.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15457292582986,
+          "created_at": "2026-11-04T06:36:07-05:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        },
+        {
+          "id": 67900879536202,
+          "title": "M",
+          "option1": "M",
+          "option2": null,
+          "option3": null,
+          "sku": "TG-D2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "200.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 15457292582986,
+          "created_at": "2026-11-04T06:36:07-05:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": ["S", "M"]
+        }
+      ]
+    },
+    {
+      "id": 7936273285194,
+      "title": "Night repair miracle patch",
+      "handle": "milla-mango-night-repair-miracle-patch",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:55-04:00",
+      "created_at": "2025-05-26T07:21:01-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "",
+      "tags": ["tag__new_Nyhed"],
+      "variants": [
+        {
+          "id": 42110305206346,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM014",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 1,
+          "product_id": 7936273285194,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471894090,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-185.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471959626,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-184.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471992394,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-183.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472025162,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-174.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472057930,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-188.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612472090698,
+          "created_at": "2025-05-26T07:21:01-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:21:01-04:00",
+          "product_id": 7936273285194,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-186.jpg?v=1748258461",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936273219658,
+      "title": "Invisible miracle patch",
+      "handle": "milla-mango-invisible-miracle-patch",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:47-04:00",
+      "created_at": "2025-05-26T07:20:53-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 43447882317898,
+          "title": "Red",
+          "option1": "Red",
+          "option2": null,
+          "option3": null,
+          "sku": "MM012",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 1,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        },
+        {
+          "id": 43447882350666,
+          "title": "Green",
+          "option1": "Green",
+          "option2": null,
+          "option3": null,
+          "sku": "MM013",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 2,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        },
+        {
+          "id": 43447882383434,
+          "title": "Blue",
+          "option1": "Blue",
+          "option2": null,
+          "option3": null,
+          "sku": "MM014",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "129.00",
+          "grams": 100,
+          "compare_at_price": "129.00",
+          "position": 3,
+          "product_id": 7936273219658,
+          "created_at": "2026-03-26T09:57:37-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471631946,
+          "created_at": "2025-05-26T07:20:54-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-177.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471664714,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-175.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471697482,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-176.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471730250,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-178.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471763018,
+          "created_at": "2025-05-26T07:20:54-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:53-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-179.jpg?v=1748258453",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471795786,
+          "created_at": "2025-05-26T07:20:53-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:20:54-04:00",
+          "product_id": 7936273219658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-173.jpg?v=1748258454",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": ["Red", "Green", "Blue"]
+        }
+      ]
+    },
+    {
+      "id": 7936273121354,
+      "title": "Silk cleansing foam",
+      "handle": "milla-mango-cleansing-foam-150-ml",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:40-04:00",
+      "created_at": "2025-05-26T07:20:45-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Renseskum",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110305042506,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5852",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "199.00",
+          "grams": 305,
+          "compare_at_price": "199.00",
+          "position": 1,
+          "product_id": 7936273121354,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471337034,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:46-04:00",
+          "product_id": 7936273121354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-081.jpg?v=1748258446",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471369802,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:46-04:00",
+          "product_id": 7936273121354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-080.jpg?v=1748258446",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471402570,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:46-04:00",
+          "product_id": 7936273121354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-082.jpg?v=1748258446",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471435338,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:46-04:00",
+          "product_id": 7936273121354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-083.jpg?v=1748258446",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471468106,
+          "created_at": "2025-05-26T07:20:46-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:46-04:00",
+          "product_id": 7936273121354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-084.jpg?v=1748258446",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936273023050,
+      "title": "AHA exfoliant peel concentrate",
+      "handle": "aha-exfoliant-peel-concentrate",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:34-04:00",
+      "created_at": "2025-05-26T07:20:39-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Exfoliator",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110304944202,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5835",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "319.00",
+          "grams": 175,
+          "compare_at_price": "319.00",
+          "position": 1,
+          "product_id": 7936273023050,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612471009354,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 1,
+          "updated_at": "2026-09-25T05:02:45-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-197.jpg?v=1790326965",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471042122,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-064.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471074890,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-058.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471107658,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-063.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612471140426,
+          "created_at": "2025-05-26T07:20:39-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:39-04:00",
+          "product_id": 7936273023050,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-056.jpg?v=1748258439",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272859210,
+      "title": "Breakout control sæt",
+      "handle": "breakout-control",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:20-04:00",
+      "created_at": "2025-05-26T07:20:25-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304780362,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM003",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "787.00",
+          "grams": 0,
+          "compare_at_price": "787.00",
+          "position": 1,
+          "product_id": 7936272859210,
+          "created_at": "2025-05-26T07:20:26-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612470386762,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-154.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470419530,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-078.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470452298,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-059.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470485066,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-062.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470517834,
+          "created_at": "2025-05-26T07:20:25-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:25-04:00",
+          "product_id": 7936272859210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-155.jpg?v=1748258425",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272793674,
+      "title": "Mineral sunscreen SPF30",
+      "handle": "mineral-sunscreen-spf30-for-face-body-no-tint",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:15-04:00",
+      "created_at": "2025-05-26T07:20:19-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Solcreme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304714826,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A9893",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "299.00",
+          "grams": 220,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7936272793674,
+          "created_at": "2025-05-26T07:20:19-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612470124618,
+          "created_at": "2025-05-26T07:20:19-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:19-04:00",
+          "product_id": 7936272793674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-149.jpg?v=1748258419",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470157386,
+          "created_at": "2025-05-26T07:20:19-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:19-04:00",
+          "product_id": 7936272793674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-150.jpg?v=1748258419",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470190154,
+          "created_at": "2025-05-26T07:20:19-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:19-04:00",
+          "product_id": 7936272793674,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-148.jpg?v=1748258419",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272728138,
+      "title": "Double hydration gel",
+      "handle": "double-hydration-boost-gel",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:10-04:00",
+      "created_at": "2025-05-26T07:20:14-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Gel",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304649290,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5861",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "249.00",
+          "grams": 175,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 7936272728138,
+          "created_at": "2025-05-26T07:20:14-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612469928010,
+          "created_at": "2025-05-26T07:20:14-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:14-04:00",
+          "product_id": 7936272728138,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-112.jpg?v=1748258414",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469960778,
+          "created_at": "2025-05-26T07:20:14-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:14-04:00",
+          "product_id": 7936272728138,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-109.jpg?v=1748258414",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469993546,
+          "created_at": "2025-05-26T07:20:14-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:14-04:00",
+          "product_id": 7936272728138,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-107.jpg?v=1748258414",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612470026314,
+          "created_at": "2025-05-26T07:20:14-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:14-04:00",
+          "product_id": 7936272728138,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-113.jpg?v=1748258414",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272662602,
+      "title": "Bright boost eye cream",
+      "handle": "brightening-eye-cream",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:20:01-04:00",
+      "created_at": "2025-05-26T07:20:08-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Øjencreme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304583754,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5817",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "239.00",
+          "grams": 152,
+          "compare_at_price": "239.00",
+          "position": 1,
+          "product_id": 7936272662602,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612469633098,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-038.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469665866,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-041.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469698634,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-044.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469731402,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-042.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469764170,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-039.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469796938,
+          "created_at": "2025-05-26T07:20:08-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:20:08-04:00",
+          "product_id": 7936272662602,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-053.jpg?v=1748258408",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272597066,
+      "title": "Anti-age lift day cream",
+      "handle": "anti-age-day-cream",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:19:54-04:00",
+      "created_at": "2025-05-26T07:20:00-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Creme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304518218,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5809",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 181,
+          "compare_at_price": "399.00",
+          "position": 1,
+          "product_id": 7936272597066,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612469370954,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-021.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469403722,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-015.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469436490,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-018.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469469258,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-023.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469502026,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-022.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469534794,
+          "created_at": "2025-05-26T07:20:00-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:20:00-04:00",
+          "product_id": 7936272597066,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-020.jpg?v=1748258400",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272498762,
+      "title": "Botox effect peptide serum",
+      "handle": "botox-like-peptide-serum",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:19:48-04:00",
+      "created_at": "2025-05-26T07:19:52-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Serum",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110304419914,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5848",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 175,
+          "compare_at_price": "399.00",
+          "position": 1,
+          "product_id": 7936272498762,
+          "created_at": "2025-05-26T07:19:52-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612468977738,
+          "created_at": "2025-05-26T07:19:52-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:52-04:00",
+          "product_id": 7936272498762,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-071.jpg?v=1748258392",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469010506,
+          "created_at": "2025-05-26T07:19:52-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:52-04:00",
+          "product_id": 7936272498762,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-075.jpg?v=1748258392",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469043274,
+          "created_at": "2025-05-26T07:19:52-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:52-04:00",
+          "product_id": 7936272498762,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-076.jpg?v=1748258392",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612469076042,
+          "created_at": "2025-05-26T07:19:52-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:52-04:00",
+          "product_id": 7936272498762,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-073.jpg?v=1748258392",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272400458,
+      "title": "Collagen active lift serum",
+      "handle": "collagen-boost-serum",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:19:41-04:00",
+      "created_at": "2025-05-26T07:19:47-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Serum",
+      "tags": ["tag__new_Nyhed"],
+      "variants": [
+        {
+          "id": 42110304321610,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5879",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "299.00",
+          "grams": 190,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7936272400458,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612468650058,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-127.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468682826,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-129.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468715594,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-132.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468748362,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-130.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468781130,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-131.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468813898,
+          "created_at": "2025-05-26T07:19:47-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:19:47-04:00",
+          "product_id": 7936272400458,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-133.jpg?v=1748258387",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272302154,
+      "title": "Youth elixir oil serum",
+      "handle": "natural-retinol-alternative-oil-serum",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:19:35-04:00",
+      "created_at": "2025-05-26T07:19:39-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Ansigtsolie",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304223306,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5858",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "389.00",
+          "grams": 197,
+          "compare_at_price": "389.00",
+          "position": 1,
+          "product_id": 7936272302154,
+          "created_at": "2025-05-26T07:19:40-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612468224074,
+          "created_at": "2025-05-26T07:19:39-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:39-04:00",
+          "product_id": 7936272302154,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-102.jpg?v=1748258379",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468256842,
+          "created_at": "2025-05-26T07:19:39-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:39-04:00",
+          "product_id": 7936272302154,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-100.jpg?v=1748258379",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468289610,
+          "created_at": "2025-05-26T07:19:39-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:39-04:00",
+          "product_id": 7936272302154,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-104.jpg?v=1748258379",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612468322378,
+          "created_at": "2025-05-26T07:19:39-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:39-04:00",
+          "product_id": 7936272302154,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-105.jpg?v=1748258379",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272203850,
+      "title": "Niacinamide hydration gel",
+      "handle": "niacinamide-gel-moisturiser",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:19:29-04:00",
+      "created_at": "2025-05-26T07:19:34-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Creme",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110304125002,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5837",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "259.00",
+          "grams": 193,
+          "compare_at_price": "259.00",
+          "position": 1,
+          "product_id": 7936272203850,
+          "created_at": "2025-05-26T07:19:34-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612467732554,
+          "created_at": "2025-05-26T07:19:34-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:34-04:00",
+          "product_id": 7936272203850,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-068.jpg?v=1748258374",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467765322,
+          "created_at": "2025-05-26T07:19:34-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:34-04:00",
+          "product_id": 7936272203850,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-066.jpg?v=1748258374",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467798090,
+          "created_at": "2025-05-26T07:19:34-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:34-04:00",
+          "product_id": 7936272203850,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-069.jpg?v=1748258374",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467830858,
+          "created_at": "2025-05-26T07:19:34-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:34-04:00",
+          "product_id": 7936272203850,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-070.jpg?v=1748258374",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272105546,
+      "title": "Tinted mineral sunscreen SPF30",
+      "handle": "sunscreen-spf30-with-tint",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:19:24-04:00",
+      "created_at": "2025-05-26T07:19:28-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Solcreme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110304026698,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A9519",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "249.00",
+          "grams": 165,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 7936272105546,
+          "created_at": "2025-05-26T07:19:28-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612467470410,
+          "created_at": "2025-05-26T07:19:28-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:28-04:00",
+          "product_id": 7936272105546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-146.jpg?v=1748258368",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467503178,
+          "created_at": "2025-05-26T07:19:28-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:28-04:00",
+          "product_id": 7936272105546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-145.jpg?v=1748258368",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467535946,
+          "created_at": "2025-05-26T07:19:28-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:28-04:00",
+          "product_id": 7936272105546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-144.jpg?v=1748258368",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467568714,
+          "created_at": "2025-05-26T07:19:28-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:28-04:00",
+          "product_id": 7936272105546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-147.jpg?v=1748258368",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936272072778,
+      "title": "Vitamin C serum",
+      "handle": "vitamin-c-serum-30ml",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:19:16-04:00",
+      "created_at": "2025-05-26T07:19:21-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Serum",
+      "tags": ["tag__new_Nyhed"],
+      "variants": [
+        {
+          "id": 42110303993930,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5857",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "349.00",
+          "grams": 160,
+          "compare_at_price": "349.00",
+          "position": 1,
+          "product_id": 7936272072778,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612467306570,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:22-04:00",
+          "product_id": 7936272072778,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-095.jpg?v=1748258362",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467339338,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:22-04:00",
+          "product_id": 7936272072778,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-093.jpg?v=1748258362",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467372106,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:22-04:00",
+          "product_id": 7936272072778,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-097.jpg?v=1748258362",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467404874,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:22-04:00",
+          "product_id": 7936272072778,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-098.jpg?v=1748258362",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467437642,
+          "created_at": "2025-05-26T07:19:22-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:19:22-04:00",
+          "product_id": 7936272072778,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-091.jpg?v=1748258362",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271974474,
+      "title": "Oil-free hydra boost",
+      "handle": "oil-free-hydrating-gel-50ml",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:19:10-04:00",
+      "created_at": "2025-05-26T07:19:15-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Gel",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303895626,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5811",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "249.00",
+          "grams": 193,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 7936271974474,
+          "created_at": "2025-05-26T07:19:15-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612466913354,
+          "created_at": "2025-05-26T07:19:15-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:15-04:00",
+          "product_id": 7936271974474,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-026.jpg?v=1748258355",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466946122,
+          "created_at": "2025-05-26T07:19:15-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:15-04:00",
+          "product_id": 7936271974474,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-025.jpg?v=1748258355",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466978890,
+          "created_at": "2025-05-26T07:19:15-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:15-04:00",
+          "product_id": 7936271974474,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-027.jpg?v=1748258355",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612467011658,
+          "created_at": "2025-05-26T07:19:15-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:15-04:00",
+          "product_id": 7936271974474,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-028.jpg?v=1748258355",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271876170,
+      "title": "Glycolic clear exfoliator liquid",
+      "handle": "glycolic-acid-liquid-exfoliator",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:19:02-04:00",
+      "created_at": "2025-05-26T07:19:08-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Exfoliator",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303797322,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5865",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "289.00",
+          "grams": 300,
+          "compare_at_price": "289.00",
+          "position": 1,
+          "product_id": 7936271876170,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612466585674,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:08-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-116.jpg?v=1748258348",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466618442,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:08-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-120.jpg?v=1748258348",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466651210,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:09-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-118.jpg?v=1748258349",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466683978,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:09-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-115.jpg?v=1748258349",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466716746,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:19:09-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-122.jpg?v=1748258349",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466749514,
+          "created_at": "2025-05-26T07:19:09-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:19:09-04:00",
+          "product_id": 7936271876170,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-114.jpg?v=1748258349",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271810634,
+      "title": "Caffeine booster gel",
+      "handle": "caffeine-gel-booster",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:18:55-04:00",
+      "created_at": "2025-05-26T07:19:00-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Gel",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303731786,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5820",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "299.00",
+          "grams": 159,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7936271810634,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612466356298,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:19:00-04:00",
+          "product_id": 7936271810634,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-049.jpg?v=1748258340",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466389066,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:19:00-04:00",
+          "product_id": 7936271810634,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-055.jpg?v=1748258340",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466421834,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:19:00-04:00",
+          "product_id": 7936271810634,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-051.jpg?v=1748258340",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466454602,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:19:00-04:00",
+          "product_id": 7936271810634,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-050.jpg?v=1748258340",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466487370,
+          "created_at": "2025-05-26T07:19:01-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:19:01-04:00",
+          "product_id": 7936271810634,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-052.jpg?v=1748258341",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271712330,
+      "title": "Silky hydrating serum",
+      "handle": "hydrating-serum",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:18:49-04:00",
+      "created_at": "2025-05-26T07:18:53-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Serum",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303633482,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5813",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "399.00",
+          "grams": 156,
+          "compare_at_price": "399.00",
+          "position": 1,
+          "product_id": 7936271712330,
+          "created_at": "2025-05-26T07:18:54-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612466094154,
+          "created_at": "2025-05-26T07:18:54-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:54-04:00",
+          "product_id": 7936271712330,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-029.jpg?v=1748258334",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466126922,
+          "created_at": "2025-05-26T07:18:54-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:54-04:00",
+          "product_id": 7936271712330,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-030.jpg?v=1748258334",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466159690,
+          "created_at": "2025-05-26T07:18:54-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:54-04:00",
+          "product_id": 7936271712330,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-031.jpg?v=1748258334",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612466192458,
+          "created_at": "2025-05-26T07:18:54-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:54-04:00",
+          "product_id": 7936271712330,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-032.jpg?v=1748258334",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271614026,
+      "title": "Oil-to-milk cleanser",
+      "handle": "oil-to-milk-cleanser",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:18:43-04:00",
+      "created_at": "2025-05-26T07:18:48-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Cleanser",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303535178,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5924",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "249.00",
+          "grams": 201,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 7936271614026,
+          "created_at": "2025-05-26T07:18:48-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612465832010,
+          "created_at": "2025-05-26T07:18:48-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:48-04:00",
+          "product_id": 7936271614026,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-141.jpg?v=1748258328",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465864778,
+          "created_at": "2025-05-26T07:18:48-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:48-04:00",
+          "product_id": 7936271614026,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-140.jpg?v=1748258328",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465897546,
+          "created_at": "2025-05-26T07:18:48-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:48-04:00",
+          "product_id": 7936271614026,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-142.jpg?v=1748258328",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465930314,
+          "created_at": "2025-05-26T07:18:48-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:48-04:00",
+          "product_id": 7936271614026,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-143.jpg?v=1748258328",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271515722,
+      "title": "Antioxidant defense gel booster",
+      "handle": "antioxidant-ginkgo-gel-booster",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:18:36-04:00",
+      "created_at": "2025-05-26T07:18:42-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Gel",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303436874,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5819-30",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "249.00",
+          "grams": 197,
+          "compare_at_price": "249.00",
+          "position": 1,
+          "product_id": 7936271515722,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612465537098,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:42-04:00",
+          "product_id": 7936271515722,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-045.jpg?v=1748258322",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465569866,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:42-04:00",
+          "product_id": 7936271515722,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-048.jpg?v=1748258322",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465602634,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:42-04:00",
+          "product_id": 7936271515722,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-046.jpg?v=1748258322",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465635402,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:42-04:00",
+          "product_id": 7936271515722,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-047.jpg?v=1748258322",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612465668170,
+          "created_at": "2025-05-26T07:18:42-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:18:42-04:00",
+          "product_id": 7936271515722,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-180.jpg?v=1748258322",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271384650,
+      "title": "Pure micellar cleansing water",
+      "handle": "micellar-cleansing-water",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:18:31-04:00",
+      "created_at": "2025-05-26T07:18:35-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Cleanser",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303305802,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5804",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "199.00",
+          "grams": 349,
+          "compare_at_price": "199.00",
+          "position": 1,
+          "product_id": 7936271384650,
+          "created_at": "2025-05-26T07:18:35-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612462161994,
+          "created_at": "2025-05-26T07:18:35-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:35-04:00",
+          "product_id": 7936271384650,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-003.jpg?v=1748258315",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612462194762,
+          "created_at": "2025-05-26T07:18:35-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:35-04:00",
+          "product_id": 7936271384650,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-002.jpg?v=1748258315",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612462227530,
+          "created_at": "2025-05-26T07:18:35-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:35-04:00",
+          "product_id": 7936271384650,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-004.jpg?v=1748258315",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612462293066,
+          "created_at": "2025-05-26T07:18:35-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:35-04:00",
+          "product_id": 7936271384650,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-005.jpg?v=1748258315",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271351882,
+      "title": "Collagen anti-age night cream",
+      "handle": "collagen-anti-age-night-cream",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:18:24-04:00",
+      "created_at": "2025-05-26T07:18:29-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Creme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303273034,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5877",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "389.00",
+          "grams": 175,
+          "compare_at_price": "389.00",
+          "position": 1,
+          "product_id": 7936271351882,
+          "created_at": "2025-05-26T07:18:29-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612461703242,
+          "created_at": "2025-05-26T07:18:29-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:29-04:00",
+          "product_id": 7936271351882,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-124.jpg?v=1748258309",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461736010,
+          "created_at": "2025-05-26T07:18:29-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:29-04:00",
+          "product_id": 7936271351882,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-123.jpg?v=1748258309",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461768778,
+          "created_at": "2025-05-26T07:18:29-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:29-04:00",
+          "product_id": 7936271351882,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-125.jpg?v=1748258309",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461801546,
+          "created_at": "2025-05-26T07:18:29-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:29-04:00",
+          "product_id": 7936271351882,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-126.jpg?v=1748258309",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271286346,
+      "title": "All-in-one facial oil",
+      "handle": "all-in-one-facial-oil",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:18:18-04:00",
+      "created_at": "2025-05-26T07:18:23-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Ansigtsolie",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110303207498,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5853",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "289.00",
+          "grams": 197,
+          "compare_at_price": "289.00",
+          "position": 1,
+          "product_id": 7936271286346,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612461473866,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-085.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461506634,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-089.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461539402,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-088.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461572170,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-086.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461604938,
+          "created_at": "2025-05-26T07:18:23-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:18:23-04:00",
+          "product_id": 7936271286346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-090.jpg?v=1748258303",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271188042,
+      "title": "Hydrating day cream",
+      "handle": "moisturising-day-cream",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:18:10-04:00",
+      "created_at": "2025-05-26T07:18:16-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Creme",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42110303109194,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5807",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "289.00",
+          "grams": 181,
+          "compare_at_price": "289.00",
+          "position": 1,
+          "product_id": 7936271188042,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612461178954,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:16-04:00",
+          "product_id": 7936271188042,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-011.jpg?v=1748258296",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461211722,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:16-04:00",
+          "product_id": 7936271188042,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-007.jpg?v=1748258296",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461244490,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:16-04:00",
+          "product_id": 7936271188042,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-012.jpg?v=1748258296",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461277258,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:16-04:00",
+          "product_id": 7936271188042,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-010.jpg?v=1748258296",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461310026,
+          "created_at": "2025-05-26T07:18:16-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:18:16-04:00",
+          "product_id": 7936271188042,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-013.jpg?v=1748258296",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936271089738,
+      "title": "Ceramide smooth eye cream",
+      "handle": "smoothing-eye-cream-1",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:18:03-04:00",
+      "created_at": "2025-05-26T07:18:09-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Øjencreme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110303010890,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5816",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "299.00",
+          "grams": 138,
+          "compare_at_price": "299.00",
+          "position": 1,
+          "product_id": 7936271089738,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612460884042,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:09-04:00",
+          "product_id": 7936271089738,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-035.jpg?v=1748258289",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460916810,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:09-04:00",
+          "product_id": 7936271089738,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-033.jpg?v=1748258289",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460949578,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:09-04:00",
+          "product_id": 7936271089738,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-036.jpg?v=1748258289",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460982346,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:09-04:00",
+          "product_id": 7936271089738,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-034.jpg?v=1748258289",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612461015114,
+          "created_at": "2025-05-26T07:18:09-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:18:09-04:00",
+          "product_id": 7936271089738,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-037.jpg?v=1748258289",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270958666,
+      "title": "Ceramide night cream moisturizer",
+      "handle": "ceramide-hydrating-night-cream",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:57-04:00",
+      "created_at": "2025-05-26T07:18:02-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Creme",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110302879818,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "A5923",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "269.00",
+          "grams": 175,
+          "compare_at_price": "269.00",
+          "position": 1,
+          "product_id": 7936270958666,
+          "created_at": "2025-05-26T07:18:02-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612460621898,
+          "created_at": "2025-05-26T07:18:02-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:18:02-04:00",
+          "product_id": 7936270958666,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-134.jpg?v=1748258282",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460654666,
+          "created_at": "2025-05-26T07:18:02-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:18:02-04:00",
+          "product_id": 7936270958666,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-135.jpg?v=1748258282",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460687434,
+          "created_at": "2025-05-26T07:18:02-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:18:02-04:00",
+          "product_id": 7936270958666,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-136.jpg?v=1748258282",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460720202,
+          "created_at": "2025-05-26T07:18:02-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:18:02-04:00",
+          "product_id": 7936270958666,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-137.jpg?v=1748258282",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270860362,
+      "title": "Clear skin routine sæt",
+      "handle": "clear-skin-routine",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:51-04:00",
+      "created_at": "2025-05-26T07:17:56-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110302781514,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM004",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1036.00",
+          "grams": 0,
+          "compare_at_price": "1036.00",
+          "position": 1,
+          "product_id": 7936270860362,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612460261450,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:56-04:00",
+          "product_id": 7936270860362,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-156.jpg?v=1748258276",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460294218,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:56-04:00",
+          "product_id": 7936270860362,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-077.jpg?v=1748258276",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460326986,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:56-04:00",
+          "product_id": 7936270860362,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-024.jpg?v=1748258276",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460359754,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:56-04:00",
+          "product_id": 7936270860362,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-060.jpg?v=1748258276",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460392522,
+          "created_at": "2025-05-26T07:17:56-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:56-04:00",
+          "product_id": 7936270860362,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-157.jpg?v=1748258276",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270794826,
+      "title": "Acne spot trio treatment sæt",
+      "handle": "acne-spot-trio-treatment",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:45-04:00",
+      "created_at": "2025-05-26T07:17:49-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": ["tag__hot_Bestseller"],
+      "variants": [
+        {
+          "id": 42222928920650,
+          "title": "250ml",
+          "option1": "250ml",
+          "option2": null,
+          "option3": null,
+          "sku": "MM001",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "459.00",
+          "grams": 0,
+          "compare_at_price": "457.00",
+          "position": 1,
+          "product_id": 7936270794826,
+          "created_at": "2025-06-25T08:54:16-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        },
+        {
+          "id": 42222928953418,
+          "title": "500ml",
+          "option1": "500ml",
+          "option2": null,
+          "option3": null,
+          "sku": "MM002",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1250.95",
+          "grams": 0,
+          "compare_at_price": "457.00",
+          "position": 2,
+          "product_id": 7936270794826,
+          "created_at": "2025-06-25T08:54:16-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612460064842,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:49-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-151.jpg?v=1748258269",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460097610,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 2,
+          "updated_at": "2026-07-08T08:56:45-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-200.jpg?v=1783515405",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460130378,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 3,
+          "updated_at": "2026-07-08T09:01:25-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-199.jpg?v=1783515685",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612460163146,
+          "created_at": "2025-05-26T07:17:49-04:00",
+          "position": 4,
+          "updated_at": "2026-07-08T09:01:32-04:00",
+          "product_id": 7936270794826,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-198.jpg?v=1783515692",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": ["250ml", "500ml"]
+        }
+      ]
+    },
+    {
+      "id": 7936270729290,
+      "title": "Miracle patch power duo sæt",
+      "handle": "miracle-patch-power-duo",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:41-04:00",
+      "created_at": "2025-05-26T07:17:44-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110302650442,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM013",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "258.00",
+          "grams": 0,
+          "compare_at_price": "258.00",
+          "position": 1,
+          "product_id": 7936270729290,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612459835466,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:44-04:00",
+          "product_id": 7936270729290,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-181.jpg?v=1748258264",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459868234,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:44-04:00",
+          "product_id": 7936270729290,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-187.jpg?v=1748258264",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459901002,
+          "created_at": "2025-05-26T07:17:44-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:44-04:00",
+          "product_id": 7936270729290,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-182.jpg?v=1748258264",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270663754,
+      "title": "Hydration routine sæt",
+      "handle": "hydration-routine",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:34-04:00",
+      "created_at": "2025-05-26T07:17:39-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301929546,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM011",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1106.00",
+          "grams": 0,
+          "compare_at_price": "1106.00",
+          "position": 1,
+          "product_id": 7936270663754,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612459573322,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:39-04:00",
+          "product_id": 7936270663754,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-172.jpg?v=1748258259",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459606090,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:40-04:00",
+          "product_id": 7936270663754,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-139.jpg?v=1748258260",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459638858,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:40-04:00",
+          "product_id": 7936270663754,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-057.jpg?v=1748258260",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459671626,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:40-04:00",
+          "product_id": 7936270663754,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-006.jpg?v=1748258260",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459704394,
+          "created_at": "2025-05-26T07:17:40-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:40-04:00",
+          "product_id": 7936270663754,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-111.jpg?v=1748258260",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270598218,
+      "title": "Glow up routine sæt",
+      "handle": "glow-up-routine",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:28-04:00",
+      "created_at": "2025-05-26T07:17:33-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301864010,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM007",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "777.00",
+          "grams": 0,
+          "compare_at_price": "777.00",
+          "position": 1,
+          "product_id": 7936270598218,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612459343946,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:33-04:00",
+          "product_id": 7936270598218,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-162.jpg?v=1748258253",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459376714,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:33-04:00",
+          "product_id": 7936270598218,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-079.jpg?v=1748258253",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459409482,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:33-04:00",
+          "product_id": 7936270598218,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-087.jpg?v=1748258253",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459442250,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:33-04:00",
+          "product_id": 7936270598218,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-009.jpg?v=1748258253",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459475018,
+          "created_at": "2025-05-26T07:17:33-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:33-04:00",
+          "product_id": 7936270598218,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-163.jpg?v=1748258253",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270499914,
+      "title": "Skin renew routine sæt",
+      "handle": "skin-renew-routine",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:20-04:00",
+      "created_at": "2025-05-26T07:17:26-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301765706,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM018",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1097.00",
+          "grams": 0,
+          "compare_at_price": "1097.00",
+          "position": 1,
+          "product_id": 7936270499914,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612458983498,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-194.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459016266,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-074.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459049034,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-016.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459081802,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-195.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459114570,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-017.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612459147338,
+          "created_at": "2025-05-26T07:17:26-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:17:26-04:00",
+          "product_id": 7936270499914,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-196.jpg?v=1748258246",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270401610,
+      "title": "Renew & lift boost sæt",
+      "handle": "renew-lift-boost",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:14-04:00",
+      "created_at": "2025-05-26T07:17:18-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301667402,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM016",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1087.00",
+          "grams": 0,
+          "compare_at_price": "1087.00",
+          "position": 1,
+          "product_id": 7936270401610,
+          "created_at": "2025-05-26T07:17:19-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612458786890,
+          "created_at": "2025-05-26T07:17:18-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:18-04:00",
+          "product_id": 7936270401610,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-191.jpg?v=1748258238",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458819658,
+          "created_at": "2025-05-26T07:17:18-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:18-04:00",
+          "product_id": 7936270401610,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-072.jpg?v=1748258238",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458852426,
+          "created_at": "2025-05-26T07:17:18-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:18-04:00",
+          "product_id": 7936270401610,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-101.jpg?v=1748258238",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458885194,
+          "created_at": "2025-05-26T07:17:19-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:18-04:00",
+          "product_id": 7936270401610,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-128.jpg?v=1748258238",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270303306,
+      "title": "Renew essentials sæt",
+      "handle": "renew-essentials",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:08-04:00",
+      "created_at": "2025-05-26T07:17:13-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301569098,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM017",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "1057.00",
+          "grams": 0,
+          "compare_at_price": "1057.00",
+          "position": 1,
+          "product_id": 7936270303306,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612458426442,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:13-04:00",
+          "product_id": 7936270303306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-192.jpg?v=1748258233",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458459210,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:13-04:00",
+          "product_id": 7936270303306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-014.jpg?v=1748258233",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458491978,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:13-04:00",
+          "product_id": 7936270303306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-103.jpg?v=1748258233",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458524746,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:13-04:00",
+          "product_id": 7936270303306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-019.jpg?v=1748258233",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458557514,
+          "created_at": "2025-05-26T07:17:13-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:13-04:00",
+          "product_id": 7936270303306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-193.jpg?v=1748258233",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270205002,
+      "title": "Glow & tone control sæt",
+      "handle": "glow-tone-control",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:17:00-04:00",
+      "created_at": "2025-05-26T07:17:06-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301470794,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM005",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "897.00",
+          "grams": 0,
+          "compare_at_price": "897.00",
+          "position": 1,
+          "product_id": 7936270205002,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612458098762,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-158.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458131530,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-159.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458164298,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-121.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458197066,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-117.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458229834,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-094.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612458262602,
+          "created_at": "2025-05-26T07:17:06-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:17:06-04:00",
+          "product_id": 7936270205002,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-067.jpg?v=1748258226",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936270041162,
+      "title": "Pigment control duo sæt",
+      "handle": "pigment-control-duo",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:16:54-04:00",
+      "created_at": "2025-05-26T07:16:58-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301306954,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM015",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "548.00",
+          "grams": 0,
+          "compare_at_price": "548.00",
+          "position": 1,
+          "product_id": 7936270041162,
+          "created_at": "2025-05-26T07:16:58-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612457836618,
+          "created_at": "2025-05-26T07:16:58-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:58-04:00",
+          "product_id": 7936270041162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-189.jpg?v=1748258218",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457869386,
+          "created_at": "2025-05-26T07:16:58-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:58-04:00",
+          "product_id": 7936270041162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-119.jpg?v=1748258218",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457902154,
+          "created_at": "2025-05-26T07:16:58-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:58-04:00",
+          "product_id": 7936270041162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-065.jpg?v=1748258218",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457934922,
+          "created_at": "2025-05-26T07:16:58-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:58-04:00",
+          "product_id": 7936270041162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-190.jpg?v=1748258218",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936269975626,
+      "title": "Awake & bright eyes sæt",
+      "handle": "awake-bright-eyes",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:16:48-04:00",
+      "created_at": "2025-05-26T07:16:53-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44228680450122,
+          "title": "Angora",
+          "option1": "Angora",
+          "option2": null,
+          "option3": null,
+          "sku": "MM002",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "538.00",
+          "grams": 0,
+          "compare_at_price": "538.00",
+          "position": 1,
+          "product_id": 7936269975626,
+          "created_at": "2026-09-17T12:52:04-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612457607242,
+          "created_at": "2025-05-26T07:16:53-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:53-04:00",
+          "product_id": 7936269975626,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-152.jpg?v=1748258213",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457640010,
+          "created_at": "2025-05-26T07:16:53-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:53-04:00",
+          "product_id": 7936269975626,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-040.jpg?v=1748258213",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457672778,
+          "created_at": "2025-05-26T07:16:53-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:53-04:00",
+          "product_id": 7936269975626,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-153.jpg?v=1748258213",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457705546,
+          "created_at": "2025-05-26T07:16:53-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:53-04:00",
+          "product_id": 7936269975626,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-043.jpg?v=1748258213",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457738314,
+          "created_at": "2025-05-26T07:16:53-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:16:53-04:00",
+          "product_id": 7936269975626,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-054.jpg?v=1748258213",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Material",
+          "position": 1,
+          "values": ["Angora"]
+        }
+      ]
+    },
+    {
+      "id": 7936269877322,
+      "title": "Glow revival trio sæt",
+      "handle": "glow-revival-trio",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:16:40-04:00",
+      "created_at": "2025-05-26T07:16:46-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301143114,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM006",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "987.00",
+          "grams": 0,
+          "compare_at_price": "987.00",
+          "position": 1,
+          "product_id": 7936269877322,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612457345098,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-160.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457377866,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-099.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457410634,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-092.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457443402,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-096.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457476170,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-106.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457508938,
+          "created_at": "2025-05-26T07:16:46-04:00",
+          "position": 6,
+          "updated_at": "2025-05-26T07:16:46-04:00",
+          "product_id": 7936269877322,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-161.jpg?v=1748258206",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936269746250,
+      "title": "Hydration boost duo sæt",
+      "handle": "hydration-boost-duo",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:16:34-04:00",
+      "created_at": "2025-05-26T07:16:39-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110301012042,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM010",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "568.00",
+          "grams": 0,
+          "compare_at_price": "568.00",
+          "position": 1,
+          "product_id": 7936269746250,
+          "created_at": "2025-05-26T07:16:39-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612457017418,
+          "created_at": "2025-05-26T07:16:39-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:39-04:00",
+          "product_id": 7936269746250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-170.jpg?v=1748258199",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457050186,
+          "created_at": "2025-05-26T07:16:39-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:39-04:00",
+          "product_id": 7936269746250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-110.jpg?v=1748258199",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457082954,
+          "created_at": "2025-05-26T07:16:39-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:39-04:00",
+          "product_id": 7936269746250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-171.jpg?v=1748258199",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612457115722,
+          "created_at": "2025-05-26T07:16:39-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:39-04:00",
+          "product_id": 7936269746250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-061.jpg?v=1748258199",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936269680714,
+      "title": "Hydrate & balance sæt",
+      "handle": "hydrate-balance",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:16:28-04:00",
+      "created_at": "2025-05-26T07:16:33-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Hudplejesæt",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110300946506,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "MM009",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "787.00",
+          "grams": 0,
+          "compare_at_price": "787.00",
+          "position": 1,
+          "product_id": 7936269680714,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612456788042,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:33-04:00",
+          "product_id": 7936269680714,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-168.jpg?v=1748258193",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456820810,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:33-04:00",
+          "product_id": 7936269680714,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-138.jpg?v=1748258193",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456853578,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:33-04:00",
+          "product_id": 7936269680714,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-008.jpg?v=1748258193",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456886346,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:33-04:00",
+          "product_id": 7936269680714,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-108.jpg?v=1748258193",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456919114,
+          "created_at": "2025-05-26T07:16:33-04:00",
+          "position": 5,
+          "updated_at": "2025-05-26T07:16:33-04:00",
+          "product_id": 7936269680714,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-169.jpg?v=1748258193",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": ["Default Title"]
+        }
+      ]
+    },
+    {
+      "id": 7936269516874,
+      "title": "Gua sha",
+      "handle": "gua-sha",
+      "body_html": "Content",
+      "published_at": "2025-05-26T07:16:22-04:00",
+      "created_at": "2025-05-26T07:16:26-04:00",
+      "updated_at": "2026-11-04T06:42:01-05:00",
+      "vendor": "Milla Mango",
+      "product_type": "Accessories",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42110300651594,
+          "title": "Rosenkvarts (sten)",
+          "option1": "Rosenkvarts (sten)",
+          "option2": null,
+          "option3": null,
+          "sku": "MM008-1",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 33612456362058,
+            "product_id": 7936269516874,
+            "position": 1,
+            "created_at": "2025-05-26T07:16:26-04:00",
+            "updated_at": "2025-05-26T07:16:26-04:00",
+            "alt": null,
+            "width": 1382,
+            "height": 1728,
+            "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
+            "variant_ids": [42110300651594]
+          },
+          "available": true,
+          "price": "189.00",
+          "grams": 0,
+          "compare_at_price": "189.00",
+          "position": 1,
+          "product_id": 7936269516874,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        },
+        {
+          "id": 42110300684362,
+          "title": "Rrustfrit stål",
+          "option1": "Rrustfrit stål",
+          "option2": null,
+          "option3": null,
+          "sku": "MM008-2",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 33612456427594,
+            "product_id": 7936269516874,
+            "position": 3,
+            "created_at": "2025-05-26T07:16:26-04:00",
+            "updated_at": "2025-05-26T07:16:26-04:00",
+            "alt": null,
+            "width": 1382,
+            "height": 1728,
+            "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-167.jpg?v=1748258186",
+            "variant_ids": [42110300684362]
+          },
+          "available": true,
+          "price": "189.00",
+          "grams": 0,
+          "compare_at_price": "189.00",
+          "position": 2,
+          "product_id": 7936269516874,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "updated_at": "2026-11-04T06:42:01-05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 33612456362058,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 1,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [42110300651594],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-165.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456394826,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 2,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-164.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456427594,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 3,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [42110300684362],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-167.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        },
+        {
+          "id": 33612456460362,
+          "created_at": "2025-05-26T07:16:26-04:00",
+          "position": 4,
+          "updated_at": "2025-05-26T07:16:26-04:00",
+          "product_id": 7936269516874,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/1234/5678/9012/files/image-166.jpg?v=1748258186",
+          "width": 1382,
+          "height": 1728
+        }
+      ],
+      "options": [
+        {
+          "name": "Type",
+          "position": 1,
+          "values": ["Rosenkvarts (sten)", "Rrustfrit stål"]
+        }
+      ]
+    }
+  ]
+}

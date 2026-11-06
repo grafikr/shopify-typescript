@@ -1,0 +1,251 @@
+{
+  "id": 15459523919946,
+  "title": "TYPEGEN plan kinds",
+  "handle": "typegen-plan-kinds",
+  "description": null,
+  "published_at": "2026-11-05T06:27:54-05:00",
+  "created_at": "2026-11-05T06:27:42-05:00",
+  "vendor": "TypegenVendor",
+  "type": "",
+  "tags": [],
+  "price": 10000,
+  "price_min": 10000,
+  "price_max": 10000,
+  "available": true,
+  "price_varies": false,
+  "compare_at_price": null,
+  "compare_at_price_min": 0,
+  "compare_at_price_max": 0,
+  "compare_at_price_varies": false,
+  "variants": [
+    {
+      "id": 67909889458250,
+      "title": "S",
+      "option1": "S",
+      "option2": null,
+      "option3": null,
+      "sku": "TG-KIND",
+      "requires_shipping": true,
+      "taxable": true,
+      "featured_image": null,
+      "available": true,
+      "name": "TYPEGEN plan kinds - S",
+      "public_title": "S",
+      "options": ["S"],
+      "price": 10000,
+      "weight": 0,
+      "compare_at_price": null,
+      "inventory_management": null,
+      "barcode": null,
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 8000
+            }
+          ],
+          "price": 8000,
+          "compare_at_price": 10000,
+          "per_delivery_price": 8000,
+          "selling_plan_id": 8382021706,
+          "selling_plan_group_id": "92fe28e77f6eda7124333eee1b304bec2f82cf43"
+        },
+        {
+          "price_adjustments": [
+            {
+              "position": 1,
+              "price": 9000
+            },
+            {
+              "position": 2,
+              "price": 8000
+            }
+          ],
+          "price": 9000,
+          "compare_at_price": 10000,
+          "per_delivery_price": 9000,
+          "selling_plan_id": 8382054474,
+          "selling_plan_group_id": "e4b89e371867a31135f8e04ce0218901046a8b9f"
+        },
+        {
+          "price_adjustments": [],
+          "price": 10000,
+          "compare_at_price": null,
+          "per_delivery_price": 10000,
+          "selling_plan_id": 8382087242,
+          "selling_plan_group_id": "69d305d2b092eb6943be55c55c37d5f2e9797433"
+        },
+        {
+          "price_adjustments": [],
+          "price": 10000,
+          "compare_at_price": null,
+          "per_delivery_price": 10000,
+          "selling_plan_id": 8382120010,
+          "selling_plan_group_id": "adec9cf90a1d328f28ce9092f125a75464bdd0cb"
+        }
+      ],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    }
+  ],
+  "images": [],
+  "featured_image": null,
+  "options": ["Size"],
+  "requires_selling_plan": false,
+  "selling_plan_groups": [
+    {
+      "id": "e4b89e371867a31135f8e04ce0218901046a8b9f",
+      "name": "TYPEGEN cycle plan",
+      "options": [
+        {
+          "name": "Delivery every",
+          "position": 1,
+          "values": ["1 month cycle"]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 8382054474,
+          "name": "Monthly, cheaper after 2",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month cycle"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": 2,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            },
+            {
+              "order_count": null,
+              "position": 2,
+              "value_type": "percentage",
+              "value": 20
+            }
+          ],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100
+          }
+        }
+      ],
+      "app_id": null
+    },
+    {
+      "id": "69d305d2b092eb6943be55c55c37d5f2e9797433",
+      "name": "TYPEGEN pre-order",
+      "options": [
+        {
+          "name": "Purchase option",
+          "position": 1,
+          "values": ["Pre-order"]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 8382087242,
+          "name": "Pre-order",
+          "description": null,
+          "options": [
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Pre-order"
+            }
+          ],
+          "recurring_deliveries": false,
+          "price_adjustments": [],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 25
+          }
+        }
+      ],
+      "app_id": null
+    },
+    {
+      "id": "92fe28e77f6eda7124333eee1b304bec2f82cf43",
+      "name": "TYPEGEN price plan",
+      "options": [
+        {
+          "name": "Delivery every",
+          "position": 1,
+          "values": ["1 month"]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 8382021706,
+          "name": "Monthly at a set price",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "price",
+              "value": 8000
+            }
+          ],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100
+          }
+        }
+      ],
+      "app_id": null
+    },
+    {
+      "id": "adec9cf90a1d328f28ce9092f125a75464bdd0cb",
+      "name": "TYPEGEN try before you buy",
+      "options": [
+        {
+          "name": "Purchase option",
+          "position": 1,
+          "values": ["Try first"]
+        }
+      ],
+      "selling_plans": [
+        {
+          "id": 8382120010,
+          "name": "Try before you buy",
+          "description": null,
+          "options": [
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Try first"
+            }
+          ],
+          "recurring_deliveries": false,
+          "price_adjustments": [],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 0
+          }
+        }
+      ],
+      "app_id": null
+    }
+  ],
+  "content": null
+}

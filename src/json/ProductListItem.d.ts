@@ -1,0 +1,52 @@
+import type { ProductImage } from './Product';
+
+/** A slimmer shape than `/products/[handle].json`: `tags` is an array here, and options, images and variants carry fewer fields. */
+export type ProductListItem = {
+  id: number;
+  title: string;
+  handle: string;
+  body_html: string | null;
+  published_at: string;
+  created_at: string;
+  updated_at: string;
+  vendor: string;
+  product_type: string;
+  tags: Array<string>;
+  variants: Array<ProductListVariant>;
+  images: Array<ProductListImage>;
+  options: Array<{ name: string; position: number; values: Array<string> }>;
+};
+
+export type ProductListVariant = {
+  id: number;
+  product_id: number;
+  title: string;
+  option1: string | null;
+  option2: string | null;
+  option3: string | null;
+  sku: string | null;
+  requires_shipping: boolean;
+  taxable: boolean;
+  featured_image: ProductListImage | null;
+  available: boolean;
+  /**
+   * @unit currency-units
+   * @format decimal-string
+   */
+  price: string;
+  /** @unit grams */
+  grams: number;
+  /**
+   * @unit currency-units
+   * @format decimal-string
+   */
+  compare_at_price: string | null;
+  position: number;
+  created_at: string;
+  updated_at: string;
+};
+
+/** `alt` is missing on items of `images`, but present (and `null`) on a variant's `featured_image`. */
+export type ProductListImage = Omit<ProductImage, 'alt'> & {
+  alt?: string | null;
+};

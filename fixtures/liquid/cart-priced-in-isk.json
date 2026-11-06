@@ -1,0 +1,64 @@
+{
+  "note": "",
+  "attributes": {},
+  "original_total_price": 3728200,
+  "total_price": 3728200,
+  "total_discount": 0,
+  "total_weight": 0.0,
+  "item_count": 2,
+  "items": [
+    {
+      "id": 67909930975306,
+      "properties": {},
+      "quantity": 2,
+      "variant_id": 67909930975306,
+      "key": "67909930975306:ffcb3a89d0280555be56006bbbc8b740",
+      "title": "TYPEGEN currencies - S",
+      "price": 1864100,
+      "original_price": 1864100,
+      "discounted_price": 1864100,
+      "line_price": 3728200,
+      "original_line_price": 3728200,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "TG-CUR",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459535126602,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 1864100,
+      "final_line_price": 3728200,
+      "url": "/products/typegen-currencies?variant=67909930975306",
+      "featured_image": {
+        "aspect_ratio": null,
+        "alt": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-currencies",
+      "requires_shipping": false,
+      "product_type": "",
+      "product_title": "TYPEGEN currencies",
+      "product_description": null,
+      "variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0
+    }
+  ],
+  "requires_shipping": false,
+  "currency": "ISK",
+  "items_subtotal_price": 3728200,
+  "cart_level_discount_applications": [],
+  "checkout_charge_amount": 3728200
+}

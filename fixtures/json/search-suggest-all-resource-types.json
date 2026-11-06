@@ -1,0 +1,141 @@
+{
+  "resources": {
+    "results": {
+      "products": [
+        {
+          "available": true,
+          "body": null,
+          "compare_at_price_max": "0.00",
+          "compare_at_price_min": "0.00",
+          "handle": "typegen-discountable",
+          "id": 15457292582986,
+          "image": null,
+          "price": "100.00",
+          "price_max": "200.00",
+          "price_min": "100.00",
+          "tags": ["typegen"],
+          "title": "TYPEGEN discountable",
+          "type": "",
+          "url": "/products/typegen-discountable?_pos=1&_psq=typegen&_psid=ac1e9996e&_ss=e",
+          "variants": [],
+          "vendor": "TypegenVendor",
+          "featured_image": {
+            "alt": null,
+            "aspect_ratio": null,
+            "height": null,
+            "url": null,
+            "width": null
+          }
+        }
+      ],
+      "collections": [
+        {
+          "id": 512521601098,
+          "body": null,
+          "handle": "typegen-bare",
+          "published_at": "2026-11-04T11:39:58.000Z",
+          "title": "TYPEGEN bare",
+          "url": "/collections/typegen-bare?_pos=1&_psq=typegen&_psid=ac1e9996e&_ss=e",
+          "featured_image": {
+            "alt": null,
+            "aspect_ratio": null,
+            "height": null,
+            "url": null,
+            "width": null
+          }
+        },
+        {
+          "id": 512521568330,
+          "body": null,
+          "handle": "typegen-smart",
+          "published_at": "2026-11-04T11:39:57.000Z",
+          "title": "TYPEGEN smart",
+          "url": "/collections/typegen-smart?_pos=2&_psq=typegen&_psid=ac1e9996e&_ss=e",
+          "featured_image": {
+            "alt": null,
+            "aspect_ratio": null,
+            "height": null,
+            "url": null,
+            "width": null
+          }
+        },
+        {
+          "id": 512521535562,
+          "body": "Content",
+          "handle": "typegen-manual",
+          "published_at": "2026-11-04T11:39:55.000Z",
+          "title": "TYPEGEN manual",
+          "url": "/collections/typegen-manual?_pos=3&_psq=typegen&_psid=ac1e9996e&_ss=e",
+          "featured_image": {
+            "alt": "alt text",
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "url": "https://cdn.shopify.com/s/files/1/1234/5678/9012/collections/image-165.jpg?v=1793792380",
+            "width": 1382
+          }
+        }
+      ],
+      "pages": [
+        {
+          "author": null,
+          "body": "Content",
+          "handle": "typegen-page",
+          "id": 167429963850,
+          "published_at": "2026-11-04T11:39:40.000Z",
+          "title": "TYPEGEN page",
+          "url": "/pages/typegen-page?_pos=1&_psq=typegen&_psid=ac1e9996e&_ss=e"
+        },
+        {
+          "author": null,
+          "body": null,
+          "handle": "typegen-empty-page",
+          "id": 167429996618,
+          "published_at": "2026-11-04T11:39:40.000Z",
+          "title": "TYPEGEN empty page",
+          "url": "/pages/typegen-empty-page?_pos=2&_psq=typegen&_psid=ac1e9996e&_ss=e"
+        }
+      ],
+      "articles": [
+        {
+          "author": "Typegen Author",
+          "body": null,
+          "handle": "typegen-minimal-article",
+          "id": 634865713226,
+          "image": null,
+          "published_at": "2026-11-04T11:39:54.000Z",
+          "summary_html": null,
+          "tags": [],
+          "title": "TYPEGEN minimal",
+          "url": "/blogs/typegen-blog/typegen-minimal-article?_pos=1&_psq=typegen&_psid=ac1e9996e&_ss=e",
+          "featured_image": {
+            "alt": null,
+            "aspect_ratio": null,
+            "height": null,
+            "url": null,
+            "width": null
+          }
+        },
+        {
+          "author": "Typegen Author",
+          "body": "Content",
+          "handle": "typegen-full",
+          "id": 634865680458,
+          "image": "https://cdn.shopify.com/s/files/1/1234/5678/9012/articles/image-165.jpg?v=1793792394",
+          "published_at": "2026-11-04T11:39:53.000Z",
+          "summary_html": "Content",
+          "tags": ["x", "y"],
+          "title": "TYPEGEN full",
+          "url": "/blogs/typegen-blog/typegen-full?_pos=2&_psq=typegen&_psid=ac1e9996e&_ss=e",
+          "featured_image": {
+            "alt": "article alt",
+            "aspect_ratio": 0.8,
+            "height": 1728,
+            "url": "https://cdn.shopify.com/s/files/1/1234/5678/9012/articles/image-165.jpg?v=1793792394",
+            "width": 1382
+          }
+        }
+      ],
+      "queries": []
+    }
+  }
+}

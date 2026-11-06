@@ -5,24 +5,80 @@
   "scripts": {
     "format": "biome format . --write",
     "check": "biome check . --write",
+    "generate": "node scripts/generate-tests.mjs",
     "typecheck": "tsc --noEmit"
   },
-  "engines": {
-    "node": ">=16.0.0"
+  "peerDependencies": {
+    "typescript": ">=5.0"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.7",
+    "@biomejs/biome": "2.6.5",
     "typescript": "^6.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/grafikr/shopify-typescript.git"
+    "url": "git+https://github.com/grafikr/shopify-typescript.git"
   },
   "files": [
-    "global",
-    "type"
+    "src",
+    "global"
   ],
-  "dependencies": {
-    "type-fest": "^5.7.0"
+  "types": "./src/index.d.ts",
+  "typesVersions": {
+    "*": {
+      "js": [
+        "./src/js/index.d.ts"
+      ],
+      "json": [
+        "./src/json/index.d.ts"
+      ],
+      "liquid": [
+        "./src/liquid/index.d.ts"
+      ],
+      "endpoints": [
+        "./src/endpoints/index.d.ts"
+      ],
+      "global/Shopify": [
+        "./global/Shopify.d.ts"
+      ],
+      "global/CustomEvents": [
+        "./global/CustomEvents.d.ts"
+      ],
+      "global/packages/partialRendering": [
+        "./global/packages/partialRendering.d.ts"
+      ]
+    }
+  },
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts"
+    },
+    "./js": {
+      "types": "./src/js/index.d.ts"
+    },
+    "./json": {
+      "types": "./src/json/index.d.ts"
+    },
+    "./liquid": {
+      "types": "./src/liquid/index.d.ts"
+    },
+    "./endpoints": {
+      "types": "./src/endpoints/index.d.ts"
+    },
+    "./global/Shopify": {
+      "types": "./global/Shopify.d.ts"
+    },
+    "./global/CustomEvents": {
+      "types": "./global/CustomEvents.d.ts"
+    },
+    "./global/packages/partialRendering": {
+      "types": "./global/packages/partialRendering.d.ts"
+    },
+    "./package.json": "./package.json"
   }
 }

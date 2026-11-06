@@ -1,0 +1,60 @@
+{
+  "product": {
+    "id": 15459452387402,
+    "title": "TYPEGEN subscription",
+    "body_html": null,
+    "vendor": "TypegenVendor",
+    "product_type": "",
+    "created_at": "2026-11-05T05:47:23-05:00",
+    "handle": "typegen-subscription",
+    "updated_at": "2026-11-05T06:21:42-05:00",
+    "published_at": "2026-11-05T05:47:33-05:00",
+    "template_suffix": null,
+    "published_scope": "web",
+    "tags": "",
+    "variants": [
+      {
+        "id": 67909548998730,
+        "product_id": 15459452387402,
+        "title": "S",
+        "price": "100.00",
+        "sku": "TG-SUB1",
+        "position": 1,
+        "compare_at_price": "",
+        "fulfillment_service": "manual",
+        "inventory_management": null,
+        "option1": "S",
+        "option2": null,
+        "option3": null,
+        "created_at": "2026-11-05T05:47:23-05:00",
+        "updated_at": "2026-11-05T06:21:42-05:00",
+        "taxable": true,
+        "barcode": null,
+        "grams": 0,
+        "image_id": null,
+        "weight": 0.0,
+        "weight_unit": "kg",
+        "requires_shipping": true,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "price_currency": "DKK",
+        "compare_at_price_currency": "",
+        "quantity_price_breaks": []
+      }
+    ],
+    "options": [
+      {
+        "id": 17935828254794,
+        "product_id": 15459452387402,
+        "name": "Size",
+        "position": 1,
+        "values": ["S"]
+      }
+    ],
+    "images": [],
+    "image": null
+  }
+}

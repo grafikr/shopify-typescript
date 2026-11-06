@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "results": {
+      "queries": [
+        {
+          "url": "/search?q=milk&_pos=1&_psq=mi&_psid=fa6593a2e&_ss=e",
+          "text": "milk",
+          "styled_text": "<mark>mi</mark><span>lk</span>"
+        }
+      ]
+    }
+  }
+}

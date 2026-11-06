@@ -1,0 +1,138 @@
+name: Code Quality
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+permissions:
+  contents: read
+  checks: write
+
+jobs:
+  generate-reports:
+    name: Generate reports
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: pnpm/action-setup@v6
+        with:
+          version: 12
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 26
+          cache: 'pnpm'
+
+      - name: Install modules
+        run: pnpm install --frozen-lockfile
+
+      - name: Create reports directory
+        run: mkdir -p .reports
+
+      - name: Run Biome
+        run: pnpm exec biome check . --reporter=rdjson > .reports/biome.rdjson || true
+
+      - name: Run tsc
+        run: pnpm exec tsc --noEmit --pretty false > .reports/tsc-results.txt 2>&1 || true
+
+      - name: Check generated tests are up to date
+        run: |
+          pnpm generate
+          pnpm exec biome check --write tests/fixtures.test-d.ts tests/entities.test-d.ts
+          if git diff --quiet -- tests/fixtures.test-d.ts tests/entities.test-d.ts; then
+            echo '{"source":{"name":"Generated tests"},"diagnostics":[]}' > .reports/generated-tests.rdjson
+          else
+            git diff -- tests/fixtures.test-d.ts tests/entities.test-d.ts | head -n 40
+            echo '{"source":{"name":"Generated tests"},"diagnostics":[{"message":"Generated tests are out of date. Run `pnpm generate && pnpm check` and commit the result.","location":{"path":"tests/fixtures.test-d.ts","range":{"start":{"line":1,"column":1},"end":{"line":1,"column":1}}},"severity":"ERROR","code":{"value":"generated-tests/out-of-date"}}]}' > .reports/generated-tests.rdjson
+          fi
+
+      - name: Convert tsc output to rdjson
+        if: always()
+        run: |
+          jq -R -n --arg workspace "$GITHUB_WORKSPACE" '
+            {
+              source: {name: "TypeScript"},
+              diagnostics: [
+                inputs |
+                select(test("^[^(]+\\([0-9]+,[0-9]+\\): (error|warning) TS[0-9]+: ")) |
+                capture("^(?<path>[^(]+)\\((?<line>[0-9]+),(?<col>[0-9]+)\\): (?<severity>error|warning) TS(?<code>[0-9]+): (?<message>.*)$") |
+                {
+                  message: (.message + " (TS" + .code + ")"),
+                  location: {
+                    path: .path,
+                    range: {
+                      start: {line: (.line | tonumber), column: (.col | tonumber)},
+                      end: {line: (.line | tonumber), column: (.col | tonumber)}
+                    }
+                  },
+                  severity: (if .severity == "error" then "ERROR" else "WARNING" end),
+                  code: {value: ("TS" + .code)}
+                }
+              ]
+            }
+          ' .reports/tsc-results.txt > .reports/tsc.rdjson \
+            || echo '{"source":{"name":"TypeScript"},"diagnostics":[]}' > .reports/tsc.rdjson
+          [ -s .reports/tsc.rdjson ] || echo '{"source":{"name":"TypeScript"},"diagnostics":[]}' > .reports/tsc.rdjson
+          cat .reports/tsc.rdjson
+
+      - name: Set up reviewdog
+        if: always()
+        uses: reviewdog/action-setup@v1
+        with:
+          reviewdog_version: latest
+
+      - name: Publish Biome check run via reviewdog
+        if: always()
+        continue-on-error: true
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cat .reports/biome.rdjson | reviewdog -f=rdjson -name="Biome" -reporter=github-check -filter-mode=nofilter -fail-level=error
+
+      - name: Publish TypeScript check run via reviewdog
+        if: always()
+        continue-on-error: true
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cat .reports/tsc.rdjson | reviewdog -f=rdjson -name="TypeScript" -reporter=github-check -filter-mode=nofilter -fail-level=error
+
+      - name: Publish generated tests check run via reviewdog
+        if: always()
+        continue-on-error: true
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cat .reports/generated-tests.rdjson | reviewdog -f=rdjson -name="Generated tests" -reporter=github-check -filter-mode=nofilter -fail-level=error
+
+  typescript-versions:
+    name: TypeScript ${{ matrix.typescript }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        # 5.0 is the minimum in peerDependencies. 6 is the devDependency, which the
+        # job above checks. `5` and `7` resolve to the latest release of that major.
+        typescript: ['5.0', '5', '7']
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: pnpm/action-setup@v6
+        with:
+          version: 12
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 26
+          cache: 'pnpm'
+
+      - name: Install modules
+        run: pnpm install --frozen-lockfile
+
+      - name: Run tsc
+        run: pnpm dlx --package=typescript@${{ matrix.typescript }} tsc --noEmit

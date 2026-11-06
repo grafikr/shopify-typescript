@@ -1,0 +1,18 @@
+{
+  "id": 512521535562,
+  "handle": "typegen-manual",
+  "updated_at": "2026-11-04T06:39:55-05:00",
+  "published_at": "2026-11-04T06:39:55-05:00",
+  "sort_order": "best-selling",
+  "template_suffix": null,
+  "published_scope": "web",
+  "title": "TYPEGEN manual",
+  "body_html": "Content",
+  "image": {
+    "created_at": "2026-11-04T06:39:39-05:00",
+    "alt": "alt text",
+    "width": 1382,
+    "height": 1728,
+    "src": "//shop.myshopify.com/cdn/shop/collections/image-165.jpg?v=1793792380"
+  }
+}

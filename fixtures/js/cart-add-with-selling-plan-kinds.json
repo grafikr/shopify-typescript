@@ -1,0 +1,338 @@
+{
+  "items": [
+    {
+      "id": 67909889458250,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67909889458250,
+      "key": "67909889458250:28b1e32d967b180e46ea02c61ee32374",
+      "title": "TYPEGEN plan kinds - S",
+      "product_title": "TYPEGEN plan kinds",
+      "variant_title": "S",
+      "price": 8000,
+      "original_price": 8000,
+      "discounted_price": 8000,
+      "line_price": 8000,
+      "original_line_price": 8000,
+      "presentment_price": 80.0,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "TG-KIND",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459523919946,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 8000,
+      "final_line_price": 8000,
+      "url": "/products/typegen-plan-kinds?selling_plan=8382021706&variant=67909889458250",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-plan-kinds",
+      "requires_shipping": true,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN plan kinds",
+      "product_description": null,
+      "untranslated_variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "selling_plan_allocation": {
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 8000
+          }
+        ],
+        "price": 8000,
+        "compare_at_price": 10000,
+        "per_delivery_price": 8000,
+        "selling_plan": {
+          "id": 8382021706,
+          "name": "Monthly at a set price",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": null,
+              "position": 1,
+              "value_type": "price",
+              "value": 8000
+            }
+          ],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100.0
+          }
+        }
+      }
+    },
+    {
+      "id": 67909889458250,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67909889458250,
+      "key": "67909889458250:3479b5d22be2deb28879537a093261c7",
+      "title": "TYPEGEN plan kinds - S",
+      "product_title": "TYPEGEN plan kinds",
+      "variant_title": "S",
+      "price": 9000,
+      "original_price": 9000,
+      "discounted_price": 9000,
+      "line_price": 9000,
+      "original_line_price": 9000,
+      "presentment_price": 90.0,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "TG-KIND",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459523919946,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 9000,
+      "final_line_price": 9000,
+      "url": "/products/typegen-plan-kinds?selling_plan=8382054474&variant=67909889458250",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-plan-kinds",
+      "requires_shipping": true,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN plan kinds",
+      "product_description": null,
+      "untranslated_variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "selling_plan_allocation": {
+        "price_adjustments": [
+          {
+            "position": 1,
+            "price": 9000
+          },
+          {
+            "position": 2,
+            "price": 8000
+          }
+        ],
+        "price": 9000,
+        "compare_at_price": 10000,
+        "per_delivery_price": 9000,
+        "selling_plan": {
+          "id": 8382054474,
+          "name": "Monthly, cheaper after 2",
+          "description": null,
+          "options": [
+            {
+              "name": "Delivery every",
+              "position": 1,
+              "value": "1 month cycle"
+            }
+          ],
+          "recurring_deliveries": true,
+          "price_adjustments": [
+            {
+              "order_count": 2,
+              "position": 1,
+              "value_type": "percentage",
+              "value": 10
+            },
+            {
+              "order_count": null,
+              "position": 2,
+              "value_type": "percentage",
+              "value": 20
+            }
+          ],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 100.0
+          }
+        }
+      }
+    },
+    {
+      "id": 67909889458250,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67909889458250,
+      "key": "67909889458250:65c0992de192a6aea0fb596818d0227c",
+      "title": "TYPEGEN plan kinds - S",
+      "product_title": "TYPEGEN plan kinds",
+      "variant_title": "S",
+      "price": 10000,
+      "original_price": 10000,
+      "discounted_price": 10000,
+      "line_price": 10000,
+      "original_line_price": 10000,
+      "presentment_price": 100.0,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "TG-KIND",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459523919946,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 10000,
+      "final_line_price": 10000,
+      "url": "/products/typegen-plan-kinds?selling_plan=8382087242&variant=67909889458250",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-plan-kinds",
+      "requires_shipping": true,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN plan kinds",
+      "product_description": null,
+      "untranslated_variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "selling_plan_allocation": {
+        "price_adjustments": [],
+        "price": 10000,
+        "compare_at_price": null,
+        "per_delivery_price": 10000,
+        "selling_plan": {
+          "id": 8382087242,
+          "name": "Pre-order",
+          "description": null,
+          "options": [
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Pre-order"
+            }
+          ],
+          "recurring_deliveries": false,
+          "price_adjustments": [],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 25
+          }
+        }
+      }
+    },
+    {
+      "id": 67909889458250,
+      "properties": {},
+      "quantity": 1,
+      "variant_id": 67909889458250,
+      "key": "67909889458250:f58082844f9039dec74096b244f95f86",
+      "title": "TYPEGEN plan kinds - S",
+      "product_title": "TYPEGEN plan kinds",
+      "variant_title": "S",
+      "price": 10000,
+      "original_price": 10000,
+      "discounted_price": 10000,
+      "line_price": 10000,
+      "original_line_price": 10000,
+      "presentment_price": 100.0,
+      "total_discount": 0,
+      "discounts": [],
+      "sku": "TG-KIND",
+      "grams": 0,
+      "vendor": "TypegenVendor",
+      "taxable": true,
+      "product_id": 15459523919946,
+      "product_has_only_default_variant": false,
+      "gift_card": false,
+      "final_price": 10000,
+      "final_line_price": 10000,
+      "url": "/products/typegen-plan-kinds?selling_plan=8382120010&variant=67909889458250",
+      "featured_image": {
+        "alt": null,
+        "aspect_ratio": null,
+        "height": null,
+        "url": null,
+        "width": null
+      },
+      "image": null,
+      "handle": "typegen-plan-kinds",
+      "requires_shipping": true,
+      "product_type": "",
+      "untranslated_product_title": "TYPEGEN plan kinds",
+      "product_description": null,
+      "untranslated_variant_title": "S",
+      "variant_options": ["S"],
+      "options_with_values": [
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "line_level_discount_allocations": [],
+      "line_level_total_discount": 0,
+      "selling_plan_allocation": {
+        "price_adjustments": [],
+        "price": 10000,
+        "compare_at_price": null,
+        "per_delivery_price": 10000,
+        "selling_plan": {
+          "id": 8382120010,
+          "name": "Try before you buy",
+          "description": null,
+          "options": [
+            {
+              "name": "Purchase option",
+              "position": 1,
+              "value": "Try first"
+            }
+          ],
+          "recurring_deliveries": false,
+          "price_adjustments": [],
+          "checkout_charge": {
+            "value_type": "percentage",
+            "value": 0
+          }
+        }
+      }
+    }
+  ]
+}
