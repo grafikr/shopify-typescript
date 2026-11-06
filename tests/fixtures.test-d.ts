@@ -121,6 +121,7 @@ import json_page_with_body from '../fixtures/json/page-with-body.json';
 import json_page_without_body from '../fixtures/json/page-without-body.json';
 import json_pages_list from '../fixtures/json/pages-list.json';
 import json_policy_privacy_policy from '../fixtures/json/policy-privacy-policy.json';
+import json_policy_with_empty_body from '../fixtures/json/policy-with-empty-body.json';
 import json_product_gift_card from '../fixtures/json/product-gift-card.json';
 import json_product_priced_in_clp from '../fixtures/json/product-priced-in-clp.json';
 import json_product_priced_in_huf from '../fixtures/json/product-priced-in-huf.json';
@@ -989,6 +990,13 @@ export const json_policy_privacy_policy_check: Widen<
 > = json_policy_privacy_policy;
 export const json_policy_privacy_policy_extra: NoExtra<
   typeof json_policy_privacy_policy,
+  Endpoints['/policies/:handle.json']
+> = true;
+export const json_policy_with_empty_body_check: Widen<
+  Endpoints['/policies/:handle.json']
+> = json_policy_with_empty_body;
+export const json_policy_with_empty_body_extra: NoExtra<
+  typeof json_policy_with_empty_body,
   Endpoints['/policies/:handle.json']
 > = true;
 export const json_product_gift_card_check: Widen<Json.Product> =
