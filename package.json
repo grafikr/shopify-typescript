@@ -48,6 +48,9 @@
       ],
       "global/CustomEvents": [
         "./global/CustomEvents.d.ts"
+      ],
+      "global/packages/partialRendering": [
+        "./global/packages/partialRendering.d.ts"
       ]
     }
   },
@@ -72,6 +75,9 @@
     },
     "./global/CustomEvents": {
       "types": "./global/CustomEvents.d.ts"
+    },
+    "./global/packages/partialRendering": {
+      "types": "./global/packages/partialRendering.d.ts"
     },
     "./package.json": "./package.json"
   }

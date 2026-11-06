@@ -48,6 +48,15 @@ merging.
 Globals live in `global/`: `window.Shopify` (`@grafikr/shopify-typescript/global/Shopify`)
 and the theme editor events (`.../global/CustomEvents`).
 
+`@shopify/partial-rendering` isn't on npm, but Shopify makes it available on
+storefronts through an import map. Its types live in `global/packages/`. To use
+them, reference the declaration:
+
+```ts
+/// <reference types="@grafikr/shopify-typescript/global/packages/partialRendering" />
+import { partials } from '@shopify/partial-rendering';
+```
+
 ## Doc tags
 
 Doc comments use these tags where they help:
